@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "VERA-Info"
 ---
 
-About this site
+Auf diesen Webseiten finden Sie Erläuterungen zu den Lernstandserhebungen der Länder.
