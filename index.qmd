@@ -1,7 +1,6 @@
 ---
-title: "."
+title: "Start"
+lang: de
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Auf diesen Webseiten finden Sie Erläuterungen zu den Lernstandserhebungen der Länder. Dabei liegt der Fokus auf der Interpretation der Ergebnisse und in der Bereitstellung von Material oder Empfehlungen. Zielgruppe sind also alle Lehrkräfte, die nach der Durchführung einer VERA-Testung die Auswertungsdaten besser verstehen und ihren Unterricht weiterentwickeln möchten.

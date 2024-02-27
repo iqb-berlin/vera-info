@@ -3,12 +3,59 @@ project:
   output-dir: docs
 
 website:
-  title: "."
+  site-url: https://iqb-berlin.github.io/vera-info/
+  title: "VERA-info"
+  favicon: favicon.ico
+  page-navigation: true
+  repo-url: https://github.com/iqb-berlin/vera-info/
+  repo-actions: [issue]
   navbar:
+    search: true
+    logo: IQB-klein.png
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Start
+      - href: about.qmd
+        text: Über
+
+  sidebar: 
+    style: "docked"
+    search: true
+    lang: de
+    contents:
+      - section: "Einführung"
+        contents:
+          - href: 01_intro/what_is.qmd
+            text: Was ist VERA?
+          - href: 01_intro/booklets.qmd
+            text: Bildungsstandards
+          - href: 01_intro/unit_structure.qmd
+            text: Aufbau der Testaufgaben
+          - href: 01_intro/feedback.qmd
+            text: Rückmeldung
+      - section: "VERA3 Deutsch"
+        contents:
+          - href: 02_v3_de/about.qmd
+            text: Überblick
+          - section: "Lesen"
+            contents:
+              - href: 02_v3_de/understanding_texts.qmd
+                text: Teilkompetenz Textverstehen
+              - section: "Anregungen für den Unterricht"
+                contents:
+                  - href: 02_v3_de/processes.qmd
+                    text: Prozesse
+                  - href: 02_v3_de/basics.qmd
+                    text: Grundlegende Fähigkeiten
+      - section: "VERA3 Mathematik"
+        contents:
+          - href: 03_v3_ma/about.qmd
+            text: Überblick
+      - section: "VERA8 Deutsch"
+        contents:
+          - href: 04_v8_de/about.qmd
+            text: Überblick
+
 
 format:
   html:
