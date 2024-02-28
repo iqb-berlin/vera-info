@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: docs
 
 website:
   site-url: https://iqb-berlin.github.io/vera-info/
