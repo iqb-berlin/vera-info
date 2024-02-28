@@ -12,11 +12,6 @@ website:
   navbar:
     search: true
     logo: IQB-klein.png
-    left:
-      - href: index.qmd
-        text: Start
-      - href: about.qmd
-        text: Über
 
   sidebar: 
     style: "docked"
@@ -25,35 +20,35 @@ website:
     contents:
       - section: "Einführung"
         contents:
-          - href: 01_intro/what_is.qmd
+          - href: intro/what_is.qmd
             text: Was ist VERA?
-          - href: 01_intro/booklets.qmd
+          - href: intro/booklets.qmd
             text: Bildungsstandards
-          - href: 01_intro/unit_structure.qmd
+          - href: intro/unit_structure.qmd
             text: Aufbau der Testaufgaben
-          - href: 01_intro/feedback.qmd
+          - href: intro/feedback.qmd
             text: Rückmeldung
       - section: "VERA3 Deutsch"
         contents:
-          - href: 02_v3_de/about.qmd
+          - href: v3_de/intro.qmd
             text: Überblick
           - section: "Lesen"
             contents:
-              - href: 02_v3_de/understanding_texts.qmd
+              - href: v3_de/understanding_texts.qmd
                 text: Teilkompetenz Textverstehen
               - section: "Anregungen für den Unterricht"
                 contents:
-                  - href: 02_v3_de/processes.qmd
+                  - href: v3_de/processes.qmd
                     text: Prozesse
-                  - href: 02_v3_de/basics.qmd
+                  - href: v3_de/basics.qmd
                     text: Grundlegende Fähigkeiten
       - section: "VERA3 Mathematik"
         contents:
-          - href: 03_v3_ma/about.qmd
+          - href: v3_ma/intro.qmd
             text: Überblick
       - section: "VERA8 Deutsch"
         contents:
-          - href: 04_v8_de/about.qmd
+          - href: v8_de/intro.qmd
             text: Überblick
 
 

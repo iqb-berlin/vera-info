@@ -1,6 +1,29 @@
 ---
-title: "Start"
 lang: de
 ---
 
-Auf diesen Webseiten finden Sie Erläuterungen zu den Lernstandserhebungen der Länder. Dabei liegt der Fokus auf der Interpretation der Ergebnisse und in der Bereitstellung von Material oder Empfehlungen. Zielgruppe sind also alle Lehrkräfte, die nach der Durchführung einer VERA-Testung die Auswertungsdaten besser verstehen und ihren Unterricht weiterentwickeln möchten.
+# Willkommen
+Auf diesen Webseiten finden Sie Erläuterungen zu den Lernstandserhebungen der Länder. Das VERA-Projekt (in einigen Ländern anders genannt, z. B. "Lernstand" oder "KERMIT") sind Teil des nationalen Bildungsmonitorings. Sie finden ausführliche aktuelle Informationen beim [IQB](https://www.iqb.hu-berlin.de/vera/) oder bei der [KMK](https://www.kmk.org/themen/qualitaetssicherung-in-schulen/bildungsmonitoring/).
+
+Der Fokus dieser Seiten liegt auf der Interpretation der Ergebnisse und in der Bereitstellung von Material sowie Empfehlungen zur Weiterarbeit im Unterricht. Zielgruppe sind also alle Lehrkräfte, die nach der Durchführung einer VERA-Testung die Auswertungsdaten besser verstehen und ihren Unterricht weiterentwickeln möchten. Die Struktur der Seiten folgt der Struktur der Bildungsstandards. Die Papierform dieser Texte ist als "Didaktische Handreichung Teile I+II" bekannt.
+
+# Redaktion
+Die vorliegenden Texte werden unter Federführung des [IQB](https://www.iqb.hu-berlin.de/vera) veröffentlicht. Die jeweiligen Autor\*innen sind entweder im Kopf eines Dokumentes genannt oder zu Beginn eines größeren Seitenzweiges. Jeweils zu Beginn eines Jahres werden die Texte überarbeitet, um die Passung zum aktuellen VERA-Durchgang zu gewährleisten.
+
+# Lizenz
+Alle Texte sind unter der [Lizenz CC0](https://open-educational-resources.de/was-die-cc0-freigabe-bedeutet-und-welche-moeglichkeiten-sie-eroeffnen/) veröffentlicht. Die Leitlinien zur Sicherung guter wissenschaftlicher Praxis (s. z. B. [DFG-pdf](https://www.dfg.de/resource/blob/173732/4166759430af8dc2256f0fa54e009f03/kodex-gwp-data.pdf)) gebieten gleichwohl, dass die Quellen von Informationen genannt werden sollten.
+
+
+# Haftungsausschluss
+
+Auf vielen der in diesem Dokument verlinkten Webseiten finden Sie Zusatzmaterialien. Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für Richtigkeit, Vollständigkeit und Ak-tualität der Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
+
+# Technische Realisierung
+
+Dieser Webauftritt basiert auf Texten in einer einfachen Syntax [Markdown](https://markdown.de/), die anschließend in Html und CSS umgesetzt werden. Hierzu wird [Quarto](https://quarto.org/) verwendet. Sämtliche Dateien für den Inhalt und die Steuerung sind in einem öffentlich zugänglichen Codeverwaltungssystem gespeichert: [GitHub](https://github.com/iqb-berlin/vera-info).
+
+## Kontakt
+[Susanne Hunger](https://www.iqb.hu-berlin.de/institut/staff/?pg=sh)
+
+[susanne.hunger@iqb.hu-berlin.de](mailto:susanne.hunger@iqb.hu-berlin.de)
+

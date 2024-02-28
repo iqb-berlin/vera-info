@@ -7,10 +7,6 @@ lang: de
 
 Autor\*innen der fachdidaktischen Erläuterungen im Teil II sind Mahin Yahouzade, Dr. Jutta Däm-mer und Prof. Dr. Michael Krelle. Die verwendeten Testaufgaben entstanden in Kooperation mit Lehrkräften aus 11 Bundesländern und Fachdidaktiker\*innen unter Federführung der Arbeitsgruppe von Prof. Dr. Michael Krelle, Technische Universität Chemnitz (fachdidaktische Leitung), und des Instituts zur Qualitätsentwicklung im Bildungswesen.
 
-# Haftungsausschluss
-
-Auf vielen der in diesem Dokument verlinkten Webseiten finden Sie Zusatzmaterialien. Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für Richtigkeit, Vollständigkeit und Ak-tualität der Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
-
 # Schlüsselkompetenz
 
 Im Deutschunterricht der Primarstufe werden die Grundlagen für die Entwicklung der Schlüsselkompetenz Lesen geschaffen. Lesekompetenz ist in mehrfacher Weise notwendig für eine erfolgreiche Lebensführung: Zum einen ist Lesen eine zentrale Bedingung für den Wissenserwerb in allen Schulfächern und für das lebenslange Lernen. Zum anderen ist Lesen Voraussetzung für die Teilhabe an gesellschaftlicher Kommunikation (vgl. Bos u. a., 2003; Bundesministerium für Bildung und Forschung, 2007). Darüber hinaus kann man Lesen als Beitrag zu gelingender Persönlichkeitsbildung ansehen, „z. B. im Hinblick auf ästhetische und sprachliche Sensibilität, Moralentwicklung und Empathiefähigkeit, Fremdverstehen und Teilhabe am kulturellen Gedächtnis“ (Hurrelmann, 2007, S. 22–23). In diesem Sinne formuliert die Kultusministerkonferenz (KMK, 2005, S. 9) folgende Ziele für den Unterricht:

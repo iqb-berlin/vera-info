@@ -9,11 +9,11 @@ Alle Testheftversionen enthalten unterschiedlich schwierige Aufgaben, sodass ind
 
 # Kompetenzorientiert
 
-Die Kompetenzorientierung des Tests ergibt sich durch die Entwicklung der einzelnen Testaufgaben auf der Basis der länderübergreifenden Bildungsstandards. Die Bildungsstandards bilden seit dem Schuljahr 2004/2005 die Grundlage für die Lehrpläne und beschreiben, welche Kompetenzen Schüler*innen am Ende der 4. und 9. Jahrgangsstufe in der Regel beherrschen sollen (Regelstandards). Für die Sekundarstufe I gibt es Bildungsstandards sowohl für den ersten Schulabschluss bzw. den Hauptschulabschluss (ESA/HSA) als auch für den Mittleren Schulabschluss (MSA). Das IQB operationalisiert die Bildungsstandards in konkreten Testaufgaben. 
+Die Kompetenzorientierung des Tests ergibt sich durch die Entwicklung der einzelnen Testaufgaben auf der Basis der länderübergreifenden Bildungsstandards. Die Bildungsstandards bilden seit dem Schuljahr 2004/2005 die Grundlage für die Lehrpläne und beschreiben, welche Kompetenzen Schüler\*innen am Ende der 4. und 9. Jahrgangsstufe in der Regel beherrschen sollen (Regelstandards). Für die Sekundarstufe I gibt es Bildungsstandards sowohl für den ersten Schulabschluss bzw. den Hauptschulabschluss (ESA/HSA) als auch für den Mittleren Schulabschluss (MSA). Das IQB operationalisiert die Bildungsstandards in konkreten Testaufgaben. 
 
 # Bildungsstandards
 
-Bildungsstandards sind fachdidaktisch begründete und auf mittlerem Abstraktionsgrad formulierte Leistungserwartungen an die Schüler*innen. Sie nehmen damit eine Mittelstellung zwischen sehr allgemeinen Bildungszielen einerseits und konkreten Aufgabenstellungen andererseits ein und setzen diese miteinander in Beziehung. Sie sind dadurch sowohl zukunfts- und verwendungsoffen als auch gesellschaftlich konsensfähig. Mithilfe der Testergebnisse kann nachgewiesen werden, wie gut Schüler*innen in der Lage sind, fachbezogene Aufgaben und Probleme zu lösen[^1].
+Bildungsstandards sind fachdidaktisch begründete und auf mittlerem Abstraktionsgrad formulierte Leistungserwartungen an die Schüler\*innen. Sie nehmen damit eine Mittelstellung zwischen sehr allgemeinen Bildungszielen einerseits und konkreten Aufgabenstellungen andererseits ein und setzen diese miteinander in Beziehung. Sie sind dadurch sowohl zukunfts- und verwendungsoffen als auch gesellschaftlich konsensfähig. Mithilfe der Testergebnisse kann nachgewiesen werden, wie gut Schüler\*innen in der Lage sind, fachbezogene Aufgaben und Probleme zu lösen[^1].
 
 Bildungsstandards bestehen dreidimensional aus
 * einer generalisierten inhaltsbezogenen Komponente (Leitidee, Basiskonzept), die am ehesten den Inhalten traditioneller Lehrpläne entspricht,
@@ -26,7 +26,7 @@ Die Bildungsstandards der ersten Fremdsprache werden zudem auf den Gemeinsamen E
 
 Für das Konzept der Bildungsstandards sind damit zwei Grundsätze maßgeblich:
 1.	Die Standards bauen zwar auf einer (kumulativ zu erweiternden) Basis des theoretischen Fachwissens auf, zielen aber vor allem auf das reale Handeln(-Können) und reflexiv-kritische Bewerten(-Können) ab. Das Lösen von fachlichen Problemen wird über einen langfristigen Kompetenzaufbau angestrebt. 
-2.	Die Standards sind outputorientiert, enthalten also Zielformulierungen und geben den Lehrkräften lediglich Hinweise, wie diese Ziele erreicht werden können. Jede Schule bzw. Fachkonferenz soll in Form eines Schulcurriculums einen eigenen, den jeweiligen Schüler*innen angepassten, fördernden und differenzierenden Weg zu den Zielen finden.
+2.	Die Standards sind outputorientiert, enthalten also Zielformulierungen und geben den Lehrkräften lediglich Hinweise, wie diese Ziele erreicht werden können. Jede Schule bzw. Fachkonferenz soll in Form eines Schulcurriculums einen eigenen, den jeweiligen Schüler\*innen angepassten, fördernden und differenzierenden Weg zu den Zielen finden.
  
 Die **VERA-3**-Arbeiten beziehen sich auf die Bildungsstandards der 4. Klasse. Der relativ frühe Testzeitpunkt in der 3. Klasse ist bewusst gewählt, da auf diese Weise frühzeitig erkannt wird, in welchen Bereichen Stärken und Schwächen bestehen, auf deren Grundlage Fördermaßnahmen rechtzeitig eingeleitet werden können.
 

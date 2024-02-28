@@ -1,51 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://iqb-berlin.github.io/vera-info/index.html</loc>
-    <lastmod>2024-02-27T17:34:08.770Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/vera-info/04_v8_de/about.html</loc>
+    <loc>https://iqb-berlin.github.io/vera-info/v8_de/intro.html</loc>
     <lastmod>2024-02-27T16:53:52.814Z</lastmod>
   </url>
   <url>
-    <loc>https://iqb-berlin.github.io/vera-info/02_v3_de/understanding_texts.html</loc>
+    <loc>https://iqb-berlin.github.io/vera-info/v3_de/understanding_texts.html</loc>
     <lastmod>2024-02-27T16:46:21.613Z</lastmod>
   </url>
   <url>
-    <loc>https://iqb-berlin.github.io/vera-info/02_v3_de/basics.html</loc>
+    <loc>https://iqb-berlin.github.io/vera-info/v3_de/intro.html</loc>
+    <lastmod>2024-02-28T08:49:40.514Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/vera-info/intro/what_is.html</loc>
+    <lastmod>2024-02-28T08:58:27.474Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/vera-info/intro/feedback.html</loc>
+    <lastmod>2024-02-28T08:57:29.515Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/vera-info/index.html</loc>
+    <lastmod>2024-02-28T08:54:56.510Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/vera-info/intro/booklets.html</loc>
+    <lastmod>2024-02-28T08:56:46.172Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/vera-info/intro/unit_structure.html</loc>
+    <lastmod>2024-02-28T08:57:58.547Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/vera-info/v3_de/basics.html</loc>
     <lastmod>2024-02-27T17:53:11.723Z</lastmod>
   </url>
   <url>
-    <loc>https://iqb-berlin.github.io/vera-info/01_intro/what_is.html</loc>
-    <lastmod>2024-02-27T17:34:41.628Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/vera-info/01_intro/feedback.html</loc>
-    <lastmod>2024-02-27T17:34:41.628Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/vera-info/01_intro/booklets.html</loc>
-    <lastmod>2024-02-27T17:34:41.628Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/vera-info/01_intro/unit_structure.html</loc>
-    <lastmod>2024-02-27T17:34:41.628Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/vera-info/02_v3_de/about.html</loc>
-    <lastmod>2024-02-27T17:53:04.652Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/vera-info/02_v3_de/processes.html</loc>
+    <loc>https://iqb-berlin.github.io/vera-info/v3_de/processes.html</loc>
     <lastmod>2024-02-27T17:53:17.515Z</lastmod>
   </url>
   <url>
-    <loc>https://iqb-berlin.github.io/vera-info/03_v3_ma/about.html</loc>
+    <loc>https://iqb-berlin.github.io/vera-info/v3_ma/intro.html</loc>
     <lastmod>2024-02-27T16:54:10.917Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/vera-info/about.html</loc>
-    <lastmod>2024-02-27T16:03:49.732Z</lastmod>
   </url>
 </urlset>
