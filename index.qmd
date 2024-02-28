@@ -3,7 +3,7 @@ lang: de
 ---
 
 # Willkommen
-Auf diesen Webseiten finden Sie Erläuterungen zu den Lernstandserhebungen der Länder. Das VERA-Projekt (in einigen Ländern anders genannt, z. B. "Lernstand" oder "KERMIT") sind Teil des nationalen Bildungsmonitorings. Sie finden ausführliche aktuelle Informationen beim [IQB](https://www.iqb.hu-berlin.de/vera/) oder bei der [KMK](https://www.kmk.org/themen/qualitaetssicherung-in-schulen/bildungsmonitoring/).
+Auf diesen Webseiten finden Sie Erläuterungen zu den Lernstandserhebungen der Länder. Das VERA-Projekt (in einigen Ländern anders genannt, z. B. "Lernstand" oder "KERMIT") ist Teil des nationalen Bildungsmonitorings. Sie finden ausführliche aktuelle Informationen beim [IQB](https://www.iqb.hu-berlin.de/vera/) oder bei der [KMK](https://www.kmk.org/themen/qualitaetssicherung-in-schulen/bildungsmonitoring/).
 
 Der Fokus dieser Seiten liegt auf der Interpretation der Ergebnisse und in der Bereitstellung von Material sowie Empfehlungen zur Weiterarbeit im Unterricht. Zielgruppe sind also alle Lehrkräfte, die nach der Durchführung einer VERA-Testung die Auswertungsdaten besser verstehen und ihren Unterricht weiterentwickeln möchten. Die Struktur der Seiten folgt der Struktur der Bildungsstandards. Die Papierform dieser Texte ist als "Didaktische Handreichung Teile I+II" bekannt.
 
