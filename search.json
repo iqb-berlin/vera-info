@@ -92,14 +92,20 @@
     "href": "index.html",
     "title": "Willkommen",
     "section": "",
-    "text": "Auf diesen Webseiten finden Sie Erläuterungen zu den Lernstandserhebungen der Länder. Das VERA-Projekt (in einigen Ländern anders genannt, z. B. “Lernstand” oder “KERMIT”) sind Teil des nationalen Bildungsmonitorings. Sie finden ausführliche aktuelle Informationen beim IQB oder bei der KMK.\nDer Fokus dieser Seiten liegt auf der Interpretation der Ergebnisse und in der Bereitstellung von Material sowie Empfehlungen zur Weiterarbeit im Unterricht. Zielgruppe sind also alle Lehrkräfte, die nach der Durchführung einer VERA-Testung die Auswertungsdaten besser verstehen und ihren Unterricht weiterentwickeln möchten. Die Struktur der Seiten folgt der Struktur der Bildungsstandards. Die Papierform dieser Texte ist als “Didaktische Handreichung Teile I+II” bekannt."
+    "text": "Auf diesen Webseiten finden Sie Erläuterungen zu den Lernstandserhebungen der Länder. Das VERA-Projekt (in einigen Ländern anders genannt, z. B. “Lernstand” oder “KERMIT”) sind Teil des nationalen Bildungsmonitorings. Sie finden ausführliche aktuelle Informationen beim IQB oder bei der KMK.\nDer Fokus dieser Seiten liegt auf der Interpretation der Ergebnisse und in der Bereitstellung von Material sowie Empfehlungen zur Weiterarbeit im Unterricht. Zielgruppe sind also alle Lehrkräfte, die nach der Durchführung einer VERA-Testung die Auswertungsdaten besser verstehen und ihren Unterricht weiterentwickeln möchten. Die Struktur der Seiten folgt der Struktur der Bildungsstandards. Die Papierform dieser Texte ist als “Didaktische Handreichung Teile I+II” bekannt.",
+    "crumbs": [
+      "Start"
+    ]
   },
   {
     "objectID": "index.html#kontakt",
     "href": "index.html#kontakt",
     "title": "Willkommen",
     "section": "Kontakt",
-    "text": "Kontakt\nSusanne Hunger\nsusanne.hunger@iqb.hu-berlin.de\nWenn Sie Probleme melden möchten, können Sie auch die Funktion “Problem melden” nutzen, die rechts auf jeder Seite zu finden ist. Sie werden dann zu GitHub weitergeleitet. Es ist ein Account bei GitHub erforderlich."
+    "text": "Kontakt\nSusanne Hunger\nsusanne.hunger@iqb.hu-berlin.de\nWenn Sie Probleme melden möchten, können Sie auch die Funktion “Problem melden” nutzen, die rechts auf jeder Seite zu finden ist. Sie werden dann zu GitHub weitergeleitet. Es ist ein Account bei GitHub erforderlich.",
+    "crumbs": [
+      "Start"
+    ]
   },
   {
     "objectID": "intro/booklets.html",
