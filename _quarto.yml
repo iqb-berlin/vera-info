@@ -17,6 +17,8 @@ website:
     search: true
     lang: de
     contents:
+      - href: index.qmd
+        text: Start
       - section: "Einführung"
         contents:
           - href: intro/what_is.qmd
