@@ -16,7 +16,7 @@ Alle Texte sind unter der [Lizenz CC0](https://open-educational-resources.de/was
 
 # Haftungsausschluss
 
-Auf vielen der in diesem Dokument verlinkten Webseiten finden Sie Zusatzmaterialien. Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für Richtigkeit, Vollständigkeit und Ak-tualität der Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
+Auf vielen der in diesem Dokument verlinkten Webseiten finden Sie Zusatzmaterialien. Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für Richtigkeit, Vollständigkeit und Aktualität der Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
 
 # Technische Realisierung
 
@@ -27,3 +27,4 @@ Dieser Webauftritt basiert auf Texten in einer einfachen Syntax [Markdown](https
 
 [susanne.hunger@iqb.hu-berlin.de](mailto:susanne.hunger@iqb.hu-berlin.de)
 
+Wenn Sie Probleme melden möchten, können Sie auch die Funktion "Problem melden" nutzen, die rechts auf jeder Seite zu finden ist. Sie werden dann zu GitHub weitergeleitet. Es ist ein Account bei GitHub erforderlich.

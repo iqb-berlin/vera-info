@@ -46,6 +46,8 @@ website:
         contents:
           - href: v3_ma/intro.qmd
             text: Überblick
+          - href: v3_ma/ksm.qmd
+            text: Kompetenzstufen
       - section: "VERA8 Deutsch"
         contents:
           - href: v8_de/intro.qmd
