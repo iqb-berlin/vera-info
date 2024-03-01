@@ -1,14 +1,17 @@
 ---
 title: "VERA3 Deutsch - Überblick"
 lang: de
+bibliography: bibliography.bib
+nocite: |
+  @*
 ---
 
 # Autor*innen
 
-Autor\*innen der fachdidaktischen Erläuterungen im Teil II sind Mahin Yahouzade, Dr. Jutta Däm-mer und Prof. Dr. Michael Krelle. Die verwendeten Testaufgaben entstanden in Kooperation mit Lehrkräften aus 11 Bundesländern und Fachdidaktiker\*innen unter Federführung der Arbeitsgruppe von Prof. Dr. Michael Krelle, Technische Universität Chemnitz (fachdidaktische Leitung), und des Instituts zur Qualitätsentwicklung im Bildungswesen.
+Autor\*innen der fachdidaktischen Erläuterungen im Teil II sind Mahin Yahouzade, Dr. Jutta Dämmer und Prof. Dr. Michael Krelle. Die verwendeten Testaufgaben entstanden in Kooperation mit Lehrkräften aus 11 Bundesländern und Fachdidaktiker\*innen unter Federführung der Arbeitsgruppe von Prof. Dr. Michael Krelle, Technische Universität Chemnitz (fachdidaktische Leitung), und des Instituts zur Qualitätsentwicklung im Bildungswesen.
 
 # Schlüsselkompetenz
 
-Im Deutschunterricht der Primarstufe werden die Grundlagen für die Entwicklung der Schlüsselkompetenz Lesen geschaffen. Lesekompetenz ist in mehrfacher Weise notwendig für eine erfolgreiche Lebensführung: Zum einen ist Lesen eine zentrale Bedingung für den Wissenserwerb in allen Schulfächern und für das lebenslange Lernen. Zum anderen ist Lesen Voraussetzung für die Teilhabe an gesellschaftlicher Kommunikation (vgl. Bos u. a., 2003; Bundesministerium für Bildung und Forschung, 2007). Darüber hinaus kann man Lesen als Beitrag zu gelingender Persönlichkeitsbildung ansehen, „z. B. im Hinblick auf ästhetische und sprachliche Sensibilität, Moralentwicklung und Empathiefähigkeit, Fremdverstehen und Teilhabe am kulturellen Gedächtnis“ (Hurrelmann, 2007, S. 22–23). In diesem Sinne formuliert die Kultusministerkonferenz (KMK, 2005, S. 9) folgende Ziele für den Unterricht:
+Im Deutschunterricht der Primarstufe werden die Grundlagen für die Entwicklung der Schlüsselkompetenz Lesen geschaffen. Lesekompetenz ist in mehrfacher Weise notwendig für eine erfolgreiche Lebensführung: Zum einen ist Lesen eine zentrale Bedingung für den Wissenserwerb in allen Schulfächern und für das lebenslange Lernen. Zum anderen ist Lesen Voraussetzung für die Teilhabe an gesellschaftlicher Kommunikation [vgl.  @Bos2003; @BMBF2007]. Darüber hinaus kann man Lesen als Beitrag zu gelingender Persönlichkeitsbildung ansehen, „z. B. im Hinblick auf ästhetische und sprachliche Sensibilität, Moralentwicklung und Empathiefähigkeit, Fremdverstehen und Teilhabe am kulturellen Gedächtnis“ [@Hurrelmann2021, S. 22-23]. In diesem Sinne formuliert die Kultusministerkonferenz [@KMK2005, S. 9] folgende Ziele für den Unterricht:
 
 > „Lesen ist ein eigenaktiver Prozess der Sinnkonstruktion. Die Grundschule führt zum genießenden, informierenden, selektiven, interpretierenden und kritischen Lesen und legt damit eine tragfähige Grundlage für weiteres Lernen, für weiteres selbstbestimmtes Lesen und eine bewusste Auswahl geeigneter Medien. Die Kinder erfahren, dass Lesen eine Auseinandersetzung mit der Welt ermöglicht und Vergnügen bereiten kann. Dazu werden an unterschiedlichen Texten Leseinteresse, Lesebereitschaft, Lesefertigkeit und sinnverstehendes Lesen entwickelt. Beim Hören und Lesen literarischer Texte beschäftigen sich die Kinder mit wichtigen, sie bewegenden Fragen und setzen sich identifizierend und abgrenzend mit literarischen Figuren auseinander. Schülerinnen und Schüler gehen mit unterschiedlichen Textsorten in verschiedenen Medien um und können sich ihrem Alter entsprechend in der Medienwelt orientieren, d. h. in Druckmedien, in elektronischen Medien sowie in Massenmedien.“
