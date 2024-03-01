@@ -23,11 +23,10 @@ Auf vielen der in diesem Dokument verlinkten Webseiten finden Sie Zusatzmaterial
 
 # Technische Realisierung
 
-Dieser Webauftritt basiert auf Texten in einer einfachen Syntax [Markdown](https://markdown.de/), die anschließend in Html und CSS umgesetzt werden. Hierzu wird [Quarto](https://quarto.org/) verwendet. Sämtliche Dateien für den Inhalt und die Steuerung sind in einem öffentlich zugänglichen Codeverwaltungssystem gespeichert: [GitHub](https://github.com/iqb-berlin/vera-info).
+Dieser Webauftritt basiert auf Texten in einer einfachen Syntax [Markdown](https://markdown.de/), die anschließend in Html und CSS umgesetzt werden. Hierzu wird [Quarto](https://quarto.org/) verwendet. Sämtliche Dateien für den Inhalt und die Steuerung sind in einem öffentlich zugänglichen [Codeverwaltungssystem](https://github.com/iqb-berlin/vera-info) gespeichert. Hier ist auch eine Anleitung für Änderungen zu finden.
 
-## Kontakt
-[Susanne Hunger](https://www.iqb.hu-berlin.de/institut/staff/?pg=sh)
+# Kontakt
 
-[susanne.hunger@iqb.hu-berlin.de](mailto:susanne.hunger@iqb.hu-berlin.de)
+Für die Inhalte dieser Webseite ist Frau [Susanne Hunger](https://www.iqb.hu-berlin.de/institut/staff/?pg=sh) verantwwortlich. Technische Fragen für die Bearbeitung der Inhalte können Sie an [Martin Mechtel](mailto:mechtel@iqb.hu-berlin.de) richten.
 
 Wenn Sie Probleme melden möchten, können Sie auch die Funktion "Problem melden" nutzen, die rechts auf jeder Seite zu finden ist. Sie werden dann zu GitHub weitergeleitet. Es ist ein Account bei GitHub erforderlich.
