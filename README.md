@@ -24,7 +24,7 @@ Dieses GitHub-Repository erfüllt folgende Funktionen:
 * Definition der Seitenstruktur in Quarto-Syntax
 * Versionierung, so dass vorherige Textversionen nicht verloren gehen
 * automatische Erzeugung der statischen Html-Seiten nach Änderungen
-* Anzeige der statischen Html-Seiten
+* Anzeige der statischen Html-Seiten (Funktion "Pages" von GitHub)
 * Entgegennahme von Meldungen durch Nutzer\*innen; hier werden sog. Tickets erzeugt, die den Autor\*innen helfen, Probleme zu vermeiden bzw. zu beheben
 
 # Änderungen vornehmen
@@ -51,7 +51,9 @@ Quarto ist nur für die Funktion "Preview" notwendig, also für das Prüfen der 
 
 ### Visual Studio Code installieren
 
-Visual Studio Code ist eine leistungsfähige universelle Software für das Programmieren. Sie ist recht schlank und eignet sich auch sehr gut für das Editieren einfacher Texte. Die Installation erfolgt nach dem [Herunterladen](https://code.visualstudio.com/download).
+Visual Studio Code ist eine leistungsfähige universelle Software für das Programmieren. Sie ist recht schlank und eignet sich auch sehr gut für das Editieren einfacher Texte. Die Verbindung mit dem Repository bei GitHub ist integriert, es stehen also Menüpunkte für das Auschecken und Hochladen usw. zur Verfügung.
+
+Die Installation erfolgt nach dem [Herunterladen](https://code.visualstudio.com/download).
 
 Nach Bedarf sollte man zunächst die deutsche Sprachvariante aktivieren. Außerdem ist zu empfehlen, die Erweiterung "Quarto" zu installieren. Dann steht bei Änderungen eine Syntaxprüfung zur Verfügung und die Funktion "Preview" ist über einen Schalter erreichbar und muss nicht über ein Kommando aufgerufen werden.
 
@@ -60,3 +62,9 @@ Nach Bedarf sollte man zunächst die deutsche Sprachvariante aktivieren. Außerd
 Git ist eine leistungsfähige Codeverwaltung. Dazu gehört, dass man Änderungen parallel in einem Versionszweig (sog. "Branch") vornehmen kann und erst später in den Hauptzweig "main" übernimmt (sog. "Merge"). So ist eine Arbeitsweise "vorläufige Änderungen" möglich und man kann vor der Freigabe andere Personen mit einer abschließenden Redaktion beauftragen.
 
 Außerdem wäre es möglich, Textbeiträge von unbekannter Quelle zu erlauben. Eine in GitHub registrierte Person nimmt Änderungen vor und speichert diese als neuen Zweig in das Code-Repo. Dann beantragt diese Person eine Übernahme in den Hauptzweig. Diesen Antrag nennt man bei GitHub "Pull-Request".
+
+# Unterstützung durch IT-Fachkräfte
+
+Die Einrichtung einer Webseite, die auf Quarto basiert, ist nicht trivial. Bevor Autor\*innen arbeitsfähig sind, sollten IT-Spezialist*innen das Repository einrichten und die entsprechenden Automatismen konfigurieren. Eine Einweisung auch in die Markdown-Syntax ist wichtig.
+
+Wenn mehrere Personen über mehrere Versionszweige arbeiten sollen, ist zusätzlich die ständige Verfügbarkeit von erfahrenen IT-Fachkräften erforderlich. Sollten z. B. zwei Personen gleichzeitig lokal an den Inhalten arbeiten, ist vor dem Hochladen manuell ein Abgleich (sog. "Merge") nötig. Diese Funktionen von Git zu verstehen und ausführen zu können, erfordert technische Erfahrung.

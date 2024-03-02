@@ -6,7 +6,7 @@ title: VERA Didaktische Handreichungen
 
 ::: {.callout-important}
 ## Achtung: Webseite in Entwicklung
-Diese Webseite dient der technischen Erprobung von Quarto. Das IQB möchte Erfahrungen sammeln und auch die Pflege derartiger Seiten durch technische Laien erproben. Ob jemals die Didaktischen Handreichungen von VERA über diesen Weg publiziert werden, hängt von weiteren Abstimmungsprozessen ab.
+Diese Webseite dient der technischen Erprobung von Quarto. Das IQB möchte Erfahrungen sammeln und auch die Pflege derartiger Seiten durch technisch Unerfahrene erproben. Ob jemals die Didaktischen Handreichungen von VERA über diesen Weg publiziert werden, hängt von weiteren Abstimmungsprozessen ab.
 :::
 
 # Willkommen
@@ -14,7 +14,7 @@ Auf diesen Webseiten finden Sie Erläuterungen zu den Lernstandserhebungen der L
 
 Der Fokus dieser Seiten liegt auf der Interpretation der Ergebnisse und in der Bereitstellung von Material sowie Empfehlungen zur Weiterarbeit im Unterricht. Zielgruppe sind also alle Lehrkräfte, die nach der Durchführung einer VERA-Testung die Auswertungsdaten besser verstehen und ihren Unterricht weiterentwickeln möchten. Die Struktur der Seiten folgt der Struktur der Bildungsstandards. Die Papierform dieser Texte ist als "Didaktische Handreichung Teile I+II" bekannt.
 
-Es gibt neben diesen Texten weitere didaktische Handreichungen, die sich direkt auf die Testaufgaben eines Durchgangs beziehen. Hier finden Sie konkrete Erläuterungen und Hilfestellungen sowie Vorschläge, wie diese Aufgaben für den Unterricht angepasst werden könnten. Dieser Teil der Handreichungen ist nur einem begrenzten Personenkreis zugänglich, um die nötige Vertraulichkeit der Aufgaben zu gewährleisten. Sie erhalten Einblick über Ihr Land bzw. die Einrichtung, die VERA für Sie durchführt.
+Es gibt neben den Texten an dieser Stelle weitere didaktische Handreichungen, die sich direkt auf die Testaufgaben eines Durchgangs beziehen (sog. "Didaktische Handreichung Teil III"). In diesen aufgabenbezogenen Handreichungen finden Sie konkrete Erläuterungen und Hilfestellungen sowie Vorschläge, wie diese Aufgaben für den Unterricht angepasst werden könnten. Diese Handreichungen sind nur einem begrenzten Personenkreis zugänglich, um die nötige Vertraulichkeit der Aufgaben zu gewährleisten. Sie erhalten Einblick über Ihr Land bzw. die Einrichtung, die VERA für Sie durchführt.
 
 # Redaktion
 Die vorliegenden Texte werden unter Federführung des [IQB](https://www.iqb.hu-berlin.de/vera) veröffentlicht. Die jeweiligen Autor\*innen sind entweder im Kopf eines Dokumentes genannt oder zu Beginn eines größeren Seitenzweiges. Jeweils zu Beginn eines Jahres werden die Texte überarbeitet, um die Passung zum aktuellen VERA-Durchgang zu gewährleisten.
@@ -28,7 +28,7 @@ Auf vielen der in diesem Dokument verlinkten Webseiten finden Sie Zusatzmaterial
 
 # Technische Realisierung
 
-Dieser Webauftritt basiert auf Texten in einer einfachen Syntax [Markdown](https://markdown.de/), die anschließend in Html und CSS umgesetzt werden. Hierzu wird [Quarto](https://quarto.org/) verwendet. Sämtliche Dateien für den Inhalt und die Steuerung sind in einem öffentlich zugänglichen [Codeverwaltungssystem](https://github.com/iqb-berlin/vera-info) gespeichert. Hier ist auch eine Anleitung für Änderungen zu finden.
+Dieser Webauftritt basiert auf Texten in einer einfachen Syntax [Markdown](https://markdown.de/), die anschließend in Html und CSS umgesetzt werden. Hierzu wird [Quarto](https://quarto.org/) verwendet. Sämtliche Dateien für den Inhalt und die Steuerung sind in einem öffentlich zugänglichen [Codeverwaltungssystem](https://github.com/iqb-berlin/vera-info) gespeichert. Hier ist auch eine Anleitung für Änderungen an den Inhalten zu finden.
 
 # Kontakt
 
