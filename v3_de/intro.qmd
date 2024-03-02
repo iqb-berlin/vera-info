@@ -2,6 +2,7 @@
 title: "VERA3 Deutsch - Überblick"
 lang: de
 bibliography: bibliography.bib
+csl: ../apa.csl
 nocite: |
   @*
 ---
