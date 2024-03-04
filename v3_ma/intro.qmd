@@ -1,3 +1,4 @@
 ---
 title: "VERA3 Mathematik - Überblick"
+lang: de
 ---
