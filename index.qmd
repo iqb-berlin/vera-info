@@ -32,6 +32,6 @@ Dieser Webauftritt basiert auf Texten in einer einfachen Syntax [Markdown](https
 
 # Kontakt
 
-Für die Inhalte dieser Webseite ist Frau [Susanne Hunger](https://www.iqb.hu-berlin.de/institut/staff/?pg=sh) verantwortlich. Technische Fragen für die Bearbeitung der Inhalte können Sie an [Martin Mechtel](mailto:mechtel@iqb.hu-berlin.de) richten.
+Für die Inhalte dieser Webseite ist Frau [Susanne Hunger](https://www.iqb.hu-berlin.de/institut/staff/?pg=sh) verantwortlich. Technische Fragen für die Bearbeitung der Inhalte können xSie an [Martin Mechtel](mailto:mechtel@iqb.hu-berlin.de) richten.
 
 Wenn Sie Probleme melden möchten, können Sie auch die Funktion "Problem melden" nutzen, die rechts auf jeder Seite zu finden ist. Sie werden dann zu GitHub weitergeleitet. Es ist ein Account bei GitHub erforderlich.
