@@ -2,9 +2,3 @@
 title: "Zur Förderung grundlegender Fähigkeiten"
 lang: de
 ---
-
-| ss | sss | ss | sss | ss |
-|----|-----|----|-----|----|
-|    |     |    |     |    |
-|    |     |    |     |    |
-|    |     |    |     |    |
