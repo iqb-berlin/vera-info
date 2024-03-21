@@ -4,14 +4,6 @@ title: VERA Didaktische Handreichungen
 ---
 ![](banner-image.jpg)
 
-
-| ss | sss | ss | sss | ss |
-|----|-----|----|-----|----|
-|    |     |    |     |    |
-|    |     |    |     |    |
-|    |     |    |     |    |
-
-
 ::: {.callout-important}
 ## Achtung: Webseite in Entwicklung
 Diese Webseite dient der technischen Erprobung von Quarto. Das IQB möchte Erfahrungen sammeln und auch die Pflege derartiger Seiten durch technisch Unerfahrene erproben. Ob jemals die Didaktischen Handreichungen von VERA über diesen Weg publiziert werden, hängt von weiteren Abstimmungsprozessen ab.
