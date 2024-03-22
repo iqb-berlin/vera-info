@@ -17,14 +17,11 @@ digraph {
         shape=cluster
     ]
     "Kein Fehler des Sportlers"[
-        id=no_error
         shape=cluster
         color=green
         style=filled
     ]
-    "Lese-Trainer und Lese-Sportler fangen auf ein \nvereinbartes Zeichen hin an, den Text synchron vorzulesen" -> "Kein Fehler des Sportlers"
-    "Lese-Trainer und Lese-Sportler fangen auf ein \nvereinbartes Zeichen hin an, den Text synchron vorzulesen" ->
-    Subgraph cluster {
+    subgraph cluster {
         label="Bei Fehler des Sportlers"
         color=red
         style=filled
@@ -39,6 +36,9 @@ digraph {
             style=filled
         ]
     }
+    "Lese-Trainer und Lese-Sportler fangen auf ein \nvereinbartes Zeichen hin an, den Text synchron vorzulesen" -> "Kein Fehler des Sportlers"
+    "Lese-Trainer und Lese-Sportler fangen auf ein \nvereinbartes Zeichen hin an, den Text synchron vorzulesen" -> "Erfolgreiche Selbstverbesserung \ninnerhalb vier Sekunden"
+    "Lese-Trainer und Lese-Sportler fangen auf ein \nvereinbartes Zeichen hin an, den Text synchron vorzulesen" -> "Verbesserung durch Trainer nach vier \nSekunden Neubeginn am Satzanfang"
     "Lob des Trainers"[
         shape=cluster
     ]
@@ -51,21 +51,8 @@ digraph {
     "Fehler des Sportlers"[
         shape=cluster
     ]
-    "Fehler des Sportlers" -> Subgraph cluster {
-        label="Bei Fehler des Sportlers"
-        color=red
-        style=filled
-        "Erfolgreiche Selbstverbesserung \ninnerhalb vier Sekunden"[
-            shape=cluster
-            color=white
-            style=filled
-        ]
-        "Verbesserung durch Trainer nach vier \nSekunden Neubeginn am Satzanfang"[
-            shape=cluster
-            color=white
-            style=filled
-        ]
-    }
+    "Fehler des Sportlers" -> "Erfolgreiche Selbstverbesserung \ninnerhalb vier Sekunden"
+    "Fehler des Sportlers" -> "Verbesserung durch Trainer nach vier \nSekunden Neubeginn am Satzanfang"
     "Verbesserung durch Trainer nach vier \nSekunden Neubeginn am Satzanfang" -> "Fühlt sich der Sportler beim Lesen \nsicher, gibt er dem Trainer ein Zeichen. \nTrainer lobt und liest mit. \nSportler liest alleine vor" -> "Fehler des Sportlers"
     "Fühlt sich der Sportler beim Lesen \nsicher, gibt er dem Trainer ein Zeichen. \nTrainer lobt und liest mit. \nSportler liest alleine vor" -> "Kein Fehler des Sportlers"
 }
