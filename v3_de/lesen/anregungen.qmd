@@ -13,26 +13,27 @@ Im Rahmen von kleinen Leseproben kann man – am besten in einem geschützten Be
 
 ```{dot}
 digraph {
-    "Lese-Trainer und Lese-Sportler Fangen auf ein vereinbartes zeichen hin an,den text synchron vorzulesen"[
+    "Lese-Trainer und Lese-Sportler fangen auf ein \nvereinbartes Zeichen hin an, den Text synchron vorzulesen"[
         shape=cluster
     ]
     "Kein Fehler des Sportlers"[
+        id=no_error
         shape=cluster
         color=green
         style=filled
     ]
-    "Lese-Trainer und Lese-Sportler Fangen auf ein vereinbartes zeichen hin an,den text synchron vorzulesen" -> "Kein Fehler des Sportlers"
-    "Lese-Trainer und Lese-Sportler Fangen auf ein vereinbartes zeichen hin an,den text synchron vorzulesen" ->
+    "Lese-Trainer und Lese-Sportler fangen auf ein \nvereinbartes Zeichen hin an, den Text synchron vorzulesen" -> "Kein Fehler des Sportlers"
+    "Lese-Trainer und Lese-Sportler fangen auf ein \nvereinbartes Zeichen hin an, den Text synchron vorzulesen" ->
     Subgraph cluster {
         label="Bei Fehler des Sportlers"
         color=red
         style=filled
-        "Erfolgreiche Selbstverbesserung innerhalb vier Sekunden"[
+        "Erfolgreiche Selbstverbesserung \ninnerhalb vier Sekunden"[
             shape=cluster
             color=white
             style=filled
         ]
-        "Verbesserung durch Trainer nach vier Sekunden Neubeginn am Satzanfang"[
+        "Verbesserung durch Trainer nach vier \nSekunden Neubeginn am Satzanfang"[
             shape=cluster
             color=white
             style=filled
@@ -42,11 +43,11 @@ digraph {
         shape=cluster
     ]
     "Kein Fehler des Sportlers" -> "Lob des Trainers"
-    "Erfolgreiche Selbstverbesserung innerhalb vier Sekunden" -> "Lob des Trainers"
-    "Fühlt sich der Sportler beim Lesen sicher, gibt er dem Trainer ein Zeichen. Trainer lobt und liest mit. Sportler liest alleine vor"[
+    "Erfolgreiche Selbstverbesserung \ninnerhalb vier Sekunden" -> "Lob des Trainers"
+    "Fühlt sich der Sportler beim Lesen \nsicher, gibt er dem Trainer ein Zeichen. \nTrainer lobt und liest mit. \nSportler liest alleine vor"[
         shape=cluster
     ]
-    "Lob des Trainers" -> "Fühlt sich der Sportler beim Lesen sicher, gibt er dem Trainer ein Zeichen. Trainer lobt und liest mit. Sportler liest alleine vor"
+    "Lob des Trainers" -> "Fühlt sich der Sportler beim Lesen \nsicher, gibt er dem Trainer ein Zeichen. \nTrainer lobt und liest mit. \nSportler liest alleine vor"
     "Fehler des Sportlers"[
         shape=cluster
     ]
@@ -54,23 +55,19 @@ digraph {
         label="Bei Fehler des Sportlers"
         color=red
         style=filled
-        "Erfolgreiche Selbstverbesserung innerhalb vier Sekunden"[
+        "Erfolgreiche Selbstverbesserung \ninnerhalb vier Sekunden"[
             shape=cluster
             color=white
             style=filled
         ]
-        "Verbesserung durch Trainer nach vier Sekunden Neubeginn am Satzanfang"[
+        "Verbesserung durch Trainer nach vier \nSekunden Neubeginn am Satzanfang"[
             shape=cluster
             color=white
             style=filled
         ]
     }
-    "Verbesserung durch Trainer nach vier Sekunden Neubeginn am Satzanfang" -> "Fühlt sich der Sportler beim Lesen sicher, gibt er dem Trainer ein Zeichen. Trainer lobt und liest mit. Sportler liest alleine vor" -> "Fehler des Sportlers"
-    "Kein Fehler des Sportlers "[
-        shape=cluster
-    ]
-    "Kein Fehler des Sportlers" -> "Kein Fehler des Sportlers"
-    "Fühlt sich der Sportler beim Lesen sicher, gibt er dem Trainer ein Zeichen. Trainer lobt und liest mit. Sportler liest alleine vor" -> "Kein Fehler des Sportlers "
+    "Verbesserung durch Trainer nach vier \nSekunden Neubeginn am Satzanfang" -> "Fühlt sich der Sportler beim Lesen \nsicher, gibt er dem Trainer ein Zeichen. \nTrainer lobt und liest mit. \nSportler liest alleine vor" -> "Fehler des Sportlers"
+    "Fühlt sich der Sportler beim Lesen \nsicher, gibt er dem Trainer ein Zeichen. \nTrainer lobt und liest mit. \nSportler liest alleine vor" -> "Kein Fehler des Sportlers"
 }
 ```
 
