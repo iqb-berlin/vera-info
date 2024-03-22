@@ -1,0 +1,16 @@
+---
+title: "Allgemeine Erläuterungen Sprache und Sprachgebrauch"
+lang: de
+bibliography: ../bibliography.bib
+csl: ../../apa.csl
+---
+
+> „Sprache ist Träger von Sinn und Überlieferung, Schlüssel zum Welt- und Selbstverständnis und Mittel zwischenmenschlicher Verständigung. Sie hat grundlegende Bedeutung für die kognitive, emotionale und soziale Entwicklung der Kinder. Aufgabe des Deutschunterrichts in der Grundschule ist es, den Schülerinnen und Schülern eine grundlegende sprachliche Bildung zu vermitteln, damit sie in gegenwärtigen und zukünftigen Lebenssituationen handlungsfähig sind.“ [@KMK2005, S. 6]
+
+Im Deutschunterricht der Grundschule sollen die Schüler\*innen allmählich lernen, kommunikative Situationen sprachlich zu bewältigen und sich intentions-, sach- und adressatengerecht zu äußern. Das geschieht mündlich, zunehmend aber auch schriftlich. Außerdem lernen die Kinder, über länge-re Zeit aufmerksam zuzuhören und immer flüssiger und zunehmend sinnverstehend zu lesen.
+
+Indem man z. B. gemeinsam Gesprächsregeln entwickelt und darauf achtet, dass sich alle sich daran halten, kann die moralische Dimension des sprachlichen Handelns erfahren werden. Dadurch, dass sich die Kinder mit poetischen Texten beschäftigen, wird ihnen die ästhetische Seite des Sprachgebrauchs zugänglich.
+
+Dabei ist die Sprache nicht nur Mittel (Medium) des Unterrichts, sondern Sprache und Sprachgebrauch sollen auch zum Gegenstand (Objekt) des gemeinsamen Nachdenkens werden. So sollen Sprachaufmerksamkeit und Sprachbewusstheit gefördert werden. Die Kinder lernen einige Begriffe kennen, mit denen sie sich auf Aspekte gesprochener und geschriebener Sprache beziehen können, und wenden diese Begriffe immer wieder in neuen Situationen an.
+
+Dabei gilt es auch darauf zu achten, dass die Kinder zu ihrem Recht kommen, für die Deutsch nicht die erste Sprache ist bzw. deren Erwerb der deutschen Sprache noch nicht sehr weit fortgeschritten ist.

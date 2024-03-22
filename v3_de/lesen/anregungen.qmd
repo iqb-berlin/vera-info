@@ -1,0 +1,104 @@
+---
+title: "VERA3 Deutsch Lesen - Anregungen für den Unterricht"
+lang: de
+---
+
+Zur Lesekompetenz gehört u. a., dass man Wortbedeutungen schnell und sicher erfasst, bei Bedarf geschriebene Wörter lautlich richtig wiedergibt, die Struktur von Sätzen erkennt und versteht und dass man über die Satzgrenzen hinweg inhaltliche Beziehungen erfasst bzw. aufgrund von Schlüssen herstellt. Wenn die *höheren* Prozesse des Verstehens von Absätzen und des ganzen Textes gelingen sollen, müssen die tieferen Prozesse auf der Ebene der Wörter möglichst schnell und automatisiert verlaufen. Es kann davon ausgegangen werden, dass erst so genügend Ressourcen für die Bewältigung der *höheren* Prozesse zur Verfügung stehen.
+
+Deshalb finden Sie hier zunächst einige Hinweise auf Verfahren, die sich im Zusammenhang mit der [Förderung](https://biss-sprachbildung.de/pdf/biss-handreichung-durchgaengige-lesefoerderung.pdf) im Bereich der *hierarchieniedrigen* Prozesse bewährt haben. Es folgen Anmerkungen zum Üben von Lesemethoden bzw. -strategien. Im Anschluss werden Tipps gegeben, worauf man achten sollte, wenn man Leseaufgaben unter Bezug auf das hier vorgestellte Modell einer Stufung der Lesekompetenz entwickeln möchte. Schließlich wird daran erinnert, dass die Lesekompetenz mehr ausmacht als eine kognitive Fähigkeit.
+
+# Zur Förderung grundlegender Fähigkeiten
+
+Im Rahmen von kleinen Leseproben kann man – am besten in einem geschützten Bereich – ohne großen Aufwand ermitteln, wie Kinder einzelne Wörter erlesen. Wie gliedern sie die Wörter? Dehnen sie einzelne Laute so, dass es gar nicht zu einem Verstehen der Wortbedeutung kommt? Gibt es häufiger Ersetzungen ...
+
+```{dot}
+digraph {
+    "Lese-Trainer und Lese-Sportler Fangen auf ein vereinbartes zeichen hin an,den text synchron vorzulesen"[
+        shape=cluster
+    ]
+    "Kein Fehler des Sportlers"[
+        shape=cluster
+        color=green
+        style=filled
+    ]
+    "Lese-Trainer und Lese-Sportler Fangen auf ein vereinbartes zeichen hin an,den text synchron vorzulesen" -> "Kein Fehler des Sportlers"
+    "Lese-Trainer und Lese-Sportler Fangen auf ein vereinbartes zeichen hin an,den text synchron vorzulesen" ->
+    Subgraph cluster {
+        label="Bei Fehler des Sportlers"
+        color=red
+        style=filled
+        "Erfolgreiche Selbstverbesserung innerhalb vier Sekunden"[
+            shape=cluster
+            color=white
+            style=filled
+        ]
+        "Verbesserung durch Trainer nach vier Sekunden Neubeginn am Satzanfang"[
+            shape=cluster
+            color=white
+            style=filled
+        ]
+    }
+    "Lob des Trainers"[
+        shape=cluster
+    ]
+    "Kein Fehler des Sportlers" -> "Lob des Trainers"
+    "Erfolgreiche Selbstverbesserung innerhalb vier Sekunden" -> "Lob des Trainers"
+    "Fühlt sich der Sportler beim Lesen sicher, gibt er dem Trainer ein Zeichen. Trainer lobt und liest mit. Sportler liest alleine vor"[
+        shape=cluster
+    ]
+    "Lob des Trainers" -> "Fühlt sich der Sportler beim Lesen sicher, gibt er dem Trainer ein Zeichen. Trainer lobt und liest mit. Sportler liest alleine vor"
+    "Fehler des Sportlers"[
+        shape=cluster
+    ]
+    "Fehler des Sportlers" -> Subgraph cluster {
+        label="Bei Fehler des Sportlers"
+        color=red
+        style=filled
+        "Erfolgreiche Selbstverbesserung innerhalb vier Sekunden"[
+            shape=cluster
+            color=white
+            style=filled
+        ]
+        "Verbesserung durch Trainer nach vier Sekunden Neubeginn am Satzanfang"[
+            shape=cluster
+            color=white
+            style=filled
+        ]
+    }
+    "Verbesserung durch Trainer nach vier Sekunden Neubeginn am Satzanfang" -> "Fühlt sich der Sportler beim Lesen sicher, gibt er dem Trainer ein Zeichen. Trainer lobt und liest mit. Sportler liest alleine vor" -> "Fehler des Sportlers"
+    "Kein Fehler des Sportlers "[
+        shape=cluster
+    ]
+    "Kein Fehler des Sportlers" -> "Kein Fehler des Sportlers"
+    "Fühlt sich der Sportler beim Lesen sicher, gibt er dem Trainer ein Zeichen. Trainer lobt und liest mit. Sportler liest alleine vor" -> "Kein Fehler des Sportlers "
+}
+```
+
+
+# Zum Lernen und Üben von Methoden bzw. Strategien
+
+Im Hinblick auf die höheren Prozesse beim verstehenden Lesen bietet es sich an, einige Methoden bzw. Strategien der [Texterschließung](https://bildungsserver.berlin-brandenburg.de/lesepilot) zu lehren und auch immer wieder auf ihre Anwendung zu achten, denn es wird häufig beobachtet, dass Kinder einige dieser Methoden zwar kennen, aber diese nicht von sich aus bei neuen Texten anwenden.
+
+
+# Worauf man bei der eigenständigen Entwicklung von Leseaufgaben achten sollte
+
+Es gibt, wie oben bereits angesprochen, einige Modelle der Lesekompetenz, deren Gemeinsamkeiten man in Form von Fragen fassen kann:
+
+* Können Kinder einem Text eine bestimmte einzelne Information entnehmen bzw. abgewinnen?
+* Können Kinder im Text mehr oder weniger weit voneinander entfernte Informationen miteinander verknüpfen?
+* Geht es um lokales Verstehen (eines Satzes, eines Absatzes) oder ist eher globales, d. h. auf den ganzen Text bezogenes Verstehen verlangt?
+* Welche Arten von Schlüssen werden gezogen? Sind diese eher einfach oder komplexer und wie kann man das Wissen einschätzen, das die Kinder dafür brauchen?
+
+Für eher schwache Leser\*innen sind Aufgaben geeignet, bei denen es darum geht, an mehr oder weniger prominenten Stellen im Text Informationen zu lokalisieren. Dabei kann die Frage bzw. Aufgabe bereits Teile der gesuchten Formulierung enthalten. Wichtig ist, dass man als Lehrkraft nicht nach Details fragt, die für das Textverständnis nicht wichtig sind.
+
+Schwieriger sind Aufgaben, bei denen verstreute Informationen verknüpft werden müssen. Ist z. B. in einem Text zu Beginn davon die Rede, dass eine Figur ängstlich ist, und heißt es am Ende, dass sie sich nicht auf eine Auseinandersetzung mit einer anderen Figur einlässt, dann verlangt eine Antwort auf die Frage nach ihrem Motiv die Verknüpfung dieser Textstellen.
+
+In Bezug auf das Ziehen von Schlüssen: Einfach ist ein Schluss etwa dann, wenn er sich auf benachbarte Informationen bezieht, deren inhaltliche Beziehung zwar nicht ausdrücklich formuliert ist, aber auf der Hand liegt. Das ist z. B. der Fall, wenn es in einem Text heißt: *Thomas ging nicht in die Schule. Er war krank.* Schwieriger wird es, wenn für die Lösung der Aufgabe mehr Vorwissen benötigt wird, wie im folgenden Fall: *Die Getränke wurden nach einer Viertelstunde gebracht. Die Gäste waren unzufrieden.* Auch hier geht es um eine Beziehung von Grund und Folge. Um das zu verstehen, müssen die Kinder aber als Vorwissen mitbringen, dass man normalerweise schneller bedient wird.
+
+Am schwierigsten sind im Allgemeinen Aufgaben, deren Lösung das Verstehen des gesamten Textes voraussetzt. Dabei kann es z. B. um die Textintention gehen (Was ist die Moral einer Fabel, die im Text nicht explizit benannt ist?) oder darum, dass man einen Text im Ganzen bewerten soll: *Findest du, dass eine Geschichte wie diese in Wirklichkeit passieren könnte? Begründe deine Meinung.*
+
+Wenn die Lehrkraft Aufgaben zum [Leseverstehen](https://www.leseforum.ch/myUploadData/files/2015_1_Krelle.pdf) auf verschiedenen Stufen formuliert, kann sie mit den Aufgaben auf vielfältige Weise für [innere Differenzierung](https://www.schule-bw.de/faecher-und-schularten/sprachen-und-literatur/deutsch/unterrichtseinheiten/differenzierung) sorgen und so der Heterogenität der Schüler\*innen Rechnung tragen. Eine dieser Möglichkeiten besteht darin, dass die Lehrkraft ein „Fundamentum“ für alle und ein „Additum“ für lesestarke Kinder vorsieht. Man kann z. B. auch ein Lernen an Stationen planen, wobei man ausdrücklich auf die unterschiedlichen Schwierigkeiten der Aufgaben hinweisen sollte. Gerade Lehrkräfte an Grundschulen verfügen in der Regel über ein reichhaltiges Methodeninventar. Für welche Varianten der Binnendifferenzierung man sich entscheidet, hängt vor allem von den konkreten Bedingungen vor Ort ab.
+
+# Lesekompetenz nicht nur kognitive Fähigkeit
+
+Viele der bisherigen Hinweise zielen auf die Förderung kognitiver Teilaspekte der Lesekompetenz, die sich auch im Rahmen von Lesetrainings kombinieren lassen. Zur Lesekompetenz gehört aber mehr, vor allem auch eine emotionale und motivationale Komponente. Auch eine soziale Komponente ist im Spiel, geht es doch ebenso darum, dass Kinder in der Lage sein sollten, sich mit anderen im Rahmen von Anschlusskommunikation über Gelesenes zu verständigen. Wer die Erfahrung macht, dass er mit Leseaufgaben immer besser zurechtkommt, wird im Allgemeinen auch motivierter an das Lesen herangehen. Und wer motivierter ist, nutzt eher Lesegelegenheiten, was wiederum zu einem Kompetenzzuwachs beitragen kann. Insofern sind die kognitive und die motivationale Seite miteinander verbunden. Es gibt eine Fülle von Vorschlägen, wie man als Lehrkraft in der Grundschule zur Steigerung der Lesemotivation beitragen kann. Dazu zählen u. a. Leseecken und Bücherkisten, Lesenächte, der Lesepass, Lesepaten und Lesewettbewerbe. Eine kommentierte Zusammenstellung mit weiteren Literaturhinweisen findet sich z. B. bei Rosebrock und Nix (2008, S. 92–118). Die Realisierung solcher Verfahren der Leseanimation trägt dazu bei, dass die Kinder die Grundschule als einen Ort begreifen, an dem auf die Kultur des Lesens besonderer Wert gelegt wir

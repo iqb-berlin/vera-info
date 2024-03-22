@@ -1,4 +1,0 @@
----
-title: "Hierarchieniedrige Prozesse"
-lang: de
----

@@ -42,14 +42,21 @@ website:
             text: Überblick
           - section: "Lesen"
             contents:
-              - href: v3_de/understanding_texts.qmd
-                text: Teilkompetenz Textverstehen
-              - section: "Anregungen für den Unterricht"
-                contents:
-                  - href: v3_de/processes.qmd
-                    text: Prozesse
-                  - href: v3_de/basics.qmd
-                    text: Grundlegende Fähigkeiten
+              - href: v3_de/lesen/allgemein.qmd
+                text: Teilkompetenz Lesen
+              - href: v3_de/lesen/anregungen.qmd
+                text: Anregungen für den Unterricht
+              - href: v3_de/lesen/material.qmd
+                text: Material
+          - section: "Sprache"
+            contents:
+              - href: v3_de/sprache/allgemein.qmd
+                text: Teilkompetenz Sprache
+              - href: v3_de/sprache/bista-bezug.qmd
+                text: Bezug zu Bildungsstandards
+          - href: v3_de/literature.qmd
+            text: Literatur
+
       - section: "VERA3 Mathematik"
         contents:
           - href: v3_ma/intro.qmd

@@ -1,4 +1,0 @@
----
-title: "Zur Förderung grundlegender Fähigkeiten"
-lang: de
----
