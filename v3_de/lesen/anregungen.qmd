@@ -58,6 +58,45 @@ digraph {
 }
 ```
 
+## Alternative Darstellung
+
+```{dot}
+digraph {
+    "Lese-Trainer und Lese-Sportler fangen auf ein \nvereinbartes Zeichen hin an, den Text synchron vorzulesen"[
+        shape=cluster
+    ]
+    "Kein Fehler des Sportlers"[
+        shape=cluster
+        color=green
+        style=filled
+    ]
+    "Erfolgreiche Selbstverbesserung \ninnerhalb vier Sekunden"[
+        shape=cluster
+        color=white
+        style=filled
+    ]
+    "Verbesserung durch Trainer nach vier \nSekunden Neubeginn am Satzanfang"[
+        shape=cluster
+        color=white
+        style=filled
+    ]
+    "Lese-Trainer und Lese-Sportler fangen auf ein \nvereinbartes Zeichen hin an, den Text synchron vorzulesen" -> "Kein Fehler des Sportlers"
+    "Lese-Trainer und Lese-Sportler fangen auf ein \nvereinbartes Zeichen hin an, den Text synchron vorzulesen" -> "Fehler des Sportlers"
+    "Fehler des Sportlers" -> "Erfolgreiche Selbstverbesserung \ninnerhalb vier Sekunden"
+    "Fehler des Sportlers" -> "Verbesserung durch Trainer nach vier \nSekunden Neubeginn am Satzanfang"
+    "Erfolgreiche Selbstverbesserung \ninnerhalb vier Sekunden" -> "Kein Fehler des Sportlers"
+    "Fühlt sich der Sportler beim Lesen \nsicher, gibt er dem Trainer ein Zeichen. \nTrainer lobt und liest mit. \nSportler liest alleine vor"[
+        shape=cluster
+    ]
+    "Fehler des Sportlers"[
+        shape=cluster
+        color=red
+        style=filled
+    ]
+    "Verbesserung durch Trainer nach vier \nSekunden Neubeginn am Satzanfang" -> "Fühlt sich der Sportler beim Lesen \nsicher, gibt er dem Trainer ein Zeichen. \nTrainer lobt und liest mit. \nSportler liest alleine vor" -> "Fehler des Sportlers"
+    "Fühlt sich der Sportler beim Lesen \nsicher, gibt er dem Trainer ein Zeichen. \nTrainer lobt und liest mit. \nSportler liest alleine vor" -> "Kein Fehler des Sportlers"
+}
+```
 
 # Zum Lernen und Üben von Methoden bzw. Strategien
 
