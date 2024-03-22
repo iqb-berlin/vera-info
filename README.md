@@ -45,17 +45,27 @@ Bei größeren Änderungen empfiehlt es sich, auf dem eigenen Computer die Texte
 
 Durch das Hochladen wird automatisch die Erzeugung der Html-Seiten angestoßen und die Änderungen sind nach wenigen Minuten online.
 
-### Quarto installieren
+## Empfehlungen für die Arbeit unter Windows
 
-Quarto ist nur für die Funktion "Preview" notwendig, also für das Prüfen der Änderungen. Für Windows kann man sich von der [Quarto-Seite](https://quarto.org/docs/get-started/) ein Installationspaket herunterladen und ausführen. Es sind keine Administrationsrechte auf dem Windows-Computer erforderlich. Nach der Installation muss man keinerlei Konfiguration vornehmen.
+### Git installieren
+
+Damit Windows Verzeichnisse unter eine Codeverwaltung stellen kann, muss dafür eine Software installiert werden: [Git für Windows](https://git-scm.com/download/win). Es sind keine Administratorrechte erforderlich.
+
+Es gibt eine Besonderheit für die Arbeit mit Code oder Texten in Git auf Windows-Computern: Unter Windows ist ein Zeilenende unsichtbar stets über zwei Zeichen `CR+LF` kodiert. In allen anderen Betriebssystemen ist nur `LF` benutzt. Das können Sie ignorieren, solange alle Beteiligten mit Windows arbeiten. Sollte jedoch jemand ein anderes Betriebssystem benutzen, sollten Sie eine globale Einstellung ändern. Details dazu [finden Sie hier](https://docs.github.com/de/get-started/getting-started-with-git/configuring-git-to-handle-line-endings).
 
 ### Visual Studio Code installieren
 
-Visual Studio Code ist eine leistungsfähige universelle Software für das Programmieren. Sie ist recht schlank und eignet sich auch sehr gut für das Editieren einfacher Texte. Die Verbindung mit dem Repository bei GitHub ist integriert, es stehen also Menüpunkte für das Auschecken und Hochladen usw. zur Verfügung.
+Visual Studio Code ist eine leistungsfähige universelle Software für das Programmieren. Sie ist recht schlank und eignet sich auch sehr gut für das Editieren einfacher Texte. Die Zusammenarbeit mit der lokalen Git-Installation ist integriert, es stehen also Menüpunkte für das Auschecken und Hochladen usw. zur Verfügung.
 
-Die Installation erfolgt nach dem [Herunterladen](https://code.visualstudio.com/download).
+Die Installation erfolgt nach dem [Herunterladen](https://code.visualstudio.com/download). Es sind keine Adminsitratorrechte erforderlich. Eine Installation nur mit lokalen Rechten ist zu empfehlen, damit auch die nachfolgende Installation von Erweiterungen einfach erfolgen kann.
 
 Nach Bedarf sollte man zunächst die deutsche Sprachvariante aktivieren. Außerdem ist zu empfehlen, die Erweiterung "Quarto" zu installieren. Dann steht bei Änderungen eine Syntaxprüfung zur Verfügung und die Funktion "Preview" ist über einen Schalter erreichbar und muss nicht über ein Kommando aufgerufen werden.
+
+Sollten Sie allgemein als Zeilenende eine `LF`-Kodierung einstellen wollen, können Sie dies auch über eine VS-Code-Einstellung erreichen. Gehen Sie dazu in den Bereich 'Einstellungen' und suchen Sie nach `eol`.
+
+### Quarto installieren
+
+Quarto ist nur für die Funktion "Preview" notwendig, also für das Prüfen der Änderungen. Für Windows kann man sich von der [Quarto-Seite](https://quarto.org/docs/get-started/) ein Installationspaket herunterladen und ausführen. Es sind keine Administrationsrechte auf dem Windows-Computer erforderlich. Nach der Installation muss man keinerlei Konfiguration vornehmen.
 
 ## Zusammenarbeit mehrerer Auto\*innen
 
@@ -63,8 +73,8 @@ Git ist eine leistungsfähige Codeverwaltung. Dazu gehört, dass man Änderungen
 
 Außerdem wäre es möglich, Textbeiträge von unbekannter Quelle zu erlauben. Eine in GitHub registrierte Person nimmt Änderungen vor und speichert diese als neuen Zweig in das Code-Repo. Dann beantragt diese Person eine Übernahme in den Hauptzweig. Diesen Antrag nennt man bei GitHub "Pull-Request".
 
-# Unterstützung durch IT-Fachkräfte
+## Unterstützung durch IT-Fachkräfte
 
-Die Einrichtung einer Webseite, die auf Quarto basiert, ist nicht trivial. Bevor Autor\*innen arbeitsfähig sind, sollten IT-Spezialist*innen das Repository einrichten und die entsprechenden Automatismen konfigurieren. Eine Einweisung auch in die Markdown-Syntax ist wichtig.
+Die Einrichtung einer Webseite, die auf Quarto basiert, ist nicht trivial. Bevor Autor\*innen arbeitsfähig sind, sollten IT-Spezialist\*innen das Repository einrichten und die entsprechenden Automatismen konfigurieren. Eine Einweisung auch in die Markdown-Syntax ist wichtig.
 
 Wenn mehrere Personen über mehrere Versionszweige arbeiten sollen, ist zusätzlich die ständige Verfügbarkeit von erfahrenen IT-Fachkräften erforderlich. Sollten z. B. zwei Personen gleichzeitig lokal an den Inhalten arbeiten, ist vor dem Hochladen manuell ein Abgleich (sog. "Merge") nötig. Diese Funktionen von Git zu verstehen und ausführen zu können, erfordert technische Erfahrung.
