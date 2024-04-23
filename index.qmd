@@ -6,7 +6,7 @@ title: VERA Didaktische Handreichungen
 
 ::: {.callout-important}
 ## Achtung: Webseite in Entwicklung
-Diese Webseite dient der technischen Erprobung von Quarto. Das IQB möchte Erfahrungen sammeln und auch die Pflege derartiger Seiten durch technisch Unerfahrene erproben. Ob jemals die Didaktischen Handreichungen von VERA über diesen Weg publiziert werden, hängt von weiteren Abstimmungsprozessen ab.
+Diese Webseite dient der technischen Erprobung einer digitalen Veröffentlichung der Didaktischen Handreichungen Teil I und II von VERA. Die Entscheidung darüber hängt von weiteren Abstimmungsprozessen ab.
 :::
 
 # Willkommen

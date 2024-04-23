@@ -23,6 +23,7 @@ website:
     style: "docked"
     search: true
     lang: de
+    collapse-level: 1
     contents:
       - href: index.qmd
         text: Start
@@ -41,8 +42,6 @@ website:
           - section: "Lesen"
             href: v3_de/lesen/index.qmd
             contents:
-              - href: v3_de/lesen/anregungen.qmd
-                text: Anregungen für den Unterricht
               - href: v3_de/lesen/material.qmd
                 text: Material
           - section: "Sprache"
@@ -55,11 +54,14 @@ website:
 
       - section: "VERA3 Mathematik"
         href: v3_ma/index.qmd
-        contents:
-          - href: v3_ma/ksm.qmd
-            text: Kompetenzstufen
       - section: "VERA8 Deutsch"
         href: v8_de/index.qmd
+      - section: "VERA8 Mathematik"
+        href: v8_ma/index.qmd
+      - section: "VERA8 Englisch"
+        href: v8_en/index.qmd
+      - section: "VERA8 Französisch"
+        href: v8_fr/index.qmd
 
 
 format:
