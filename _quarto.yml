@@ -27,9 +27,8 @@ website:
       - href: index.qmd
         text: Start
       - section: "Einführung"
+        href: intro/index.qmd
         contents:
-          - href: intro/what_is.qmd
-            text: Was ist VERA?
           - href: intro/booklets.qmd
             text: Bildungsstandards
           - href: intro/unit_structure.qmd
@@ -37,36 +36,30 @@ website:
           - href: intro/feedback.qmd
             text: Rückmeldung
       - section: "VERA3 Deutsch"
+        href: v3_de/index.qmd
         contents:
-          - href: v3_de/intro.qmd
-            text: Überblick
           - section: "Lesen"
+            href: v3_de/lesen/index.qmd
             contents:
-              - href: v3_de/lesen/allgemein.qmd
-                text: Teilkompetenz Lesen
               - href: v3_de/lesen/anregungen.qmd
                 text: Anregungen für den Unterricht
               - href: v3_de/lesen/material.qmd
                 text: Material
           - section: "Sprache"
+            href: v3_de/sprache/index.qmd
             contents:
-              - href: v3_de/sprache/allgemein.qmd
-                text: Teilkompetenz Sprache
               - href: v3_de/sprache/bista-bezug.qmd
                 text: Bezug zu Bildungsstandards
           - href: v3_de/literature.qmd
             text: Literatur
 
       - section: "VERA3 Mathematik"
+        href: v3_ma/index.qmd
         contents:
-          - href: v3_ma/intro.qmd
-            text: Überblick
           - href: v3_ma/ksm.qmd
             text: Kompetenzstufen
       - section: "VERA8 Deutsch"
-        contents:
-          - href: v8_de/intro.qmd
-            text: Überblick
+        href: v8_de/index.qmd
 
 
 format:

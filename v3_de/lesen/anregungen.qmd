@@ -11,6 +11,8 @@ Deshalb finden Sie hier zunächst einige Hinweise auf Verfahren, die sich im Zus
 
 Im Rahmen von kleinen Leseproben kann man – am besten in einem geschützten Bereich – ohne großen Aufwand ermitteln, wie Kinder einzelne Wörter erlesen. Wie gliedern sie die Wörter? Dehnen sie einzelne Laute so, dass es gar nicht zu einem Verstehen der Wortbedeutung kommt? Gibt es häufiger Ersetzungen ...
 
+![](lese-training.png)
+
 ```{dot}
 digraph {
     "Lese-Trainer und Lese-Sportler fangen auf ein \nvereinbartes Zeichen hin an, den Text synchron vorzulesen"[
@@ -58,7 +60,7 @@ digraph {
 }
 ```
 
-## Alternative Darstellung
+## Alternative Darstellung `graphviz`
 
 ```{dot}
 digraph {
@@ -97,6 +99,24 @@ digraph {
     "Fühlt sich der Sportler beim Lesen \nsicher, gibt er dem Trainer ein Zeichen. \nTrainer lobt und liest mit. \nSportler liest alleine vor" -> "Kein Fehler des Sportlers"
 }
 ```
+
+## Alternative Darstellung `mermaid`
+
+```{mermaid}
+flowchart TB
+    A(Lese-Sportler liest laut\nLese-Trainer liest still mit) --> G{Fehler des\nSportlers?}
+    style A fill:white
+    G -->|Nein| J[Lob des Trainers]
+    style J fill:#9f6
+    G -->|JA| H[Hinweis des Trainers]
+    style H fill:#f99
+    H --> D{Erfolgreiche\nSelbstverbesserung\ninnerhalb vier\nSekunden?}
+    D -->|JA| A
+    D -->|NEIN| E[Verbesserung durch Trainer\nNeubeginn am Satzanfang]
+    E --> A
+    style E fill:white
+```
+
 
 # Zum Lernen und Üben von Methoden bzw. Strategien
 
