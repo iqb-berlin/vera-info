@@ -58,6 +58,18 @@ website:
         href: v8_de/index.qmd
       - section: "VERA8 Mathematik"
         href: v8_ma/index.qmd
+        contents:
+          - section: "Leitidee 1 - Zahl"
+            href: v8_ma/leitidee_1_zahl/index.qmd
+            contents:
+              - v8_ma/leitidee_1_zahl/hilfsmittelfrei.qmd
+              - v8_ma/leitidee_1_zahl/literatur.qmd
+          - section: "Leitidee 5 - Daten und Zufall"
+            href: v8_ma/leitidee_5_daten_und_zufall/index.qmd
+            contents:
+              - v8_ma/leitidee_5_daten_und_zufall/daten.qmd
+              - v8_ma/leitidee_5_daten_und_zufall/literatur.qmd
+          - v8_ma/kompetenzmodell.qmd
       - section: "VERA8 Englisch"
         href: v8_en/index.qmd
       - section: "VERA8 Französisch"
