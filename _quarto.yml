@@ -59,6 +59,8 @@ website:
       - section: "VERA8 Mathematik"
         href: v8_ma/index.qmd
         contents:
+          - href: v8_ma/kompetenzmodell.qmd
+            name: Kompetenzmodell
           - section: "Leitidee 1 - Zahl"
             href: v8_ma/leitidee_1_zahl/index.qmd
             contents:
@@ -69,8 +71,6 @@ website:
             contents:
               - v8_ma/leitidee_5_daten_und_zufall/daten.qmd
               - v8_ma/leitidee_5_daten_und_zufall/literatur.qmd
-          - href: v8_ma/kompetenzmodell.qmd
-            name: Kompetenzmodell
       - section: "VERA8 Englisch"
         href: v8_en/index.qmd
       - section: "VERA8 Französisch"
