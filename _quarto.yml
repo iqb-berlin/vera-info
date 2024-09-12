@@ -60,7 +60,7 @@ website:
         href: v8_ma/index.qmd
         contents:
           - href: v8_ma/kompetenzmodell.qmd
-            name: Kompetenzmodell
+            text: Kompetenzmodell
           - section: "Leitidee 1 - Zahl"
             href: v8_ma/leitidee_1_zahl/index.qmd
             contents:
