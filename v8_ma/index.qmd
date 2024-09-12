@@ -1,4 +1,16 @@
 ---
-title: "VERA8 Mathematik - Überblick"
+title: "VERA-8 Mathematik"
+lang: de
 ---
 
+# Autor*innen
+
+Autor\*innen der fachdidaktischen Erläuterungen in Teil II sind Ilja Ay, Maxim Brnic, Corinna Hankeln, Marlena Meyer, Antonia Rewer und Laura Wirth. Die gezeigten Testaufgaben entstanden in Kooperation von Lehrkräften aus zehn Bundesländern und Fachdidaktiker\*innen unter Federführung der Arbeitsgruppe Prof. Greefrath, Universität Münster (fachdidaktische Leitung) und des Instituts zur Qualitätsentwicklung im Bildungswesen.
+
+# Haftungsausschluss
+
+Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für Richtigkeit, Vollständigkeit und Aktualität der eigenen Inhalte und der Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
+
+> Kasten mit Verlinkung: 
+Wussten Sie, dass Sie viele VERA-Aufgaben und Didaktische Materialien auch online finden können?
+www.iqb.hu-berlin.de/vera/aufgaben

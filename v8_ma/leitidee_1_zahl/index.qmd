@@ -1,0 +1,32 @@
+---
+title: "Die Leitidee *Zahl*"
+lang: de
+---
+
+Für die Leitidee *Zahl* werden die inhaltsbezogenen mathematischen Kompetenzen in den Bildungsstandards für den *mittleren Schulabschluss* folgendermaßen konkretisiert (KMK, 2004, S. 10):
+
+*Die Schüler\*innen*
+
+* *nutzen sinntragende Vorstellungen von rationalen Zahlen, insbesondere von natürlichen, ganzen und gebrochenen Zahlen entsprechend der Verwendungsnotwendigkeit,* 
+* *stellen Zahlen der Situation angemessen dar, unter anderem in Zehnerpotenzschreibweise,*
+* *begründen die Notwendigkeit von Zahlbereichserweiterungen an Beispielen,*
+* *nutzen Rechengesetze, auch zum vorteilhaften Rechnen,*
+* *nutzen zur Kontrolle Überschlagsrechnungen und andere Verfahren,*
+* *runden Rechenergebnisse entsprechend dem Sachverhalt sinnvoll,*
+* *verwenden Prozent- und Zinsrechnung sachgerecht,*
+* *erläutern an Beispielen den Zusammenhang zwischen Rechenoperationen und deren Umkehrungen und nutzen diese Zusammenhänge,*
+* *wählen, beschreiben und bewerten Vorgehensweisen und Verfahren, denen Algorithmen bzw. Kalküle zu Grunde liegen,*
+* *führen in konkreten Situationen kombinatorische Überlegungen durch, um die Anzahl der jeweiligen Möglichkeiten zu bestimmen,*
+* *prüfen und interpretieren Ergebnisse in Sachsituationen unter Einbeziehung einer kritischen Einschätzung des gewählten Modells und seiner Bearbeitung.*
+
+In den Bildungsstandards im Fach Mathematik für den Hauptschulabschluss wird dem (Kopf-)Rechnen eine größere Rolle zugeschrieben, während Begründungen zur Notwendigkeit für Zahlbereichserweiterungen hier nicht gefordert werden (KMK, 2004; KMK, 2005). Ansonsten beinhalten die Bildungsstandards zur Leitidee *Zahl* in beiden Versionen im Wesentlichen dieselben inhaltsbezogenen Kompetenzen.
+
+Die beschriebenen inhaltsbezogenen Kompetenzen erfordern den Aufbau und die Anpassung eines Zahlbegriffs im Laufe der Sekundarstufe I. Die Schüler\*innen sollen befähigt werden, den Zahlbegriff flexibel zu gebrauchen und mit entsprechenden Repräsentanten umzugehen. Darüber hinaus bedeutet das, dass Schüler\*innen die Bedeutung und Sinnhaftigkeit der unterschiedlichen Zahlenbereiche erfahren. Diese Anforderungen werden auch im VERA-8 Kontext aufgegriffen.
+
+So ist es notwendig, dass die Schüler\*innen bei den Zahlbereichserweiterungen ihr individuelles System an Regeln, Merkhilfen und verinnerlichten Gesetzmäßigkeiten bei adäquaten Lerngelegenheiten auf (andauernde) Gültigkeit hin überprüfen. Dabei ist sowohl eine souveräne Handhabung der Rechenoperationen als auch die Nutzung von Rechengesetzen zum vorteilhaften Rechnen ein Ziel. Des Weiteren sollen Schüler\*innen in der Lage sein, Überschlagsrechnungen zu nutzen.
+
+Der Kompetenzaufbau erfolgt dabei insbesondere aus realitätsbezogenen Anwendungen heraus, wie zum Beispiel der Prozent- und Zinsrechnung. Dies bedeutet, dass der Aufbau eines adäquaten Zahlbegriffs nicht losgelöst von den eigenen Umwelterfahrungen eingeführt werden soll.
+
+Diese vielfältigen Facetten der Leitidee *Zahl* werden auch im VERA-Kontext aufgegriffen:
+
+> Verlinkung zu den Schwerpunktthemen (hilfsmittelfrei etc.)
