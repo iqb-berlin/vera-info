@@ -1,9 +1,13 @@
 ---
 title: "Die Leitidee *Zahl*"
 lang: de
+bibliography:
+- bibliography.bib
+- ../bibliography.bib
+csl: ../../apa.csl
 ---
 
-Für die Leitidee *Zahl* werden die inhaltsbezogenen mathematischen Kompetenzen in den Bildungsstandards für den *mittleren Schulabschluss* folgendermaßen konkretisiert (KMK, 2004, S. 10):
+Für die Leitidee *Zahl* werden die inhaltsbezogenen mathematischen Kompetenzen in den Bildungsstandards für den *mittleren Schulabschluss* folgendermaßen konkretisiert [@KMK_MSA2004, S. 10]:
 
 *Die Schüler\*innen*
 
@@ -19,7 +23,7 @@ Für die Leitidee *Zahl* werden die inhaltsbezogenen mathematischen Kompetenzen 
 * *führen in konkreten Situationen kombinatorische Überlegungen durch, um die Anzahl der jeweiligen Möglichkeiten zu bestimmen,*
 * *prüfen und interpretieren Ergebnisse in Sachsituationen unter Einbeziehung einer kritischen Einschätzung des gewählten Modells und seiner Bearbeitung.*
 
-In den Bildungsstandards im Fach Mathematik für den Hauptschulabschluss wird dem (Kopf-)Rechnen eine größere Rolle zugeschrieben, während Begründungen zur Notwendigkeit für Zahlbereichserweiterungen hier nicht gefordert werden (KMK, 2004; KMK, 2005). Ansonsten beinhalten die Bildungsstandards zur Leitidee *Zahl* in beiden Versionen im Wesentlichen dieselben inhaltsbezogenen Kompetenzen.
+In den Bildungsstandards im Fach Mathematik für den Hauptschulabschluss wird dem (Kopf-)Rechnen eine größere Rolle zugeschrieben, während Begründungen zur Notwendigkeit für Zahlbereichserweiterungen hier nicht gefordert werden [@KMK_HSA2005; @KMK_MSA2004]. Ansonsten beinhalten die Bildungsstandards zur Leitidee *Zahl* in beiden Versionen im Wesentlichen dieselben inhaltsbezogenen Kompetenzen.
 
 Die beschriebenen inhaltsbezogenen Kompetenzen erfordern den Aufbau und die Anpassung eines Zahlbegriffs im Laufe der Sekundarstufe I. Die Schüler\*innen sollen befähigt werden, den Zahlbegriff flexibel zu gebrauchen und mit entsprechenden Repräsentanten umzugehen. Darüber hinaus bedeutet das, dass Schüler\*innen die Bedeutung und Sinnhaftigkeit der unterschiedlichen Zahlenbereiche erfahren. Diese Anforderungen werden auch im VERA-8 Kontext aufgegriffen.
 

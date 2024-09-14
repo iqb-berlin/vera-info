@@ -1,32 +1,13 @@
 ---
 title: "Literaturverzeichnis"
 lang: de
+bibliography:
+- bibliography.bib
+- ../bibliography.bib
+csl: ../../apa.csl
+nocite: |
+  @*
 ---
 
-Blum, W. (2010). Einführung. In W. Blum, C. Drüke-Noe, R. Hartung, & O. Köller (Hrsg.), Bildungsstandards Mathematik: konkret. Sekundarstufe I: Aufgabenbeispiele, Unterrichtsanregungen, Fortbildungsideen (S. 14–32). Berlin: Cornelsen.
-
-Greefrath, G. (2018). Anwendungen und Modellieren im Mathematikunterricht. Didaktische Perspektiven des Sachrechnens in der Sekundarstufe. Berlin: Springer Spektrum.
-
-https://www.kmk.org/themen/qualitaetssicherung-in-schulen/bildungsstandards.html
-
-KIRA DZLM. (2022, 08. März). Überschlagsrechnen. Zugriff am 15.11.2022, Verfügbar unter https://kira.dzlm.de/node/131
-
-Klieme, E., Avenarius, H., Blum, W., Döbrich, P., Gruber, H., Prenzel, M., Reiss, K., Riquarts, K., Rost, J., Tenorth, H.-E. & Vollmer, H. J. (2003). Zur Entwicklung nationaler Bildungsstandards. In BMBF (Hrsg.), Bildungsreform Band 1. Zur Entwicklung nationaler Bildungsstandards: Eine Expertise (S. 7–174). Berlin.
-
-KMK (2004): Bildungsstandards im Fach Mathematik für den Mittleren Schulabschluss. Beschluss vom 4.12.2003. München: Luchterhand.
-
-KMK (2005): Bildungsstandards im Fach Mathematik für den Hauptschulabschluss. Beschluss vom 15.10.2004. München, Neuwied: Luchterhand.
-
-KMK (2005b). Bildungsstandards im Fach Mathematik für den Primarbereich. Beschluss vom 15.10.2004. München, Neuwied: Luchterhand.
-
-KMK (2015). Bildungsstandards im Fach Mathematik für die Allgemeine Hochschulreife (Beschluss der Kultusministerkonferenz vom 18.10.2012). Köln: Carl Link.
-
-Leiss, D. & Blum, W. (2010). Beschreibung zentraler mathematischer Kompetenzen. In W. Blum, C. Drüke-Noe, R. Hartung & O. Köller (Hrsg.), Bildungsstandards Mathematik: konkret. Sekundarstufe I: Aufgabenbeispiele, Unterrichtsanregungen, Fortbildungsideen (S. 33–50). Berlin: Cornelsen.
-
-OECD (2013). PISA 2012 Assessment and Analytical Framework: Mathematics, Reading, Science, Problem Solving and Financial Literacy. OECD Publishing. 
-
-Stiftung Rechnen (2009). Rechnen in Deutschland. Eine Studie der Stiftung Rechnen und bettermarks. Zugriff am 15.11.2022. Verfügbar unter https://www.stiftungrechnen.de/wp-content/uploads/2021/03/Ergebnisbericht-Studie-Rechnen-in-Deutschland.pdf
-
-van den Heuvel-Panhuizen, M. (2008). Estimation. In M. van den Heuvel-Panhuizen (Hrsg.), Children learn mathematics: A learning-teaching trajectory with intermediate attainment targets for calculation with whole numbers in primary school (S. 173–202). Sense Publishers.
-
-Winter, H. (1995). Mathematikunterricht und Allgemeinbildung. Mitteilungen der Gesellschaft für Didaktik der Mathematik 21(61), 37–46.  
+::: {#refs}
+:::
