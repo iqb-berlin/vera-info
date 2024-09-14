@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -313,7 +333,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Für die Leitidee <em>Zahl</em> werden die inhaltsbezogenen mathematischen Kompetenzen in den Bildungsstandards für den <em>mittleren Schulabschluss</em> folgendermaßen konkretisiert (KMK, 2004, S. 10):</p>
+<p>Für die Leitidee <em>Zahl</em> werden die inhaltsbezogenen mathematischen Kompetenzen in den Bildungsstandards für den <em>mittleren Schulabschluss</em> folgendermaßen konkretisiert <span class="citation" data-cites="KMK_MSA2004">(<a href="#ref-KMK_MSA2004" role="doc-biblioref">KMK Kultusministerkonferenz, 2004, S. 10</a>)</span>:</p>
 <p><em>Die Schüler*innen</em></p>
 <ul>
 <li><em>nutzen sinntragende Vorstellungen von rationalen Zahlen, insbesondere von natürlichen, ganzen und gebrochenen Zahlen entsprechend der Verwendungsnotwendigkeit,</em></li>
@@ -328,7 +348,7 @@ ul.task-list li input[type="checkbox"] {
 <li><em>führen in konkreten Situationen kombinatorische Überlegungen durch, um die Anzahl der jeweiligen Möglichkeiten zu bestimmen,</em></li>
 <li><em>prüfen und interpretieren Ergebnisse in Sachsituationen unter Einbeziehung einer kritischen Einschätzung des gewählten Modells und seiner Bearbeitung.</em></li>
 </ul>
-<p>In den Bildungsstandards im Fach Mathematik für den Hauptschulabschluss wird dem (Kopf-)Rechnen eine größere Rolle zugeschrieben, während Begründungen zur Notwendigkeit für Zahlbereichserweiterungen hier nicht gefordert werden (KMK, 2004; KMK, 2005). Ansonsten beinhalten die Bildungsstandards zur Leitidee <em>Zahl</em> in beiden Versionen im Wesentlichen dieselben inhaltsbezogenen Kompetenzen.</p>
+<p>In den Bildungsstandards im Fach Mathematik für den Hauptschulabschluss wird dem (Kopf-)Rechnen eine größere Rolle zugeschrieben, während Begründungen zur Notwendigkeit für Zahlbereichserweiterungen hier nicht gefordert werden <span class="citation" data-cites="KMK_HSA2005 KMK_MSA2004">(<a href="#ref-KMK_MSA2004" role="doc-biblioref">KMK Kultusministerkonferenz, 2004</a>, <a href="#ref-KMK_HSA2005" role="doc-biblioref">2005</a>)</span>. Ansonsten beinhalten die Bildungsstandards zur Leitidee <em>Zahl</em> in beiden Versionen im Wesentlichen dieselben inhaltsbezogenen Kompetenzen.</p>
 <p>Die beschriebenen inhaltsbezogenen Kompetenzen erfordern den Aufbau und die Anpassung eines Zahlbegriffs im Laufe der Sekundarstufe I. Die Schüler*innen sollen befähigt werden, den Zahlbegriff flexibel zu gebrauchen und mit entsprechenden Repräsentanten umzugehen. Darüber hinaus bedeutet das, dass Schüler*innen die Bedeutung und Sinnhaftigkeit der unterschiedlichen Zahlenbereiche erfahren. Diese Anforderungen werden auch im VERA-8 Kontext aufgegriffen.</p>
 <p>So ist es notwendig, dass die Schüler*innen bei den Zahlbereichserweiterungen ihr individuelles System an Regeln, Merkhilfen und verinnerlichten Gesetzmäßigkeiten bei adäquaten Lerngelegenheiten auf (andauernde) Gültigkeit hin überprüfen. Dabei ist sowohl eine souveräne Handhabung der Rechenoperationen als auch die Nutzung von Rechengesetzen zum vorteilhaften Rechnen ein Ziel. Des Weiteren sollen Schüler*innen in der Lage sein, Überschlagsrechnungen zu nutzen.</p>
 <p>Der Kompetenzaufbau erfolgt dabei insbesondere aus realitätsbezogenen Anwendungen heraus, wie zum Beispiel der Prozent- und Zinsrechnung. Dies bedeutet, dass der Aufbau eines adäquaten Zahlbegriffs nicht losgelöst von den eigenen Umwelterfahrungen eingeführt werden soll.</p>
@@ -339,7 +359,15 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-</main> <!-- /main -->
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">Literatur</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-KMK_MSA2004" class="csl-entry" role="listitem">
+KMK Kultusministerkonferenz. (2004). <em>Bildungsstandards im Fach Mathematik für den Mittleren Schulabschluss: Beschluss vom 4.12.2003</em>. Luchterhand.
+</div>
+<div id="ref-KMK_HSA2005" class="csl-entry" role="listitem">
+KMK Kultusministerkonferenz. (2005). <em>Bildungsstandards im Fach Mathematik für den Hauptschulabschluss: Beschluss vom 15.10.2004</em>. Luchterhand.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
