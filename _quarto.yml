@@ -73,7 +73,9 @@ website:
               - v8_ma/leitidee_5_daten_und_zufall/literatur.qmd
       - section: "VERA8 Englisch"
         href: v8_en/index.qmd
-      - section: "VERA8 Französisch"
+        contents:
+          - href: v8_en/kompetenzmodell.qmd
+            text: Kompetenzmodell      - section: "VERA8 Französisch"
         href: v8_fr/index.qmd
 
 

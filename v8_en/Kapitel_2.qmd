@@ -1,3 +1,7 @@
+---
+title: "Kompetenzorientierung"
+lang: de
+---
 ## 2. Kompetenzorientierung und Bezug zu den Bildungsstandards
 
 ### 2.1 Bildungsstandards und Niveaus des Gemeinsamen Europäischen Referenzrahmens (GER)

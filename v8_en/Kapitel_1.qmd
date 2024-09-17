@@ -1,5 +1,7 @@
-## 1. Allgemeine Erläuterungen im Fach Englisch
-
+---
+title: "Allgemeine Eräuterungen"
+lang: de
+---
 Die Bildungsstandards für die Erste Fremdsprache (Englisch/Französisch) sind aufgrund eines Beschlusses der Kultusministerkonferenz seit dem Schuljahr 2004/2005 bzw. 2005/2006 verbindliche Zielvorgaben für die Lehrplanentwicklung und die Lehrerbildung. Sie differenzieren nach angestrebtem Schulabschluss (HSA/MSA) und werden vom IQB in konkrete Testaufgaben umgesetzt („operationalisiert“).
 
 Entscheidend für das Konzept der Bildungsstandards ist damit erstens, dass diese auf eine (kumulativ zu erweiternde) Basis theoretischen Fachwissens aufbauen. Da der Fokus auf der Lösung von fachlichen Problemen liegt, v.a. dem tatsächlichen Handeln(-können) und dem reflexiv-kritischen Bewerten(-können), wird dies über einen langfristigen Kompetenzaufbau angestrebt.
