@@ -1,0 +1,112 @@
+---
+title: "Hörverstehen"
+lang: de
+---
+## 3. Kompetenzbereich Hörverstehen
+
+### 3.1 Didaktisches Stichwort: Hörverstehen
+
+Das Hörverstehen ist ein komplizierter mentaler Prozess, bei dem Sprachsignalen mit Hilfe von sprachlichem Wissen und Weltwissen Sinn zugeordnet wird. Dabei wirken Bottom-Up-Prozesse (Analyseprozesse des Gehörten) und Top-Down-Prozesse (Einbringen von Wissen und Erwartungen) zusammen. Anders als das Lesen verläuft das Hören in Echtzeit, außerdem sind die gehörten Signale flüchtig. Das bedeutet, dass die Überprüfung von Hörverstehen immer auch durch die Fähigkeit des Individuums zur Speicherung von Sprachdaten bestimmt wird. Gespeichert wird normalerweise nicht der Wortlaut eines Textes, sondern die beim Hören entstehenden Sinneinheiten.
+
+Hörverstehen gilt als wichtigste Kompetenz, denn die Alltagskommunikation besteht zu 45 % aus Hören. Sie ist ebenfalls unabdingbar für die Entwicklung anderer Kompetenzen, insbesondere des Sprechens. Während Hörverstehen in der Erstsprache wie selbstverständlich ganz nebenbei erfolgt, haben Fremdsprachenlerner vor allem mit authentischen Hörsituationen und -dokumenten nicht selten große Schwierigkeiten. Dies liegt zum einen an der oben dargestellten Komplexität des Hörverstehensprozesses.
+
+Insbesondere die Tatsache, dass Hörtexte i.d.R. flüchtig sind, setzt viele Schüler:innen unter Stress. Sie versuchen, möglichst alles zu verstehen, wobei bereits kurze Verstehenslücken zum Zusammenbrechen des Hörverstehens führen können. Außerdem wenden sie die erlernten Verstehensstrategien oft nicht oder nicht in ausreichendem Maße an. Dies liegt zum anderen daran, dass fremdsprachliche Hörer nicht über dasselbe sprachliche, inhaltliche und kulturelle Wissen verfügen wie Erstsprachenverwender. So kommt es zu Verstehenslücken und Missverständnissen oder sogar zum Abbruch des Hörvorgangs.
+
+Aber auch die Eigenschaften der Hörtexte und die Formulierung der Höraufgabe beeinflussen den Schwierigkeitsgrad des Hörverstehens. Wichtige Kriterien für die Ermittlung der Textschwierigkeit sind:
+
+- Die Textlänge
+- Die Sprechgeschwindigkeit (sie bestimmt die Geschwindigkeit des Verstehensprozesses)
+- Die Anzahl der Sprecher:innen
+- Art und Lautstärke der Hintergrundgeräusche (die Aussage unterstützende oder störende Geräusche)
+- Die verwendete Sprache (Standardsprache, Hochsprache oder Umgangssprache, regionaler Dialekt, Akzent)
+- Die Aussprache (prosodisch wenig markierte Sprache führt zu Schwierigkeiten bei der Segmentierung und Bildung größerer Sinneinheiten)
+- Der lexikalische und grammatische Anspruch (Häufigkeit oder Abstraktionsgrad der Begriffe, Komplexität der Satzstrukturen)
+- Die Textstruktur (einfacher klarer Aufbau vs. komplizierte schwer durchschaubare Gliederung)
+- Die Explizitheit der gegebenen Information
+- Die Vertrautheit der Hörer mit Thema/Inhalt/Hörsituation
+
+### 3.2 Globales Hörverstehen (Multiple-Choice-Task): Aufgabe India
+
+**Kompetenzstufe:** B2  
+**Hörstil:** Globales Hören  
+**Themenbereich:** Freizeit  
+**Textsorte:** Radioprogramm
+
+**Richtig:** Nur das 3. Kästchen wurde angekreuzt: c).
+
+**Diagnostisches Potenzial:**  
+Schüler:innen, die diese Aufgabe richtig lösen, können Dokumentarsendungen in Standardsprache verstehen. Das entspricht im Bereich des globalen Hörverstehens dem Niveau B2.
+
+**Beschreibung der Aufgabe:**  
+Die Aufgabe ist eine Multiple-Choice-Aufgabe bzw. Aufgabe mit Mehrfachauswahl. Es geht darum, aus vier Antwortmöglichkeiten die geeignetste Überschrift für diesen Radiobeitrag auszuwählen. Die richtige Antwort c) gibt die zentrale Aussage des Hörtextes wieder.
+
+**Textgrundlage:**  
+Ein authentischer Radiobeitrag von *Discovery Now*, einem täglich ausgestrahlten 90-Sekunden-Programm des National Institute of Aerospace, das besondere Themen aus dem Bereich der Luft- und Raumfahrt aufgreift. In dem vorliegenden Bericht geht es um den Bau des *Space World India*, einem *space-themed park* in der indischen Stadt Pune.
+
+**Thema:**  
+„Freizeitpark“ ist den Schüler:innen vertraut. Die Strukturen sind überwiegend einfach; es gibt wenige komplexere Satzgefüge. Der verwendete Wortschatz ist relativ komplex; einige der verwendeten Begriffe dürften auf dieser Stufe noch unbekannt sein. Voraussetzung für die erfolgreiche Bearbeitung der Aufgabe ist, dass die in den Antwortmöglichkeiten verwendete Lexik verstanden bzw. erschlossen wird.
+
+**Textmerkmale:**  
+Der Text ist mit einer Länge von ca. 1:12 Minuten recht kurz und hat eine hohe Informationsdichte mit sehr wenigen Redundanzen. Die Journalistin spricht mit amerikanischem Akzent; sie redet gut verständlich und in einem normalen Sprechtempo. Am Anfang und am Ende ist die Aufnahme mit Hintergrundmusik unterlegt.
+
+### 3.3 Selektives Hörverstehen (Short-Answer-Questions): Aufgabe Emergency
+
+**Kompetenzstufen:** A2  
+**Hörstil:** Selektives Hören  
+**Themenbereich:** Tägliches Leben  
+**Textsorte:** Telefongespräch
+
+**Richtig:**
+
+1. Zwei Autos  
+2. Vier Personen
+
+**Diagnostisches Potenzial:**  
+Die Aufgabe *Emergency* überprüft selektives Hörverstehen auf dem Niveau A2. Schüler:innen, die diese Aufgabe richtig lösen, können konkrete voraussagbare Informationen in kurzen, leicht verständlichen Aufnahmen von Mitteilungen über alltägliche Angelegenheiten verstehen. Hier können sie zeigen, dass sie einem einfachen Telefonat mit vorhersehbaren Inhalten bestimmte explizit gegebene Informationen entnehmen können (z. B. Orts- oder Zahlangaben).
+
+**Beschreibung der Aufgabe:**  
+Textgrundlage ist ein Notruf: Der Anrufer informiert den Rettungsdienst über einen Autounfall auf dem Highway 1, in den vier Personen und zwei Wagen verwickelt sind. Das Thema „Unfall“ ist zwar konkret, gehört aber nicht unbedingt zum Erfahrungsbereich der Schüler:innen.
+
+### 3.4 Detailliertes Hörverstehen (Short-Answer-Questions): Aufgabe New Gym
+
+**Kompetenzstufen:** B1/B2  
+**Hörstil:** Detailliertes Hören  
+**Themenbereich:** Schule/Sport  
+**Textsorte:** Aufruf
+
+**Richtig:**  
+Zwei der folgenden Alternativen werden genannt:
+
+- take pictures
+- document the situation
+- hang up pictures
+- gather/collect signatures (for principal)
+- involve/contact/ tell parents
+- involve/contact TV station
+- involve/contact local newspaper
+- inform people
+
+**Diagnostisches Potenzial:**  
+In der Aufgabe *New Gym* wird detailliertes Hörverstehen auf den Niveaus B1/B2 überprüft. Schüler:innen, die diese Aufgabe richtig lösen, können im Allgemeinen den Hauptpunkten von längeren Gesprächen folgen, die in ihrer Gegenwart geführt werden (B1). Sie sind in der Lage, einfache sachliche Informationen über die geläufigen Themen des Alltags- und Berufslebens zu verstehen und sowohl allgemeine Aussagen als auch spezifische Details zu erkennen, sofern deutlich und mit geläufigem Akzent gesprochen wird.
+
+**Beschreibung der Aufgabe:**  
+Gegenstand dieses Hörtextes ist der Aufruf einer Schülerin, die sich als Klassensprecherin vor Schüler:innen darüber beschwert, dass die Sporthalle der Schule in einem schlechten Zustand ist.
+
+### 3.5 Materialien zur Entwicklung des Hörverstehens
+
+#### Entwicklung von Tipps zum Hörverstehen
+
+**Vor dem Hören:**
+
+- Ich lese die Überschrift und Aufgabe.
+- Ich überlege, worum es gehen könnte.
+- Ich entscheide, ob ich mich nur auf einzelne Informationen konzentrieren oder den Text vollständig verstehen muss.
+
+**Beim Hören:**
+
+- Ich versuche zu verstehen, worum es geht.
+- Ich konzentriere mich auf die gesuchte Information.
+
+**Nach dem Hören:**
+
+- Ich kombiniere einzelne Informationen, um die richtige Lösung zu finden.

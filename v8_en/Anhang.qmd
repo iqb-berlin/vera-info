@@ -1,0 +1,32 @@
+## 7. Anhang
+
+### Was erwarte ich von welchem Text?
+
+**Tabelle 7: So könnte eine ausgefüllte Übersicht über Textsortenmerkmale z. B. aussehen:**
+
+| **Was für ein Text ist es?** | **Was will der Verfasser?** | **Wie ist der Text aufgebaut?** | **Was ist typisch für die Sprache?** |
+|------------------------------|-----------------------------|---------------------------------|-------------------------------------|
+| **Fiktionale Texte**          |                             |                                 |                                     |
+| Erzählung                    | unterhalten/belehren über Ereignisse/Erfahrungen informieren | - Einführung - Ereignisse/Entwicklung (Spannungsbogen) - Schluss | - Verben (Handlung) - Adverbien (Art und Weise, Ort, Zeit) - Adjektive |
+| Märchen                      |                             |                                 |                                     |
+| Kurzgeschichte               |                             |                                 |                                     |
+| Gedicht                      | unterhalten/Gefühle äußern/hervorrufen | - Verse - Strophen | - strukturierte Sprache - Stilmittel (Reim, Wiederholung) - hohe Informationsdichte |
+| Liedtext                     |                             |                                 |                                     |
+
+| **Sach- und Gebrauchstexte** | 
+| Anleitung                    | Anweisungen für bestimmte Handlungen geben | - Überschrift - Übersicht über Materialien/Zutaten + Mengenangaben | Handlungsschritte - Erläuterungen | - keine Pronomen - Verben im Imperativ - Adverbien (Art und Weise, Ort, Zeit) |
+| Rezept                       |                             |                                 |                                     |
+| Programm                     | informieren                | - Zeitangaben - Programmpunkte | - Stichpunkte - Nominalisierung     |
+| Bericht                      | informieren                | - Überschrift - Beschreibungen | - Verben (sein, haben), Präsens - Nominalisierung/evtl. Fachsprache - sachlicher/neutraler Ton |
+| Werbetext                    | werben/informieren         | - Überschrift - Beschreibung - ansprechendes Layout | - Adjektive, Steigerungsformen - Verben (Imperativ) - knappe Slogans |
+| Kommentar                    | Meinung äußern und belegen/Leser überzeugen | - These/Position - Argumente, Belege - Schlussfolgerung | - Standardsprache - Konnektoren, Konjunktionen - Nominalisierung, Modalverben |
+| Leserbrief                   |                             |                                 |                                     |
+| Rezension                    |                             |                                 |                                     |
+| Karikatur                    | Meinung äußern/unterhalten | - Titel - Illustration - Sprechblasen/Bildunterschrift | - kurze Sätze - Umgangssprache in Sprechblasen - aussagekräftige Bilder |
+| Auszug aus Nachschlagewerk   | etwas beschreiben/erläutern/begründen | - Beschreibung des Gegenstandes - detaillierte Informationen zu den Zusammenhängen (Abläufe, Ursachen) | - Verben - Fachsprache - Nominalisierung - hohe Informationsdichte |
+| Grafik                       | erläutern/veranschaulichen/informieren | - Titel - Illustration - Beschriftung/Daten | - Darstellungsform: Säulen-/Linien-/Kreisdiagramm - Stichpunkte, Nominalisierung |
+| Geschäftsbrief               | Informationen/Gedanken austauschen/Kontakt herstellen/halten | - Anrede - Hauptteil - Schlussformel | - Standardsprache in formalen Schreiben/Standard- und Umgangssprache in persönlichen Schreiben - Personalpronomen |
+| Persönlicher Brief           |                             |                                 |                                     |
+| E-Mail                       |                             |                                 |                                     |
+| Interview                    | Expertenwissen/persönliche Meinungen erfassen | - Frage - Antwort | - Dialogform - direkte Rede |
+

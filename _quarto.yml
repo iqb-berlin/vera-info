@@ -73,6 +73,12 @@ website:
               - v8_ma/leitidee_5_daten_und_zufall/literatur.qmd
       - section: "VERA8 Englisch"
         href: v8_en/index.qmd
+        contents:
+          - v8_en/Kapitel_1.qmd
+          - v8_en/Kapitel_2.qmd
+          - v8_en/Kapitel_3.qmd
+          - v8_en/Kapitel_4.qmd
+          - v8_en/literature.qmd
       - section: "VERA8 Französisch"
         href: v8_fr/index.qmd
 
