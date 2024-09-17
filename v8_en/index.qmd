@@ -1,4 +1,36 @@
 ---
-title: "VERA8 Englisch - Überblick"
+title: "VERA8 Englisch"
+lang: de
 ---
+# Vergleichsarbeiten 2024
+
+## 8. Jahrgangsstufe (VERA-8)
+
+### Englisch
+#### DIDAKTISCHE HANDREICHUNG
+#### Teil II
+
+### Fachdidaktische Orientierung
+
+## Inhaltsverzeichnis
+
+1. [Allgemeine Erläuterungen im Fach Englisch](Kapitel_1.qmd)
+2. [Kompetenzorientierung und Bezug zu den Bildungsstandards](Kapitel_2.qmd)
+    1. [Bildungsstandards und Niveaus des Gemeinsamen Europäischen Referenzrahmens (GER)]
+    2. [Kompetenzmodell
+3. [Kompetenzbereich Hörverstehen](Kapitel_3.qmd)
+    1. [Didaktisches Stichwort: Hörverstehen]
+    2. [Globales Hörverstehen (Multiple-Choice-Task): Aufgabe India]
+    3. [Selektives Hörverstehen (Short-Answer-Questions): Aufgabe Emergency]
+    4. [Detailliertes Hörverstehen (Short-Answer-Questions): Aufgabe New Gym]
+    5. [Materialien zur Entwicklung des Hörverstehens]
+4. [Kompetenzbereich Leseverstehen](Kapitel_4.qmd)
+    1. [Didaktisches Stichwort: Leseverstehen]
+    2. [Globales Leseverstehen (Multiple-Choice-Task): Aufgabe Letter to Granny]
+    3. [Selektives Leseverstehen (Short-Answer-Questions): Aufgabe Crocodylus Park]
+    4. [Detailliertes Leseverstehen (Multiple-Matching): Aufgabe Gymnastics
+    5. [Materialien zur Entwicklung des Leseverstehens]
+5. [Literaturverzeichnis](literature.qmd)
+6. [Tabellenverzeichnis]
+7. [Anhang](Anhang.qmd)
 

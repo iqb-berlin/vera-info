@@ -1,0 +1,86 @@
+## 4. Kompetenzbereich Leseverstehen
+
+### 4.1 Didaktisches Stichwort: Leseverstehen
+
+Noch vor wenigen Jahren konzentrierte sich das Leseverstehen auf das Erfassen kohärenter, handschriftlich verfasster oder gedruckter Texte. Durch den zunehmenden Gebrauch elektronischer Medien (insbesondere Internet, E-Mail, SMS, Kommunikationsplattformen, soziale Netzwerke) und die damit einhergehende Ausdifferenzierung von Textsorten (z. B. diskontinuierliche Texte, Hypertexte) sowie Schreibstilen (z. B. Gebrauch von Formen des Mündlichen in schriftlichen Texten wie Chats oder Blogs) ist eine deutlich größere Vielfalt entstanden. Das zentrale Ziel der Förderung schulischen Leseverstehens besteht in der Befähigung der Schüler:innen zur gezielten Auswahl und flexiblen Anwendung eines der Textsorte, des Leseinteresses bzw. Leseziels und der Umstände angemessenen Lesestils sowie entsprechender Strategien.
+
+Lesen ist eine hoch komplexe, interaktive und kreative Tätigkeit, bei der aus dem Zusammenspiel von Textinformationen und Lesererwartungen Bedeutung entsteht. Sie besteht aus mehreren parallel verlaufenden Phasen, bei denen Bottom-Up-Prozesse (Analyseprozesse der sprachlichen Zeichen und ihrer graphischen Anordnung) und Top-Down-Prozesse (Einbringen von Wissen und Erwartungen) zusammenspielen. Gute Leser:innen sind in der Lage, ein der Textsorte und dem Lesestil angepasstes Maß an Erwartung/Voraussage und Überprüfung einzusetzen. Dazu ist es u. U. notwendig, dass sie bereits dekodierte Passagen erneut lesen und ihre Vorstellung von der Bedeutung korrigieren.
+
+Fremdsprachliches Lesen unterscheidet sich nicht grundsätzlich von muttersprachlichem. Typisch ist jedoch eine verminderte Leseflüssigkeit, die insbesondere durch eingeschränkte Wortschatzkenntnisse und geringeres Hintergrundwissen verursacht wird. Außerdem werden die muttersprachlichen Lesefertigkeiten nicht automatisch auf die Fremdsprache übertragen. Für die Schulung fremdsprachlichen Lesens sind daher intensive Wortschatzarbeit, das Einüben von Lesestrategien und das Automatisieren von Grundfertigkeiten wichtig.
+
+### 4.2 Globales Leseverstehen (Multiple-Choice-Task): Aufgabe Letter to Granny
+
+**Kompetenzstufe:** A2  
+**Lesestil:** Globales Lesen  
+**Themenbereich:** Familie/Geburtstag  
+**Textsorte:** Brief
+
+**RICHTIG:**  
+Nur das 2. Kästchen wurde angekreuzt: b).
+
+**Diagnostisches Potenzial:**  
+Schüler:innen, die in der Lage sind, diese Aufgabe richtig zu lösen, können die Hauptaussage kurzer, einfacher Texte zu einem vertrauten, konkreten Thema verstehen.
+
+**Beschreibung der Aufgabe:**  
+Bei der Aufgabe handelt es sich um eine Multiple-Choice-Aufgabe, bei der die Schüler:innen die Hauptaussage eines kurzen Briefes erkennen sollen. Der Brief handelt von einem Geburtstag und enthält einfache, alltägliche Sprache. Die Schüler:innen müssen aus den gegebenen Antwortmöglichkeiten die richtige auswählen, die die Hauptaussage des Briefes am besten zusammenfasst.
+
+### 4.3 Selektives Leseverstehen (Short-Answer-Questions): Aufgabe Crocodylus Park
+
+**Kompetenzstufen:** A2/B1/B2  
+**Lesestil:** Selektives Lesen  
+**Themenbereich:** Freizeit  
+**Textsorte:** Werbung
+
+**RICHTIG:**  
+1. Eine der Alternativen wird genannt: 
+   - 30 cm 
+   - 12 inches  
+2. Eine der Alternativen wird genannt: 
+   - half a ton 
+   - 500 kg  
+3. Eine der Alternativen wird genannt: 
+   - police station 
+   - police centre 
+   - (the entrance to the) Berrimah Police Centre  
+4. Der Punkt wird nur vergeben, wenn die beiden Buslinien 5 und 9 genannt werden.  
+5. $12.50
+
+**Diagnostisches Potenzial:**  
+Schüler:innen, die in der Lage sind, die Teilaufgaben 1, 4 und 5 richtig zu lösen, können überwiegend einfachen, kurzen Broschüren spezifische Informationen (z. B. Namen und Zahlwörter) entnehmen. Dies entspricht im Bereich des selektiven Lesens dem Niveau A2. Schüler:innen, die die Teilaufgaben 2 und 3 richtig bearbeiten, haben bereits das Niveau B2 bzw. B1 erreicht. Sie lassen sich auch durch seltenere Begriffe oder komplexere Strukturen beim Auffinden der gesuchten Informationen nicht irritieren.
+
+**Beschreibung der Aufgabe:**  
+Textgrundlage ist ein kurzes Werbematerial des australischen Crocodylus Park. Die Aufgabe verlangt von den Schüler:innen, bestimmte Informationen, wie Maße und Orte, aus dem Text herauszufiltern und korrekt wiederzugeben.
+
+### 4.4 Detailliertes Leseverstehen (Multiple-Matching): Aufgabe Gymnastics
+
+**Kompetenzstufen:** A2/B1  
+**Lesestil:** Detailliertes Lesen  
+**Themenbereich:** Sport  
+**Textsorte:** Übungsanleitung
+
+**Diagnostisches Potenzial:**  
+Schüler:innen, die in der Lage sind, diese Aufgabe richtig zu lösen, können die Hauptaussagen einfacher Anleitungen verstehen, die im Alltag genutzt werden. Dies entspricht beim detaillierten Leseverstehen den Niveaus A2 bis B1.
+
+**Beschreibung der Aufgabe:**  
+Bei der Aufgabe handelt es sich um eine Zuordnungsaufgabe, bei der sechs verschiedene kurze Anweisungen zu gymnastischen Übungen entsprechenden Bildern zugeordnet werden müssen. Der verwendete Wortschatz umfasst geläufige Verben und Körperteile. Die Anweisungen sind einfach strukturiert und beinhalten hauptsächlich Hauptsätze.
+
+### 4.5 Materialien zur Entwicklung des Leseverstehens
+
+#### Entwicklung von Tipps zum Leseverstehen
+
+**Vor dem Lesen:**
+
+- Ich lese die Überschrift und Aufgabe und markiere die wichtigen Wörter.
+- Ich überprüfe, ob mir durch das Layout und/oder Illustrationen zusätzliche Informationen gegeben werden.
+- Ich überlege, was es für eine Textsorte ist, was ich von solch einem Text erwarte und ob ich den Text vollständig verstehen muss oder mich nur auf einzelne Textteile konzentrieren kann.
+
+**Beim Lesen:**
+
+- Ich verschaffe mir einen ersten Überblick über den Text.
+- Ich konzentriere mich auf die für die Antwort wesentlichen Textstellen.
+- Ich markiere wichtige Wörter und Textstellen.
+
+**Nach dem Lesen:**
+
+- Ich prüfe meine Antwort, indem ich sie nochmals mit dem Text abgleiche.
+- Eventuell kombiniere ich einzelne Informationen, um die richtige Lösung zu finden.

@@ -1,0 +1,23 @@
+---
+title: "VERA8 Englisch - Überblick"
+lang: de
+---
+
+9euf e9ruf erfre
+g
+er
+
+
+ge
+rg
+
+[Literatur siehe hier](literature.qmd)
+
+rgrtj trj pjtpjrt poj trgporj tj
+
+
+| Right | Left | Default | Center |
+|------:|:-----|---------|:------:|
+|   12  |  12  |    12   |    12  |
+|  123  |  123 |   123   |   123  |
+|    1  |    1 |     1   |     1  |
