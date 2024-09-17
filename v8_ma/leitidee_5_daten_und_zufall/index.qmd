@@ -1,0 +1,24 @@
+---
+title: "Die Leitidee *Daten und Zufall*"
+lang: de
+---
+
+In den Bildungsstandards im Fach Mathematik für den mittleren Schulabschluss werden unter der Leitidee *Daten und Zufall* die folgenden inhaltsbezogenen Kompetenzen zusammengefasst (KMK, 2004):
+
+*Die Schüler\*innen*
+
+* *werten graphische Darstellungen und Tabellen von statistischen Erhebungen aus,* 
+* *planen statistische Erhebungen,*
+* *sammeln systematisch Daten, erfassen sie in Tabellen und stellen sie graphisch dar, auch unter Verwendung geeigneter Hilfsmittel (wie Software),*
+* *interpretieren Daten unter Verwendung von Kenngrößen,*
+* *reflektieren und bewerten Argumente, die auf einer Datenanalyse basieren,*
+* *beschreiben Zufallserscheinungen in alltäglichen Situationen,*
+* *bestimmen Wahrscheinlichkeiten bei Zufallsexperimenten.*
+
+Diese Auflistung deckt sich mehrheitlich mit derjenigen für den *Hauptschulabschluss* (KMK, 2005), wobei vereinzelt Unterschiede identifiziert werden können. So hat in den Bildungsstandards für den Hauptschulabschluss die Datenanalyse einen geringeren Stellenwert. Dies wird dadurch ersichtlich, dass die Interpretation unter Verwendung von Kenngrößen sowie die bei einer Datenanalyse einhergehende Reflexion und Bewertung von Argumenten nicht explizit gefordert werden. Dass Schüler\*innen eine eigenständige Erhebung planen, wird ebenfalls nicht aufgegriffen. Stattdessen wird durch die inhaltsbezogenen Kompetenzen ein Alltagsbezug stärker betont. Schüler\*innen sollen sowohl (berechnete) Häufigkeiten und Mittelwerte als auch lebensnahe Wahrscheinlichkeitsaussagen im Kontext interpretieren können.
+
+Durch die aufgelisteten inhaltlichen Kompetenzen wird bereits ersichtlich, dass die Leitidee *Daten und Zufall* wesentliche Elemente der Stochastik enthält. Dabei ist sie aber nicht auf die Stochastik beschränkt, sondern kann u. a. funktionale Zusammenhänge, das Messen oder die Geometrie aufgreifen, beispielsweise im Umgang mit Daten oder bei systematischen Experimenten (Biehler & Hartung, 2010).
+
+Diese vielfältigen Facetten der Leitidee *Daten und Zufall* werden auch im VERA-Kontext aufgegriffen:
+
+> Verlinkung zu den Schwerpunktthemen (Daten etc.)

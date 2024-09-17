@@ -1,0 +1,92 @@
+---
+title: "Schwerpunktthema: *Umgang mit Daten*"
+lang: de
+---
+
+Diese didaktische Handreichung setzt im Folgenden einen Schwerpunkt auf den (stochastischen) Aspekt der *Daten*. Eine Schwerpunktsetzung auf diese Teilthematik bietet sich aus einem lebensnahen und einem didaktisch-bildungspolitischen Grund besonders an. Einerseits werden Schüler\*innen und Lehrkräfte tagtäglich mit unterschiedlichsten Daten konfrontiert, z. B. durch Statistiken in sozialen und digitalen Medien. Andererseits ist ein Wandel der Lehrpläne beobachtbar dadurch, dass der Datenaspekt in diesen stärker integriert wird.
+
+In den Bildungsstandards werden die Grunderfahrungen genannt, die Schüler\*innen in einem allgemeinbildenden Mathematikunterricht erfahren sollen. Eine dieser Grunderfahrungen beschreibt, dass die Welt auf eine mathematische Weise wahrgenommen werden soll (Winter, 1995, S. 37). Ausgehend von der Prämisse, dass sich gerade Stochastikunterricht durch einen Anwendungsbezug auszeichnet und als „anwendungsorientierter Unterricht“ bezeichnet werden kann, scheint dieser dazu prädestiniert zu sein, die eigene Umwelt in der Bedeutung von Winter auf mathematische Weise erfahrbar zu machen (Krüger et al., 2015, S. 7). Anhand des hier gewählten Schwerpunktes *Umgang mit Daten* ist diese Perspektive besonders nachvollziehbar, da Daten als „Zahlen mit einem Kontext“ aufgegriffen werden können (Biehler & Engel, 2015, S. 229). Die Auseinandersetzung mit Daten im Mathematikunterricht kann Erfahrungen in der eigenen Umwelt widerspiegeln, da Schüler\*innen in einer durch (empirische) Daten beeinflussten Welt leben.
+
+Die gesonderte gesellschaftliche Relevanz dieses Schwerpunktthemas *Umgang mit Daten* erfordert, dass Schüler\*innen sich differenziert mit Daten und ihren unterschiedlichen Repräsentationen beschäftigen und diese interpretieren können, was zum Beispiel bei der Konfrontation mit (datenlastigen) Beiträgen sozialer oder anderer Medien gefordert ist. Im Verständnis der Bildungsstandards werden darüber hinaus breitere Kompetenzen gefordert (Biehler & Hartung, 2010), etwa dass „nicht nur problematische Zeitungsberichte, sondern beispielsweise seriös für die Öffentlichkeit produzierte Veröffentlichungen von statistischen Ämtern zu verstehen … die Zielperspektive [ist]“ (Biehler & Hartung, 2010, S. 53). Es stellt sich somit die Frage, wie ein solcher breiter Kompetenzerwerb erreicht werden kann. Ein wesentlicher Aspekt zum Erreichen dieses Ziels ist, dass Lernende die Methode der statistischen Erhebung kennen(lernen) und dabei die einzelnen Phasen einer vollständigen statistischen Erhebung durchlaufen. Hierbei sind in den jeweiligen Phasen unterschiedliche mathematische Kompetenzen gefordert (vgl. Folgekapitel), wobei die Schüler\*innen zugleich wichtige Erfahrungen sammeln (Biehler & Hartung, 2010).
+
+# Phasen einer statistischen Erhebung
+
+Die mathematischen Kompetenzen, welche in den einzelnen Phasen einer vollständigen statistischen Erhebung eine zentrale Bedeutung haben, werden in der folgenden Tabelle 1 dargestellt:
+
+> Grafik fehlt
+
+Dabei ist zu beachten, dass alle weiteren mathematischen Kompetenzen abhängig von der einzelnen Problemstellung ebenfalls in den einzelnen Phasen bedeutsam sein können. Beispielsweise kann bei der *Auswertung* der Daten die Kompetenz *Mathematisch kommunizieren* benötigt werden, um die relevanten Informationen für die folgende Interpretation zu identifizieren. Es ist außerdem möglich, dass bei einer statistischen Untersuchung die Phasen mehrfach durchlaufen werden. Zum Beispiel kann bei der *Interpretation* festgestellt werden, dass noch weitere Daten benötigt werden, oder es können während des Prozesses neue Frage- bzw. Problemstellungen entstehen (Biehler & Engel, 2015; Krüger et al., 2015, S. 103).
+
+Mithilfe dieser Tabelle wird ebenfalls deutlich, dass eine statistische Erhebung nicht nur Kompetenzen im Umgang mit der Datenauswertung und den damit einhergehenden Berechnungen oder mathematischen Darstellungen erfordert. Unter anderem wird in den letzten Phasen der statistischen Erhebung sichtbar, dass insbesondere Verbalisierungen im Stochastikunterricht bedeutsam sind. Diese Rolle der mathematischen Sprache wird dadurch deutlich, dass die Kompetenzen *mathematisch* zu *argumentieren* und zu *kommunizieren* explizit gefordert und somit gezielt gefördert werden können (Krüger et al., 2015, S. 8).
+
+# Aspekte statistischen Denkens
+
+Eine zielgerechte Auseinandersetzung mit Problemstellungen beim *Umgang mit Daten* erfordert bei Schüler\*innen sogenanntes *statistisches Denken*. Dieses gilt es aufzubauen und ist in fünf Aspekte unterteilbar (Eichler & Vogel, 2013, S. XII; Vogel & Eichler, 2010; vgl. auch Biehler & Engel, 2015, S. 225; Wild & Pfannkuch, 1999).
+
+*1.	Erkennen der Notwendigkeit von Daten*
+
+Die Schüler\*innen sollen erkennen, dass erst auf Basis „guter“ Daten und entsprechender statistischer Auswertungen Entscheidungen und Aussagen getroffen werden können, die allgemein anerkannt sind und nicht nur einer subjektiven Ansicht und Überzeugung entsprechen.
+
+*2.	Flexible Repräsentation der relevanten Daten*
+
+Daten können nicht als „richtig“ oder „falsch“ kategorisiert werden, sondern müssen statistisch analysiert werden. Abhängig von der jeweiligen Problemstellung wird jeweils eine andere Analysemethode benötigt und die Daten können auf unterschiedliche Weise dargestellt werden. Die Auswahl der passenden Analyse- und Darstellungsmethode erfordert Wissen über die Potenziale und Grenzen dieser, sodass die Daten aus unterschiedlichen Perspektiven wahrgenommen werden können. Beispielsweise können Boxplots und Säulendiagramme zum gleichen Datensatz erstellt werden, würden aber unterschiedliche Informationen bereitstellen oder entsprechend vernachlässigen.
+
+*3.	Einsicht in die Variabilität statistischer Daten*
+
+Der Ausgang einer statistischen Erhebung kann nicht genau vorausgesagt werden. Dies wird insbesondere durch Experimente deutlich, z. B. dem 50-maligen Werfen eines sechsseitigen Würfels. Wenn dieses Experiment wiederholt wird, wird das Ergebnis der Erhebung (voraussichtlich) unterschiedlich ausfallen. Damit mit solchen stets unterschiedlichen Ergebnissen umgegangen werden kann, ist es bedeutsam, die Gründe für die Variabilität zu thematisieren. So können es erklärbare, unerwartete oder zufällige Variationen des Ergebnisses sein, es kann sich um einen Sonderfall handeln oder auf eine häufiger vorkommende Ursache zurückführen lassen.
+
+*4.	Erkennen von Mustern in den Daten und Beschreibung der Muster mit statistischen Modellen*
+
+Obwohl bei statistischen Erhebungen eine Variabilität vorhanden ist, sind trotzdem Muster in den Daten erkennbar. Würde man das Werfen eines Würfels mehrfach wiederholen, würden sich die Ergebnisse der Erhebungen voraussichtlich stets unterscheiden. Trotzdem wäre die Binomialverteilung als Muster identifizierbar und beschreibbar. Solche stochastischen Modelle können insbesondere in den höheren Jahrgangsstufen thematisiert werden und eignen sich dafür, den Umgang mit solchen Experimenten und Daten immer wieder aufzugreifen.
+
+*5.	Verbinden von Kontext und Statistik*
+
+Die Auswertung und Analyse von Daten sind für (reale) Kontexte relevant. Diese Erkenntnis muss von Schüler\*innen erst einmal erlangt werden. Beispielsweise sollte bei der Interpretation der Datenauswertung stets auch der Kontext beachtet werden, damit Interpretationsspielräume berücksichtigt werden. Den Schüler\*innen sollte also bewusst sein, dass sich die Daten und der Kontext gegenseitig bedingen.
+
+# Daten im VERA-8 Kontext
+
+Im VERA-8 Kontext sind Aufgaben zu finden, in denen der *Umgang mit Daten* geprüft wird. Mithilfe zweier Beispielaufgaben wird dies im Folgenden exemplarisch aufgezeigt. Dabei wird insbesondere dargelegt, welche Kompetenzen die Aufgaben erfordern und nach Möglichkeit Bezug zu den Phasen einer statistischen Erhebung und den Aspekten statistischen Denkens genommen.
+Dass eine statistische Untersuchung festgelegten und stringenten Phasen folgt und somit in einem allgemeinen Ablauf beschrieben werden kann, wird in der Aufgabe „Bistroumfrage“ (siehe Beispielaufgabe 1) aufgegriffen.
+
+> Grafik fehlt
+
+Bei dieser Aufgabe sollen Schüler\*innen Planungskarten an die richtigen Stellen eines Ablaufplans einer statistischen Untersuchung sortieren. Die Planungskarten spiegeln dabei die Phasen einer vollständigen statistischen Untersuchung wider: die Problemstellung – die Planung der Erhebung – die Datenerhebung – die Auswertung – die Interpretation – die Schlussfolgerung und den Ergebnisbericht (vgl. Kapitel Phasen einer statistischen Erhebung).
+
+> Verlinkung mit Kapitel?!
+
+Da hier aus einfachen mathematikhaltigen Texten bzw. der Abbildung Informationen zu den einzelnen Phasen entnommen werden müssen, ist hier die Kompetenz *Mathematisch kommunizieren* (K6) gefordert. Die Abbildung stellt dabei eine Möglichkeit dar, wie die Phasen im Unterricht dargestellt werden könnten. Die einzelnen Phasen werden in diesem Ablaufplan mit Handlungen verknüpft und somit operationalisiert.
+
+Bei der Auseinandersetzung mit der Problemstellung einer Untersuchung und dem Entwickeln eines Untersuchungsplans ist oftmals *Mathematisches Modellieren* (K3) die zentrale Kompetenz, auf die Schüler\*innen zurückgreifen müssen (siehe Tabelle 1). Anhand der folgenden Teilaufgabe wird dies deutlich, da Teilkompetenzen des Modellierens gebraucht werden (siehe Beispielaufgabe 2).
+
+> Grafik fehlt
+
+Bei dieser Teilaufgabe ist es die Teilkompetenz *Vereinfachen* des *Mathematischen Modellierens* (K3), die Schüler\*innen vordergründig benötigen. Für diese reale Situation – eine statistische Untersuchung zum Kaufverhalten im Schulbistro – müssen Annahmen getroffen werden. Dabei soll die Situation bzw. das Problem *vereinfacht* werden, damit das Ziel der Untersuchung, den Wochentag mit dem höchsten Getränkeumsatz zu finden, erreicht werden kann.
+
+Damit die Situation sinnentnehmend gelesen und verstanden werden kann sowie letztendlich die zugehörige richtige Fragestellung ausgewählt wird, ist die Kompetenz *Mathematisch kommunizieren* (K6) notwendig. Die in der Aufgabe formulierten Fragen können als Beispielfragen aufgefasst werden, die Schüler\*innen im Rahmen einer eigenen Untersuchung im Unterricht stellen könnten. Würden die Schüler\*innen im Unterricht tatsächlich eine eigene Erhebung durchführen oder es würde eine solche Aufgabe thematisiert werden, könnten noch weitere differenzierte Fragestellungen von den Schüler\*innen oder durch die Lehrkraft gestellt werden, z. B. „Wie viele Personen müssen befragt werden, sodass die Stichprobe repräsentativ ist?“ oder „Welche Antwortmöglichkeiten sollten angeboten werden?“. Darüber hinaus kann anhand dieser Aufgabe die Notwendigkeit von Daten für diese und vergleichbare Problemstellungen thematisiert werden. Dass gerade die Erhebung von Daten zu einem möglichst objektiven Erkenntnisgewinn beiträgt und so die Fragestellung gewinnbringend für die Klasse beantwortet werden kann, kann entsprechend diskutiert werden.
+
+Aufgabenstellungen können auch spätere Phasen einer vollständigen Untersuchung thematisieren und bereits erhobene Daten darstellen. Bei der Aufgabe „Schulkleidung“ in der Beispielaufgabe 3 ist dies der Fall.
+
+> Grafik fehlt
+
+In dieser Aufgabe soll eine Darstellung, das Säulendiagramm, erstellt werden. Diese eigenständige Leistung greift auf die Kompetenz *Mathematische Darstellungen verwenden* (K4) zurück, da zwischen der symbolisch-numerischen Darstellung im Text zu einer eigenen graphischen Darstellung gewechselt werden muss. Dies erfordert die zielgerichtete Entnahme relevanter Informationen zur Umfrage aus dem Text. Daher ist auch die Kompetenz *Mathematisch kommunizieren* (K6) erforderlich. Anhand des erstellten Säulendiagramms kann diagnostiziert werden, ob die Schüler\*innen die bedeutsamen Informationen aus dem Text entnehmen und auf die Analysetechnik eines Säulendiagramms zurückgreifen können.
+
+Dass die Daten nicht nur anhand eines Säulendiagramms, sondern auf flexible Weise dargestellt werden können, wird anhand der sich anschließenden Teilaufgabe in Beispielaufgabe 4 deutlich. Dabei wird verdeutlicht, dass solche Repräsentationen der Daten aus unterschiedlichen Perspektiven entstehen, diese aber auch repräsentieren können, wie sich an Lisas Diagramm zeigt. Ihre Darstellung erweckt den optischen Eindruck, dass die meisten Personen für ein „Nein“ gestimmt haben, obwohl dies nicht der Fall ist. Die für die Problemstellung relevanten Prozentangaben sind nur anhand der Höhe ablesbar.
+
+> Grafik fehlt
+
+Die hier geforderte Beurteilung der gegebenen Darstellung entspricht der Kompetenz *Mathematische Darstellungen verwenden* (K4). Da der Sachverhalt schriftlich präsentiert werden muss, ist die Kompetenz *Mathematisch kommunizieren* (K6) verlangt.
+
+In den beiden Teilaufgaben wird sich mit den Phasen Auswertung und Interpretation einer statistischen Erhebung befasst. Im vorigen Kapitel (Phasen einer statistischen Erhebung) wurde postuliert, dass in diesen Phasen die Kompetenz *Mathematische Darstellungen verwenden* (K4) eine gesonderte Bedeutung hat. Dass diese als eine der zentralen Kompetenzen in diesen Schritten der Erhebung aufgefasst werden kann, wird durch die beiden Teilaufgaben illustriert. Die Sensibilisierung gegenüber unterschiedlichen Darstellungen, die bestimmte Ziele verfolgen, kann im begleitenden Mathematikunterricht geübt werden. Beispielsweise können im Unterricht vergleichbare Darstellungen aus Zeitungen oder sozialen Netzwerken thematisiert werden, die eine kritische Auseinandersetzung erfordern. Eine Möglichkeit wäre, dass die Schüler\*innen selbst dazu aufgefordert werden, bestimmte meinungsvertretende Darstellungen zu erstellen. Dann kann darüber reflektiert werden, welche Bedeutung der Kontext für die Dateninterpretation hat und ob die flexiblen Darstellungsmöglichkeiten von Daten subjektive Überzeugungen beeinflussen.
+
+# Daten und ihre Interdisziplinarität
+
+Das Schwerpunktthema *Umgang mit Daten* bietet aufgrund seiner Charakteristik viele Möglichkeiten zur Vernetzung mit anderen Fächern an. Der *Umgang mit Daten* stellt nicht nur eine mathematikspezifische Aufgabe dar, sondern betrifft alle weiteren natur- und gesellschaftswissenschaftlichen Fächer. Die Aufgaben einer Mathematiklehrkraft unterscheiden sich aber von denen der Fachkolleg\*innen und sind folgendermaßen beschreibbar:
+
+* „Sie [die Mathematiklehrkraft] muss in ihrem Unterricht grundlegende Begriffe, Verfahren sowie Denk- und Arbeitsweisen der Stochastik so vermitteln, dass diese in anderen Fächern verwendet und vertieft werden können.
+* Sie muss Koordinator und Berater im Gesamtprozess der Vermittlung stochastischen Wissens und Könnens an ihrer Schule sein.“ (Krüger et al., 2015, S. 5)
+
+Darüber hinaus ermöglicht insbesondere dieses Thema die Verwendung von Auswertungssoftware oder Tabellenkalkulationsprogrammen. Erst durch die Wahl geeigneter Hilfsmittel können auch größere Datenmengen analysiert oder Zufallsversuche vielfach simuliert werden. Damit können die Schüler\*innen beispielsweise eigene Vermutungen überprüfen oder das Verstehen von stochastischen Modellen wird durch ein „Erlebbarmachen“ erleichtert. Außerdem können graphische Darstellungen auf einfache Weise erstellt werden (Biehler & Engel, 2015; Biehler & Hartung, 2010; Eichler & Vogel, 2013, S. 246ff.; Krüger et al., 2015, S. 230). Wird eine eigenständige Untersuchung im Unterricht durchgeführt, stehen oftmals nicht genügend Daten für eine aussagekräftige Auswertung und Interpretation zur Verfügung. Dies ist insbesondere dann der Fall, wenn sich die Fragestellung nicht nur auf die eigene Klasse, sondern auf eine größere Population beziehen soll. Eine solche Untersuchung könnte dann durch andere öffentliche Daten, z. B. aus dem Schulbuch, dem statistischen Bundesamt oder anderen Medien ergänzt werden (Biehler & Hartung, 2010). Dabei ist zu beachten, dass sich reale Daten von fiktiven Daten unterscheiden können: „Reale Daten in Statistik kommen aus einem Kontext und enthalten Ungewissheit und Fehler, während Daten im traditionellen Mathematikunterricht typischerweise fingiert sind und so gewählt wurden, dass sie exakt zu einem mathematischen Modell passen.“ (Biehler & Engel, 2015, S. 229). Hierbei wird die Variabilität von Daten als ein Aspekt stochastischen Denkens wieder ersichtlich.
+
+Letztendlich ist es das Ziel, dass Schüler\*innen mit Daten verantwortungsvoll umgehen können und ein Bewusstsein für die Variabilität und Analysemöglichkeiten, welche unterschiedliche Perspektiven darstellen können, entwickeln. Die ständige Konfrontation durch unterschiedliche Kommunikationsmedien mit Daten im täglichen Leben und einer von Daten geprägten Umwelt kann zu einer Ungewissheit und Unsicherheit bei Entscheidungsprozessen führen (Biehler & Engel, 2015). Ein entsprechender Kompetenzerwerb kann dazu beitragen, dass Schüler\*innen solche Prozesse sachgemäß analysieren und interpretieren können.
+
+Für weitere Anregungen für die Unterrichtspraxis sei auf die Kommentare zu den einzelnen Aufgaben in Teil III der didaktischen Handreichungen verwiesen.

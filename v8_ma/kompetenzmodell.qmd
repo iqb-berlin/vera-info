@@ -1,0 +1,47 @@
+---
+title: "VERA-8 Mathematik"
+lang: de
+---
+
+# Einleitung
+
+Die Bildungsstandards der Kultusministerkonferenz (KMK, 2004, 2005, 2005b, 2015) mit ihren Leitideen und allgemeinen mathematischen Kompetenzen bilden die Grundlage für die VERgleichsArbeiten in der 8. Jahrgangsstufe (VERA-8) im Fach Mathematik. Daher wird zunächst der Aufbau der Bildungsstandards vorgestellt. Anschließend werden verschiedene Schwerpunkte, die in den Vergleichsarbeiten zur Wahl stehen, näher erläutert: 
+
+> Verlinkung auf Unterordner: die Leitidee *Zahl* mit einem Fokus auf *hilfsmittelfreie Aufgaben*
+die Leitidee *Daten und Zufall* mit einem Fokus auf das Thema *Umgang mit Daten*
+
+Es werden insbesondere zu Aspekten der Schwerpunktes fachdidaktische Herausforderungen geschildert und Anregungen vorgestellt, wie mit diesen in der Unterrichtspraxis umgegangen werden kann. In den dazugehörigen Kapiteln werden außerdem Aufgaben aus VERA-8 präsentiert, die sich den Schwerpunktsetzungen zuordnen lassen. Dabei handelt es sich um Beispiele für Aufgabenformulierungen, welche die verschiedenen allgemeinen Kompetenzen adressieren und zudem im Unterricht zur Förderung der Kompetenzen herangezogen werden können.
+
+# Bildungsstandards und Kompetenzmodell im Fach Mathematik
+
+Im Anschluss an die Ergebnisse großer internationaler Vergleichsstudien – wie etwa der PISA-Studie oder TIMSS – führte die Kultusministerkonferenz (KMK) ab dem Jahr 2003 [Bildungsstandards](https://www.kmk.org/themen/qualitaetssicherung-in-schulen/bildungsstandards.html) für die Fächer Deutsch, Mathematik und die erste Fremdsprache (Englisch/ Französisch) ein . Eine grundlegende Wende stand bevor: Während zuvor der *Input* im Vordergrund stand, also Inhalte und Themen, sollte nun auch der *Output* stärkere Beachtung finden, also der Aufbau von Kompetenzen, Wissensstrukturen, Werten, etc. Inhalte sollten mit der Entwicklung von Persönlichkeitsmerkmalen verknüpft werden, die die Basis für ein lebenslanges Lernen legen und so persönliche Weiterentwicklung und gesellschaftliche Teilhabe ermöglichen (Klieme et al., 2003). Die OECD betont dabei den Anwendungscharakter von Mathematik:
+
+> „Mathematische Grundbildung umfasst die Fähigkeit des Einzelnen, Mathematik in einer Vielzahl von Kontexten zu formulieren, anzuwenden und zu interpretieren. Sie umfasst mathematisches Argumentieren und die Verwendung mathematischer Konzepte, Verfahren, Fakten und Werkzeuge zur Beschreibung, Erklärung und Vorhersage von Phänomenen. Sie hilft dem Einzelnen, die Rolle zu erkennen, die die Mathematik in der Welt spielt, und begründete Urteile und Entscheidungen zu treffen, die von konstruktiven, engagierten und reflektierten Bürgerinnen und Bürgern benötigt werden.“ (OECD, 2013, S. 25, eigene Übersetzung)
+
+Zu diesem Zweck benennen die Bildungsstandards Kompetenzen, die Schüler\*innen bis zu einer bestimmten Jahrgangsstufe anhand zentraler Fachinhalte erworben haben sollen
+(KMK, 2004, 2005). Dabei wird davon ausgegangen, dass ein allgemeinbildender Mathematikunterricht Schüler\*innen die folgenden drei Grunderfahrungen ermöglicht (Winter, 1995, S. 37):
+
+1. Erscheinungen der Welt um uns, die uns alle angehen oder angehen sollten, aus Natur, Gesellschaft und Kultur, in einer spezifischen Art wahrzunehmen und zu verstehen,
+2.	mathematische Gegenstände und Sachverhalte, repräsentiert in Sprache, Symbolen, Bildern und Formeln, als geistige Schöpfungen, als eine deduktiv geordnete Welt eigener Art kennen zu lernen und zu begreifen,
+3.	in der Auseinandersetzung mit Aufgaben Problemlösefähigkeiten, die über die Mathematik hinausgehen, (heuristische Fähigkeiten) zu erwerben.
+
+Die Bildungsstandards umfassen in ihrem Wesen die benannten Grunderfahrungen sowie Inhalte, Kompetenzen und Niveaustufen, wie das folgende Kompetenzmodell für das Fach Mathematik darlegt. Das Kompetenzmodell liefert einen Handlungsrahmen für Lehrpersonen und Schulen, zur Einhaltung verbindlicher Ziele sowie zur Weiterentwicklung von Schule und Unterricht (Klieme et al., 2003). Handlungsrahmen bedeutet insbesondere, dass im Vordergrund nicht die Umsetzung eines – aus der fachlichen Systematik entstehenden – ‚starren Gerüsts‘ steht, sondern den Schulen ein großer „Freiraum für die innerschulische Lernplanung“ (ebd., S. 9) gelassen wird. Es werden in diesem Modell zunächst die folgenden drei Dimensionen unterschieden (siehe Abbildung 1):
+
+1.	*Allgemeine mathematische Kompetenzen*
+2.	*Leitideen*
+3.	*Anforderungsbereiche*
+
+> Grafik fehlt
+
+Die *Allgemeinen mathematischen Kompetenzen* bilden die Prozessdimension des Modells. Dabei wird vom Grundgedanken ausgegangen, „das Können der Schüler an den Kompetenzen festzumachen, die sie beim Bearbeiten von Aufgaben zu aktivieren haben“ (Leiss & Blum, 2010, S. 33). Im Einzelnen sind dies die Kompetenzen *Mathematisch argumentieren* (K1), *Probleme mathematisch lösen* (K2), *Mathematisch modellieren* (K3), *Mathematische Darstellungen verwenden* (K4), *Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen* (K5) und *Mathematisch kommunizieren* (K6). Diese *Allgemeinen mathematischen Kompetenzen* sollen differenziert betrachtet werden, auch wenn sie üblicherweise im Verbund erworben werden und häufig auch gemeinsam angewendet werden müssen. Insbesondere werden bei der Bearbeitung von komplexeren mathematischen Aufgaben oft mehrere dieser Kompetenzen benötigt. Mit der getrennten Betrachtung ist die Absicht verbunden, spezifische Eigenschaften und Anforderungen von Aufgaben im Mathematikunterricht transparent zu machen, was eine differenziertere Planung des Mathematikunterrichts ermöglicht. So kann ein mathematischer Inhalt den Schüler\*innen entlang verschiedener durchzuführender mathematischer Tätigkeiten zugänglich gemacht werden. Inhalte können durch die multiperspektivische und wiederholte Betrachtung eher in ihrer Gänze verstanden werden und mathematische Kompetenzen anhand unterschiedlichster Erscheinungen über den Inhalt hinaus erworben werden.
+
+Jedoch reicht der Blick auf die *Allgemeinen mathematischen Kompetenzen* für eine produktive Gestaltung des Mathematikunterrichts nicht aus (Leiss & Blum, 2010). Daher bilden die *Leitideen* eine zweite Dimension des Modells. Die fünf Leitideen sind *Zahl* (L1), *Messen* (L2), *Raum und Form* (L3), *Funktionaler Zusammenhang* (L4) und *Daten und Zufall* (L5). In den Bildungsstandards wird zu den Leitideen erläutert:
+
+> „Eine Leitidee vereinigt Inhalte verschiedener mathematischer Sachgebiete und durchzieht ein mathematisches Curriculum spiralförmig. Die Zuordnung einer inhaltsbezogenen mathematischen Kompetenz zu einer mathematischen Leitidee ist nicht in jedem Fall eindeutig, sondern davon abhängig, welcher Aspekt mathematischen Arbeitens im inhaltlichen Zusammenhang betont werden soll.“ (KMK, 2004, S. 9).
+
+Leitideen folgen keinem fachdidaktischen Aufbau im Sinne einer zeitlichen Abfolge im Lernprozess („erst kommt das Zählen, dann kommt das Messen, usw.“), sondern sie erlauben es, bestimmte mathematische Inhalte unter einer Kategorie zusammenzufassen. Vielmehr soll durch die Betonung von Leitideen deutlich werden, dass sich aus mathematischen Phänomenen wie dem Zählen, dem Messen oder dem Umgang mit Zufällen mathematische Sachgebiete herausgebildet haben (Greefrath 2018, Blum 2010).
+
+Die dritte Dimension enthält die drei *Anforderungsbereiche*. Sie beschreiben die Komplexität von Aufgaben, denn das Bearbeiten und Lösen von Aufgaben fordert mathematische Kompetenzen in unterschiedlichen Ausmaßen (KMK, 2004). Es werden dabei in der Regel drei Anforderungsbereiche unterschieden. Mit dem *Anforderungsbereich I* werden Anforderungen an allgemeine Kompetenzen beschrieben, die zum Reproduzieren unterrichtlicher Inhalte befähigen. Zum *Anforderungsbereich II* zählen solche Anforderungen an allgemeine Kompetenzen, die es Schüler\*innen ermöglichen Zusammenhänge herzustellen und Gelerntes anzuwenden. In den *Anforderungsbereich III* gehören diejenigen Anforderungen, die es Schüler\*innen abverlangen zu verallgemeinern und zu reflektieren (ebd.).
+
+Die drei Bestandteile des Kompetenzmodells stellen gleichwertige Dimensionen der Bildungsstandards dar. Im Folgenden werden exemplarisch Aspekte der Leitideen herausgegriffen und erläutert. Eine Orientierung des Mathematikunterrichts an den *Allgemeinen mathematischen Kompetenzen* – also der Prozessdimension des Kompetenzmodells – ist eine maßgebliche Errungenschaft der Bildungsstandards, die auch bei exemplarischer Betrachtung einzelner Leitideen nicht in den Hintergrund geraten sollte.
+

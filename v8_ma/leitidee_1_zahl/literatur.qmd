@@ -1,0 +1,13 @@
+---
+title: "Literaturverzeichnis"
+lang: de
+bibliography:
+- bibliography.bib
+- ../bibliography.bib
+csl: ../../apa.csl
+nocite: |
+  @*
+---
+
+::: {#refs}
+:::
