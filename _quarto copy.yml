@@ -1,0 +1,93 @@
+project:
+  type: website
+
+website:
+  site-url: https://iqb-berlin.github.io/vera-info/
+  title: "VERA-info"
+  favicon: favicon.ico
+  page-navigation: true
+  repo-url: https://github.com/iqb-berlin/vera-info/
+  repo-actions: [issue]
+  navbar:
+    search: true
+    logo: IQB-klein.png
+  page-footer:
+    background: light
+    right:
+      - text: "IQB 2024"
+        href: https://www.iqb.hu-berlin.de
+    left:
+      - icon: IQB-klein.png
+        href: index.qmd
+  sidebar: 
+    style: "docked"
+    search: true
+    lang: de
+    collapse-level: 1
+    contents:
+      - href: index.qmd
+        text: Start
+      - section: "Einführung"
+        href: intro/index.qmd
+        contents:
+          - href: intro/booklets.qmd
+            text: Bildungsstandards
+          - href: intro/unit_structure.qmd
+            text: Aufbau der Testaufgaben
+          - href: intro/feedback.qmd
+            text: Rückmeldung
+      - section: "VERA3 Deutsch"
+        href: v3_de/index.qmd
+        contents:
+          - section: "Lesen"
+            href: v3_de/lesen/index.qmd
+            contents:
+              - href: v3_de/lesen/material.qmd
+                text: Material
+          - section: "Sprache"
+            href: v3_de/sprache/index.qmd
+            contents:
+              - href: v3_de/sprache/bista-bezug.qmd
+                text: Bezug zu Bildungsstandards
+          - href: v3_de/literature.qmd
+            text: Literatur
+
+      - section: "VERA3 Mathematik"
+        href: v3_ma/index.qmd
+      - section: "VERA8 Deutsch"
+        href: v8_de/index.qmd
+      - section: "VERA8 Mathematik"
+        href: v8_ma/index.qmd
+        contents:
+          - href: v8_ma/kompetenzmodell.qmd
+            text: Kompetenzmodell
+          - section: "Leitidee 1 - Zahl"
+            href: v8_ma/leitidee_1_zahl/index.qmd
+            contents:
+              - v8_ma/leitidee_1_zahl/hilfsmittelfrei.qmd
+              - v8_ma/leitidee_1_zahl/literatur.qmd
+          - section: "Leitidee 5 - Daten und Zufall"
+            href: v8_ma/leitidee_5_daten_und_zufall/index.qmd
+            contents:
+              - v8_ma/leitidee_5_daten_und_zufall/daten.qmd
+              - v8_ma/leitidee_5_daten_und_zufall/literatur.qmd
+      - section: "VERA8 Englisch"
+        href: v8_en/index.qmd
+        contents:
+          - v8_en/Kapitel_1.qmd
+          - v8_en/Kapitel_2.qmd
+          - v8_en/Kapitel_3.qmd
+          - v8_en/Kapitel_4.qmd
+          - v8_en/literature.qmd
+      - section: "VERA8 Französisch"
+        href: v8_fr/index.qmd
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    anchor-sections: true
+    link-external-icon: true
+    link-external-newwindow: true
