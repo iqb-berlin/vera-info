@@ -7,8 +7,8 @@ website:
   favicon: favicon.ico
   page-navigation: true
   repo-url: https://github.com/iqb-berlin/vera-info/
+  search: false
   navbar:
-    search: false
     logo: IQB-klein.png
 
 format:
