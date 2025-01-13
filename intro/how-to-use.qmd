@@ -1,0 +1,24 @@
+---
+title: "Hinweise zur Nutzung"
+lang: de
+---
+
+# Beabsichtigte Nutzung der Artikel dieser Website
+
+Die Autorinnen und Autoren sehen die Nutzung vor allem im Rahmen einer Lernstandserhebung:
+
+* Lehrkräfte lesen vor oder kurz nach der Testung zusammenhängend die Artikel und erhalten so einen umfassenden Blick auf die Bildungsstandards.
+* Im Rahmen der Präsentation der Ergebnisse (sog. Rückmeldung) setzen sie sich gezielt mit den Testaufgaben auseinander und finden so Links, die sie zu den Artikeln führen.
+
+Die Artikel können aber auch in anderen Zusammenhängen genutzt werden: Als Teil einer Fortbildung oder einer Präsentation. Die Redaktion ist bemüht, die Pfade der Seiten konstant zu halten und so eine verlässliche Verlinkung zu gewährleisten.
+
+Durch die freie [Lizenz](../index.qmd#lizenz) ist es aber auch gestattet, Teile der Artikel [herunterzuladen](#herunterladen), zu verändern und in anderen Zusammenhängen zu veröffentlichen. Davon können Länder beispielsweise Gebrauch machen, wenn sie bei ihren Lernstandserhebungen auf bestimmte Aspekte fokussieren möchten.
+
+# Technische Realisierung
+
+Dieser Webauftritt basiert auf Texten in einer einfachen Syntax [Markdown](https://markdown.de/), die anschließend in Html und CSS umgesetzt werden. Hierzu wird [Quarto](https://quarto.org/) verwendet. Sämtliche Dateien für den Inhalt und die Steuerung sind in einem öffentlich zugänglichen [Codeverwaltungssystem](https://github.com/iqb-berlin/vera-info) gespeichert. Hier ist auch eine Anleitung für Änderungen an den Inhalten zu finden.
+
+
+# Herunterladen
+
+Wie bei Webseiten üblich, kann man über den Browser die Seiten speichern und drucken. Wenn man jedoch alle Seiten und Dateien auf einmal erhalten möchte, kann man wie [hier beschrieben(https://github.com/iqb-berlin/vera-info#readme) vorgehen. Bitte beachten Sie, dass Sie dann die Quelldateien bekommen -- also die [Markdown](https://markdown.de/)-Dateien. Es handelt sich dann nicht um die Html-Seiten. Diese entstehen erst durch den Quarto-Renderprozess. Sie sollten Grundkenntnisse im Umgang mit dem Codeverwaltungssystem Git haben.
