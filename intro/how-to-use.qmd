@@ -21,4 +21,4 @@ Dieser Webauftritt basiert auf Texten in einer einfachen Syntax [Markdown](https
 
 # Herunterladen
 
-Wie bei Webseiten üblich, kann man über den Browser die Seiten speichern und drucken. Wenn man jedoch alle Seiten und Dateien auf einmal erhalten möchte, kann man wie [hier beschrieben(https://github.com/iqb-berlin/vera-info#readme) vorgehen. Bitte beachten Sie, dass Sie dann die Quelldateien bekommen -- also die [Markdown](https://markdown.de/)-Dateien. Es handelt sich dann nicht um die Html-Seiten. Diese entstehen erst durch den Quarto-Renderprozess. Sie sollten Grundkenntnisse im Umgang mit dem Codeverwaltungssystem Git haben.
+Wie bei Webseiten üblich, kann man über den Browser die Seiten speichern und drucken. Wenn man jedoch alle Seiten und Dateien auf einmal erhalten möchte, kann man wie [hier beschrieben](https://github.com/iqb-berlin/vera-info#readme) vorgehen. Bitte beachten Sie, dass Sie dann die Quelldateien bekommen -- also die [Markdown](https://markdown.de/)-Dateien. Es handelt sich dann nicht um die Html-Seiten. Diese entstehen erst durch den Quarto-Renderprozess. Sie sollten Grundkenntnisse im Umgang mit dem Codeverwaltungssystem Git haben.
