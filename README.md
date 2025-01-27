@@ -26,6 +26,7 @@ Dieses GitHub-Repository erfüllt folgende Funktionen:
 * automatische Erzeugung der statischen Html-Seiten nach Änderungen
 * Anzeige der statischen Html-Seiten (Funktion "Pages" von GitHub)
 * Entgegennahme von Meldungen durch Nutzer\*innen; hier werden sog. Tickets erzeugt, die den Autor\*innen helfen, Probleme zu vermeiden bzw. zu beheben
+* Bereitstellung aller Quelldateien als ZIP-Datei: Um alle Texte und Bilder usw. mit einem Mal herunterzuladen, gehen Sie bitte in den [Release-Bereich](https://github.com/iqb-berlin/vera-info/releases) des Code-Repositories und laden Sie sich die aktuelle ZIP-Datei herunter.
 
 # Änderungen vornehmen
 
