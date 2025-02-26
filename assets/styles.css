@@ -29,4 +29,16 @@ h1.title {
     background-color: white !important;
     border: none !important;
     text-align: left;
-} 
+}
+
+.table-rowspan {
+    border: none !important;
+    border-spacing: 0;
+    border-collapse: separate;
+}
+.table-rowspan th {
+    text-align: center;
+}
+.table-rowspan td {
+    vertical-align: middle;
+}

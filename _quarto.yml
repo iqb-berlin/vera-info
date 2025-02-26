@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - v8_enfr/v8_fr/camping.mp3
 
 website:
   site-url: https://iqb-berlin.github.io/vera-info/

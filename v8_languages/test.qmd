@@ -1,8 +1,0 @@
----
-title: "Test"
-lang: de
----
-
-{{< include _intro.qmd >}}
-
-{{< include _standards.qmd >}}

@@ -1,0 +1,141 @@
+# Kompetenzbeschreibung
+
+Wie das Leseverstehen ist das Hörverstehen ein komplizierter mentaler Prozess, in dem Sprachsignalen mit Hilfe von sprachlichem Wissen und Weltwissen Sinn zugeordnet wird. Dabei wirken *Bottom-Up*-Prozesse (Analyseprozesse des Gehörten) und *Top-Down*-Prozesse (Einbringen von Wissen und Erwartungen) zusammen. Anders als das Lesen verläuft das Hören in Echtzeit, außerdem sind die gehörten Signale flüchtig. Das bedeutet, dass die Überprüfung von Hörverstehen immer auch durch die Fähigkeit des Individuums zur Speicherung von Sprachdaten bestimmt wird. Gespeichert wird normalerweise nicht der Wortlaut eines Textes, sondern die beim Hören entstehenden Sinneinheiten.
+
+Hörverstehen gilt als wichtigste Kompetenz, denn die Alltagskommunikation besteht zu 45% aus Hören. Sie ist ebenfalls unabdingbar für die Entwicklung anderer Kompetenzen, insbesondere des Sprechens. Während Hörverstehen in der Erstsprache wie selbstverständlich, ganz nebenbei erfolgt, haben Fremdsprachenlernende vor allem mit authentischen Hörsituationen und -dokumenten nicht selten große Schwierigkeiten. Dies liegt zum einen an der oben dargestellten Komplexität des Hörverstehensprozesses.
+
+Insbesondere die Tatsache, dass Hörtexte i. d. R. flüchtig sind, setzt viele Schülerinnen und Schüler unter Stress. Sie versuchen, möglichst alles zu verstehen, wobei bereits kurze Verstehenslücken zum Zusammenbrechen des Hörverstehens führen können. Außerdem wenden sie die erlernten Verstehensstrategien oft nicht oder nicht in ausreichendem Maße an. Dies liegt zum anderen daran, dass fremdsprachliche Hörer nicht über dasselbe sprachliche, inhaltliche und kulturelle Wissen verfügen wie Erstsprachenverwender. So kommt es zu Verstehenslücken und Missverständnissen oder sogar zum Abbruch des Hörvorgangs.
+
+# Schwierigkeitsbestimmende Merkmale
+
+Aber auch die Eigenschaften der Hörtexte und die Formulierung der Höraufgabe beeinflussen den Schwierigkeitsgrad des Hörverstehens. Wichtige Kriterien für die Ermittlung der Textschwierigkeit sind (s. @Grotjahn.2010: 133):
+
+- die Textlänge,
+- die Sprechgeschwindigkeit (sie bestimmt die Geschwindigkeit des Verstehensprozesses),
+- die Anzahl der Sprecherinnen und Sprecher,
+- Art und Lautstärke der Hintergrundgeräusche (die Aussage unterstützende oder störende Geräusche),
+- die verwendete Sprache (Standardsprache, Hochsprache oder Umgangssprache, regionaler Dialekt, Akzent),
+- die Aussprache (prosodisch wenig markierte Sprache führt zu Schwierigkeiten bei der Segmentierung und Bildung größerer Sinneinheiten),
+- der lexikalische und grammatische Anspruch (Häufigkeit oder Abstraktionsgrad der Begriffe, Komplexität der Satzstrukturen),
+- die Textstruktur (einfacher, klarer Aufbau vs. komplizierte, schwer durchschaubare Gliederung),
+- die Explizitheit der gegebenen Information,
+- die Vertrautheit der Hörer mit Thema/Inhalt/Hörsituation.
+
+Zu beachten ist, dass aufgrund dieser Kriterien „schwierige“ Texte jedoch durch eine „einfache“ Höraufgabe, wie z. B. Hörsituation verstehen, Anzahl der Sprecherinnen und Sprecher identifizieren, auch für Anfängerinnen und Anfänger oder schwächere Schülerinnen und Schüler lösbar sind. Dahingegen können nach diesen Kriterien „einfache“ Texte ohne Hörauftrag, mit komplexen oder anspruchsvollen Höraufgaben durchaus schwierig zu bearbeiten sein.
+
+Grundsätzlich sollten sich Aufgaben zur Entwicklung und Überprüfung des Hörverstehens auf das Hörverstehen konzentrieren und erst in weiteren Schritten andere Kompetenzbereiche wie Sprechen oder Schreiben verlangen.
+
+# Hörstile
+
+Hörverstehen ist eine zielgerichtete Aktivität. So werden sowohl der Fokus der Aufmerksamkeit als auch die Art und Weise des Hörens (Hörstil) vom angestrebten Hörziel (Art der aufzunehmenden Informationen) beeinflusst. In der Tabelle „Terminologie der didaktischen Kommentare“ sind die in VERA-8 verwendeten Formen und Bezeichnungen zusammengestellt:
+
+:::{#fig-styles .border}
+```{=html}
+<table class="table-rowspan">
+    <thead>
+        <tr>
+            <th>Hör-/Lesestil</th>
+            <th>Fokus des Hör-/Leseverstehens</th>
+            <th>Art der Information</th>
+            <th>Aufgabenbeispiel</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="2">global</td>
+            <td>Thema</td>
+            <td rowspan="2" style="text-align: center;">explizit/ implizit</td>
+            <td><i>Worum geht es im Text?</i></td>
+        </tr>
+        <tr>
+            <td>Kernaussage</td>
+            <td><i>Welche Überschrift passt am besten?</i></td>
+        </tr>
+        <tr>
+            <td>selektiv</td>
+            <td>spezifische Informationen</td>
+            <td style="text-align: center;">explizit</td>
+            <td><i>Wann beginnt die Vorstellung?</i></td>
+        </tr>
+        <tr>
+            <td rowspan="8">detailliert/ inferierend</td>
+            <td>Hauptaussagen</td>
+            <td rowspan="8" style="text-align: center;">explizit/ implizit</td>
+            <td><i>Welche Zwischenüberschriften passen?</i></td>
+        </tr>
+        <tr>
+            <td>Nebenaussagen</td>
+            <td><i>Welches Bsp. belegt das Argument?</i></td>
+        </tr>
+        <tr>
+            <td>Handlungsverlauf</td>
+            <td><i>Was ist die richtige Reihenfolge?</i></td>
+        </tr>
+        <tr>
+            <td>Ursachen/ Folgen</td>
+            <td><i>Wie ist es zu dem Unfall gekommen?</i></td>
+        </tr>
+        <tr>
+            <td>Eigenschaften von Personen/Objekten</td>
+            <td><i>Welche Adjektive beschreiben …?</i></td>
+        </tr>
+        <tr>
+            <td>Handlungsziele</td>
+            <td><i>Warum hat …?</i></td>
+        </tr>
+        <tr>
+            <td>Emotionen/ Stimmungen</td>
+            <td><i>Was empfindet …?</i></td>
+        </tr>
+        <tr>
+            <td>Meinungen/ Haltungen</td>
+            <td><i>Welche Meinung vertritt der Verfasser?</i></td>
+        </tr>
+        <tr>
+            <td rowspan="3">inferierend</td>
+            <td>eigen-/fremdkulturelle Aspekte</td>
+            <td rowspan="3" style="text-align: center;">implizit</td>
+            <td><i>Worin zeigt sich der Einfluss …?</i></td>
+        </tr>
+        <tr>
+            <td>Textintentionen</td>
+            <td><i>Was will der Verfasser erreichen?</i></td>
+        </tr>
+        <tr>
+            <td>Textmerkmale</td>
+            <td><i>Was bewirkt …?</i></td>
+        </tr>
+    </tbody>
+</table>
+```
+Hörstile in den didaktischen Kommentaren
+:::
+
+Dabei ist zu beachten, dass die Kategorien nicht trennscharf sein können, sondern je nach konkretem Text und konkreter Aufgabe variieren. So kann für das Erkennen der Eigenschaften von Personen detailliertes Hören ausreichen, wenn lediglich explizit gegebene Informationen aufgenommen werden müssen. Es kann jedoch auch inferierendes Hören erforderlich sein, wenn Schlussfolgerungen z. B. aus der Art des Sprechens, der angesprochenen Themen oder spezifischer Reaktionen der Personen gezogen werden müssen.
+
+## Globales Hörverstehen
+
+Unter globalem Hörverstehen versteht man i. d. R. das Erfassen von Thema und Haupt- bzw. Kernaussage des Textes. Dazu müssen u. a. die Situation (Wer spricht? Wo? Warum?), das Thema (Worum geht es?) und die zentralen Inhalte bzw. die zentrale Aussage erkannt werden. Je nach Text und konkreter Aufgabenstellung müssen für diesen Hörstil sowohl die zentralen expliziten Äußerungen des Textes identifiziert und verstanden als auch die wichtigsten Zusammenhänge erkannt werden. Der Fokus der Aufmerksamkeit kann ebenfalls variieren.
+
+## Selektives Hörverstehen
+
+Der Hörstil „selektives Hören“ zielt auf das Heraushören bestimmter expliziter Informationen, für die eine bestimmte Erwartung aufgebaut wurde. Ein typischer Fall ist das Heraushören der Bahnsteignummer bei einer Bahnhofsdurchsage. Dieser Hörstil teilt mit dem detaillierten Hörverstehen die Aufmerksamkeitslenkung auf eine lokale Information. Allerdings unterscheidet er sich vom detaillierten Hören durch die geringere Aufmerksamkeitsleistung. Um beim Beispiel der Bahnhofsdurchsage für einen eintreffenden Zug zu bleiben: der Hörer stellt sicher, dass es sich um den richtigen Zug handelt (meist durch den Abfahrtsort bezeichnet) und konzentriert sich dann nur noch auf das Gleis (hier erwartet er eine Zahl). Alle weiteren Durchsageelemente können ausgeblendet werden.
+
+## Detailliertes Hörverstehen
+
+Der Hörstil „detailliertes Hörverstehen“ zielt auf das Erkennen und Verstehen relevanter Textdetails. Das kann die Hauptpunkte bzw. Hauptaussagen einzelner Textpassagen betreffen, den detaillierten Handlungsverlauf einschließlich Ursachen und Folgen oder die im Text vorkommenden Personen und Objekte. Darüber hinaus können auch Handlungsziele dieser Personen, ihre Emotionen und Stimmungen sowie ihre zum Ausdruck kommenden Meinungen und Haltungen Ziel des detaillierten Hörens sein. Dabei müssen teilweise implizite Textinformationen erkannt und Schlussfolgerungen gezogen werden, was inferierendes Hören erfordert.
+
+Folgende Strategien können bei der Bewältigung verschiedener Hörverstehensaufgaben hilfreich sein:
+
+* Vor dem Hören Erwartungshaltungen aufbauen und relevantes Wissen aktivieren mit Hilfe von:
+  - visuellen Elemente in der Aufgabenstellung
+  - Überschriften und Informationen in der Aufgabenstellung
+  - Hörtextsortenkenntnisse aus der Muttersprache bzw. anderen Sprachen
+* Strategien während des Hörens – allgemein
+  - Fokus auf Wortfelder (Oberbegriffe, Synonyme) zu Begriffen aus der Überschrift/Aufgabenstellung
+  - Bedeutung unbekannter Wörter aus dem Kontext erschließen
+  - mentale Bezüge zwischen Vorwissen und Gehörtem ziehen
+  - in Dialogen auf Sprecherwechsel achten
+  - auf textstrukturierende Elemente (Pausen, Sprecherwechsel, Hintergrundgeräusche etc.) achten
+* Strategien nach dem Hören
+  - Kombination relevanter Einzelinformationen, um einzelne Distraktoren (falsche Antwort-möglichkeiten) auszuschließen
