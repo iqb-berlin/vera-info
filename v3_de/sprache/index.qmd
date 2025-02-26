@@ -2,7 +2,7 @@
 title: "Allgemeine Erläuterungen Sprache und Sprachgebrauch"
 lang: de
 bibliography: ../bibliography.bib
-csl: ../../apa.csl
+csl: ../../assets/apa.csl
 ---
 
 > „Sprache ist Träger von Sinn und Überlieferung, Schlüssel zum Welt- und Selbstverständnis und Mittel zwischenmenschlicher Verständigung. Sie hat grundlegende Bedeutung für die kognitive, emotionale und soziale Entwicklung der Kinder. Aufgabe des Deutschunterrichts in der Grundschule ist es, den Schülerinnen und Schülern eine grundlegende sprachliche Bildung zu vermitteln, damit sie in gegenwärtigen und zukünftigen Lebenssituationen handlungsfähig sind.“ [@KMK2005, S. 6]

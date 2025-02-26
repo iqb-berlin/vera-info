@@ -2,7 +2,7 @@
 title: "VERA3 Deutsch - Literatur"
 lang: de
 bibliography: bibliography.bib
-csl: ../apa.csl
+csl: ../assets/apa.csl
 nocite: |
   @*
 ---

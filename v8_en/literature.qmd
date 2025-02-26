@@ -2,7 +2,7 @@
 title: "VERA8 Englisch - Literatur"
 lang: de
 bibliography: bibliography.bib
-csl: ../apa.csl
+csl: ../assets/apa.csl
 nocite: |
   @*
 ---

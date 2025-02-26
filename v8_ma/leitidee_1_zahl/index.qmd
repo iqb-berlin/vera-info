@@ -4,7 +4,7 @@ lang: de
 bibliography:
 - bibliography.bib
 - ../bibliography.bib
-csl: ../../apa.csl
+csl: ../../assets/apa.csl
 ---
 
 Für die Leitidee *Zahl* werden die inhaltsbezogenen mathematischen Kompetenzen in den Bildungsstandards für den *mittleren Schulabschluss* folgendermaßen konkretisiert [@KMK_MSA2004, S. 10]:

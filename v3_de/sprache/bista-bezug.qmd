@@ -2,7 +2,7 @@
 title: "Kompetenzorientierung im Bereich Sprachgebrauch"
 lang: de
 bibliography: ../bibliography.bib
-csl: ../../apa.csl
+csl: ../../assets/apa.csl
 ---
 
 In einem kompetenzorientierten Unterricht kommt es nicht in erster Linie darauf an, dass eine Reihe von Inhalten bzw. Themen abgearbeitet wird. Vielmehr wird vor allem darauf geachtet, was die Schüler\*innen am Ende von Unterrichtsphasen „können“. Dabei umfasst das Können mehr als das Wissen. Es hat vor allem auch eine motivationale Komponente. Zwar gibt es keine garantiert wirksamen Rezepte dafür, wie man Kinder langfristig dazu motivieren kann, dass sie sich gern mit Sprache und Sprachgebrauch beschäftigen. Wenn sie aber immer wieder die Erfahrung machen, dass sie die Aufgaben in diesem Bereich meistern können, trauen sie sich mehr zu, entwickeln mehr Lernfreude und sind bereit, sich anzustrengen.
