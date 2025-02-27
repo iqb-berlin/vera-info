@@ -57,3 +57,7 @@ h1.title {
 .front-tile:first-of-type {
     background-color: #95e2e9;
 }
+
+.task-properties td:first-child {
+    background-color: #c0eef2;
+}

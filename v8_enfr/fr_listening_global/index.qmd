@@ -4,4 +4,50 @@ description: Aufgabenbeispiel Globales Hörverstehen
 lang: de
 ---
 
+::: {.grid}
+
+:::{.g-col-xl-5 .g-col-12}
+
+```{=html}
+<table class="task-properties">
+  <tbody>
+    <tr>
+      <td>Thema</td>
+      <td>Schule</td>
+    </tr>
+    <tr>
+      <td>Textsorte</td>
+      <td>Gespräch</td>
+    </tr>
+    <tr>
+      <td>Hörstil</td>
+      <td>global</td>
+    </tr>
+    <tr>
+      <td>Teilaufgabe</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Kompetenzstufe</td>
+      <td>A2</td>
+    </tr>
+    <tr>
+      <td>Richtige Lösung</td>
+      <td>nur das 2. Kästchen wurde angekreuzt (B)</td>
+    </tr>
+  </tbody>
+</table>
+```
+:::
+
+:::{.g-col-xl-7 .g-col-12}
+
 <audio controls src="maxime.mp3"></audio>
+
+![](maxime2.png)
+
+:::
+
+:::
+
+

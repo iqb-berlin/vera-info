@@ -1,0 +1,81 @@
+:::{#fig-strategies}
+```{=html}
+<table class="table-rowspan">
+    <thead>
+        <tr>
+            <th>Hör-/Lesestil</th>
+            <th>Fokus des Hör-/Leseverstehens</th>
+            <th>Art der Information</th>
+            <th>Aufgabenbeispiel</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="2">global</td>
+            <td>Thema</td>
+            <td rowspan="2" style="text-align: center;">explizit/ implizit</td>
+            <td><i>Worum geht es im Text?</i></td>
+        </tr>
+        <tr>
+            <td>Kernaussage</td>
+            <td><i>Welche Überschrift passt am besten?</i></td>
+        </tr>
+        <tr>
+            <td>selektiv</td>
+            <td>spezifische Informationen</td>
+            <td style="text-align: center;">explizit</td>
+            <td><i>Wann beginnt die Vorstellung?</i></td>
+        </tr>
+        <tr>
+            <td rowspan="8">detailliert/ inferierend</td>
+            <td>Hauptaussagen</td>
+            <td rowspan="8" style="text-align: center;">explizit/ implizit</td>
+            <td><i>Welche Zwischenüberschriften passen?</i></td>
+        </tr>
+        <tr>
+            <td>Nebenaussagen</td>
+            <td><i>Welches Bsp. belegt das Argument?</i></td>
+        </tr>
+        <tr>
+            <td>Handlungsverlauf</td>
+            <td><i>Was ist die richtige Reihenfolge?</i></td>
+        </tr>
+        <tr>
+            <td>Ursachen/ Folgen</td>
+            <td><i>Wie ist es zu dem Unfall gekommen?</i></td>
+        </tr>
+        <tr>
+            <td>Eigenschaften von Personen/Objekten</td>
+            <td><i>Welche Adjektive beschreiben …?</i></td>
+        </tr>
+        <tr>
+            <td>Handlungsziele</td>
+            <td><i>Warum hat …?</i></td>
+        </tr>
+        <tr>
+            <td>Emotionen/ Stimmungen</td>
+            <td><i>Was empfindet …?</i></td>
+        </tr>
+        <tr>
+            <td>Meinungen/ Haltungen</td>
+            <td><i>Welche Meinung vertritt der Verfasser?</i></td>
+        </tr>
+        <tr>
+            <td rowspan="3">inferierend</td>
+            <td>eigen-/fremdkulturelle Aspekte</td>
+            <td rowspan="3" style="text-align: center;">implizit</td>
+            <td><i>Worin zeigt sich der Einfluss …?</i></td>
+        </tr>
+        <tr>
+            <td>Textintentionen</td>
+            <td><i>Was will der Verfasser erreichen?</i></td>
+        </tr>
+        <tr>
+            <td>Textmerkmale</td>
+            <td><i>Was bewirkt …?</i></td>
+        </tr>
+    </tbody>
+</table>
+```
+Lese-/Hörstile
+:::

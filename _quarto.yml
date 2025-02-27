@@ -82,33 +82,41 @@ website:
           - section: "Hörverstehen"
             href: v8_enfr/listening.qmd
             contents:
-              - text: Englisch Global
-                href: v8_enfr/en_listening_global/index.qmd
-              - text: Französisch Global
-                href: v8_enfr/fr_listening_global/index.qmd
-              - text: Englisch Selektiv
-                href: v8_enfr/en_listening_selective/index.qmd
-              - text: Französisch Selektiv
-                href: v8_enfr/fr_listening_selective/index.qmd
-              - text: Englisch Detailliert
-                href: v8_enfr/en_listening_detail/index.qmd
-              - text: Französisch Detailliert
-                href: v8_enfr/fr_listening_detail/index.qmd
+            - section: Aufgaben Englisch
+              contents:
+                - text: Globales HV
+                  href: v8_enfr/en_listening_global/index.qmd
+                - text: Selektives HV
+                  href: v8_enfr/en_listening_selective/index.qmd
+                - text: Detailliertes HV
+                  href: v8_enfr/en_listening_detail/index.qmd
+            - section: Aufgaben Französisch
+              contents:
+                - text: Globales HV
+                  href: v8_enfr/fr_listening_global/index.qmd
+                - text: Selektives HV
+                  href: v8_enfr/fr_listening_selective/index.qmd
+                - text: Detailliertes HV
+                  href: v8_enfr/fr_listening_detail/index.qmd
           - section: Leseverstehen
             href: v8_enfr/reading.qmd
             contents:
-              - text: Englisch Global
-                href: v8_enfr/en_reading_global/index.qmd
-              - text: Französisch Global
-                href: v8_enfr/fr_reading_global/index.qmd
-              - text: Englisch Selektiv
-                href: v8_enfr/en_reading_selective/index.qmd
-              - text: Französisch Selektiv
-                href: v8_enfr/fr_reading_selective/index.qmd
-              - text: Englisch Detailliert
-                href: v8_enfr/en_reading_detail/index.qmd
-              - text: Französisch Detailliert
-                href: v8_enfr/fr_reading_detail/index.qmd
+            - section: Aufgaben Englisch
+              contents:
+                - text: Globales LV
+                  href: v8_enfr/en_reading_global/index.qmd
+                - text: Selektives LV
+                  href: v8_enfr/en_reading_selective/index.qmd
+                - text: Detailliertes LV
+                  href: v8_enfr/en_reading_detail/index.qmd
+            - section: Aufgaben Französisch
+              contents:
+                - text: Globales LV
+                  href: v8_enfr/fr_reading_global/index.qmd
+                - text: Selektives LV
+                  href: v8_enfr/fr_reading_selective/index.qmd
+                - text: Detailliertes LV
+                  href: v8_enfr/fr_reading_detail/index.qmd
           - href: v8_enfr/literature.qmd
             text: Literatur
 format:
