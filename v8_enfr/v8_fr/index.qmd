@@ -2,6 +2,4 @@
 title: "VERA8 Französisch"
 ---
 
-{{< include ../_intro.qmd >}}
-
 {{< include ../_standards.qmd >}}

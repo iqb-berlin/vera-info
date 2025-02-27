@@ -1,3 +1,8 @@
+---
+title: "VERA8 Fremdsprache"
+lang: de
+---
+
 Die Bildungsstandards für die Erste Fremdsprache (Englisch/Französisch) sind aufgrund eines Beschlusses der Kultusministerkonferenz [@KMKKultusministerkonferenz.2006] seit dem Schuljahr 2004/2005 bzw. 2005/2006 verbindliche Zielvorgaben für die Lehrplanentwicklung und die Lehrkräftebildung. Sie differenzieren nach angestrebtem Schulabschluss (HSA/MSA) und werden vom IQB in konkrete Testaufgaben umgesetzt („operationalisiert“).
 
 Entscheidend für das Konzept der Bildungsstandards ist damit erstens, dass diese zwar auf eine (kumulativ zu erweiternde) Basis theoretischen Fachwissens aufbauen, aber -- aufgrund ihres Fokus auf der Lösung von fachlichen Problemen --  v. a. dem tatsächlichen Handeln(-können) und dem reflexiv-kritischen Bewerten(-können) den entscheidenden Stellenwert einräumen, angestrebt über einen langfristigen Kompetenzaufbau.

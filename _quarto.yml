@@ -5,14 +5,14 @@ project:
 
 website:
   site-url: https://iqb-berlin.github.io/vera-info/
-  title: "VERA-info"
+  title: "VERA"
   favicon: assets/favicon.ico
   page-navigation: true
   repo-url: https://github.com/iqb-berlin/vera-info/
-  repo-actions: [issue]
+  repo-actions: []
   navbar:
     search: true
-    logo: assets/IQB-klein.png
+    logo: assets/iqb-logo-grey.png
   page-footer:
     background: light
     right:
@@ -27,8 +27,6 @@ website:
     lang: de
     collapse-level: 1
     contents:
-      - href: index.qmd
-        text: Start
       - section: "Einführung"
         href: intro/index.qmd
         contents:
@@ -88,7 +86,9 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      - cosmo
+      - assets/custom.scss
     css: assets/styles.css
     toc: true
     anchor-sections: true

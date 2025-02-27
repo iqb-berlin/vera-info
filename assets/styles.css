@@ -42,3 +42,17 @@ h1.title {
 .table-rowspan td {
     vertical-align: middle;
 }
+
+.front-tile {
+    text-align: center;
+    padding-top: 1rem;
+    font-weight: bold;
+    background-color: #c0eef2;
+}
+.front-tile a {
+    color: #16636a;
+    text-decoration: none;
+}
+.front-tile:first-of-type {
+    background-color: #95e2e9;
+}

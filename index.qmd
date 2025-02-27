@@ -1,27 +1,69 @@
 ---
 lang: de
-title: VERA Didaktische Handreichungen
+title: VERA Vergleichsarbeiten
+title-block-banner: assets/banner_TR.png
+title-block-banner-color: white
+description: Didaktische Handreichungen des IQB für die Durchführung der Vergleichsarbeiten
+format:
+  html:
+    toc: false
+    page-layout: full
 ---
-![](banner-image.jpg)
+
+::: {.grid}
+
+::: {.g-col-lg-2 .g-col-md-4 .g-col-sm-6 .g-col-12 .front-tile}
+[Allgemeine<br/>Informationen](intro/index.qmd)
+:::
+
+::: {.g-col-lg-2 .g-col-md-4 .g-col-sm-6 .g-col-12 .front-tile}
+[VERA-3<br/>Mathematik](v3_ma/index.qmd)
+:::
+
+::: {.g-col-lg-2 .g-col-md-4 .g-col-sm-6 .g-col-12 .front-tile}
+[VERA-3<br/>Deutsch](v3_de/index.qmd)
+:::
+
+::: {.g-col-lg-2 .g-col-md-4 .g-col-sm-6 .g-col-12 .front-tile}
+[VERA-8<br/>Deutsch](v8_de/index.qmd)
+:::
+
+::: {.g-col-lg-2 .g-col-md-4 .g-col-sm-6 .g-col-12 .front-tile}
+[VERA-8<br/>Mathematik](v8_ma/index.qmd)
+:::
+
+::: {.g-col-lg-2 .g-col-md-4 .g-col-sm-6 .g-col-12 .front-tile}
+[VERA-8<br/>Fremdsprache](v8_enfr/index.qmd)
+:::
+
+:::
+
+::: {.grid}
+
+::: {.g-col-lg-6 .g-col-sm-12}
+# Willkommen
+
+Auf diesen Webseiten finden Sie ergänzende Texte zu den Lernstandserhebungen der Länder. Das VERA-Projekt (in einigen Ländern anders genannt, z. B. "Lernstand" oder "KERMIT") ist Teil des nationalen Bildungsmonitorings. Sie finden ausführliche aktuelle Informationen beim [IQB](https://www.iqb.hu-berlin.de/vera/) oder bei der [KMK](https://www.kmk.org/themen/qualitaetssicherung-in-schulen/bildungsmonitoring/).
 
 ::: {.callout-important}
 ## Achtung: Webseite in Entwicklung
 Diese Webseite dient der technischen Erprobung einer digitalen Veröffentlichung der Didaktischen Handreichungen Teil I und II von VERA. Die Entscheidung darüber hängt von weiteren Abstimmungsprozessen ab.
 :::
 
-# Willkommen
-Auf diesen Webseiten finden Sie ergänzende Texte zu den Lernstandserhebungen der Länder. Das VERA-Projekt (in einigen Ländern anders genannt, z. B. "Lernstand" oder "KERMIT") ist Teil des nationalen Bildungsmonitorings. Sie finden ausführliche aktuelle Informationen beim [IQB](https://www.iqb.hu-berlin.de/vera/) oder bei der [KMK](https://www.kmk.org/themen/qualitaetssicherung-in-schulen/bildungsmonitoring/).
-
 Ziel der Texte ist es, das Verständnis für die Lernstandserhebungen zu fördern und die Nutzung der Ergebnisse zu verbessern. Zielgruppe sind vorrangig Lehrkräfte, die nach der Durchführung einer VERA-Testung die Auswertungsdaten besser verstehen und ihren Unterricht weiterentwickeln möchten. Die Struktur der Seiten folgt der Struktur der Bildungsstandards. Die Papierform dieser Texte ist als "Didaktische Handreichung Teile I+II" bekannt.
 
 Es gibt neben den Texten an dieser Stelle weitere didaktische Handreichungen, die sich direkt auf die Testaufgaben eines Durchgangs beziehen (sog. "Didaktische Handreichung Teil III"). In diesen aufgabenbezogenen Handreichungen finden Sie konkrete Erläuterungen und Hilfestellungen sowie Vorschläge, wie diese Aufgaben für den Unterricht angepasst werden könnten. Diese Handreichungen sind nur einem begrenzten Personenkreis zugänglich, um die nötige Vertraulichkeit der Aufgaben zu gewährleisten. Daher ist dieser Teil nicht auf diesen Webseiten zu finden. Sie erhalten Einblick zu diesem Teil über Ihr Land bzw. die Einrichtung, die VERA für Sie durchführt.
 
 Weitere Hinweise zur Nutzung der Seiten und zur technischen Umsetzung [finden Sie hier](intro/how-to-use.qmd).
+:::
 
+::: {.g-col-lg-6 .g-col-sm-12}
 # Redaktion
+
 Die vorliegenden Texte werden unter Federführung des [IQB](https://www.iqb.hu-berlin.de/vera) veröffentlicht. Die jeweiligen Autor\*innen sind entweder im Kopf eines Dokumentes genannt oder zu Beginn eines größeren Seitenzweiges. Jeweils zu Beginn eines Jahres werden die Texte überarbeitet, um die Passung zum aktuellen VERA-Durchgang zu gewährleisten.
 
 # Lizenz
+
 Alle Texte sind unter der [Lizenz CC0](https://open-educational-resources.de/was-die-cc0-freigabe-bedeutet-und-welche-moeglichkeiten-sie-eroeffnen/) veröffentlicht. Die Leitlinien zur Sicherung guter wissenschaftlicher Praxis (s. z. B. [DFG-pdf](https://www.dfg.de/resource/blob/173732/4166759430af8dc2256f0fa54e009f03/kodex-gwp-data.pdf)) gebieten gleichwohl, dass die Quellen von Informationen genannt werden sollten.
 
 # Haftungsausschluss
@@ -33,3 +75,4 @@ Auf diesen Webseiten sind Links auf externe Webseiten in besonderer Weise gekenn
 Für die Inhalte dieser Webseite ist Frau [Susanne Hunger](https://www.iqb.hu-berlin.de/institut/staff/?pg=sh) verantwortlich. Technische Fragen für die Bearbeitung der Inhalte können Sie an die [IT des IQB](mailto:iqb-it@hu-berlin.de) richten.
 
 Wenn Sie Probleme melden möchten, können Sie auch die Funktion "Problem melden" nutzen, die rechts auf jeder Seite zu finden ist. Sie werden dann zu GitHub weitergeleitet. Es ist ein Account bei GitHub erforderlich.
+:::
