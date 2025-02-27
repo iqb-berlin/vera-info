@@ -1,0 +1,7 @@
+---
+title: "VERA-8 Französisch"
+description: Aufgabenbeispiel Detalliertes Hörverstehen
+lang: de
+---
+
+<audio controls src="jeux.mp3"></audio>

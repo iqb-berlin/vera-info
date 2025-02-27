@@ -1,5 +1,0 @@
----
-title: "VERA8 Französisch"
----
-
-{{< include ../_standards.qmd >}}

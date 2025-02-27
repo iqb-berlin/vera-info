@@ -1,8 +1,0 @@
----
-title: "Hörverstehen Französisch"
-lang: de
-bibliography: ../bibliography.bib
-csl: ../../assets/apa.csl
----
-
-{{< include ../_listening.qmd >}}

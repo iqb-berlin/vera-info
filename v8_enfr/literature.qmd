@@ -1,0 +1,9 @@
+---
+title: "VERA-8 Fremdsprache"
+description: Literaturverzeichnis
+lang: de
+bibliography: bibliography.bib
+csl: ../assets/apa.csl
+nocite: |
+  @*
+---

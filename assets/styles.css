@@ -14,13 +14,13 @@ h1.title {
     border-collapse: separate;
 }
 .table-block-header1 {
-    background-color: #66e0ff !important;
+    background-color: #95e2e9 !important;
     text-align: center;
     font-weight: bold;
     border: none !important;
 }
 .table-block-header2 {
-    background-color: #ccf5ff !important;
+    background-color: #c0eef2 !important;
     text-align: center;
     font-weight: bold;
     border: none !important;
@@ -41,6 +41,7 @@ h1.title {
 }
 .table-rowspan td {
     vertical-align: middle;
+    text-align: left;
 }
 
 .front-tile {

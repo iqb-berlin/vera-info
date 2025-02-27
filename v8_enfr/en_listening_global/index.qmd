@@ -1,0 +1,5 @@
+---
+title: "VERA-8 Englisch"
+description: Aufgabenbeispiel Globales Hörverstehen
+lang: de
+---

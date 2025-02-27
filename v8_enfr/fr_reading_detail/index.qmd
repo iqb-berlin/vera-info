@@ -1,0 +1,5 @@
+---
+title: "VERA-8 Französisch"
+description: Aufgabenbeispiel Detailliertes Leseverstehen
+lang: de
+---

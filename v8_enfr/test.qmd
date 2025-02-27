@@ -1,6 +1,0 @@
----
-title: "Test"
-lang: de
----
-
-{{< include _listening.qmd >}}

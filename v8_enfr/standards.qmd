@@ -1,0 +1,130 @@
+---
+title: "VERA-8 Fremdsprache Kompetenzmodell"
+lang: de
+---
+
+# Gemeinsamer Europäischer Referenzrahmen (GER)
+
+Die Bildungsstandards sind an die im Gemeinsamen Europäischen Referenzrahmen für Fremdsprachen beschriebenen Niveaus angebunden:
+
+:::{#fig-bista .border}
+```{mermaid}
+flowchart TD
+    subgraph Abitur
+        C(<b>C</b><br/>Kompetente<br/>Sprachverwendung)
+        C1(C1<br/><i>Effektive<br/>Operational<br/>Proficiency</i>)
+        C2(C2<br/><i>Mastery</i>)
+    end
+    style Abitur fill:white
+    subgraph MSA
+        B(<b>B</b><br/>Selbstständige<br/>Sprachverwendung)
+        B1(B1<br/><i>Threshold</i>)
+        B2(B2<br/><i>Vantage</i>)
+    end
+    style MSA fill:white
+    subgraph HSA
+        A(<b>A</b><br/>Elementare<br/>Sprachverwendung)
+        A1(A1<br/><i>Breakthrough</i>)
+        A2(A2<br/><i>Waystage</i>)
+    end
+    style HSA fill:white
+    A --> A1
+    A --> A2
+    B --> B1
+    B --> B2
+    C --> C1
+    C --> C2
+
+```
+
+Niveaustufen nach dem Gemeinsamen Europäischen Referenzrahmen für Sprachen
+
+:::
+
+In den Plöner Beschlüssen von 2006 hat die Kultusministerkonferenz festgelegt, dass VERA-8 an die Bildungsstandards für die Sekundarstufe I angekoppelt werden soll. Bei den Bildungsstandards handelt es sich um eine Festlegung von Regelstandards. Diese liegen hinsichtlich ihres Anforderungsniveaus zwischen Mindest- und Optimalstandards. Die folgenden Begriffe werden im Kompetenzstufenmodell von 2009 definiert.
+
+* **Mindeststandards**: Minimum an Kompetenzen, das von allen bis zu einem bestimmten Bildungsabschnitt erreicht werden soll
+* **Regelstandards**: Kompetenzen, die im Durchschnitt bis zu einem bestimmten Bildungsabschnitt erreicht werden sollen
+* **Regelstandard plus**: Kompetenzen, die über die Regelstandards hinausgehen
+* **Optimalstandards**: Leistungserwartungen, die unter sehr guten individuellen Lernvoraussetzungen und der Bereitstellung gelingender Lerngelegenheiten innerhalb und außerhalb der Schule erreicht werden und bei weitem die Erwartungen der Bildungsstandards übertreffen
+
+Im Folgenden werden die Leistungen auf den Niveaus A1 bis C1 beschrieben. Schülerinnen und Schüler der 1. Fremdsprache verweilen mehrere Lernjahre auf den Niveaus A2 und B1. In der Regel wird deutlich mehr Lernzeit zum Erreichen des höheren Niveaus benötigt. Da mit VERA-8 Schülerinnen und Schüler des 8. Jahrgangs getestet werden, umfassen die eingesetzten Testaufgaben im Wesentlichen Aufgaben auf den Niveaus A2 und B1. Für die Niveaus A1 und B2 werden deutlich weniger Aufgaben eingesetzt, für das Niveau C1 nur einzelne Teilaufgaben. Auf dieser Grundlage können dann für einzelne Lerngruppen entsprechende Fördermaßnahmen abgeleitet und Konzepte für eine angemessene Weiterarbeit entwickelt werden. Da die Lernprozesse individuell sehr unterschiedlich verlaufen, ist eine differenzierte Schwerpunktsetzung im Unterricht nötig. 
+
+# Kompetenzmodell
+
+Was versteht man unter dem Begriff Kompetenz?
+
+Weinert (2001: 27) beschreibt Kompetenz als
+
+> "die bei Individuen verfügbaren oder von ihnen erlernbaren kognitiven Fähigkeiten und Fertigkeiten, bestimmte Probleme zu lösen, sowie die damit verbundenen motivationalen, volitionalen und sozialen Bereitschaften und Fähigkeiten, die Problemlösungen in variablen Situationen erfolgreich und verantwortungsvoll nutzen zu können."
+
+Die Modellierung fremdsprachiger Handlungskompetenz in den Bildungsstandards greift diesen weiten Kompetenzbegriff auf. Sie umfasst nicht nur funktionale kommunikative Kompetenzen wie kommunikative Fertigkeiten und die Verfügung über die sprachlichen Mittel, sondern auch interkulturelle und methodische Kompetenzen sowie Selbst- und Sozialkompetenz.
+
+:::{#fig-standards .border}
+```{=html}
+<table class="table-block">
+  <tbody>
+    <tr>
+      <td class="table-block-header1" colspan="2">Funktionale
+Kommunikative Kompetenzen</td>
+    </tr>
+    <tr>
+      <td class="table-block-header2">Kommunikative Fertigkeiten</td>
+      <td class="table-block-header2">Verfügung über die sprachlichen
+Mittel</td>
+    </tr>
+    <tr>
+      <td class="table-block-content"><p>Leseverstehen<br/>
+Hör- und Hör-/Sehverstehen<br/>
+Sprechen
+<ul>
+<li>An Gesprächen teilnehmen</li>
+<li>Zusammenhängendes Sprechen</li></ul>
+Schreiben<br/>
+Sprachmittlung</p>
+      </td>
+      <td class="table-block-content"><p>Wortschatz<br/>
+Grammatik<br/>
+Aussprache und Intonation<br/>
+Orthographie</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="table-block-header1" colspan="2">Interkulturelle
+Kompetenzen</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="table-block-content">
+        <p>Soziokulturelles Orientierungswissen<br/>
+Verständnisvoller Umgang mit kultureller Differenz<br/>
+Praktische Bewältigung interkultureller Begegnungssituationen</p>
+      </td>
+    </tr>
+    <tr>
+      <td class="table-block-header1" colspan="2">Methodische
+Kompetenzen</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="table-block-content">
+        <p>Textrezeption (Leseverstehen und Hörverstehen)<br/>
+Interaktion<br/>
+Textproduktion (Sprechen und Schreiben)<br/>
+Lernstrategien<br/>
+Präsentation und Mediennutzung<br/>
+Lernbewusstheit und Lernorganisation</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+```
+Kompetenzbereiche entsprechend der Bildungsstandards für die erste
+Fremdsprache (Englisch/Französisch) für den Mittleren Schulabschluss (2003)
+:::
+
+Mit dieser Modellierung greifen die Bildungsstandards die Kompetenzbereiche des GER auf. Zu beachten ist, dass die methodischen Kompetenzen sowohl spezifisch für einzelne kommunikative Fertigkeiten als auch Fertigkeiten übergreifend sind. Lernbewusstheit und Lernorganisation können den personalen Kompetenzen zugeordnet werden. Auch die interkulturellen Kompetenzen realisieren sich in kommunikativen Fertigkeiten, in der Verfügung über spezifische sprachliche Mittel und in Strategien zur Interaktion. In schulischen und lebensweltlichen Kommunikationssituationen wirken i. d. R. ebenfalls mehrere Kompetenzen zusammen. Diesem integrativen Charakter sprachlicher Kompetenzen trägt im GER das Konstrukt der allgemeinen sprachlichen Kompetenz Rechnung. Allerdings ist sie als globales Konstrukt weder messbar noch gezielt förderbar, sodass es, trotz aller Überschneidungen und Unzulänglichkeiten der Modellierung, für beide Zwecke sinnvoll ist, die allgemeine sprachliche Kompetenz in einzelne Kompetenzbereiche und Teilkompetenzen zu unterteilen.
+
+Die Verwendung des Begriffs „Kompetenz“ trägt dabei der Komplexität sprachlicher Anforderungen Rechnung, schließlich bezeichnet man mit Kompetenzen komplexe Dispositionen aus Wissen, Können und Absichten. Auch fremdsprachliche Kompetenzen umfassen den Bereich des Wissens, insbesondere Wissen über sprachliche Mittel und ihre Verwendung sowie soziokulturelles Wissen und Wissen über das Funktionieren von Kommunikation. Kompetenzen beinhalten aber deutlich mehr als Wissen: Ganz wichtig ist das Verfügen über Methoden und Strategien zum Erwerb dieses Wissens (z. B. Wie kann ich besonders gut neuen Wortschatz lernen?) sowie zur Anwendung dieses Wissens (z. B. Wie kann ich meine Meinung zu einem Thema so ausdrücken, sodass die anderen mich verstehen?). Für den schulischen Bereich, insbesondere für die Mittelstufe, erscheint uns die Bereitschaft, dieses sprachliche, methodische und strategische Wissen in die Praxis umzusetzen, ganz besonders wichtig (z. B. sich trotz aller sprachlichen Unzulänglichkeiten zu trauen, das Wort zu ergreifen oder einen kleinen Vortrag zu halten).
+
+Kompetenzen sind also wesentlich weiter und komplexer gefasst als Fertigkeiten (skills, habiletés), bei denen allein die Tätigkeit im Mittelpunkt steht. Das Konzept der Fertigkeiten (im Sinne von skills, habiletés) ist zudem geprägt von der Vorstellung, dass einzelne Tätigkeiten isoliert betrachtet und trainiert werden können. Außerdem schwingt die Vorstellung mit, dass diese Tätigkeiten von Anfang an möglichst fehlerfrei erfolgen sollten. 
+
+Kompetenzorientierung dagegen strebt an, die komplexen, aufeinander bezogenen Kompetenzen integriert zu entwickeln. Dies bedeutet, dass man im Unterricht zwar punktuell auf die gezielte Entwicklung einer Teilkompetenz (z. B. detailliertes Leseverstehen) fokussiert, dabei jedoch immer das entsprechende methodische, strategische und interkulturelle Können berücksichtigt. Bei dieser gezielten Entwicklung einer Einzelkompetenz im Rahmen einer Unterrichtsreihe sollte daher darauf geachtet werden, die anderen Kompetenzen analog zu ihrer Verwendung in lebensweltlichen Situationen mit zu verwenden (z. B. detailliertes Leseverstehen, um sich mündlich oder schriftlich über die zentralen Argumente eines argumentativen Textes auszutauschen und sich eine eigene Meinung dazu zu bilden). Kompetenzorientierung berücksichtigt ebenfalls, dass die Korrektheit und Komplexität sprachlicher Äußerungen erst nach und nach steigt (vgl. die Angaben zu Fehlern und Hilfen in den einzelnen Niveaubeschreibungen).

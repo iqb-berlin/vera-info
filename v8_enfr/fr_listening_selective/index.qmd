@@ -1,0 +1,7 @@
+---
+title: "VERA-8 Französisch"
+description: Aufgabenbeispiel Selektives Hörverstehen
+lang: de
+---
+
+<audio controls src="camping.mp3"></audio>

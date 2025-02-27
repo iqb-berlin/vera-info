@@ -1,0 +1,7 @@
+---
+title: "VERA-8 Französisch"
+description: Aufgabenbeispiel Globales Hörverstehen
+lang: de
+---
+
+<audio controls src="maxime.mp3"></audio>

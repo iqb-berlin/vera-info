@@ -1,6 +1,0 @@
----
-title: "Besipielaufgabe Camping"
-lang: de
----
-
-<audio controls src="camping.mp3"></audio>
