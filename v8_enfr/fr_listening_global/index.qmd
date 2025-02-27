@@ -4,6 +4,8 @@ description: Aufgabenbeispiel Globales Hörverstehen
 lang: de
 ---
 
+# Aufgabe
+
 ::: {.grid}
 
 :::{.g-col-xl-5 .g-col-12}
@@ -24,12 +26,8 @@ lang: de
       <td>global</td>
     </tr>
     <tr>
-      <td>Teilaufgabe</td>
-      <td>1</td>
-    </tr>
-    <tr>
       <td>Kompetenzstufe</td>
-      <td>A2</td>
+      <td>Teilaufgabe 1: A2</td>
     </tr>
     <tr>
       <td>Richtige Lösung</td>
@@ -43,11 +41,53 @@ lang: de
 :::{.g-col-xl-7 .g-col-12}
 
 <audio controls src="maxime.mp3"></audio>
-
 ![](maxime2.png)
 
 :::
 
 :::
 
+# Diagnostisches Potenzial
 
+Schülerinnen und Schüler, die diese Aufgabe richtig lösen, erkennen von einem Gespräch in Standardsprache zu einem ihnen vertrauten Thema den Anlass und die Sprechabsicht. Das entspricht im Bereich des globalen Hörens dem Niveau A2.
+
+# Beschreibung der Aufgabe
+
+Die Aufgabe verlangt, dass die Redeabsicht eines Sprechers erkannt und die richtige Lösung aus vier möglichen ausgewählt (angekreuzt) wird.
+
+Der Titel gibt bereits das Thema (Schule) vor. Die Hörerwartung wird durch eine situative Einbettung (*…Maxime parle à son professeur.*) und die Formulierung der Aufgabe (*Pourquoi est-ce que Maxime parle à son professeur?*) weiter gelenkt. Die vier Sätze zur Auswahl in der Aufgabe geben mögliche Lösungen vor.
+
+Die Textvorgabe ist besonders in der Rolle des Lehrers sehr klar und betont artikuliert. In der Rolle des Schülers gibt es einige umgangssprachliche Verschleifungen.
+
+Das Thema Schule ist den Schülerinnen und Schülern auf A2-Niveau vertraut. Die Gesprächssituation mit dem Lehrer entspricht ihrer unmittelbaren Lebenserfahrung. 
+
+Der Text ist mit 33 Sekunden recht kurz, enthält jedoch Redundanzen. Das Problem wird mehrmals unterschiedlich formuliert (*je n’ai pas pu travailler – il reste encore… – quelques jours supplémentaires – dernier délai*). Somit verhindert das Nichtverstehen einer Variante nicht das globale Textverständnis. Das Wort *rendre* dürfte als Unterrichtswendung bekannt sein und tritt dreimal auf. Die verwendeten grammatischen Strukturen sind recht einfach. Als Zeitformen werden ausschließlich *présent* und *passé composé* verwendet. 
+
+# Vor dem Hören
+
+Zur Lösung der Aufgabe können unterschiedliche Strategien angewandt werden, die sinnvoll miteinander verknüpft werden müssen.
+
+* **Vorwissen und Wortschatz aktivieren**: Die Überschrift, die Einleitung und die Fragestellung enthalten mit dem Wort professeur einen konkreten Hinweis auf das Thema Schule und durch Maxime parle auf die Situation eines Gesprächs zwischen Lehrer und Schüler. Der Hörer aktiviert dadurch Vorwissen zu Gesprächssituationen in der Schule und deren sprachlicher Umsetzung.
+* **Konkretisierung der Hörerwartung**: Mit dem Lesen der vier Antwortmöglichkeiten wird das Thema eingeengt und damit die Hörerwartung konkretisiert. Alle Varianten enthalten das Wort devoir. Es geht also um eine Hausaufgabe.
+* **Anforderungen der Aufgabe ableiten**: Wichtig ist, dass vor dem Hören ganz klar ist, was die Aufgabe verlangt. Der Lernende soll entscheiden, worin Maximes Problem mit der Hausaufgabe besteht. Zur Steuerung dienen folgende Schlüsselwörter der einzelnen Antwortmöglichkeiten: *n’est pas d’accord, un autre, temps und matériel*.
+
+# Beim Hören
+
+* **Von Beginn an genau zuhören**: Die Hörsequenz ist relativ kurz, sodass wenig Zeit zum „Einhören“ bleibt. Die Gesprächsstruktur unterstützt jedoch dieses „Einhören“.
+* **Signalwörter erkennen**: Entsprechend ihrer Hörerwartung achten die Schülerinnen und Schüler beim Hören auf Wendungen, die Nichteinverständnis sowie Schwierigkeiten mit Material und Zeit benennen (*je n’ai pas pu travailler, ce n’est pas assez, quelques jours supplémentaires*). Diese Signalwörter helfen ihnen, für die Antwort wesentliche Textstellen zu identifizieren.
+* **Einzelinformationen vergleichen/schlussfolgern**: Die Schülerinnen und Schüler erfassen, zu welchen Antwortmöglichkeiten Aussagen im Hörtext vorhanden sind. Bei den danach verbleibenden zwei Möglichkeiten (A + B) gleichen sie die beim Hören erfassten Bestandteile (z. B. *quelques jours supplémentaires*) mit den Formulierungen der Antwortmöglichkeiten ab, um diese auszuschließen oder als richtig zu erkennen.
+
+# Nach dem Hören
+
+* **Antworten prüfen**: Das Dokument enthält nach einer kurzen Pause einen zweiten Hördurchgang. Vor dem zweiten Hören sollten sich die Schülerinnen und Schüler bewusst machen, welche Antwortmöglichkeiten sie bereits sicher ausschließen können und sich nur noch auf diejenigen konzentrieren, bei denen sie nicht sicher sind. Dabei konzentrieren sie sich wiederum auf Signalwörter.
+
+# Weiterarbeit und Förderung
+
+## Bei richtiger Lösung
+
+Bereitet die Lösung dieser Aufgabe keine Schwierigkeiten, so kann das globale Hörverstehen von Texten mit differenzierterem Wortschatz oder/und komplexeren Strukturen geübt werden. Außerdem sollten Texte mit höherem Sprechtempo, die nicht ganz so klar und deutlich gesprochen werden, eingesetzt werden. Darüber hinaus können Texte zu Themen, die nicht zum unmittelbaren Lebensumfeld der Lernenden gehören oder auf eine abstraktere Aussage hinzielen, eingesetzt werden. 
+
+## Bei falscher Lösung
+
+Sind Schülerinnen und Schüler nicht in der Lage, die Aufgabe zu lösen, sollten zunächst gemeinsam die Aufgabenstellung analysiert und davon ausgehend die Anforderungen abgeleitet werden. Dann sollte mit ihnen besprochen werden, wie sie bei der Bearbeitung vorgegangen sind. So können mögliche Bearbeitungsstrategien bewusst gemacht werden.
+Auch bietet es sich an, Wendungen der Unterrichtssprache (vor allem von Seiten der Schülerinnen und Schüler) gezielt zu wiederholen. Die Lernenden können z. B. Sammlungen mit nützlichen Wendungen anfertigen, die sie als Plakate im Französischraum gut sichtbar aufhängen oder als Lesezeichen in ihr Französischbuch einlegen. Darüber hinaus können in kleinen Rollenspielen Unterrichtssituationen versprachlicht werden. 
