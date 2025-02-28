@@ -2,6 +2,201 @@
 title: "VERA-8 Französisch"
 description: Aufgabenbeispiel Selektives Hörverstehen
 lang: de
+lightbox: true
 ---
 
+# Aufgabe
+
+:::{.task-header}
+Camping de la dune.
+
+&copy; IQB
+:::
+
+::: {.grid}
+
+:::{.g-col-xl-5 .g-col-12}
+
+```{=html}
+<table class="task-properties">
+  <tbody>
+    <tr>
+      <td>Thema</td>
+      <td>Reisen</td>
+    </tr>
+    <tr>
+      <td>Textsorte</td>
+      <td>Telefongespräch</td>
+    </tr>
+    <tr>
+      <td>Hörstil</td>
+      <td>selektiv/detailliert</td>
+    </tr>
+    <tr>
+      <td>Kompetenzstufen</td>
+      <td>
+        Teilaufgabe 1: A2<br/>
+        Teilaufgabe 2: A2<br/>
+        Teilaufgabe 3: A2<br/>
+        Teilaufgabe 4: B1
+      </td>
+    </tr>
+  </tbody>
+</table>
+```
+:::
+
+:::{.g-col-xl-7 .g-col-12}
+
 <audio controls src="camping.mp3"></audio>
+![](camping1.jpg){group="task-img"}
+
+:::
+
+:::
+
+## Teilaufgabe 1
+
+::: {.grid}
+
+:::{.g-col-xl-5 .g-col-12}
+
+```{=html}
+<table class="task-properties">
+  <tbody>
+    <tr>
+      <td>Richtige Lösung</td>
+      <td>nur das 4. Kästchen wurde angekreuzt (D)</td>
+    </tr>
+  </tbody>
+</table>
+```
+:::
+
+:::{.g-col-xl-7 .g-col-12}
+
+![](camping2.jpg){group="task-img"}
+
+:::
+
+:::
+
+## Teilaufgabe 2
+
+::: {.grid}
+
+:::{.g-col-xl-5 .g-col-12}
+
+```{=html}
+<table class="task-properties">
+  <tbody>
+    <tr>
+      <td>Richtige Lösung</td>
+      <td>nur das 3. Kästchen wurde angekreuzt (C)</td>
+    </tr>
+  </tbody>
+</table>
+```
+:::
+
+:::{.g-col-xl-7 .g-col-12}
+
+![](camping3.jpg){group="task-img"}
+
+:::
+
+:::
+
+## Teilaufgabe 3
+
+::: {.grid}
+
+:::{.g-col-xl-5 .g-col-12}
+
+```{=html}
+<table class="task-properties">
+  <tbody>
+    <tr>
+      <td>Richtige Lösung</td>
+      <td>nur das 3. Kästchen wurde angekreuzt (C)</td>
+    </tr>
+  </tbody>
+</table>
+```
+:::
+
+:::{.g-col-xl-7 .g-col-12}
+
+![](camping4.jpg){group="task-img"}
+
+:::
+
+:::
+
+## Teilaufgabe 4
+
+::: {.grid}
+
+:::{.g-col-xl-5 .g-col-12}
+
+```{=html}
+<table class="task-properties">
+  <tbody>
+    <tr>
+      <td>Richtige Lösung</td>
+      <td>nur das 4. Kästchen wurde angekreuzt (D)</td>
+    </tr>
+  </tbody>
+</table>
+```
+:::
+
+:::{.g-col-xl-7 .g-col-12}
+
+![](camping5.jpg){group="task-img"}
+
+:::
+
+:::
+
+# Diagnostisches Potenzial
+
+Schülerinnen und Schüler, die diese Aufgabe richtig lösen, können einem deutlich artikulierten längeren Gespräch in Standardsprache folgen und die Hauptpunkte sowie Einzelaussagen verstehen, wenn über vertraute Dinge gesprochen wird. Das entspricht im Bereich des Hörverstehens dem Niveau A2 bis B1. 
+
+# Beschreibung der Aufgabe
+
+Die Aufgabe verlangt, dass die Schülerinnen und Schüler einem längeren Gespräch folgen und entsprechend der Aufgabenstellung spezifische Informationen verstehen. Die Aufgabe untergliedert sich in vier Teilaufgaben, bei denen jeweils drei oder vier Antwortmöglichkeiten vorgegeben sind. Davon trifft jeweils eine zu (muss angekreuzt werden).
+
+Textgrundlage ist der Anruf eines Jungen auf einem Campingplatz. Mit 1:02 Minuten ist das Gespräch relativ lang. Es ist klar und deutlich gesprochen. Die Gesprächsrollen wechseln ständig zwischen dem anrufenden Jungen und der Frau, die seine Fragen beantwortet. Durch die vier Teilaufgaben gibt es kaum unwesentliche Passagen. Fragen und Antworten müssen genau verstanden werden, da nur die Lösung von Teilaufgabe 3 in gleicher Formulierung im Text vorkommt. Bei allen anderen Teilaufgaben ist eine Schlussfolgerung aus mehreren gegebenen Informationen oder einer Umschreibung bzw. das In-Beziehung-Setzen von Frage und Antwort erforderlich. Somit muss der rein selektive Hörstil (mit der Konzentration auf spezifische Informationen) auch durch Phasen des detaillierteren Hörverstehens relevanter Textpassagen ergänzt werden.
+
+Das Thema Ferien und sogar die Auswahl und Reservierung einer Unterkunft war sicher in Jahrgangsstufe 8 bereits Inhalt des Unterrichts in der ersten Fremdsprache. So kann der Wortschatz als bekannt vorausgesetzt werden. Eventuell unbekannter themenspezifischer Wortschatz (z. B. *emplacement, autorisation, récupérer cet argent*) dürfte aus dem Kontext erschließbar sein. Auch die Strukturen sind überwiegend einfach. Der Gebrauch des *Conditionnel* (*j’aimerais, on aimerait*) zum Ausdruck eines Wunsches/einer höflichen Bitte ist den Schülerinnen und Schülern auf dieser Stufe geläufig. Die einzige Schwierigkeit könnte die Struktur *…avoir besoin de…* darstellen. Somit liegt der Hörtext bzgl. seines Wortschatzes und seiner Strukturen auf Niveau A2. Die höhere Schwierigkeit der Teilaufgabe 4 ist durch die erforderlichen Prozesse des Kombinierens und Schlussfolgerns bedingt.
+
+# Vor dem Hören
+
+Zur Lösung der Aufgabe können unterschiedliche Strategien angewandt werden, die sinnvoll miteinander verknüpft werden müssen.
+
+* **Hörerwartung aufbauen**: Die Überschrift *Camping de la dune* gibt bereits einen deutlichen Hinweis auf das Thema. In der darauffolgenden Einleitung werden die Textsorte (Telefongespräch), der Gesprächsanlass (*passer vos vacances dans un camping*) und die Gesprächspartner (*ton copain Quentin, à la réception*) benannt.
+* **Konkretisierung der Hörerwartung**: Mit dem Lesen der Teilaufgaben und der dazugehörigen Antwortmöglichkeiten wird die Hörerwartung weiter konkretisiert. Es geht um die Anzahl der Personen, den Zeitraum oder Zeitpunkt des Aufenthalts, Sonderbedingungen für Jugendliche unter 18 Jahren und die Lage des Campingplatzes. 
+* **Anforderungen der Aufgabe ableiten**: Wichtig ist, dass vor dem Hören ganz klar ist, was die Aufgabe verlangt. Es geht um das Erfassen der genannten spezifischen Informationen. Die Aufmerksamkeit muss entsprechend der Hörerwartung auf diese Informationen gelenkt werden.
+
+# Beim Hören
+
+* **Hörsituation erfassen**: Im Begrüßungsteil melden sich sowohl die Rezeption des Campingplatzes als auch der Anrufer Quentin, der den Grund seines Anrufes nennt. Somit werden bereits die Sprecherrollen genau definiert und die Orientierung innerhalb des Gesprächs erleichtert.
+* **Signalwörter erkennen**: Entsprechend der Hörerwartung achten die Schülerinnen und Schüler beim Hören auf entsprechende Signalwörter (*pas encore 18 ans, loin de la mer*). Diese Signalwörter helfen ihnen, für die Antworten wesentliche Textstellen zu identifizieren.
+* **Einzelinformationen vergleichen/schlussfolgern**: Die Schülerinnen und Schüler gleichen die beim Hören erfassten Informationen mit den Antwortmöglichkeiten in den Teilaufgaben ab, um diese auszuschließen bzw. als richtig zu erkennen. Bei der Teilaufgabe 3 genügt dazu ein reiner Vergleich des Gehörten mit den Antwortmöglichkeiten (*une autorisation de ses parents*). Die anderen Teilaufgaben erfordern Prozesse des Kombinierens und Schlussfolgerns: Teilaufgabe 1 (*deux filles et deux garçons = Quentin avec un copain et deux copines*), Teilaufgabe 2 (*le deux août = le début août*), Teilaufgabe 4 (*il faut seulement traverser la route nationale = près de la route nationale*). 
+
+# Nach dem Hören
+
+* **Antwort prüfen**: Das Dokument enthält nach einer kurzen Pause einen zweiten Hördurchgang. Vor diesem zweiten Hören sollten sich die Schülerinnen und Schüler bewusst machen, welche Antwortmöglichkeiten sie bereits sicher ausschließen können und sich nur noch auf die Antwortmöglichkeiten konzentrieren, wo sie nicht sicher sind. Dabei hilft ihnen die Nutzung der Signalwörter zur Konzentration auf relevante Textstellen, die möglicherweise detailliertere Verstehensprozesse erfordern, da die richtige Lösung nicht sofort offensichtlich wird. 
+
+# Weiterarbeit und Förderung
+
+## Bei richtiger Lösung
+
+Bereitet die Lösung der Aufgabe keine Schwierigkeiten, so können komplexere Aufgaben zum selektiven Hörverstehen und auch Aufgaben zum detaillierten Hörverstehen folgen. Diese Aufgaben sollten auch Themen außerhalb des unmittelbaren Lebensumfeldes der Schülerinnen und Schüler einbeziehen. Außerdem sollten Texte mit mehreren Sprechern und höherem Sprechtempo, die nicht ganz so klar gesprochen werden, eingesetzt werden. Das können schrittweise Originaldokumente (z. B. Ausschnitte aus Radiosendungen) sein. Eine zusätzliche Schwierigkeit stellen auch Aufgaben dar, bei denen keine möglichen Antworten vorgegeben sind, sondern die erfasste Information selbständig in Form einer Kurzantwort notiert werden muss.
+
+## Bei falscher Lösung
+
+Sind Schülerinnen und Schüler nicht in der Lage, die Aufgabe zu lösen, sollten nochmals gemeinsam die Einbettung, die Teilaufgaben und die Antwortmöglichkeiten genau gelesen und besprochen werden. Daraus lässt sich das oben beschriebene Vorgehen (Aufbau der Hörerwartung/Erfassen der Hörsituation/Konzentration auf spezifische Informationen/Nutzen von Signalwörtern) ableiten. Die Lernenden können besondere Schwierigkeiten benennen und ein genaueres Analysieren der entsprechenden Textstelle erfolgt durch nochmaliges Hören und anschließend ggf. durch Mitlesen der Transkription. Ein anderer Weg ist, dass Schülerinnen und Schüler mit der richtigen Lösung ihren Klassenkameraden erklären, wie sie vorgegangen sind und auch auf diese Weise mögliche Bearbeitungsstrategien bewusst gemacht werden.
+
+Darüber hinaus kann es sinnvoll sein, die Schülerinnen und Schüler zu einem Hördokument selbst mögliche Aufgaben entwickeln zu lassen. Indem sie erkennen, dass in vielen Textsorten nur spezifische Informationen (z. B. Daten, Preise, Orte) wesentlich sind, lernen sie ihre Aufmerksamkeit beim Hören gezielt auf diese Textstellen zu richten. Im Hinblick auf die Erweiterung und Festigung des Wortschatzes ist es auch sinnvoll, die Lernenden selbst verschiedene Antwortmöglichkeiten zu einer Aufgabe entwerfen zu lassen und dabei gezielt Umschreibungen einzubeziehen.

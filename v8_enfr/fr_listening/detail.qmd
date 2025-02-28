@@ -2,6 +2,105 @@
 title: "VERA-8 Französisch"
 description: Aufgabenbeispiel Detalliertes Hörverstehen
 lang: de
+lightbox: true
 ---
 
+# Aufgabe
+
+:::{.task-header}
+Jeux vidéo
+
+&copy; IQB
+:::
+
+::: {.grid}
+
+:::{.g-col-xl-5 .g-col-12}
+
+```{=html}
+<table class="task-properties">
+  <tbody>
+    <tr>
+      <td>Thema</td>
+      <td>Medien</td>
+    </tr>
+    <tr>
+      <td>Textsorte</td>
+      <td>Interview</td>
+    </tr>
+    <tr>
+      <td>Hörstil</td>
+      <td>detailliert</td>
+    </tr>
+    <tr>
+      <td>Kompetenzstufen</td>
+      <td>
+        Teilaufgabe 1: A2<br/>
+        Teilaufgabe 2: B2<br/>
+        Teilaufgabe 3: A2<br/>
+        Teilaufgabe 4: A2
+      </td>
+    </tr>
+  </tbody>
+</table>
+```
+:::
+
+:::{.g-col-xl-7 .g-col-12}
+
 <audio controls src="jeux.mp3"></audio>
+![](jeux1.jpg){group="task-img"}
+
+:::
+
+:::
+
+## Teilaufgaben 1-4 (Zeilen)
+
+![Teilaufgaben mit richtiger Lösung](jeux2.jpg){group="task-img"}
+
+# Diagnostisches Potenzial
+
+Schülerinnen und Schüler, die diese Aufgabe richtig lösen, können in einem deutlich artikulierten Text in Standardsprache zu einem Thema aus ihrem unmittelbaren Lebensumfeld die Hauptpunkte verstehen. Das entspricht im Bereich des detaillierten Hörens dem Niveau A2. Die Teilaufgabe 2 erfordert das Verstehen einer weniger klar gekennzeichneten Information und liegt auf Niveau B2.
+
+# Beschreibung der Aufgabe
+
+Die Aufgabe verlangt, dass die Schülerinnen und Schüler einem Gespräch folgen und die Hauptpunkte der einzelnen Gesprächsteile benennen können. Für die Lösung gibt es fünf mögliche Interviewfragen, die jeweils dem entsprechenden Teil zugeordnet (angekreuzt) werden müssen. Eine Frage ist nicht zutreffend.
+
+Die Textgrundlage sind vier Ausschnitte aus einem Interview mit einem Schweizer Schüler zu seinen Gewohnheiten im Umgang mit dem Computer. Der Schüler spricht relativ klar und deutlich. Die andere Sprecherin ist lediglich in kurzen Bestätigungen oder Nachfragen zu hören, so dass die Lösung jeweils nur aus der Antwort des Schülers ableitbar ist.
+
+Der Text ist mit 2:03 min. relativ lang und verlangt dadurch eine Konzentration über einen längeren Zeitraum. Er ist durch Zwischenansagen klar in vier Abschnitte gegliedert, die jeweils einen Aspekt von Videospielen betrachten (Spielzeit, Spieleanzahl, Preis, Person, die dafür bezahlt).
+
+Die Strukturen sind überwiegend einfach, weisen aber eindeutige Kennzeichen der gesprochenen Sprache (Zögern, Neuansetzen, Füllwörter, Einschübe) auf. Auf diesem Niveau noch unbekanntes Vokabular wie *congé, alentours, dépenses* kann für die Lösung der Aufgabe vernachlässigt werden, da die Antwort jeweils aus mehreren Textelementen abgeleitet werden kann (z. B. die Spielzeit durch eine Häufung von Zeitangaben – *une heure et demie*, 3 x *après-midi* oder der Preis durch 2 x *euros*, 1 x *Francs* und eine Nachfrage der anderen Sprecherin). Die *Francs* für den Preis in der Schweiz werden noch zweimal in Euro wiederholt. Der Text ist somit stark redundant, wenn es auch außer bei Teil 4 (paie) keine Überlappung von Hörtext und Formulierungen in den Teilaufgaben gibt.
+
+Die Teilaufgaben bewegen sich auf Niveau A2. Nur die zweite Frage, bei der die Schülerinnen und Schüler erkennen müssen, dass nur von einem einzigen Spiel die Rede ist, stellt höhere Anforderungen (Niveau B2). Die zutreffenden Textstellen *un seul* und *à celui-là* sind beim Sprechen nicht gesondert hervorgehoben und von der Struktur her komplexer als die Aussagen zu den anderen Fragen.
+
+# Vor dem Hören
+
+Zur Lösung der Aufgabe können unterschiedliche Strategien angewandt werden, die sinnvoll miteinander verknüpft werden müssen.
+
+* **Vorwissen und Wortschatz aktivieren**: Die Überschrift (*jeux-vidéo*) enthält einen eindeutigen Hinweis auf das Thema. Der Hörer aktiviert dadurch sein Vorwissen zum Thema Computerspiele und ruft entsprechenden Wortschatz auf. Natürlich ist es bei der Nutzung als Lernaufgabe auch möglich, vor dem Hören gemeinsam am Wortfeld „Freizeit“ und „Computernutzung“ zu arbeiten.
+* **Hörerwartung aufbauen**: Durch die Einleitung (*un élève Suisse*) wird das Thema und damit die Hörerwartung konkretisiert (es geht um das Spielverhalten eines Schülers). Das anschließende Lesen der Auswahlfragen dient zur weiteren Lenkung des Hörens auf die Aspekte Preis, Spieleanzahl, Gründe für das Spielen, Spielzeit und die Person, die dafür bezahlt.
+* **Anforderungen der Aufgabe ableiten**: Wichtig ist, dass vor dem Hören ganz klar ist, was die Aufgabe verlangt. Der Lernende soll jedem Textteil (Antwort) die entsprechende Interviewfrage zuordnen. Die Textteile sind links nach der Reihenfolge ihres Auftretens geordnet, die Fragen sind entsprechend anzukreuzen.
+
+# Beim Hören
+
+* **Signalwörter erkennen**: Entsprechend ihrer Hörerwartung achten die Schülerinnen und Schüler beim Hören auf entsprechende Signalwörter (z. B. Zeit- und Preisangaben, Zahlen von Spielen und Namen von Personen, aber auch Wortschatz wie *payer* oder *Euro*). Diese Signalwörter helfen ihnen, für die Antwort wesentliche Textstellen zu identifizieren.
+* **Einzelinformationen vergleichen/schlussfolgern**: Die Schülerinnen und Schüler gleichen beim Hören die erfassten Informationen (z. B. *une heure et demie, 60 euros*) mit den Fragen ab, um diese einander zuzuordnen.
+* **Weiter zuhören**: Auch wenn sie meinen, eine Frage zuordnen zu können, sollten die Schülerinnen und Schüler weiter dem Text folgen, da es möglicherweise noch weitere Informationen in diesem Textteil gibt, so dass eine andere Antwortmöglichkeit besser passt.
+
+# Nach dem Hören
+
+* **Antwort prüfen**: Das Dokument enthält nach einer kurzen Pause einen zweiten Hördurchgang. Vor diesem zweiten Hören machen sich die Schülerinnen und Schüler bewusst, welchen Textteilen sie bereits sicher eine Frage zuordnen konnten. Die verbleibenden Fragen sollten sie nochmals genau lesen und sich beim zweiten Hören besonders auf die Textteile konzentrieren, zu denen sie noch keine Lösung haben. Dabei konzentrieren sie sich wiederum auf Signalwörter.
+ 
+# Weiterarbeit und Förderung
+
+## Bei richtiger Lösung
+
+Bereitet die Lösung dieser Aufgabe keine Schwierigkeiten, so kann das detaillierte Hörverstehen von Texten mit differenzierterem Wortschatz oder/und komplexeren Strukturen geübt werden. Auch sollten Übungen zum detaillierten Hörverstehen von Texten eingesetzt werden, die sich mit Themen außerhalb des unmittelbaren Lebensumfeldes der Schülerinnen und Schüler befassen. Außerdem sollten Texte mit mehr als nur einem Sprecher sowie Texte mit höherem Sprechtempo, die nicht ganz so klar gesprochen werden, eingesetzt werden.
+
+## Bei falscher Lösung
+
+Sind Schülerinnen und Schüler nicht in der Lage, die Aufgabe zu lösen, sollten nochmals gemeinsam das Aufgabenformat (eine Frage pro Textteil, eine Frage zu viel) besprochen werden. Außerdem sollte sichergestellt werden, dass die Lernenden die Formulierungen der Fragen wirklich verstanden haben. Nun lässt sich das oben beschriebene Vorgehen (Achten auf Signalwörter, Abgleich von gehörten Textstellen mit Formulierungen der Fragen) ableiten. Die Lernenden können besondere Schwierigkeiten der Aufgabe (eventuell besonders problematische Textteile) benennen, und ein genaueres Analysieren der relevanten Textstellen erfolgt unter Zuhilfenahme der Transkription. Ein anderer Weg ist, dass Schülerinnen und Schüler mit der richtigen Lösung ihren Klassenkameraden erklären, wie sie vorgegangen sind und auch auf diese Weise mögliche Bearbeitungsstrategien bewusst gemacht werden.
+
+Darüber hinaus bietet es sich an, nochmals die Wortfelder „Freizeit“ und „Computernutzung“ zu wiederholen. Die Schülerinnen und Schüler können Wortfeldzusammenstellungen für ihre Hefter oder den Klassenraum anfertigen. Die Anwendung des Wortschatzes kann in 1-Minuten-Vorträgen oder Interviews zu Freizeitgestaltung erfolgen.

@@ -48,7 +48,7 @@ Doc. audio: Boussat, Stéphanie; Jouhanne, Cécile: Nouveau DELF Junior & Scolai
 :::{.g-col-xl-7 .g-col-12}
 
 <audio controls src="maxime.mp3"></audio>
-![](maxime.png)
+![](maxime.jpg)
 
 :::
 
