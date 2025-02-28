@@ -11,6 +11,45 @@
     ]
   },
   {
+    "objectID": "v8_enfr/fr_listening/global.html",
+    "href": "v8_enfr/fr_listening/global.html",
+    "title": "VERA-8 Französisch",
+    "section": "",
+    "text": "A la fin du cours, Maxime parle à son professeur.\nDoc. audio: Boussat, Stéphanie; Jouhanne, Cécile: Nouveau DELF Junior & Scolaire A2, 200 activités, Livre + CD audio, © CLE international, Paris 2006\n\n\n\n\n\n\nThema\nSchule\n\n\nTextsorte\nGespräch\n\n\nHörstil\nglobal\n\n\nKompetenzstufe\nTeilaufgabe 1: A2\n\n\nRichtige Lösung\nnur das 2. Kästchen wurde angekreuzt (B)",
+    "crumbs": [
+      "VERA-8 Fremdsprache",
+      "Hörverstehen",
+      "Aufgaben Französisch",
+      "Globales HV"
+    ]
+  },
+  {
+    "objectID": "v8_enfr/fr_listening/global.html#bei-richtiger-lösung",
+    "href": "v8_enfr/fr_listening/global.html#bei-richtiger-lösung",
+    "title": "VERA-8 Französisch",
+    "section": "Bei richtiger Lösung",
+    "text": "Bei richtiger Lösung\nBereitet die Lösung dieser Aufgabe keine Schwierigkeiten, so kann das globale Hörverstehen von Texten mit differenzierterem Wortschatz oder/und komplexeren Strukturen geübt werden. Außerdem sollten Texte mit höherem Sprechtempo, die nicht ganz so klar und deutlich gesprochen werden, eingesetzt werden. Darüber hinaus können Texte zu Themen, die nicht zum unmittelbaren Lebensumfeld der Lernenden gehören oder auf eine abstraktere Aussage hinzielen, eingesetzt werden.",
+    "crumbs": [
+      "VERA-8 Fremdsprache",
+      "Hörverstehen",
+      "Aufgaben Französisch",
+      "Globales HV"
+    ]
+  },
+  {
+    "objectID": "v8_enfr/fr_listening/global.html#bei-falscher-lösung",
+    "href": "v8_enfr/fr_listening/global.html#bei-falscher-lösung",
+    "title": "VERA-8 Französisch",
+    "section": "Bei falscher Lösung",
+    "text": "Bei falscher Lösung\nSind Schülerinnen und Schüler nicht in der Lage, die Aufgabe zu lösen, sollten zunächst gemeinsam die Aufgabenstellung analysiert und davon ausgehend die Anforderungen abgeleitet werden. Dann sollte mit ihnen besprochen werden, wie sie bei der Bearbeitung vorgegangen sind. So können mögliche Bearbeitungsstrategien bewusst gemacht werden. Auch bietet es sich an, Wendungen der Unterrichtssprache (vor allem von Seiten der Schülerinnen und Schüler) gezielt zu wiederholen. Die Lernenden können z. B. Sammlungen mit nützlichen Wendungen anfertigen, die sie als Plakate im Französischraum gut sichtbar aufhängen oder als Lesezeichen in ihr Französischbuch einlegen. Darüber hinaus können in kleinen Rollenspielen Unterrichtssituationen versprachlicht werden.",
+    "crumbs": [
+      "VERA-8 Fremdsprache",
+      "Hörverstehen",
+      "Aufgaben Französisch",
+      "Globales HV"
+    ]
+  },
+  {
     "objectID": "v8_enfr/listening.html",
     "href": "v8_enfr/listening.html",
     "title": "VERA-8 Fremdsprache Hörverstehen",
@@ -52,6 +91,17 @@
     "crumbs": [
       "VERA-8 Fremdsprache",
       "Hörverstehen"
+    ]
+  },
+  {
+    "objectID": "v8_enfr/standards.html",
+    "href": "v8_enfr/standards.html",
+    "title": "VERA-8 Fremdsprache Kompetenzmodell",
+    "section": "",
+    "text": "Gemeinsamer Europäischer Referenzrahmen (GER)\nDie Bildungsstandards sind an die im Gemeinsamen Europäischen Referenzrahmen für Fremdsprachen beschriebenen Niveaus angebunden:\n\n\n\n\n\n\n\n\nflowchart TD\n    subgraph Abitur\n        C(&lt;b&gt;C&lt;/b&gt;&lt;br/&gt;Kompetente&lt;br/&gt;Sprachverwendung)\n        C1(C1&lt;br/&gt;&lt;i&gt;Effektive&lt;br/&gt;Operational&lt;br/&gt;Proficiency&lt;/i&gt;)\n        C2(C2&lt;br/&gt;&lt;i&gt;Mastery&lt;/i&gt;)\n    end\n    style Abitur fill:white\n    subgraph MSA\n        B(&lt;b&gt;B&lt;/b&gt;&lt;br/&gt;Selbstständige&lt;br/&gt;Sprachverwendung)\n        B1(B1&lt;br/&gt;&lt;i&gt;Threshold&lt;/i&gt;)\n        B2(B2&lt;br/&gt;&lt;i&gt;Vantage&lt;/i&gt;)\n    end\n    style MSA fill:white\n    subgraph HSA\n        A(&lt;b&gt;A&lt;/b&gt;&lt;br/&gt;Elementare&lt;br/&gt;Sprachverwendung)\n        A1(A1&lt;br/&gt;&lt;i&gt;Breakthrough&lt;/i&gt;)\n        A2(A2&lt;br/&gt;&lt;i&gt;Waystage&lt;/i&gt;)\n    end\n    style HSA fill:white\n    A --&gt; A1\n    A --&gt; A2\n    B --&gt; B1\n    B --&gt; B2\n    C --&gt; C1\n    C --&gt; C2\n\n\n\n\n\n\n\n\n\nAbbildung 1: Niveaustufen nach dem Gemeinsamen Europäischen Referenzrahmen für Sprachen\n\n\n\nIn den Plöner Beschlüssen von 2006 hat die Kultusministerkonferenz festgelegt, dass VERA-8 an die Bildungsstandards für die Sekundarstufe I angekoppelt werden soll. Bei den Bildungsstandards handelt es sich um eine Festlegung von Regelstandards. Diese liegen hinsichtlich ihres Anforderungsniveaus zwischen Mindest- und Optimalstandards. Die folgenden Begriffe werden im Kompetenzstufenmodell von 2009 definiert.\n\nMindeststandards: Minimum an Kompetenzen, das von allen bis zu einem bestimmten Bildungsabschnitt erreicht werden soll\nRegelstandards: Kompetenzen, die im Durchschnitt bis zu einem bestimmten Bildungsabschnitt erreicht werden sollen\nRegelstandard plus: Kompetenzen, die über die Regelstandards hinausgehen\nOptimalstandards: Leistungserwartungen, die unter sehr guten individuellen Lernvoraussetzungen und der Bereitstellung gelingender Lerngelegenheiten innerhalb und außerhalb der Schule erreicht werden und bei weitem die Erwartungen der Bildungsstandards übertreffen\n\nIm Folgenden werden die Leistungen auf den Niveaus A1 bis C1 beschrieben. Schülerinnen und Schüler der 1. Fremdsprache verweilen mehrere Lernjahre auf den Niveaus A2 und B1. In der Regel wird deutlich mehr Lernzeit zum Erreichen des höheren Niveaus benötigt. Da mit VERA-8 Schülerinnen und Schüler des 8. Jahrgangs getestet werden, umfassen die eingesetzten Testaufgaben im Wesentlichen Aufgaben auf den Niveaus A2 und B1. Für die Niveaus A1 und B2 werden deutlich weniger Aufgaben eingesetzt, für das Niveau C1 nur einzelne Teilaufgaben. Auf dieser Grundlage können dann für einzelne Lerngruppen entsprechende Fördermaßnahmen abgeleitet und Konzepte für eine angemessene Weiterarbeit entwickelt werden. Da die Lernprozesse individuell sehr unterschiedlich verlaufen, ist eine differenzierte Schwerpunktsetzung im Unterricht nötig.\n\n\nKompetenzmodell\nWas versteht man unter dem Begriff Kompetenz?\nWeinert (2001: 27) beschreibt Kompetenz als\n\n“die bei Individuen verfügbaren oder von ihnen erlernbaren kognitiven Fähigkeiten und Fertigkeiten, bestimmte Probleme zu lösen, sowie die damit verbundenen motivationalen, volitionalen und sozialen Bereitschaften und Fähigkeiten, die Problemlösungen in variablen Situationen erfolgreich und verantwortungsvoll nutzen zu können.”\n\nDie Modellierung fremdsprachiger Handlungskompetenz in den Bildungsstandards greift diesen weiten Kompetenzbegriff auf. Sie umfasst nicht nur funktionale kommunikative Kompetenzen wie kommunikative Fertigkeiten und die Verfügung über die sprachlichen Mittel, sondern auch interkulturelle und methodische Kompetenzen sowie Selbst- und Sozialkompetenz.\n\n\n\n\n\n\n\n\n\n\nFunktionale Kommunikative Kompetenzen\n\n\nKommunikative Fertigkeiten\nVerfügung über die sprachlichen Mittel\n\n\nLeseverstehen\nHör- und Hör-/Sehverstehen\nSprechen\n\nAn Gesprächen teilnehmen\nZusammenhängendes Sprechen\n\nSchreiben\nSprachmittlung\n\nWortschatz\nGrammatik\nAussprache und Intonation\nOrthographie\n\n\nInterkulturelle Kompetenzen\n\n\nSoziokulturelles Orientierungswissen\nVerständnisvoller Umgang mit kultureller Differenz\nPraktische Bewältigung interkultureller Begegnungssituationen\n\n\nMethodische Kompetenzen\n\n\nTextrezeption (Leseverstehen und Hörverstehen)\nInteraktion\nTextproduktion (Sprechen und Schreiben)\nLernstrategien\nPräsentation und Mediennutzung\nLernbewusstheit und Lernorganisation\n\n\n\n\n\nAbbildung 2: Kompetenzbereiche entsprechend der Bildungsstandards für die erste Fremdsprache (Englisch/Französisch) für den Mittleren Schulabschluss (2003)\n\n\n\nMit dieser Modellierung greifen die Bildungsstandards die Kompetenzbereiche des GER auf. Zu beachten ist, dass die methodischen Kompetenzen sowohl spezifisch für einzelne kommunikative Fertigkeiten als auch Fertigkeiten übergreifend sind. Lernbewusstheit und Lernorganisation können den personalen Kompetenzen zugeordnet werden. Auch die interkulturellen Kompetenzen realisieren sich in kommunikativen Fertigkeiten, in der Verfügung über spezifische sprachliche Mittel und in Strategien zur Interaktion. In schulischen und lebensweltlichen Kommunikationssituationen wirken i. d. R. ebenfalls mehrere Kompetenzen zusammen. Diesem integrativen Charakter sprachlicher Kompetenzen trägt im GER das Konstrukt der allgemeinen sprachlichen Kompetenz Rechnung. Allerdings ist sie als globales Konstrukt weder messbar noch gezielt förderbar, sodass es, trotz aller Überschneidungen und Unzulänglichkeiten der Modellierung, für beide Zwecke sinnvoll ist, die allgemeine sprachliche Kompetenz in einzelne Kompetenzbereiche und Teilkompetenzen zu unterteilen.\nDie Verwendung des Begriffs „Kompetenz“ trägt dabei der Komplexität sprachlicher Anforderungen Rechnung, schließlich bezeichnet man mit Kompetenzen komplexe Dispositionen aus Wissen, Können und Absichten. Auch fremdsprachliche Kompetenzen umfassen den Bereich des Wissens, insbesondere Wissen über sprachliche Mittel und ihre Verwendung sowie soziokulturelles Wissen und Wissen über das Funktionieren von Kommunikation. Kompetenzen beinhalten aber deutlich mehr als Wissen: Ganz wichtig ist das Verfügen über Methoden und Strategien zum Erwerb dieses Wissens (z. B. Wie kann ich besonders gut neuen Wortschatz lernen?) sowie zur Anwendung dieses Wissens (z. B. Wie kann ich meine Meinung zu einem Thema so ausdrücken, sodass die anderen mich verstehen?). Für den schulischen Bereich, insbesondere für die Mittelstufe, erscheint uns die Bereitschaft, dieses sprachliche, methodische und strategische Wissen in die Praxis umzusetzen, ganz besonders wichtig (z. B. sich trotz aller sprachlichen Unzulänglichkeiten zu trauen, das Wort zu ergreifen oder einen kleinen Vortrag zu halten).\nKompetenzen sind also wesentlich weiter und komplexer gefasst als Fertigkeiten (skills, habiletés), bei denen allein die Tätigkeit im Mittelpunkt steht. Das Konzept der Fertigkeiten (im Sinne von skills, habiletés) ist zudem geprägt von der Vorstellung, dass einzelne Tätigkeiten isoliert betrachtet und trainiert werden können. Außerdem schwingt die Vorstellung mit, dass diese Tätigkeiten von Anfang an möglichst fehlerfrei erfolgen sollten.\nKompetenzorientierung dagegen strebt an, die komplexen, aufeinander bezogenen Kompetenzen integriert zu entwickeln. Dies bedeutet, dass man im Unterricht zwar punktuell auf die gezielte Entwicklung einer Teilkompetenz (z. B. detailliertes Leseverstehen) fokussiert, dabei jedoch immer das entsprechende methodische, strategische und interkulturelle Können berücksichtigt. Bei dieser gezielten Entwicklung einer Einzelkompetenz im Rahmen einer Unterrichtsreihe sollte daher darauf geachtet werden, die anderen Kompetenzen analog zu ihrer Verwendung in lebensweltlichen Situationen mit zu verwenden (z. B. detailliertes Leseverstehen, um sich mündlich oder schriftlich über die zentralen Argumente eines argumentativen Textes auszutauschen und sich eine eigene Meinung dazu zu bilden). Kompetenzorientierung berücksichtigt ebenfalls, dass die Korrektheit und Komplexität sprachlicher Äußerungen erst nach und nach steigt (vgl. die Angaben zu Fehlern und Hilfen in den einzelnen Niveaubeschreibungen).",
+    "crumbs": [
+      "VERA-8 Fremdsprache",
+      "Kompetenzmodell"
     ]
   },
   {
@@ -601,11 +651,11 @@
     ]
   },
   {
-    "objectID": "v8_enfr/fr_reading_selective/index.html",
-    "href": "v8_enfr/fr_reading_selective/index.html",
+    "objectID": "v8_enfr/fr_reading/selective.html",
+    "href": "v8_enfr/fr_reading/selective.html",
     "title": "VERA-8 Französisch",
     "section": "",
-    "text": "Thema\nFreizeit/Literatur\n\n\nTextsorte\nAushang\n\n\nLesestil\nselektiv\n\n\nKompetenzstufen\nTeilaufgabe 1: A2\nTeilaufgabe 2: B1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRichtige Lösung\nnur das 2. Kästchen wurde angekreuzt (B)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRichtige Lösung\nnur das 2. Kästchen wurde angekreuzt (B)",
+    "text": "Strasbulles\n© IQB\n\n\n\n\n\n\n\n\n\n\nThema\nFreizeit/Literatur\n\n\nTextsorte\nAushang\n\n\nLesestil\nselektiv\n\n\nKompetenzstufen\nTeilaufgabe 1: A2\nTeilaufgabe 2: B1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRichtige Lösung\nnur das 2. Kästchen wurde angekreuzt (B)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRichtige Lösung\nnur das 2. Kästchen wurde angekreuzt (B)",
     "crumbs": [
       "VERA-8 Fremdsprache",
       "Leseverstehen",
@@ -614,21 +664,8 @@
     ]
   },
   {
-    "objectID": "v8_enfr/fr_reading_selective/index.html#teilaufgabe-1",
-    "href": "v8_enfr/fr_reading_selective/index.html#teilaufgabe-1",
-    "title": "VERA-8 Französisch",
-    "section": "",
-    "text": "Richtige Lösung\nnur das 2. Kästchen wurde angekreuzt (B)",
-    "crumbs": [
-      "VERA-8 Fremdsprache",
-      "Leseverstehen",
-      "Aufgaben Französisch",
-      "Selektives LV"
-    ]
-  },
-  {
-    "objectID": "v8_enfr/fr_reading_selective/index.html#teilaufgabe-2",
-    "href": "v8_enfr/fr_reading_selective/index.html#teilaufgabe-2",
+    "objectID": "v8_enfr/fr_reading/selective.html#teilaufgabe-1",
+    "href": "v8_enfr/fr_reading/selective.html#teilaufgabe-1",
     "title": "VERA-8 Französisch",
     "section": "",
     "text": "Richtige Lösung\nnur das 2. Kästchen wurde angekreuzt (B)",
@@ -640,8 +677,21 @@
     ]
   },
   {
-    "objectID": "v8_enfr/fr_reading_selective/index.html#bei-richtiger-lösung",
-    "href": "v8_enfr/fr_reading_selective/index.html#bei-richtiger-lösung",
+    "objectID": "v8_enfr/fr_reading/selective.html#teilaufgabe-2",
+    "href": "v8_enfr/fr_reading/selective.html#teilaufgabe-2",
+    "title": "VERA-8 Französisch",
+    "section": "",
+    "text": "Richtige Lösung\nnur das 2. Kästchen wurde angekreuzt (B)",
+    "crumbs": [
+      "VERA-8 Fremdsprache",
+      "Leseverstehen",
+      "Aufgaben Französisch",
+      "Selektives LV"
+    ]
+  },
+  {
+    "objectID": "v8_enfr/fr_reading/selective.html#bei-richtiger-lösung",
+    "href": "v8_enfr/fr_reading/selective.html#bei-richtiger-lösung",
     "title": "VERA-8 Französisch",
     "section": "Bei richtiger Lösung",
     "text": "Bei richtiger Lösung\nBereitet die Lösung der Aufgabe keine Schwierigkeiten, so können komplexere Aufgaben zum selektiven Leserverstehen und auch Aufgaben zum detaillierten Leseverstehen folgen. Diese Aufgaben sollten auch Themen außerhalb des unmittelbaren Lebensumfeldes der Schülerinnen und Schüler einbeziehen. Eine zusätzliche Schwierigkeit stellen auch Aufgaben dar, bei denen keine möglichen Antworten vorgegeben sind, sondern die erfasste Information selbstständig in Form einer Kurzantwort notiert werden muss.",
@@ -653,8 +703,8 @@
     ]
   },
   {
-    "objectID": "v8_enfr/fr_reading_selective/index.html#bei-falscher-lösung",
-    "href": "v8_enfr/fr_reading_selective/index.html#bei-falscher-lösung",
+    "objectID": "v8_enfr/fr_reading/selective.html#bei-falscher-lösung",
+    "href": "v8_enfr/fr_reading/selective.html#bei-falscher-lösung",
     "title": "VERA-8 Französisch",
     "section": "Bei falscher Lösung",
     "text": "Bei falscher Lösung\nSind Schülerinnen und Schüler nicht in der Lage, die Aufgabe zu lösen, sollten nochmals gemeinsam die Situierung, die Teilaufgaben und die Antwortmöglichkeiten genau gelesen und besprochen werden. Daraus lässt sich das oben beschriebene Vorgehen (Aufbau und Spezifizierung der Leseerwartung/Aktivierung von Vorwissen aus verschiedenen Bereichen/Nutzen des Layouts als Verständnishilfe/ Konzentration auf spezifische Informationen/Nutzen von Schlüsselwörtern/Überlesen unwichtiger Textpassagen) ableiten. Die Lernenden können besondere Schwierigkeiten benennen. Mit Hilfe der markierten Schlüsselbegriffe werden gemeinsam die relevanten Textstellen aufgefunden und Verstehensinseln bewusst gemacht. Dabei wird deutlich, dass der Text nicht komplett verstanden werden muss und es für die Lösung reicht, sich auf das Umfeld der Schlüsselbegriffe der Antwortmöglichkeiten zu konzentrieren. Ein anderer Weg ist, dass Schülerinnen und Schüler mit der richtigen Lösung ihren Mitschülerinnen und Mitschülern erklären, wie sie vorgegangen sind und auch auf diese Weise mögliche Bearbeitungsstrategien bewusst gemacht werden.\nInwiefern textsortenspezifische Layouts Verständnishilfe bieten können, kann an verschiedenen Textsorten (z. B. Informationsflyer, Rezept, Gebrauchsanleitung, Aushang) nachvollzogen werden. Zur schnelleren Orientierung im Text können die Schülerinnen und Schüler selbst die zentralen Informationen markieren. Um Textstrukturen und die Anordnung von Informationen in einem Text nachzuvollziehen, bietet es sich an, die Lernenden selbst Layouts von Texten gestalten zu lassen.\nDarüber hinaus kann es sinnvoll sein, die Schülerinnen und Schüler zu einem Lesetext selbst mögliche Aufgaben entwickeln zu lassen. Indem sie erkennen, dass in vielen Textsorten nur spezifische Informationen (z. B. Personen, Handlungen, Daten, Preise, Orte) wesentlich sind, lernen sie ihre Aufmerksamkeit beim Lesen gezielt auf diese Textstellen zu richten. Im Hinblick auf die Erweiterung und Festigung des Wortschatzes ist es auch sinnvoll, die Lernenden selbst verschiedene Antwortmöglichkeiten zu einer Aufgabe entwerfen zu lassen und dabei gezielt Umschreibungen einzubeziehen.",
@@ -663,56 +713,6 @@
       "Leseverstehen",
       "Aufgaben Französisch",
       "Selektives LV"
-    ]
-  },
-  {
-    "objectID": "v8_enfr/standards.html",
-    "href": "v8_enfr/standards.html",
-    "title": "VERA-8 Fremdsprache Kompetenzmodell",
-    "section": "",
-    "text": "Gemeinsamer Europäischer Referenzrahmen (GER)\nDie Bildungsstandards sind an die im Gemeinsamen Europäischen Referenzrahmen für Fremdsprachen beschriebenen Niveaus angebunden:\n\n\n\n\n\n\n\n\nflowchart TD\n    subgraph Abitur\n        C(&lt;b&gt;C&lt;/b&gt;&lt;br/&gt;Kompetente&lt;br/&gt;Sprachverwendung)\n        C1(C1&lt;br/&gt;&lt;i&gt;Effektive&lt;br/&gt;Operational&lt;br/&gt;Proficiency&lt;/i&gt;)\n        C2(C2&lt;br/&gt;&lt;i&gt;Mastery&lt;/i&gt;)\n    end\n    style Abitur fill:white\n    subgraph MSA\n        B(&lt;b&gt;B&lt;/b&gt;&lt;br/&gt;Selbstständige&lt;br/&gt;Sprachverwendung)\n        B1(B1&lt;br/&gt;&lt;i&gt;Threshold&lt;/i&gt;)\n        B2(B2&lt;br/&gt;&lt;i&gt;Vantage&lt;/i&gt;)\n    end\n    style MSA fill:white\n    subgraph HSA\n        A(&lt;b&gt;A&lt;/b&gt;&lt;br/&gt;Elementare&lt;br/&gt;Sprachverwendung)\n        A1(A1&lt;br/&gt;&lt;i&gt;Breakthrough&lt;/i&gt;)\n        A2(A2&lt;br/&gt;&lt;i&gt;Waystage&lt;/i&gt;)\n    end\n    style HSA fill:white\n    A --&gt; A1\n    A --&gt; A2\n    B --&gt; B1\n    B --&gt; B2\n    C --&gt; C1\n    C --&gt; C2\n\n\n\n\n\n\n\n\n\nAbbildung 1: Niveaustufen nach dem Gemeinsamen Europäischen Referenzrahmen für Sprachen\n\n\n\nIn den Plöner Beschlüssen von 2006 hat die Kultusministerkonferenz festgelegt, dass VERA-8 an die Bildungsstandards für die Sekundarstufe I angekoppelt werden soll. Bei den Bildungsstandards handelt es sich um eine Festlegung von Regelstandards. Diese liegen hinsichtlich ihres Anforderungsniveaus zwischen Mindest- und Optimalstandards. Die folgenden Begriffe werden im Kompetenzstufenmodell von 2009 definiert.\n\nMindeststandards: Minimum an Kompetenzen, das von allen bis zu einem bestimmten Bildungsabschnitt erreicht werden soll\nRegelstandards: Kompetenzen, die im Durchschnitt bis zu einem bestimmten Bildungsabschnitt erreicht werden sollen\nRegelstandard plus: Kompetenzen, die über die Regelstandards hinausgehen\nOptimalstandards: Leistungserwartungen, die unter sehr guten individuellen Lernvoraussetzungen und der Bereitstellung gelingender Lerngelegenheiten innerhalb und außerhalb der Schule erreicht werden und bei weitem die Erwartungen der Bildungsstandards übertreffen\n\nIm Folgenden werden die Leistungen auf den Niveaus A1 bis C1 beschrieben. Schülerinnen und Schüler der 1. Fremdsprache verweilen mehrere Lernjahre auf den Niveaus A2 und B1. In der Regel wird deutlich mehr Lernzeit zum Erreichen des höheren Niveaus benötigt. Da mit VERA-8 Schülerinnen und Schüler des 8. Jahrgangs getestet werden, umfassen die eingesetzten Testaufgaben im Wesentlichen Aufgaben auf den Niveaus A2 und B1. Für die Niveaus A1 und B2 werden deutlich weniger Aufgaben eingesetzt, für das Niveau C1 nur einzelne Teilaufgaben. Auf dieser Grundlage können dann für einzelne Lerngruppen entsprechende Fördermaßnahmen abgeleitet und Konzepte für eine angemessene Weiterarbeit entwickelt werden. Da die Lernprozesse individuell sehr unterschiedlich verlaufen, ist eine differenzierte Schwerpunktsetzung im Unterricht nötig.\n\n\nKompetenzmodell\nWas versteht man unter dem Begriff Kompetenz?\nWeinert (2001: 27) beschreibt Kompetenz als\n\n“die bei Individuen verfügbaren oder von ihnen erlernbaren kognitiven Fähigkeiten und Fertigkeiten, bestimmte Probleme zu lösen, sowie die damit verbundenen motivationalen, volitionalen und sozialen Bereitschaften und Fähigkeiten, die Problemlösungen in variablen Situationen erfolgreich und verantwortungsvoll nutzen zu können.”\n\nDie Modellierung fremdsprachiger Handlungskompetenz in den Bildungsstandards greift diesen weiten Kompetenzbegriff auf. Sie umfasst nicht nur funktionale kommunikative Kompetenzen wie kommunikative Fertigkeiten und die Verfügung über die sprachlichen Mittel, sondern auch interkulturelle und methodische Kompetenzen sowie Selbst- und Sozialkompetenz.\n\n\n\n\n\n\n\n\n\n\nFunktionale Kommunikative Kompetenzen\n\n\nKommunikative Fertigkeiten\nVerfügung über die sprachlichen Mittel\n\n\nLeseverstehen\nHör- und Hör-/Sehverstehen\nSprechen\n\nAn Gesprächen teilnehmen\nZusammenhängendes Sprechen\n\nSchreiben\nSprachmittlung\n\nWortschatz\nGrammatik\nAussprache und Intonation\nOrthographie\n\n\nInterkulturelle Kompetenzen\n\n\nSoziokulturelles Orientierungswissen\nVerständnisvoller Umgang mit kultureller Differenz\nPraktische Bewältigung interkultureller Begegnungssituationen\n\n\nMethodische Kompetenzen\n\n\nTextrezeption (Leseverstehen und Hörverstehen)\nInteraktion\nTextproduktion (Sprechen und Schreiben)\nLernstrategien\nPräsentation und Mediennutzung\nLernbewusstheit und Lernorganisation\n\n\n\n\n\nAbbildung 2: Kompetenzbereiche entsprechend der Bildungsstandards für die erste Fremdsprache (Englisch/Französisch) für den Mittleren Schulabschluss (2003)\n\n\n\nMit dieser Modellierung greifen die Bildungsstandards die Kompetenzbereiche des GER auf. Zu beachten ist, dass die methodischen Kompetenzen sowohl spezifisch für einzelne kommunikative Fertigkeiten als auch Fertigkeiten übergreifend sind. Lernbewusstheit und Lernorganisation können den personalen Kompetenzen zugeordnet werden. Auch die interkulturellen Kompetenzen realisieren sich in kommunikativen Fertigkeiten, in der Verfügung über spezifische sprachliche Mittel und in Strategien zur Interaktion. In schulischen und lebensweltlichen Kommunikationssituationen wirken i. d. R. ebenfalls mehrere Kompetenzen zusammen. Diesem integrativen Charakter sprachlicher Kompetenzen trägt im GER das Konstrukt der allgemeinen sprachlichen Kompetenz Rechnung. Allerdings ist sie als globales Konstrukt weder messbar noch gezielt förderbar, sodass es, trotz aller Überschneidungen und Unzulänglichkeiten der Modellierung, für beide Zwecke sinnvoll ist, die allgemeine sprachliche Kompetenz in einzelne Kompetenzbereiche und Teilkompetenzen zu unterteilen.\nDie Verwendung des Begriffs „Kompetenz“ trägt dabei der Komplexität sprachlicher Anforderungen Rechnung, schließlich bezeichnet man mit Kompetenzen komplexe Dispositionen aus Wissen, Können und Absichten. Auch fremdsprachliche Kompetenzen umfassen den Bereich des Wissens, insbesondere Wissen über sprachliche Mittel und ihre Verwendung sowie soziokulturelles Wissen und Wissen über das Funktionieren von Kommunikation. Kompetenzen beinhalten aber deutlich mehr als Wissen: Ganz wichtig ist das Verfügen über Methoden und Strategien zum Erwerb dieses Wissens (z. B. Wie kann ich besonders gut neuen Wortschatz lernen?) sowie zur Anwendung dieses Wissens (z. B. Wie kann ich meine Meinung zu einem Thema so ausdrücken, sodass die anderen mich verstehen?). Für den schulischen Bereich, insbesondere für die Mittelstufe, erscheint uns die Bereitschaft, dieses sprachliche, methodische und strategische Wissen in die Praxis umzusetzen, ganz besonders wichtig (z. B. sich trotz aller sprachlichen Unzulänglichkeiten zu trauen, das Wort zu ergreifen oder einen kleinen Vortrag zu halten).\nKompetenzen sind also wesentlich weiter und komplexer gefasst als Fertigkeiten (skills, habiletés), bei denen allein die Tätigkeit im Mittelpunkt steht. Das Konzept der Fertigkeiten (im Sinne von skills, habiletés) ist zudem geprägt von der Vorstellung, dass einzelne Tätigkeiten isoliert betrachtet und trainiert werden können. Außerdem schwingt die Vorstellung mit, dass diese Tätigkeiten von Anfang an möglichst fehlerfrei erfolgen sollten.\nKompetenzorientierung dagegen strebt an, die komplexen, aufeinander bezogenen Kompetenzen integriert zu entwickeln. Dies bedeutet, dass man im Unterricht zwar punktuell auf die gezielte Entwicklung einer Teilkompetenz (z. B. detailliertes Leseverstehen) fokussiert, dabei jedoch immer das entsprechende methodische, strategische und interkulturelle Können berücksichtigt. Bei dieser gezielten Entwicklung einer Einzelkompetenz im Rahmen einer Unterrichtsreihe sollte daher darauf geachtet werden, die anderen Kompetenzen analog zu ihrer Verwendung in lebensweltlichen Situationen mit zu verwenden (z. B. detailliertes Leseverstehen, um sich mündlich oder schriftlich über die zentralen Argumente eines argumentativen Textes auszutauschen und sich eine eigene Meinung dazu zu bilden). Kompetenzorientierung berücksichtigt ebenfalls, dass die Korrektheit und Komplexität sprachlicher Äußerungen erst nach und nach steigt (vgl. die Angaben zu Fehlern und Hilfen in den einzelnen Niveaubeschreibungen).",
-    "crumbs": [
-      "VERA-8 Fremdsprache",
-      "Kompetenzmodell"
-    ]
-  },
-  {
-    "objectID": "v8_enfr/fr_listening_global/index.html",
-    "href": "v8_enfr/fr_listening_global/index.html",
-    "title": "VERA-8 Französisch",
-    "section": "",
-    "text": "Thema\nSchule\n\n\nTextsorte\nGespräch\n\n\nHörstil\nglobal\n\n\nKompetenzstufe\nTeilaufgabe 1: A2\n\n\nRichtige Lösung\nnur das 2. Kästchen wurde angekreuzt (B)",
-    "crumbs": [
-      "VERA-8 Fremdsprache",
-      "Hörverstehen",
-      "Aufgaben Französisch",
-      "Globales HV"
-    ]
-  },
-  {
-    "objectID": "v8_enfr/fr_listening_global/index.html#bei-richtiger-lösung",
-    "href": "v8_enfr/fr_listening_global/index.html#bei-richtiger-lösung",
-    "title": "VERA-8 Französisch",
-    "section": "Bei richtiger Lösung",
-    "text": "Bei richtiger Lösung\nBereitet die Lösung dieser Aufgabe keine Schwierigkeiten, so kann das globale Hörverstehen von Texten mit differenzierterem Wortschatz oder/und komplexeren Strukturen geübt werden. Außerdem sollten Texte mit höherem Sprechtempo, die nicht ganz so klar und deutlich gesprochen werden, eingesetzt werden. Darüber hinaus können Texte zu Themen, die nicht zum unmittelbaren Lebensumfeld der Lernenden gehören oder auf eine abstraktere Aussage hinzielen, eingesetzt werden.",
-    "crumbs": [
-      "VERA-8 Fremdsprache",
-      "Hörverstehen",
-      "Aufgaben Französisch",
-      "Globales HV"
-    ]
-  },
-  {
-    "objectID": "v8_enfr/fr_listening_global/index.html#bei-falscher-lösung",
-    "href": "v8_enfr/fr_listening_global/index.html#bei-falscher-lösung",
-    "title": "VERA-8 Französisch",
-    "section": "Bei falscher Lösung",
-    "text": "Bei falscher Lösung\nSind Schülerinnen und Schüler nicht in der Lage, die Aufgabe zu lösen, sollten zunächst gemeinsam die Aufgabenstellung analysiert und davon ausgehend die Anforderungen abgeleitet werden. Dann sollte mit ihnen besprochen werden, wie sie bei der Bearbeitung vorgegangen sind. So können mögliche Bearbeitungsstrategien bewusst gemacht werden. Auch bietet es sich an, Wendungen der Unterrichtssprache (vor allem von Seiten der Schülerinnen und Schüler) gezielt zu wiederholen. Die Lernenden können z. B. Sammlungen mit nützlichen Wendungen anfertigen, die sie als Plakate im Französischraum gut sichtbar aufhängen oder als Lesezeichen in ihr Französischbuch einlegen. Darüber hinaus können in kleinen Rollenspielen Unterrichtssituationen versprachlicht werden.",
-    "crumbs": [
-      "VERA-8 Fremdsprache",
-      "Hörverstehen",
-      "Aufgaben Französisch",
-      "Globales HV"
     ]
   }
 ]

@@ -61,3 +61,16 @@ h1.title {
 .task-properties td:first-child {
     background-color: #c0eef2;
 }
+
+.task-header {
+    background-color: #c0eef2;
+    padding: 0 12px;
+}
+.task-header p:first-of-type {
+    font-size: x-large;
+    font-weight: bold;
+}
+.task-header p:nth-of-type(2) {
+    font-size: smaller;
+    font-style: italic;
+}
