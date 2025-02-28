@@ -1,4 +1,68 @@
 ---
 title: "VERA-8 Fremdsprache Leseverstehen"
 lang: de
+bibliography: bibliography.bib
+csl: ../assets/apa.csl
 ---
+
+# Kompetenzbeschreibung
+
+Noch vor wenigen Jahren konzentrierte sich Leseverstehen auf das Erfassen kohärenter, handschriftlich verfasster oder gedruckter Texte. Durch den zunehmenden Gebrauch elektronischer Medien (insbesondere Internet, E-Mail, SMS, Kommunikationsplattformen, soziale Netzwerke) und die damit einhergehende Ausdifferenzierung von Textsorten (z. B. diskontinuierliche Texte, Hypertexte) sowie Schreibstilen (z. B. Gebrauch von Formen des Mündlichen in schriftlichen Texten wie Chats oder Blogs) ist eine deutlich größere Vielfalt entstanden. Das zentrale Ziel der Förderung schulischen Leseverstehens besteht in der Befähigung der Schülerinnen und Schüler zur gezielten Auswahl und flexiblen Anwendung eines der Textsorte, des Leseinteresses bzw. Leseziels und der Umstände angemessenen Lesestils sowie entsprechender Strategien.
+
+Lesen ist eine hoch komplexe, interaktive und kreative Tätigkeit, bei der aus dem Zusammenspiel von Textinformationen und Lesererwartungen Bedeutung entsteht. Sie besteht aus mehreren, parallel verlaufenden Phasen, bei denen Bottom-Up-Prozesse (Analyseprozesse der sprachlichen Zeichen und ihrer graphischen Anordnung) und Top-Down-Prozesse (Einbringen von Wissen und Erwartungen) zusammenspielen. Gute Leser sind in der Lage, ein der Textsorte und dem Lesestil angepasstes Maß an Erwartung/Voraussage und Überprüfung einzusetzen. Dazu ist es u. U. notwendig, dass sie bereits dekodierte Passagen erneut lesen und ihre Vorstellung von der Bedeutung korrigieren.
+
+Fremdsprachliches Lesen unterscheidet sich nicht grundsätzlich von muttersprachlichem Lesen. Typisch ist jedoch eine verminderte Leseflüssigkeit, die insbesondere durch eingeschränkte Wortschatzkenntnisse und geringeres Hintergrundwissen verursacht wird. Außerdem werden die muttersprachlichen Lesefertigkeiten nicht automatisch auf die Fremdsprache übertragen. Für die Schulung fremdsprachlichen Lesens sind daher intensive Wortschatzarbeit, das Einüben von Lesestrategien und das Automatisieren von Grundfertigkeiten wichtig.
+
+# Lesestile
+
+{{< include _styles.qmd >}}
+
+Die Tabelle stellt die in VERA-8 verwendeten Formen und Bezeichnungen für das Lese- und Hörverstehen zusammen. Dabei ist zu beachten, dass die Kategorien nicht trennscharf sein können, sondern je nach konkretem Text und konkreter Aufgabe variieren. So kann für das Erkennen der Eigenschaften von Personen detailliertes Lesen ausreichen, wenn lediglich explizit gegebene Informationen aufgenommen werden müssen. Es kann jedoch auch inferierendes Lesen erfordern, wenn Schlussfolgerungen z. B. aus der Beschreibung der Personen selbst bzw. der Art ihrer Beschreibung oder aus spezifischen Reaktionen der Personen gezogen werden müssen.
+
+## Globales Leseverstehen
+
+[{{< fa file-lines >}} Beispielaufgabe Englisch](en_reading/global.qmd) [{{< fa file-lines >}} Beispielaufgabe Französisch](fr_reading/global.qmd)
+
+Globales Leseverstehen wird immer dann angewendet, wenn man sich einen Eindruck von einem Text in Bezug auf Thema, Inhalt oder Kernaussage verschaffen möchte. Je nach Text und konkreter Aufgabenstellung müssen für diesen Lesestil sowohl die zentralen expliziten Textinformationen identifiziert und verstanden als auch die wichtigsten Zusammenhänge erkannt werden. Der Fokus der Aufmerksamkeit kann dabei variieren.
+
+## Selektives Lesen
+
+[{{< fa file-lines >}} Beispielaufgabe Englisch](en_reading/selective.qmd) [{{< fa file-lines >}} Beispielaufgabe Französisch](fr_reading/selective.qmd)
+
+Ein selektiver Lesestil ist zu wählen, wenn einem Text lediglich einzelne, spezifische Informationen entnommen werden sollen (z. B. Zeit- oder Mengenangaben, Personen oder Ortsnamen). Dafür ist es nicht notwendig, den Text global verstanden zu haben. Je nach Umfang der zu suchenden Informationen und ihrer Platzierung im Text kann das selektive Leseverstehen in detailliertes Leseverstehen übergehen. Dabei sollten alle Informationen ignoriert werden, die für die Aufgabe irrelevant sind, und die für den Leser in dieser Situation wichtigen spezifischen Informationen bestimmen (z. B. Daten, Preise, Orte).
+
+## Detailliertes Leseverstehen
+
+[{{< fa file-lines >}} Beispielaufgabe Englisch](en_reading/detail.qmd) [{{< fa file-lines >}} Beispielaufgabe Französisch](fr_reading/detail.qmd)
+
+Der Lesestil „detailliertes Leseverstehen“ ist dann anzuwenden, wenn der Inhalt eines Textes detailliert verstanden werden soll. Das dafür notwendige Erkennen und Verstehen relevanter Textdetails kann die Hauptpunk¬te bzw. Hauptaussagen einzelner Textpassagen betreffen, den detaillierten Handlungsverlauf einschließlich Ursachen und Folgen oder die im Text vorkommenden Personen und Objekte. Darü¬ber hinaus können auch Handlungsziele dieser Personen, ihre Emotionen/Stimmungen sowie ihre zum Ausdruck kommenden Meinungen und Haltungen Ziel des detaillierten Lesens sein. Dabei müssen teilweise implizit im Text gegebene Hinweise erkannt und Schlussfolgerungen gezogen werden, was inferierendes Lesen erfordert.
+
+# Strategien
+
+Folgende Strategien können bei der Bewältigung verschiedener Leseaufgaben hilfreich sein:
+ 
+* Strategien zum Leseverstehen
+  - Textexterne/paratextuelle Hinweise nutzen
+  - visuelle Elemente des Textes/der Aufgabenstellung als Verstehenshilfe nutzen
+  - Überschriften, Textstruktur zur Bestimmung der Textsorte nutzen
+  - Textsortenkenntnisse aus der Muttersprache und anderen Sprachen anwenden
+  - inhaltsbezogene Informationen, die vor dem Beginn des Lesens bekannt sind, nutzen 
+  - Wissen über die Textsorte zum Aufbau einer Leseerwartung nutzen
+  - Vorwissen über das Thema/die Situation zum Aufbau einer Leseerwartung nutzen
+* Strategien während des Lesens – allgemein
+  - Skimming-/Scanning-Techniken anwenden
+  - Schlüsselbegriffe/Kernsätze finden
+  - Schlüsselwörter/Nebeninformationen identifizieren/markieren bzw. Wichtiges von Unwichtigem trennen
+  - Konzentration auf Schlüsselwörter
+  - Überschriften/Textstruktur zur Texterschließung nutzen
+  - komplizierte Satzstrukturen auf den Kerngehalt reduzieren
+  - Funktionen von Sätzen erkennen
+  - visuelle Elemente des Textes als Verstehenshilfe nutzen (u. a. Anordnung, Großbuchstaben, Illustrationen)
+  - Analogieschlüsse und Vergleiche zur Muttersprache und zu anderen Fremdsprachen ziehen
+* Strategien während des Lesens – Wörter erkennen 
+  - Fokus auf Wortfelder (Oberbegriffe, Synonyme) zu Begriffen aus der Überschrift/Aufgabenstellung
+  - Bedeutung unbekannter Wörter aus dem Kontext erschließen
+  - Bedeutung unbekannter Wörter durch Ableiten erschließen/Wortbildungskenntnisse anwenden
+* Strategien nach dem Lesen des Textes
+  - Kombination relevanter Einzelinformationen, um einzelne Distraktoren auszuschließen
+  - gezieltes Wieder-Aufsuchen von für die Lösung relevanten Textstellen
