@@ -1,10 +1,17 @@
 ---
 title: "VERA-8 Französisch"
 description: Aufgabenbeispiel Globales Hörverstehen
+lightbox: true
 lang: de
 ---
 
 # Aufgabe
+
+:::{.task-header}
+A la fin du cours, Maxime parle à son professeur.
+
+Doc. audio: Boussat, Stéphanie; Jouhanne, Cécile: Nouveau DELF Junior & Scolaire A2, 200 activités, Livre + CD audio, &copy; CLE international, Paris 2006
+:::
 
 ::: {.grid}
 
@@ -41,7 +48,7 @@ lang: de
 :::{.g-col-xl-7 .g-col-12}
 
 <audio controls src="maxime.mp3"></audio>
-![](maxime2.png)
+![](maxime.png)
 
 :::
 

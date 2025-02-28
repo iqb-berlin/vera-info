@@ -1,9 +1,9 @@
 project:
   type: website
   resources:
-    - v8_enfr/fr_listening_detail/jeux.mp3
-    - v8_enfr/fr_listening_global/maxime.mp3
-    - v8_enfr/fr_listening_selective/camping.mp3
+    - v8_enfr/fr_listening/jeux.mp3
+    - v8_enfr/fr_listening/maxime.mp3
+    - v8_enfr/fr_listening/camping.mp3
 
 website:
   site-url: https://iqb-berlin.github.io/vera-info/
@@ -85,38 +85,38 @@ website:
             - section: Aufgaben Englisch
               contents:
                 - text: Globales HV
-                  href: v8_enfr/en_listening_global/index.qmd
+                  href: v8_enfr/en_listening/global.qmd
                 - text: Selektives HV
-                  href: v8_enfr/en_listening_selective/index.qmd
+                  href: v8_enfr/en_listening/selective.qmd
                 - text: Detailliertes HV
-                  href: v8_enfr/en_listening_detail/index.qmd
+                  href: v8_enfr/en_listening/detail.qmd
             - section: Aufgaben Französisch
               contents:
                 - text: Globales HV
-                  href: v8_enfr/fr_listening_global/index.qmd
+                  href: v8_enfr/fr_listening/global.qmd
                 - text: Selektives HV
-                  href: v8_enfr/fr_listening_selective/index.qmd
+                  href: v8_enfr/fr_listening/selective.qmd
                 - text: Detailliertes HV
-                  href: v8_enfr/fr_listening_detail/index.qmd
+                  href: v8_enfr/fr_listening/detail.qmd
           - section: Leseverstehen
             href: v8_enfr/reading.qmd
             contents:
             - section: Aufgaben Englisch
               contents:
                 - text: Globales LV
-                  href: v8_enfr/en_reading_global/index.qmd
+                  href: v8_enfr/en_reading/global.qmd
                 - text: Selektives LV
-                  href: v8_enfr/en_reading_selective/index.qmd
+                  href: v8_enfr/en_reading/selective.qmd
                 - text: Detailliertes LV
-                  href: v8_enfr/en_reading_detail/index.qmd
+                  href: v8_enfr/en_reading/detail.qmd
             - section: Aufgaben Französisch
               contents:
                 - text: Globales LV
-                  href: v8_enfr/fr_reading_global/index.qmd
+                  href: v8_enfr/fr_reading/global.qmd
                 - text: Selektives LV
-                  href: v8_enfr/fr_reading_selective/index.qmd
+                  href: v8_enfr/fr_reading/selective.qmd
                 - text: Detailliertes LV
-                  href: v8_enfr/fr_reading_detail/index.qmd
+                  href: v8_enfr/fr_reading/detail.qmd
           - href: v8_enfr/literature.qmd
             text: Literatur
 format:

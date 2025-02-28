@@ -42,19 +42,19 @@ Dabei ist zu beachten, dass die Kategorien nicht trennscharf sein können, sonde
 
 ## Globales Hörverstehen
 
-[{{< fa file-lines >}} Beispielaufgabe Englisch](en_listening_global/index.qmd) [{{< fa file-lines >}} Beispielaufgabe Französisch](fr_listening_global/index.qmd)
+[{{< fa file-lines >}} Beispielaufgabe Englisch](en_listening/global.qmd) [{{< fa file-lines >}} Beispielaufgabe Französisch](fr_listening/global.qmd)
 
 Unter globalem Hörverstehen versteht man i. d. R. das Erfassen von Thema und Haupt- bzw. Kernaussage des Textes. Dazu müssen u. a. die Situation (Wer spricht? Wo? Warum?), das Thema (Worum geht es?) und die zentralen Inhalte bzw. die zentrale Aussage erkannt werden. Je nach Text und konkreter Aufgabenstellung müssen für diesen Hörstil sowohl die zentralen expliziten Äußerungen des Textes identifiziert und verstanden als auch die wichtigsten Zusammenhänge erkannt werden. Der Fokus der Aufmerksamkeit kann ebenfalls variieren.
 
 ## Selektives Hörverstehen
 
-[{{< fa file-lines >}} Beispielaufgabe Englisch](en_listening_selective/index.qmd) [{{< fa file-lines >}} Beispielaufgabe Französisch](fr_listening_selective/index.qmd)
+[{{< fa file-lines >}} Beispielaufgabe Englisch](en_listening/selective.qmd) [{{< fa file-lines >}} Beispielaufgabe Französisch](fr_listening/selective.qmd)
 
 Der Hörstil „selektives Hören“ zielt auf das Heraushören bestimmter expliziter Informationen, für die eine bestimmte Erwartung aufgebaut wurde. Ein typischer Fall ist das Heraushören der Bahnsteignummer bei einer Bahnhofsdurchsage. Dieser Hörstil teilt mit dem detaillierten Hörverstehen die Aufmerksamkeitslenkung auf eine lokale Information. Allerdings unterscheidet er sich vom detaillierten Hören durch die geringere Aufmerksamkeitsleistung. Um beim Beispiel der Bahnhofsdurchsage für einen eintreffenden Zug zu bleiben: der Hörer stellt sicher, dass es sich um den richtigen Zug handelt (meist durch den Abfahrtsort bezeichnet) und konzentriert sich dann nur noch auf das Gleis (hier erwartet er eine Zahl). Alle weiteren Durchsageelemente können ausgeblendet werden.
 
 ## Detailliertes Hörverstehen
 
-[{{< fa file-lines >}} Beispielaufgabe Englisch](en_listening_detail/index.qmd) [{{< fa file-lines >}} Beispielaufgabe Französisch](fr_listening_detail/index.qmd)
+[{{< fa file-lines >}} Beispielaufgabe Englisch](en_listening/detail.qmd) [{{< fa file-lines >}} Beispielaufgabe Französisch](fr_listening/detail.qmd)
 
 Der Hörstil „detailliertes Hörverstehen“ zielt auf das Erkennen und Verstehen relevanter Textdetails. Das kann die Hauptpunkte bzw. Hauptaussagen einzelner Textpassagen betreffen, den detaillierten Handlungsverlauf einschließlich Ursachen und Folgen oder die im Text vorkommenden Personen und Objekte. Darüber hinaus können auch Handlungsziele dieser Personen, ihre Emotionen und Stimmungen sowie ihre zum Ausdruck kommenden Meinungen und Haltungen Ziel des detaillierten Hörens sein. Dabei müssen teilweise implizite Textinformationen erkannt und Schlussfolgerungen gezogen werden, was inferierendes Hören erfordert.
 

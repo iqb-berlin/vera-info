@@ -1,11 +1,18 @@
 ---
 title: "VERA-8 Französisch"
 description: Aufgabenbeispiel Selektives Leseverstehen
+lightbox: true
 lang: de
 ---
 
 
 # Aufgabe
+
+:::{.task-header}
+Strasbulles
+
+&copy; IQB
+:::
 
 ::: {.grid}
 
