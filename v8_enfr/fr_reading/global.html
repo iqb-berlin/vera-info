@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.6.42">
@@ -43,6 +43,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../site_libs/bootstrap/bootstrap-e6e3ba6dc521e3c590aa12ef9b653fdf.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -57,17 +60,17 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "Keine Treffer",
-    "search-matching-documents-text": "Treffer",
-    "search-copy-link-title": "Link in die Suche kopieren",
-    "search-hide-matches-text": "Zusätzliche Treffer verbergen",
-    "search-more-match-text": "weitere Treffer in diesem Dokument",
-    "search-more-matches-text": "weitere Treffer in diesem Dokument",
-    "search-clear-button-title": "Zurücksetzen",
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
     "search-text-placeholder": "",
-    "search-detached-cancel-button-title": "Abbrechen",
-    "search-submit-button-title": "Abschicken",
-    "search-label": "Suchen"
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
@@ -91,18 +94,18 @@ ul.task-list li input[type="checkbox"] {
   </div>
         <div class="quarto-navbar-tools tools-end">
 </div>
-          <div id="quarto-search" class="" title="Suchen"></div>
+          <div id="quarto-search" class="" title="Search"></div>
       </div> <!-- /container-fluid -->
     </nav>
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
         <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../v8_enfr/index.html">VERA-8 Fremdsprache</a></li><li class="breadcrumb-item"><a href="../../v8_enfr/reading.html">Leseverstehen</a></li><li class="breadcrumb-item"><a href="../../v8_enfr/fr_reading/global.html">Aufgaben Französisch</a></li><li class="breadcrumb-item"><a href="../../v8_enfr/fr_reading/global.html">Globales LV</a></li></ol></nav>
-        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
-      <button type="button" class="btn quarto-search-button" aria-label="Suchen" onclick="window.quartoOpenSearch();">
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
     </div>
@@ -114,7 +117,7 @@ ul.task-list li input[type="checkbox"] {
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
-        <div id="quarto-search" class="" title="Suchen"></div>
+        <div id="quarto-search" class="" title="Search"></div>
         </div>
         </div>
     <div class="sidebar-menu-container"> 
@@ -123,7 +126,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="sidebar-item-container"> 
             <a href="../../intro/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Einführung</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
@@ -158,7 +161,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="sidebar-item-container"> 
             <a href="../../v3_de/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">VERA-3 Deutsch</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
@@ -167,7 +170,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="sidebar-item-container"> 
             <a href="../../v3_de/lesen/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Lesen</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
@@ -184,7 +187,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="sidebar-item-container"> 
             <a href="../../v3_de/sprache/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Sprache</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
@@ -217,7 +220,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="sidebar-item-container"> 
             <a href="../../v8_ma/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">VERA-8 Mathematik</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
@@ -232,7 +235,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="sidebar-item-container"> 
             <a href="../../v8_ma/leitidee_1_zahl/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Leitidee 1 - Zahl</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
@@ -255,7 +258,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="sidebar-item-container"> 
             <a href="../../v8_ma/leitidee_5_daten_und_zufall/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Leitidee 5 - Daten und Zufall</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-9" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-9" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
@@ -280,7 +283,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="sidebar-item-container"> 
             <a href="../../v8_enfr/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">VERA-8 Fremdsprache</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-10" role="navigation" aria-expanded="true" aria-label="Abschnitt umschalten">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-10" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
@@ -295,7 +298,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="sidebar-item-container"> 
             <a href="../../v8_enfr/listening.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Hörverstehen</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-11" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-11" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
@@ -304,7 +307,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-12" role="navigation" aria-expanded="false">
  <span class="menu-text">Aufgaben Englisch</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-12" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-12" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
@@ -333,7 +336,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-13" role="navigation" aria-expanded="false">
  <span class="menu-text">Aufgaben Französisch</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-13" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-13" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
@@ -364,7 +367,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="sidebar-item-container"> 
             <a href="../../v8_enfr/reading.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Leseverstehen</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-14" role="navigation" aria-expanded="true" aria-label="Abschnitt umschalten">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-14" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
@@ -373,7 +376,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-15" role="navigation" aria-expanded="false">
  <span class="menu-text">Aufgaben Englisch</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-15" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-15" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
@@ -402,7 +405,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-16" role="navigation" aria-expanded="true">
  <span class="menu-text">Aufgaben Französisch</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-16" role="navigation" aria-expanded="true" aria-label="Abschnitt umschalten">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-16" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
@@ -442,8 +445,27 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#aufgabe" id="toc-aufgabe" class="nav-link active" data-scroll-target="#aufgabe">Aufgabe</a>
+  <ul class="collapse">
+  <li><a href="#teilaufgaben-1-3-zeilen" id="toc-teilaufgaben-1-3-zeilen" class="nav-link" data-scroll-target="#teilaufgaben-1-3-zeilen">Teilaufgaben 1-3 (Zeilen)</a></li>
+  </ul></li>
+  <li><a href="#diagnostisches-potenzial" id="toc-diagnostisches-potenzial" class="nav-link" data-scroll-target="#diagnostisches-potenzial">Diagnostisches Potenzial</a></li>
+  <li><a href="#beschreibung-der-aufgabe" id="toc-beschreibung-der-aufgabe" class="nav-link" data-scroll-target="#beschreibung-der-aufgabe">Beschreibung der Aufgabe</a></li>
+  <li><a href="#vor-dem-lesen" id="toc-vor-dem-lesen" class="nav-link" data-scroll-target="#vor-dem-lesen">Vor dem Lesen</a></li>
+  <li><a href="#beim-lesen" id="toc-beim-lesen" class="nav-link" data-scroll-target="#beim-lesen">Beim Lesen</a></li>
+  <li><a href="#nach-dem-lesen" id="toc-nach-dem-lesen" class="nav-link" data-scroll-target="#nach-dem-lesen">Nach dem Lesen</a></li>
+  <li><a href="#weiterarbeit-und-förderung" id="toc-weiterarbeit-und-förderung" class="nav-link" data-scroll-target="#weiterarbeit-und-förderung">Weiterarbeit und Förderung</a>
+  <ul class="collapse">
+  <li><a href="#bei-richtiger-lösung" id="toc-bei-richtiger-lösung" class="nav-link" data-scroll-target="#bei-richtiger-lösung">Bei richtiger Lösung</a></li>
+  <li><a href="#bei-falscher-lösung" id="toc-bei-falscher-lösung" class="nav-link" data-scroll-target="#bei-falscher-lösung">Bei falscher Lösung</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -472,8 +494,108 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="aufgabe" class="level1">
+<h1>Aufgabe</h1>
+<div class="task-header">
+<p>Collège</p>
+<p>© IQB</p>
+</div>
+<div class="grid">
+<div class="g-col-xl-5 g-col-12">
+<table class="task-properties caption-top table" data-quarto-postprocess="true">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>Thema</td>
+<td>Schule</td>
+</tr>
+<tr class="even">
+<td>Textsorte</td>
+<td>Stellungnahme/ Kritik</td>
+</tr>
+<tr class="odd">
+<td>Lesestil</td>
+<td>global/ inferierend</td>
+</tr>
+<tr class="even">
+<td>Kompetenzstufen</td>
+<td>Teilaufgabe 1: B1<br>
+Teilaufgabe 2: B1<br>
+Teilaufgabe 3: C1</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="g-col-xl-7 g-col-12">
+<p><a href="college1.jpg" class="lightbox" data-gallery="task-img"><img src="college1.jpg" class="img-fluid"></a></p>
+</div>
+</div>
+<section id="teilaufgaben-1-3-zeilen" class="level2">
+<h2 class="anchored" data-anchor-id="teilaufgaben-1-3-zeilen">Teilaufgaben 1-3 (Zeilen)</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="college2.jpg" class="lightbox" data-gallery="task-img" title="Teilaufgaben mit richtiger Lösung"><img src="college2.jpg" class="img-fluid figure-img" alt="Teilaufgaben mit richtiger Lösung"></a></p>
+<figcaption>Teilaufgaben mit richtiger Lösung</figcaption>
+</figure>
+</div>
+</section>
+</section>
+<section id="diagnostisches-potenzial" class="level1">
+<h1>Diagnostisches Potenzial</h1>
+<p>Schülerinnen und Schüler, die diese Aufgabe richtig lösen, können drei kurzen Texten zu einem Thema aus ihrem unmittelbaren Lebensumfeld die passende Überschrift zuordnen. Dafür müssen sie die Hauptaussage erkennen und abstrahieren können. Das entspricht im Bereich des globalen/inferierenden Leseverstehens den Niveaus B1–C1.</p>
+</section>
+<section id="beschreibung-der-aufgabe" class="level1">
+<h1>Beschreibung der Aufgabe</h1>
+<p>Die Textvorlage besteht aus drei kurzen, einer Jugendzeitschrift entnommenen Stellungnahmen französischer Schülerinnen und Schüler, die Kritik am <em>Collège</em> üben. Alle Stellungnahmen sind nach der gleichen Struktur aufgebaut: Der Hauptkritikpunkt, von dem aus das Thema bzw. die Hauptaussage inferiert werden kann, steht in allen Texten im ersten Satz, der damit zentral für die Lösung der Aufgabe ist. Es folgt jeweils eine inhaltliche Erläuterung, der sprachlich jeweils dasselbe thematische Wortfeld zugrunde liegt (Text 1: kein Nachmittagsunterricht, Text 2: tristes Gebäude, Text 3: abstrakte Unterrichtsinhalte). Inhaltlich entsprechen die Texte dem Erfahrungshorizont der Schülerinnen und Schüler und betreffen ihr unmittelbares Lebensumfeld Schule.</p>
+<p>Die Aufgabe ist eine Mehrfachzuordnungsaufgabe, bei der vier mögliche Titel bzw. Hauptkritikpunkte drei vorliegenden Stellungnahmen zugeordnet werden müssen. Eine Antwortmöglichkeit, d.&nbsp;h. ein Titel, passt inhaltlich zu keinem Text. Darauf wird explizit hingewiesen. Dieser ist eindeutig identifizierbar (C). Es ist möglich, dass die Schlüsselbegriffe der vorgegebenen Titel nicht allen Schülerinnen und Schülern bekannt sind, z. B. <em>contenu</em> in Teilaufgabe A oder <em>bâtiment</em> in B. In diesem Fall ist die Aufgabe quasi unlösbar (s. u.).</p>
+<p>Sprachlich birgt jeder Text eine zentrale Schwierigkeit, die in den Texten 1 und 2 jedoch nicht zu Verständnisproblemen führen dürfte, da die Schlüsselbegriffe der thematischen Wortfelder i.d.R. bekannt sind (Text 1: <em>pas cours l’après-midi</em>, Text 2: <em>collège, triste</em>). Ob die Verben im <em>conditionnel</em> (<em>devrait, aurait</em>) erfasst werden, ist zum Verständnis von Text 1 irrelevant, wenn die Hauptaussage und ihre Erläuterung (z. B. <em>plus de temps libre</em>) verstanden werden. Text 2 gibt mit dem i.d.R. bekannten bzw. ableitbaren triste den Textduktus vor, der mit <em>murs blancs et sales</em> und <em>prison</em> näher erläutert wird, wobei zumindest <em>prison</em> über das im Englischen identische <em>prison</em> erschlossen werden kann.</p>
+<p>Problematischer könnte das Verständnis des dritten Textes sein, der sprachlich und inhaltlich komplexer ist als die anderen Texte. Rachidatis Kritik zielt auf die seiner Meinung nach weit von der Lebenswelt der Jugendlichen entfernten Unterrichtsinhalte und endet mit einer Frage (<em>à quoi ça me sert?</em>). Wenn <em>apprendre des choses abstraites</em> nicht als Kernaussage verstanden bzw. über die Erläuterungen <em>loin de nos intérêts</em> oder (<em>théorème de</em>) <em>Pythagore</em> erschlossen wird, ist die Zuordnung zu A nur über Schlussfolgern bzw. Ausschließen von Antwortmöglichkeit C möglich.</p>
+</section>
+<section id="vor-dem-lesen" class="level1">
+<h1>Vor dem Lesen</h1>
+<p>Zur Lösung der Aufgabe können folgende Strategien angewandt werden: * <strong>Anforderungen der Aufgabe ableiten</strong>: Wichtig ist, sich vor dem Lesen genau zu verdeutlichen, was die Aufgabe verlangt. Hier müssen die vorgegebenen Titel (Hauptkritikpunkte) der Teilaufgaben detailliert verstanden werden, damit diese den vorliegenden Texten zugeordnet werden können. Für diese Zuordnung reicht globales Lesen. Angemessenes Vorgehen zur Lösung der Aufgabe wählen: Zur Lösung der Aufgabe bietet es sich an, sobald Aufgabenstellung klar und zuzuordnende Titel verstanden sind, auf dieser Grundlage die Erwartung an die Inhalte der einzelnen Texte zu konkretisieren. Dann folgt der Abgleich mit den Texten: Dafür werden die Texte überflogen und die zentralen Passagen (erste Sätze) zur Kontrolle der eigenen Antwort evtl. nochmals genau gelesen. * <strong>Leseerwartung aufbauen/Vorwissen aktivieren</strong>: Über den Titel der Aufgabe (<em>Collège</em>), die Kontextualisierung und die in den Teilaufgaben vorgegebenen Überschriften (Hauptkritikpunkte) kann eine Leseerwartung aufgebaut und mögliche Textinhalte antizipiert werden, z. B. Teilaufgabe D: <em>heures de cours</em> lässt eine Stellungnahme zur Unterrichtsszeit (gegen Nachmittagsunterricht in Frankreich) erwarten (s. Text 1: <em>pas cours l’après-midi</em>). * <strong>Layout zum Erschließen der Textsorte nutzen</strong>: Das Layout (mit Namen unterschriebene Textkästen) verweist in Verbindung mit der Kontextualisierung (<em>voici ce que les collégiens n’aiment pas</em>) auf die Textsorte „Stellungnahme“ und ermöglicht so eine bestimmte Erwartung an die Funktion und den Aufbau der Texte. Hier können auch textsortenspezifische Kenntnisse aus dem Deutschunterricht aktiviert werden.</p>
+</section>
+<section id="beim-lesen" class="level1">
+<h1>Beim Lesen</h1>
+<ul>
+<li><strong>Schlüsselbegriffe markieren/Scanning-Techniken anwenden</strong>: Um die Hauptkritikpunkte der Texte beim überfliegenden Lesen schneller und systematisch zu erfassen, ist es hilfreich, die Schlüsselbegriffe der vorgegebenen Titel (Kernaussagen) zu markieren, z. B. Teilaufgabe A: <em>contenu des cours</em>.</li>
+<li><strong>Thematische Wortfelder zum Erschließen von Bedeutungen nutzen</strong>: Die Texte enthalten alle ein für die Stützung des Hauptkritikpunktes zentrales Wortfeld, d.&nbsp;h. die Erläuterung der Kritik schließt ähnliche Begriffe desselben Wortfelds ein (s. Aufgabenbeschreibung).</li>
+</ul>
+</section>
+<section id="nach-dem-lesen" class="level1">
+<h1>Nach dem Lesen</h1>
+<ul>
+<li><strong>Schlussfolgern/Inferieren</strong>: Die gesuchten Titel müssen aus den Kernaussagen bzw. Einzelinformationen der Texte abgeleitet werden. Hilfreich ist dafür ggf. die auf die Kernaussage folgende Erläuterung.</li>
+<li><strong>Antworten prüfen</strong>: Am Ende sollte die vorgenommene Zuordnung nochmals überprüft werden, um die Antwortmöglichkeit C auszuschließen.</li>
+</ul>
+</section>
+<section id="weiterarbeit-und-förderung" class="level1">
+<h1>Weiterarbeit und Förderung</h1>
+<section id="bei-richtiger-lösung" class="level2">
+<h2 class="anchored" data-anchor-id="bei-richtiger-lösung">Bei richtiger Lösung</h2>
+<p>Um das globale Leseverstehen zu entwickeln, ist es wichtig, Übungen durchzuführen, bei denen nur wenig Zeit für das Überfliegen des Textes gegeben wird. Ein methodisches Vorgehen wäre hier, den Text nach Ablauf der vorgegebenen Zeit umzudrehen und dann die Hauptaussage schriftlich fixieren zu lassen, ohne dass dabei der Text nochmals angesehen wird. Diese Aussagen können dann an der Tafel gesammelt und nach erneutem Lesen mit dem Text abgeglichen werden.</p>
+<p>Die Lernenden könnten auch zu einem bestimmten Thema selber französischsprachige Online- oder Zeitungsartikel (z. B. aus Jugendzeitschriften) mitbringen und die Hauptaussage für die Klasse zusammenfassen. So kann das Interesse für weiteres arbeitsteiliges detailliertes Lesen geweckt werden.</p>
+</section>
+<section id="bei-falscher-lösung" class="level2">
+<h2 class="anchored" data-anchor-id="bei-falscher-lösung">Bei falscher Lösung</h2>
+<p>Sind Schülerinnen und Schüler nicht in der Lage, die Aufgabe zu lösen, sollte mit ihnen besprochen werden, wie sie bei der Bearbeitung vorgegangen sind. Dabei sollten unterschiedliche Strategien und die Möglichkeit ihrer Kombination berücksichtigt und dem Wechselspiel zwischen Aufgabe, Text und Ausschluss einzelner Antwortmöglichkeiten besondere Bedeutung zukommen. Dies ist besonders wichtig, wenn die Schlüsselbegriffe in den Formulierungen der Antwortmöglichkeiten nicht verstanden werden. In diesem Fall ist es sinnvoll, die unbekannten Begriffe ggf. in verständlichere Einzelelemente zu zerlegen, diese dann im Text aufzusuchen und so „Verstehensinseln“ zu bilden. Tauchen diese Einzelelemente der Schlüsselbegriffe allerdings nicht wörtlich im Text auf, kann die Aufgabe nur über Ausschluss- und Kombinationsverfahren über den Versuch eines Abgleichs von Aufgaben- und Textsinn bzw. -inhalt gelöst werden.</p>
+<p>Die Schülerinnen und Schüler können auch selbst ein Lesezeichen oder ein Lernposter mit Tipps zum globalen Lesen anfertigen.</p>
+<p>Um Strategien des globalen Leseverstehens gezielt zu trainieren, bietet es sich auf diesem Niveau an, als Textgrundlage zunächst noch weitere konkrete, vergleichsweise kürzere, einfachere Texte zu bekannten Themen zu nutzen. Anhand dieser Texte kann z. B. geübt werden, Hypothesen über den Textinhalt aufgrund von Bildern, Überschriften oder vorgegebenen Sätzen der Aufgabe zu bilden. Auch können Schlüsselbegriffe des Textes vor dem Lesen präsentiert werden, damit die Schülerinnen und Schüler auf dieser Grundlage überlegen, worum es im Text geht. Denkbar wäre auch, dass sie zunächst eigene kürzere Texte mit diesen Begriffen verfassen. Die eigenen Erwartungen und Überlegungen sollten dann mit der Aussage des Textes abglichen werden. Umgekehrt ist es ebenso wichtig zu üben, den Textinhalt „auf den Punkt“ zu bringen, z. B. indem der Textrand mit einem „Schlagwortkatalog“ versehen wird.</p>
+<p>Zuordnungsübungen sind besonders gut geeignet, um das globale Leseverstehen zu schulen, da zunächst die zentrale Aussage eines Textes erfasst werden muss, bevor eine passende Überschrift/Aussage gewählt werden kann. Hier einige Beispiele für solche Aufgaben:</p>
+<ul>
+<li>Texte von Schildern/Postern/Anschlägen entsprechenden Bildern zuordnen,</li>
+<li>Cover-/Klappentexte entsprechenden CD-/DVD-/Buchtiteln zuordnen,</li>
+<li>Problemen/Fragestellungen/Briefen an einen „Kummerkasten“ schnell passende Artikel/Briefe/Antworten/Beiträge aus Chatforen zuordnen,</li>
+<li>Fragen eines Interviews entsprechenden Antworten zuordnen,</li>
+<li>Bezeichnungen von Textsorten Artikeln/Leserbriefen/E-Mails/Berichten zuordnen.</li>
+</ul>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -519,12 +641,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // flash "checked"
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Kopiert");
+    button.setAttribute("title", "Copied!");
     let tooltip;
     if (window.bootstrap) {
       button.setAttribute("data-bs-toggle", "tooltip");
       button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Kopiert");
+      button.setAttribute("data-bs-title", "Copied!");
       tooltip = new bootstrap.Tooltip(button, 
         { trigger: "manual", 
           customClass: "code-copy-button-tooltip",
@@ -938,6 +1060,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
