@@ -2,4 +2,61 @@
 title: "VERA-8 Französisch"
 description: Aufgabenbeispiel Detailliertes Leseverstehen
 lang: de
+lightbox: true
 ---
+
+# Aufgabe
+
+:::{.task-header}
+Jeux vidéo
+
+&copy; IQB
+:::
+
+::: {.grid}
+
+:::{.g-col-xl-5 .g-col-12}
+
+```{=html}
+<table class="task-properties">
+  <tbody>
+    <tr>
+      <td>Thema</td>
+      <td>Medien</td>
+    </tr>
+    <tr>
+      <td>Textsorte</td>
+      <td>Interview</td>
+    </tr>
+    <tr>
+      <td>Hörstil</td>
+      <td>detailliert</td>
+    </tr>
+    <tr>
+      <td>Kompetenzstufen</td>
+      <td>
+        Teilaufgabe 1: A2<br/>
+        Teilaufgabe 2: B2<br/>
+        Teilaufgabe 3: A2<br/>
+        Teilaufgabe 4: A2
+      </td>
+    </tr>
+  </tbody>
+</table>
+```
+:::
+
+:::{.g-col-xl-7 .g-col-12}
+
+<audio controls src="jeux.mp3"></audio>
+![](jeux1.jpg){group="task-img"}
+
+:::
+
+:::
+
+## Teilaufgaben 1-4 (Zeilen)
+
+![Teilaufgaben mit richtiger Lösung](jeux2.jpg){group="task-img"}
+
+# Diagnostisches Potenzial

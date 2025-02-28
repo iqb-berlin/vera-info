@@ -1,5 +1,113 @@
 ---
 title: "VERA-8 Französisch"
 description: Aufgabenbeispiel Globales Leseverstehen
-lang: de
+lightbox: true
 ---
+
+# Aufgabe
+
+:::{.task-header}
+Collège
+
+&copy; IQB
+:::
+
+::: {.grid}
+
+:::{.g-col-xl-5 .g-col-12}
+
+```{=html}
+<table class="task-properties">
+  <tbody>
+    <tr>
+      <td>Thema</td>
+      <td>Schule</td>
+    </tr>
+    <tr>
+      <td>Textsorte</td>
+      <td>Stellungnahme/ Kritik</td>
+    </tr>
+    <tr>
+      <td>Lesestil</td>
+      <td>global/ inferierend</td>
+    </tr>
+    <tr>
+      <td>Kompetenzstufen</td>
+      <td>
+        Teilaufgabe 1: B1<br/>
+        Teilaufgabe 2: B1<br/>
+        Teilaufgabe 3: C1
+      </td>
+    </tr>
+  </tbody>
+</table>
+```
+:::
+
+:::{.g-col-xl-7 .g-col-12}
+
+![](college1.jpg){group="task-img"}
+
+:::
+
+:::
+
+## Teilaufgaben 1-3 (Zeilen)
+
+![Teilaufgaben mit richtiger Lösung](college2.jpg){group="task-img"}
+
+# Diagnostisches Potenzial
+
+Schülerinnen und Schüler, die diese Aufgabe richtig lösen, können drei kurzen Texten zu einem Thema aus ihrem unmittelbaren Lebensumfeld die passende Überschrift zuordnen. Dafür müssen sie die Hauptaussage erkennen und abstrahieren können. Das entspricht im Bereich des globalen/inferierenden Leseverstehens den Niveaus B1–C1.
+ 
+# Beschreibung der Aufgabe
+
+Die Textvorlage besteht aus drei kurzen, einer Jugendzeitschrift entnommenen Stellungnahmen französischer Schülerinnen und Schüler, die Kritik am *Collège* üben. Alle Stellungnahmen sind nach der gleichen Struktur aufgebaut: Der Hauptkritikpunkt, von dem aus das Thema bzw. die Hauptaussage inferiert werden kann, steht in allen Texten im ersten Satz, der damit zentral für die Lösung der Aufgabe ist. Es folgt jeweils eine inhaltliche Erläuterung, der sprachlich jeweils dasselbe thematische Wortfeld zugrunde liegt (Text 1: kein Nachmittagsunterricht, Text 2: tristes Gebäude, Text 3: abstrakte Unterrichtsinhalte). Inhaltlich entsprechen die Texte dem Erfahrungshorizont der Schülerinnen und Schüler und betreffen ihr unmittelbares Lebensumfeld Schule.
+
+Die Aufgabe ist eine Mehrfachzuordnungsaufgabe, bei der vier mögliche Titel bzw. Hauptkritikpunkte drei vorliegenden Stellungnahmen zugeordnet werden müssen. Eine Antwortmöglichkeit, d. h. ein Titel, passt inhaltlich zu keinem Text. Darauf wird explizit hingewiesen. Dieser ist eindeutig identifizierbar (C). Es ist möglich, dass die Schlüsselbegriffe der vorgegebenen Titel nicht allen Schülerinnen und Schülern bekannt sind, z. B. *contenu* in Teilaufgabe A oder *bâtiment* in B. In diesem Fall ist die Aufgabe quasi unlösbar (s. u.).
+
+Sprachlich birgt jeder Text eine zentrale Schwierigkeit, die in den Texten 1 und 2 jedoch nicht zu Verständnisproblemen führen dürfte, da die Schlüsselbegriffe der thematischen Wortfelder i.d.R. bekannt sind (Text 1: *pas cours l’après-midi*, Text 2: *collège, triste*). Ob die Verben im *conditionnel* (*devrait, aurait*) erfasst werden, ist zum Verständnis von Text 1 irrelevant, wenn die Hauptaussage und ihre Erläuterung (z. B. *plus de temps libre*) verstanden werden. Text 2 gibt mit dem i.d.R. bekannten bzw. ableitbaren triste den Textduktus vor, der mit *murs blancs et sales* und *prison* näher erläutert wird, wobei zumindest *prison* über das im Englischen identische *prison* erschlossen werden kann.
+
+Problematischer könnte das Verständnis des dritten Textes sein, der sprachlich und inhaltlich komplexer ist als die anderen Texte. Rachidatis Kritik zielt auf die seiner Meinung nach weit von der Lebenswelt der Jugendlichen entfernten Unterrichtsinhalte und endet mit einer Frage (*à quoi ça me sert?*). Wenn *apprendre des choses abstraites* nicht als Kernaussage verstanden bzw. über die Erläuterungen *loin de nos intérêts* oder (*théorème de*) *Pythagore* erschlossen wird, ist die Zuordnung zu A nur über Schlussfolgern bzw. Ausschließen von Antwortmöglichkeit C möglich.
+
+# Vor dem Lesen
+
+Zur Lösung der Aufgabe können folgende Strategien angewandt werden:
+* **Anforderungen der Aufgabe ableiten**: Wichtig ist, sich vor dem Lesen genau zu verdeutlichen, was die Aufgabe verlangt. Hier müssen die vorgegebenen Titel (Hauptkritikpunkte) der Teilaufgaben detailliert verstanden werden, damit diese den vorliegenden Texten zugeordnet werden können. Für diese Zuordnung reicht globales Lesen.
+Angemessenes Vorgehen zur Lösung der Aufgabe wählen: Zur Lösung der Aufgabe bietet es sich an, sobald Aufgabenstellung klar und zuzuordnende Titel verstanden sind, auf dieser Grundlage die Erwartung an die Inhalte der einzelnen Texte zu konkretisieren. Dann folgt der Abgleich mit den Texten: Dafür werden die Texte überflogen und die zentralen Passagen (erste Sätze) zur Kontrolle der eigenen Antwort evtl. nochmals genau gelesen.
+* **Leseerwartung aufbauen/Vorwissen aktivieren**: Über den Titel der Aufgabe (*Collège*), die Kontextualisierung und die in den Teilaufgaben vorgegebenen Überschriften (Hauptkritikpunkte) kann eine Leseerwartung aufgebaut und mögliche Textinhalte antizipiert werden, z. B. Teilaufgabe D: *heures de cours* lässt eine Stellungnahme zur Unterrichtsszeit (gegen Nachmittagsunterricht in Frankreich) erwarten (s. Text 1: *pas cours l’après-midi*).
+* **Layout zum Erschließen der Textsorte nutzen**: Das Layout (mit Namen unterschriebene Textkästen) verweist in Verbindung mit der Kontextualisierung (*voici ce que les collégiens n’aiment pas*) auf die Textsorte „Stellungnahme“ und ermöglicht so eine bestimmte Erwartung an die Funktion und den Aufbau der Texte. Hier können auch textsortenspezifische Kenntnisse aus dem Deutschunterricht aktiviert werden.
+
+# Beim Lesen
+
+* **Schlüsselbegriffe markieren/Scanning-Techniken anwenden**: Um die Hauptkritikpunkte der Texte beim überfliegenden Lesen schneller und systematisch zu erfassen, ist es hilfreich, die Schlüsselbegriffe der vorgegebenen Titel (Kernaussagen) zu markieren, z. B. Teilaufgabe A: *contenu des cours*.
+* **Thematische Wortfelder zum Erschließen von Bedeutungen nutzen**: Die Texte enthalten alle ein für die Stützung des Hauptkritikpunktes zentrales Wortfeld, d. h. die Erläuterung der Kritik schließt ähnliche Begriffe desselben Wortfelds ein (s. Aufgabenbeschreibung).
+
+# Nach dem Lesen
+
+* **Schlussfolgern/Inferieren**: Die gesuchten Titel müssen aus den Kernaussagen bzw. Einzelinformationen der Texte abgeleitet werden. Hilfreich ist dafür ggf. die auf die Kernaussage folgende Erläuterung.
+* **Antworten prüfen**: Am Ende sollte die vorgenommene Zuordnung nochmals überprüft werden, um die Antwortmöglichkeit C auszuschließen.
+
+# Weiterarbeit und Förderung
+
+## Bei richtiger Lösung
+
+Um das globale Leseverstehen zu entwickeln, ist es wichtig, Übungen durchzuführen, bei denen nur wenig Zeit für das Überfliegen des Textes gegeben wird. Ein methodisches Vorgehen wäre hier, den Text nach Ablauf der vorgegebenen Zeit umzudrehen und dann die Hauptaussage schriftlich fixieren zu lassen, ohne dass dabei der Text nochmals angesehen wird. Diese Aussagen können dann an der Tafel gesammelt und nach erneutem Lesen mit dem Text abgeglichen werden.
+
+Die Lernenden könnten auch zu einem bestimmten Thema selber französischsprachige Online- oder Zeitungsartikel (z. B. aus Jugendzeitschriften) mitbringen und die Hauptaussage für die Klasse zusammenfassen. So kann das Interesse für weiteres arbeitsteiliges detailliertes Lesen geweckt werden.
+
+## Bei falscher Lösung
+
+Sind Schülerinnen und Schüler nicht in der Lage, die Aufgabe zu lösen, sollte mit ihnen besprochen werden, wie sie bei der Bearbeitung vorgegangen sind. Dabei sollten unterschiedliche Strategien und die Möglichkeit ihrer Kombination berücksichtigt und dem Wechselspiel zwischen Aufgabe, Text und Ausschluss einzelner Antwortmöglichkeiten besondere Bedeutung zukommen. Dies ist besonders wichtig, wenn die Schlüsselbegriffe in den Formulierungen der Antwortmöglichkeiten nicht verstanden werden. In diesem Fall ist es sinnvoll, die unbekannten Begriffe ggf. in verständlichere Einzelelemente zu zerlegen, diese dann im Text aufzusuchen und so „Verstehensinseln“ zu bilden. Tauchen diese Einzelelemente der Schlüsselbegriffe allerdings nicht wörtlich im Text auf, kann die Aufgabe nur über Ausschluss- und Kombinationsverfahren über den Versuch eines Abgleichs von Aufgaben- und Textsinn bzw. -inhalt gelöst werden.
+
+Die Schülerinnen und Schüler können auch selbst ein Lesezeichen oder ein Lernposter mit Tipps zum globalen Lesen anfertigen.
+
+Um Strategien des globalen Leseverstehens gezielt zu trainieren, bietet es sich auf diesem Niveau an, als Textgrundlage zunächst noch weitere konkrete, vergleichsweise kürzere, einfachere Texte zu bekannten Themen zu nutzen. Anhand dieser Texte kann z. B. geübt werden, Hypothesen über den Textinhalt aufgrund von Bildern, Überschriften oder vorgegebenen Sätzen der Aufgabe zu bilden. Auch können Schlüsselbegriffe des Textes vor dem Lesen präsentiert werden, damit die Schülerinnen und Schüler auf dieser Grundlage überlegen, worum es im Text geht. Denkbar wäre auch, dass sie zunächst eigene kürzere Texte mit diesen Begriffen verfassen. Die eigenen Erwartungen und Überlegungen sollten dann mit der Aussage des Textes abglichen werden. Umgekehrt ist es ebenso wichtig zu üben, den Textinhalt „auf den Punkt“ zu bringen, z. B. indem der Textrand mit einem „Schlagwortkatalog“ versehen wird.
+
+Zuordnungsübungen sind besonders gut geeignet, um das globale Leseverstehen zu schulen, da zunächst die zentrale Aussage eines Textes erfasst werden muss, bevor eine passende Überschrift/Aussage gewählt werden kann. Hier einige Beispiele für solche Aufgaben:
+
+* Texte von Schildern/Postern/Anschlägen entsprechenden Bildern zuordnen,
+* Cover-/Klappentexte entsprechenden CD-/DVD-/Buchtiteln zuordnen,
+* Problemen/Fragestellungen/Briefen an einen „Kummerkasten“ schnell passende Artikel/Briefe/Antworten/Beiträge aus Chatforen zuordnen,
+* Fragen eines Interviews entsprechenden Antworten zuordnen,
+* Bezeichnungen von Textsorten Artikeln/Leserbriefen/E-Mails/Berichten zuordnen.
