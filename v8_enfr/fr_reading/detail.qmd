@@ -8,7 +8,7 @@ lightbox: true
 # Aufgabe
 
 :::{.task-header}
-Jeux vidéo
+Un e-mail déchiré
 
 &copy; IQB
 :::
@@ -22,23 +22,24 @@ Jeux vidéo
   <tbody>
     <tr>
       <td>Thema</td>
-      <td>Medien</td>
+      <td>Zwischenmenschliche Beziehungen</td>
     </tr>
     <tr>
       <td>Textsorte</td>
-      <td>Interview</td>
+      <td>E-Mail</td>
     </tr>
     <tr>
-      <td>Hörstil</td>
+      <td>Lesestil</td>
       <td>detailliert</td>
     </tr>
     <tr>
       <td>Kompetenzstufen</td>
       <td>
-        Teilaufgabe 1: A2<br/>
-        Teilaufgabe 2: B2<br/>
-        Teilaufgabe 3: A2<br/>
-        Teilaufgabe 4: A2
+        Teilaufgabe 1: A1<br/>
+        Teilaufgabe 2: A1<br/>
+        (Beispiel)<br/>
+        Teilaufgabe 4: A2<br/>
+        Teilaufgabe 5: A2
       </td>
     </tr>
   </tbody>
@@ -48,15 +49,59 @@ Jeux vidéo
 
 :::{.g-col-xl-7 .g-col-12}
 
-<audio controls src="jeux.mp3"></audio>
-![](jeux1.jpg){group="task-img"}
+![](e-mail1.jpg){group="task-img"}
 
 :::
 
 :::
 
-## Teilaufgaben 1-4 (Zeilen)
+## Teilaufgaben Spalten 1-2 und 4-5
 
-![Teilaufgaben mit richtiger Lösung](jeux2.jpg){group="task-img"}
+![Teilaufgaben mit richtiger Lösung](e-mail2.jpg){group="task-img"}
 
 # Diagnostisches Potenzial
+
+Schülerinnen und Schüler, die in der Lage sind, die Teilaufgaben 1, 2 und 5 richtig zu lösen, können sehr einfache Redewendungen in kurzen, einfachen persönlichen Mitteilungen in einer geläufigen Alltagssituationen erkennen. Dies entspricht im Bereich des detaillierten Lesens dem Niveau A1. Schülerinnen und Schüler, die die Teilaufgabe 4 richtig bearbeiten, haben bereits das Niveau A2 erreicht. Sie lassen sich auch durch komplexere Strukturen beim Verstehen nicht irritieren.
+
+# Beschreibung der Aufgabe
+
+Textgrundlage ist eine kurze E-Mail, in der Laure Lola zu ihrer Geburtstagsfeier einlädt. Das Fest soll am kommenden Samstag um 15 Uhr stattfinden. Laure möchte gerne mit ihren Gästen bowlen gehen. Abends möchte sie einen DVD-Abend machen und Pizza essen. Wenn Lolas Eltern einverstanden sind, kann Lola bei ihr schlafen. Abschließend fragt Laure, ob Lola kommen kann und bittet um eine schnelle Antwort.
+
+Das Thema „Einladung zum Geburtstagsfest“ wird den Schülerinnen und Schülern nicht durch eine Situierung des Textes gegeben. Es erschließt sich ihnen erst beim Lesen des Satzes F (*fêter mon anniversaire avec moi*). Das Thema ist den 8-Klässlern vertraut und zählt zu ihrem unmittelbaren Erfahrungsbereich. Der verwendete Wortschatz dürfte den Schülerinnen und Schülern im Allgemeinen geläufig sein, obschon auch einige weniger häufige Wörter vorkommen (wie z. B. *déchirer, malheureusement, prochain*). Die Strukturen sind überwiegend einfach, bis auf den Konditionalsatz in Satz E.
+
+Bei der Aufgabe soll die zerrissene E-Mail rekonstruiert werden. Dafür müssen die Schülerinnen und Schüler das Textpuzzle, bestehend aus fünf Teilen, in die richtige Reihenfolge bringen. Dies erfordert Kombinieren bzw. Schlussfolgern. 
+
+Die Aufgabe könnte den 8-Klässlern in verschiedener Hinsicht Schwierigkeiten bereiten. Zum einen lässt sich Textteil B erst nach genauerem Lesen und Kombinieren als überflüssiger Textteil identifizieren: Der Satzanfang *Après le cinéma* könnte auf einer oberflächlichen Ebene inhaltlich an Textteil C *une soirée DVD* anschließen. Der zweite Satzteil *on va fêter ensemble dans une discothèque* lässt sich inhaltlich jedoch mit keinem weiteren Textteil verknüpfen und ist somit überflüssig. Zum anderen ist die Vorgabe der Lösung für Position 3 zwar eine Hilfe, doch müssen die Lernenden beim Lesen beachten, dass sie sowohl die beiden Textteile finden müssen, die davorstehen, als auch die beiden, die danach stehen. 
+
+# Vor dem Lesen
+
+Zur Lösung der Aufgabe können folgende Strategien angewandt werden, die sinnvoll miteinander verknüpft werden müssen:
+
+* **Vorwissen aktivieren/Leseerwartung aufbauen**: Vor dem Lesen sollten die Schülerinnen und Schüler auf der Grundlage des Titels (*Un e-mail déchiré*) und der Situierung (*un mail de Laure*) eine Leseerwartung zu Thema und Textsorte aufbauen.
+* **Anforderungen der Aufgabe ableiten**: Damit den 8-Klässlern klar ist, wie sie die Aufgabe bearbeiten müssen, sollten sie zuerst die Aufgabenstellung sehr genau lesen. Es empfiehlt sich, den Textteil C zuerst zu lesen, um sich eine genauere Vorstellung vom Textinhalt machen zu können (Schlüsselwörter sind hier *après le bowling, soirée DVD* und *manger des pizzas*).
+* **Angemessenes Vorgehen zur Lösung der Aufgabe wählen**: Um die Lösung zu finden, ist es notwendig, auf typische Redewendungen am Anfang und am Ende einer E-Mail zu achten (Anrede, Verabschiedung). Außerdem ist die Aufmerksamkeit auf bestimmte Schlüsselwörter zu lenken, die Hinweise auf die inhaltliche Verknüpfung der Sätze geben.
+
+# Beim Lesen
+
+* **Vorhandene Hilfen als Verstehenshilfe nutzen**: Die Lernenden sollten die Modelllösung zur Orientierung und als Verständnishilfe heranziehen. Sie befindet sich in der Mitte der E Mail, so dass sowohl die zwei Sätze identifiziert werden müssen, die Textteil C vorangehen, als auch die zwei Sätze, die darauf folgen.
+* **Auf relevante Schlüsselwörter und Textelemente fokussieren**: Beim Lesen sollten die Lernenden sich auf die typischen Redewendungen zu Anfang und Ende einer E-Mail konzentrieren, um die Teilaufgaben 1 und 5 lösen zu können (z. B. 1-F: *Salut*; 5-D: *Réponds-moi vite. Bisous*). Die Lösung zu Teilaufgabe 2 ist sowohl durch die Redewendung *Je voudrais bien* (mit der Sprechabsicht „einen Vorschlag machen“) als auch inhaltlich durch das Schlüsselwort *centre de bowling* möglich, da die vorgegebene Lösung 3-C direkt daran anknüpft (*après le bowling*). Die inhaltliche Verbindung zwischen 3-C und 4-E ist durch die Schlüsselwörter *une soirée DVD* und *après le film* gegeben.  
+* **Den überflüssigen Textteil identifizieren**: Durch Ausprobieren verschiedener Satzkombinationen erkennen die Schülerinnen und Schüler, dass Textteil B zwar an Textteil C anschließen könnte, aber selbst wiederum nicht weitergeführt wird (d. h. die Idee *fêter ensemble dans une discothèque* durch keinen Satz aufgenommen wird). 
+* **Wortbedeutung erschließen**: Auch wenn nicht alle auf dieser Stufe eventuell unbekannten Wörter wichtig zur korrekten Lösung der Aufgabe sind, könnten die Lernenden versuchen, einige Vokabeln aus dem Kontext zu erschließen (z. B. *malheureusement, prochain*). 
+
+# Nach dem Lesen
+
+* **Antwort genau prüfen**: Nach dem Lesen sollten die Schülerinnen und Schüler ihre Lösungen durch erneutes Nachlesen abgleichen und ggf. korrigieren. Sie sollten darauf achten, dass gemäß der Aufgabenstellung die zwei Sätze vor der vorgegebenen Lösung und die zwei Sätze danach sprachlich und inhaltlich aneinander anschließen. Hier geht es um das gezielte Wieder-Aufsuchen der für die Lösung relevanten Textstellen.
+
+# Weiterarbeit und Förderung
+
+## Bei richtiger Lösung
+
+Wenn diese Aufgabe Schülerinnen und Schüler keine Schwierigkeit bereitet, ist es denkbar, umfangreichere oder schwierigere Texte detailliert zu lesen. Geeignete Lesetexte auf einem höheren Niveau sind etwa Berichte, z. B. über Erlebtes, Leserbriefe oder Blogeinträge. Dabei findet man oft mehrere thematisch verwandte Texte. Diese können z. B. mit der Aufgabe gelesen werden, jeweils typische Aussagen zuzuordnen. Darüber hinaus wäre es denkbar, dass die Lernenden arbeitsteilig selbst Aufgaben für Mitschülerinnen und Mitschüler entwickeln. Dabei werden sie sich bewusst, zur Lösung welcher Aufgabe welcher Lesestil (Globalverstehen, aufsuchendes Lesen, detailliertes Lesen) angewendet werden muss.
+
+## Bei falscher Lösung
+
+Falls die Aufgabe Schülerinnen und Schülern Probleme bereitet, sollte mit ihnen besprochen werden, wie sie bei der Bearbeitung vorgegangen sind. Nach der neuerlichen genauen Lektüre der Aufgabenstellung sollten – wie oben beschrieben – die Anforderungen abgeleitet werden, besonders an das zu wählende Leseverhalten. Durch das Bewusstmachen möglicher Bearbeitungsstrategien wird ein Beitrag zur Förderung der Sprachlernbewusstheit geleistet. Die Lernenden könnten selbstständig ein Lesezeichen, ein Lernposter oder eine Checkliste mit Tipps zu den erforderlichen Lesetechniken beim detaillierten Lesen anfertigen.
+
+In Übungen können gezielt einzelne Strategien des detaillierten Leseverstehens, schwerpunktmäßig Scanning-Techniken, trainiert werden. Dabei könnte etwa an einigen Aufgabenbeispielen exemplarisch geübt werden, wie man die Augen beim Lesen mit dem Finger oder Lineal über den Text gleiten lassen kann und dabei nur relevante Schlüsselwörter oder Textstellen im Fokus hat. Als Textgrundlagen bieten sich zum Herausfiltern relevanter Textstellen zunächst kürzere, einfachere Lesetexte, wie z. B. Postkarten oder SMS, an. Es ist lernförderlich, wenn die Themen geläufig sind. Eine Übung, die zugleich auch das sinnvolle Nutzen eines dictionnaire fördert, wäre, die Lernenden innerhalb eines vorgegebenen Zeitrahmens bestimmte Begriffe aus Nachschlagewerken heraussuchen zu lassen.
+
+Begriffe und Wendungen, die nicht verstanden werden, können leicht die weniger leistungsstarken Schülerinnen und Schüler irritieren. Diese Angst vor dem Nichtverstehen gilt es abzubauen. Wichtig ist es, dass sie verstehen, dass es auch beim detaillierten Leseverstehen nicht darum geht, jedes einzelne Wort zu verstehen, sondern dass „Verstehensinseln“ ausreichen können und dass bei der Rekonstruktion eines Textes textsortentypische Redewendungen, Satzverknüpfungen oder inhaltliche Logik hilfreiche Stützen sind.

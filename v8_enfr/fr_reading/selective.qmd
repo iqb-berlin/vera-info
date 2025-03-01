@@ -47,7 +47,7 @@ Strasbulles
 
 :::{.g-col-xl-7 .g-col-12}
 
-![](strasbulles1.png)
+![](strasbulles1.jpg)
 
 :::
 
@@ -73,7 +73,7 @@ Strasbulles
 
 :::{.g-col-xl-7 .g-col-12}
 
-![](strasbulles2.png)
+![](strasbulles2.jpg)
 
 :::
 
@@ -99,7 +99,7 @@ Strasbulles
 
 :::{.g-col-xl-7 .g-col-12}
 
-![](strasbulles3.png)
+![](strasbulles3.jpg)
 
 :::
 

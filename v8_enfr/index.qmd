@@ -3,6 +3,14 @@ title: "VERA-8 Fremdsprache"
 lang: de
 bibliography: bibliography.bib
 csl: ../assets/apa.csl
+format:
+  html:
+    toc: false
+    other-links:
+      - href: https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2004/2004_10_15-Bildungsstandards-ersteFS-Haupt.pdf
+        text: Bildungsstandards 1. Fremdsprache HSA
+      - href: https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2003/2003_12_04-BS-erste-Fremdsprache.pdf
+        text: Bildungsstandards 1. Fremdsprache MSA 2003
 ---
 
 Die Bildungsstandards für die Erste Fremdsprache (Englisch/Französisch) sind aufgrund eines Beschlusses der Kultusministerkonferenz [@KMKKultusministerkonferenz.2006] seit dem Schuljahr 2004/2005 bzw. 2005/2006 verbindliche Zielvorgaben für die Lehrplanentwicklung und die Lehrkräftebildung. Sie differenzieren nach angestrebtem Schulabschluss (HSA/MSA) und werden vom IQB in konkrete Testaufgaben umgesetzt („operationalisiert“).
@@ -23,3 +31,10 @@ Lesen Sie weiter:
 
 2023 wurden die Bildungsstandards für die erste Fremdsprache für den Ersten und Mittleren Schulabschluss [weiterentwickelt](https://www.iqb.hu-berlin.de/bista/WeiterentwicklungBiSta/) und von der KMK verabschiedet. Die vorliegenden Testaufgaben beziehen sich auf die Bildungsstandards, die 2004 und 2003 von der KMK beschlossen worden sind, da sich die Normierungsaufgaben für die neuen Bildungsstandards noch in der Entwicklung befinden.
 :::
+
+# Autor*innen
+
+An den Texten dieses Kapitels haben folgende Personen mitgewirkt:
+
+* **Englisch**: Lisa Marie Dillmann, Viktoria Anna Krämer, Prof. Dr. Henning Rossa, Daniel Mischa Helsper und Dr. Karoline Wirbatz
+* **Französisch**: Prof. Dr. Hélène Martinez, Dr. Sophie Engelen und Maïa Roueire-Klitzke
