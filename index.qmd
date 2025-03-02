@@ -12,27 +12,27 @@ format:
 
 ::: {.grid}
 
-::: {.g-col-lg-2 .g-col-md-4 .g-col-sm-6 .g-col-12 .front-tile}
+::: {.g-col-lg-2 .g-col-md-4 .g-col-sm-6 .g-col-12 .front-tile .front-tile-green}
 [Allgemeine<br/>Informationen](intro/index.qmd)
 :::
 
-::: {.g-col-lg-2 .g-col-md-4 .g-col-sm-6 .g-col-12 .front-tile}
+::: {.g-col-lg-2 .g-col-md-4 .g-col-sm-6 .g-col-12 .front-tile .front-tile-grey}
 [VERA-3<br/>Mathematik](v3_ma/index.qmd)
 :::
 
-::: {.g-col-lg-2 .g-col-md-4 .g-col-sm-6 .g-col-12 .front-tile}
+::: {.g-col-lg-2 .g-col-md-4 .g-col-sm-6 .g-col-12 .front-tile .front-tile-gold}
 [VERA-3<br/>Deutsch](v3_de/index.qmd)
 :::
 
-::: {.g-col-lg-2 .g-col-md-4 .g-col-sm-6 .g-col-12 .front-tile}
+::: {.g-col-lg-2 .g-col-md-4 .g-col-sm-6 .g-col-12 .front-tile .front-tile-grey}
 [VERA-8<br/>Deutsch](v8_de/index.qmd)
 :::
 
-::: {.g-col-lg-2 .g-col-md-4 .g-col-sm-6 .g-col-12 .front-tile}
+::: {.g-col-lg-2 .g-col-md-4 .g-col-sm-6 .g-col-12 .front-tile .front-tile-gold}
 [VERA-8<br/>Mathematik](v8_ma/index.qmd)
 :::
 
-::: {.g-col-lg-2 .g-col-md-4 .g-col-sm-6 .g-col-12 .front-tile}
+::: {.g-col-lg-2 .g-col-md-4 .g-col-sm-6 .g-col-12 .front-tile .front-tile-green}
 [VERA-8<br/>Fremdsprache](v8_enfr/index.qmd)
 :::
 

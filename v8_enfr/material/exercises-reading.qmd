@@ -1,0 +1,45 @@
+---
+title: "VERA-8 Fremdsprache Material"
+description: "Leseverstehen Übungen"
+lang: de
+---
+
+# Aufbau einer Leseerwartung
+
+Arbeitsmaterial: zwei Texte (z. B. Zeitungsartikel, Auszüge aus Broschüren, Erzählungen oder auch Lehrbuchtexte), die sich sinnvoll in die aktuelle Lernaufgabe integrieren lassen. 
+
+Vorgehen:
+
+1.	Es werden vier Gruppen gebildet. Jeweils zwei Gruppen lesen den gleichen Text und notieren einzeln sieben Stichpunkte zu den wichtigsten Inhaltspunkten.
+2.	Dann gleichen erst die Mitglieder einer Gruppe ihre Ergebnisse miteinander ab und einigen sich auf sieben Punkte. Danach setzen sich beide Gruppen zusammen und erstellen ein gemeinsames Poster mit den wichtigsten Punkten zu ihrem Text. Das Poster wir für alle gut sichtbar aufgehängt.
+3.	Jeder Schüler und jede Schülerin formuliert zu den Punkten auf dem Poster zu dem ihm noch unbekannten Text einen eigenen zusammenhängenden Text. Die Textsorte wird dabei vorgegeben
+4.	Im Anschluss liest jeder Schüler und jede Schülerin den Text der anderen Gruppe und gleicht seine/ihre Inhalte mit denen des Textes ab.
+5.	Die Unterschiede zwischen den Texten der Schülerinnen und Schüler und den beiden vorgegeben Texten werden im Unterrichtsgespräch thematisiert. In einer Ausstellung können die Schülertexte noch gesondert gewürdigt werden.
+
+# Entwicklung des globalen oder detaillierten Leseverstehens -- Textmapping
+
+Die Schülerinnen und Schüler lesen mit einer relativ knappen Zeitvorgabe einen Text. Vor dem Lesen wird je nach Text und dessen Funktion für eine bestimmte Lernaufgabe vorgegeben, auf was sie sich konzentrieren sollen (z. B. die Kernaussage, die einzelnen Hauptaussagen, die zentralen Argumente, die aufgeführten Beispiele, Emotionen oder Charaktereigenschaften einer literarischen Figur). 
+
+Während/nach dem Lesen notiert jeder, was er oder sie zum vorgegebenen Aspekt verstanden hat. Anschließend werden die Ergebnisse verglichen, d. h. alle Informationen werden stichpunktartig in einem Tafelbild gesammelt. Dabei darf nicht auf die Textvorlage zurückgegriffen werden.
+
+In der Auswertung wird besprochen, welche Informationen von allen Lernenden und welche nur von einzelnen Lernenden verstanden worden sind. Dabei spielen vor allem erfolgreiche Vorgehensweisen, wie das Nutzen von Schlüsselwörtern, Wortfeldern, Stimmungen oder des Kontextes eine Rolle. Anschließend wird der Text ein zweites Mal gelesen. Die Schülerinnen und Schüler ergänzen ggf. ihre Notizen, bevor sie abschließend erneut die Ergebnisse vergleichen.
+
+Auf der Grundlage ihrer Notizen können die Lernenden auch selbstständig Leseaufgaben für Mitschüler/innen bzw. andere Lerngruppen entwickeln.
+
+# Erarbeitung textsortenspezifischer Merkmale
+
+ Auf Grundlage der Texte von Lernaufgaben wird nach und nach eine Tabelle in Gruppenarbeit ausgefüllt (s. u.). Die Ergebnisse werden im Unterrichtsgespräch abgeglichen und ergänzt. Bevor ein neuer Text einer bereits erarbeiteten Textsorte gelesen wird, kann die Tabelle zu Hilfe genommen werden, um eine Leseerwartung aufzubauen.
+
+|Was für ein Text ist es?|Was will der Verfasser?|Wie ist der Text aufgebaut?|Was ist typisch für die Sprache?|
+|------|-----|------|------|
+|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
+|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
+|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
+
+: Vorlage textsortenspezifische Merkmale {.table-bordered}
+
+# Entwicklung des selektiven Leseverstehens -- Selbst Aufgaben entwickeln
+
+Die Lernenden lesen mit einer relativ knappen Zeitvorgabe einen Text. Anschließend tauschen sie sich über die Situation aus, in der man üblicherweise einen solchen Text lesen könnte. Sie sollten alle Informationen ignorieren, die in dieser Situation irrelevant sind, und bestimmen stattdessen die für den Leser wichtigen spezifischen Informationen (z. B. Daten, Preise, Orte).
+
+Um ihre Konzentrationsfähigkeit zu schärfen, könnten die Schülerinnen und Schüler selbst in Partnerarbeit die Zeit stoppen, die sie für das schnelle Lesen eines Textes benötigen. Beim nochmaligen Lesen des Textes achten sie gezielt auf diese Information(en). In Gruppen werden die Resultate verglichen. Weiterführend entwerfen die Schülerinnen und Schüler selbst eine Aufgabe zur Überprüfung des selektiven Lesens. Im Hinblick auf die Erweiterung und Festigung des Wortschatzes sollten darunter auch Mehrfachwahlaufgaben sein. Dabei lernen die Schülerinnen und Schüler durch das Formulieren unterschiedlicher Antwortmöglichkeiten, gezielt Umschreibungen zu nutzen.

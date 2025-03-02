@@ -4,6 +4,8 @@ project:
     - v8_enfr/fr_listening/jeux.mp3
     - v8_enfr/fr_listening/maxime.mp3
     - v8_enfr/fr_listening/camping.mp3
+    - v8_enfr/material/lesezeichen-HV-Aufgabe.docx
+    - v8_enfr/material/lesezeichen-LV-Aufgabe.docx
 
 website:
   site-url: https://iqb-berlin.github.io/vera-info/
@@ -30,7 +32,6 @@ website:
     collapse-level: 1
     contents:
       - section: "Einführung"
-        icon: check-circle
         href: intro/index.qmd
         contents:
           - href: intro/booklets.qmd
@@ -41,7 +42,6 @@ website:
             text: Rückmeldung
           - intro/how-to-use.qmd
       - section: "VERA-3 Deutsch"
-        icon: slash-circle
         href: v3_de/index.qmd
         contents:
           - section: "Lesen"
@@ -58,13 +58,10 @@ website:
             text: Literatur
 
       - section: "VERA-3 Mathematik"
-        icon: x-circle
         href: v3_ma/index.qmd
       - section: "VERA-8 Deutsch"
         href: v8_de/index.qmd
-        icon: x-circle
       - section: "VERA-8 Mathematik"
-        icon: slash-circle
         href: v8_ma/index.qmd
         contents:
           - href: v8_ma/kompetenzmodell.qmd
@@ -80,7 +77,6 @@ website:
               - v8_ma/leitidee_5_daten_und_zufall/daten.qmd
               - v8_ma/leitidee_5_daten_und_zufall/literatur.qmd
       - section: "VERA-8 Fremdsprache" 
-        icon: check-circle
         href: v8_enfr/index.qmd
         contents:
           - href: v8_enfr/standards.qmd
@@ -123,6 +119,19 @@ website:
                   href: v8_enfr/fr_reading/selective.qmd
                 - text: Detailliertes LV
                   href: v8_enfr/fr_reading/detail.qmd
+          - section: Material für den Unterricht
+            href: v8_enfr/material/index.qmd
+            contents:
+              - href: v8_enfr/material/bookmark-listening.qmd
+                text: Lesezeichen HV
+              - href: v8_enfr/material/text-mapping.qmd
+                text: Textmapping HV
+              - href: v8_enfr/material/exercises-listening.qmd
+                text: Übungen HV
+              - href: v8_enfr/material/bookmark-reading.qmd
+                text: Lesezeichen LV
+              - href: v8_enfr/material/exercises-reading.qmd
+                text: Übungen LV
           - href: v8_enfr/literature.qmd
             text: Literatur
 format:

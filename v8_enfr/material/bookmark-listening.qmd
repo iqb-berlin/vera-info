@@ -1,0 +1,67 @@
+---
+title: "VERA-8 Fremdsprache Material"
+description: "Hörverstehen Lesezeichen"
+lang: de
+---
+
+# Aufgabe
+
+Beschrifte das Lesezeichen mit Tipps, die dir helfen, Aufgaben zum Hörverstehen zu bearbeiten. Überlege, was vor, beim und nach dem Hören wichtig ist. 
+Vergleiche und ergänze deine Notizen mit einem Partner oder einer Partnerin.
+
+{{< downloadthis lesezeichen-HV-Aufgabe.docx label="Herunterladen Schülerblatt" dname="Lesezeichen-Hoerverstehen-Aufgabe" icon=filetype-docx >}}
+
+# Mögliche Lösung
+
+:::{.bookmark}
+## Vor dem Hören
+
+* Ich lese die Überschrift und Aufgabe.
+* Ich überlege,
+  - was für ein Text angekündigt wird, 
+  - was ich von so einem Text erwarte,
+  - worum es gehen könnte,
+  - was ich darüber schon weiß,
+  - auf was ich beim Hören achten muss.
+* Ich entscheide, ob ich mich nur auf einzelne Informationen konzentrieren oder den Text vollständig verstehen muss.
+* Ich markiere wichtige Wörter in der Aufgabe, die mir beim Auffinden der Information im Text helfen können. 
+* Ich überprüfe, ob mir durch Bilder o. ä. zusätzliche Informationen gegeben werden.
+
+## Beim Hören
+
+* Ich versuche zu verstehen, worum es geht. 
+* Ich konzentriere mich auf die gesuchte Information. 
+* Ich konzentriere mich auf Wörter der Aufgabe und Sätze mit Wörtern des gleichen Wortfeldes, 
+* Ober-/Unterbegriffen oder Synonymen.
+* Wenn ich etwas nicht verstehe, überlege ich
+  - was ein mir unbekanntes Wort in dem Zusammenhang bedeuten könnte,
+  - welches Wort meiner Erstsprache dem Wort ähnelt,
+  - wovon es abgeleitet sein könnte.
+  - Ich versuche weiter zu folgen, bis wieder eine Stelle kommt, die ich verstehe.
+
+## Nach dem Hören
+
+* Ich kombiniere einzelne Informationen, um die richtige Lösung zu finden.
+* Das zweite Hören nutze ich ggf., um meine Antwort zu ergänzen und zu überprüfen.
+:::
+
+# Leitfragen zur Ergänzung der Schülerprodukte im Unterrichtsgespräch
+
+* Fragen zum Vorgehen vor dem Hören:
+  - Wie löst ihr die Aufgabe?
+  - Wo findet ihr Hinweise darauf, worum es in einem Text gehen könnte?
+  - Wie erkennt ihr, um was für einen Text es sich handeln könnte?
+* Fragen zum Vorgehen beim Hören:
+  - Auf welche Textstellen/Wörter achtet ihr besonders?
+  - Wie erkennt ihr die für die Aufgaben wichtigen Textstellen?
+  - Welche Beziehungen zwischen ähnlichen Wörtern kennt ihr?
+  - Wie erkennt ihr, wer/was mit dem Text erreicht werden soll?
+* Fragen zum Umgang mit Verständnisproblemen:
+  - Was macht ihr, wenn ihr etwas nicht versteht?
+  - Wie könnt ihr die Bedeutung eines Wortes herausbekommen (z. B. reaction oder to encourage)?
+* Fragen zum Vorgehen nach dem Hören:
+  - Wie könnt ihr eure Antwort überprüfen? 
+
+# Alternatives Vorgehen
+
+Die Tipps zum Hörverstehen können auch in Arbeitsgruppen auf Lernplakaten festgehalten werden. Diese können dann im Klassenraum aufgehängt werden. Außerdem könnten Checklisten entwickelt werden, bei denen die Schülerinnen und Schüler dann abhaken können, welche Strategien sie berücksichtigt haben.

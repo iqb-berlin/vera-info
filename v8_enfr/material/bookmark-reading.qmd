@@ -1,0 +1,67 @@
+---
+title: "VERA-8 Fremdsprache Material"
+description: "Leseverstehen Lesezeichen"
+lang: de
+---
+
+# Aufgabe
+
+Beschrifte das Lesezeichen mit Tipps, die dir helfen, Aufgaben zum Hörverstehen zu bearbeiten. Überlege, was vor, beim und nach dem Hören wichtig ist. 
+Vergleiche und ergänze deine Notizen mit einem Partner oder einer Partnerin.
+
+{{< downloadthis lesezeichen-LV-Aufgabe.docx label="Herunterladen Schülerblatt" dname="Lesezeichen-Leseverstehen-Aufgabe" icon=filetype-docx >}}
+
+# Mögliche Lösung
+
+:::{.bookmark}
+
+## Vor dem Lesen
+
+* Ich lese die Überschrift und Aufgabe und markiere die wichtigen Wörter.
+* Ich überprüfe, ob mir durch das Layout und/oder Illustrationen zusätzliche Informationen gegeben werden.
+* Ich überlege,
+  - was es für eine Textsorte ist, 
+  - was ich von solch einem Text erwarte,
+  - ob ich den Text vollständig verstehen muss oder ich mich nur auf einzelne Textteile konzentrieren kann.
+
+## Beim Lesen
+
+* Ich verschaffe mir einen ersten Überblick über den Text. 
+* Ich konzentriere mich auf die für die Antwort wesentlichen Textstellen.
+* Ich konzentriere mich auf Wörter der Aufgabe und Sätze mit Wörtern des gleichen Wortfeldes, Ober-/Unterbegriffen oder Synonymen. 
+* Ich markiere wichtige Wörter und Textstellen.
+* Wenn ich etwas nicht verstehe, überlege ich, 
+  - was ein mir unbekanntes Wort in dem Zusammenhang bedeuten könnte,
+  - welches Wort meiner Erstsprache dem Wort ähnelt,
+  - wovon es abgeleitet sein könnte.
+* Ich lese weiter, bis ich wieder auf eine Stelle stoße, die ich verstehe.
+
+## Nach dem Lesen
+
+* Ich prüfe meine Antwort, indem ich sie nochmals mit dem Text abgleiche.
+* Eventuell kombiniere ich einzelne Informationen, um die richtige Lösung zu finden.
+
+:::
+
+# Leitfragen zur Ergänzung der Schülerprodukte im Unterrichtsgespräch
+
+* Fragen zum Vorgehen vor dem Lesen:
+  - Wie löst ihr die Aufgabe?
+  - Was lest ihr zuerst? Warum?
+  - Wo findet ihr Hinweise darauf, worum es in einem Text gehen könnte?
+  - Wie erkennt ihr, um was für einen Text es sich handeln könnte?
+* Fragen zum Vorgehen beim Lesen:
+  - Auf welche Textstellen/Wörter achtet ihr besonders?
+  - Wie markiert ihr diese?
+  - Wie findet ihr die für die Aufgaben wichtigen Textstellen?
+  - Welche Beziehungen zwischen ähnlichen Wörtern kennt ihr?
+  - Wie erkennt ihr, wer/was mit dem Text erreicht werden soll?
+* Fragen zum Umgang mit Verständnisproblemen:
+  - Was macht ihr, wenn ihr etwas nicht versteht?
+  - Wie könnt ihr die Bedeutung eines Wortes herausbekommen? (z. B. *reaction* oder *to encourage*)
+* Fragen zum Vorgehen nach dem Lesen:
+  - Wie könnt ihr eure Antwort überprüfen?
+
+# Alternatives Vorgehen
+
+Die Tipps zum Leseverstehen können auch in Arbeitsgruppen auf Lernplakaten festgehalten werden. Diese können dann im Klassenraum aufgehängt werden. Außerdem könnten Checklisten entwickelt werden, bei denen die Schülerinnen und Schüler dann abhaken können, welche Strategien sie berücksichtigt haben.

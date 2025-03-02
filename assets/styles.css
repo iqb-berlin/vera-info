@@ -58,6 +58,16 @@ h1.title {
     background-color: #95e2e9;
 }
 
+.front-tile-green {
+    border-bottom: 5px solid #00cc00;
+}
+.front-tile-gold {
+    border-bottom: 5px solid goldenrod;
+}
+.front-tile-grey {
+    border-bottom: 5px solid grey;
+}
+
 .task-properties td:first-child {
     background-color: #c0eef2;
 }
@@ -72,5 +82,12 @@ h1.title {
 }
 .task-header p:nth-of-type(2) {
     font-size: smaller;
+    font-style: italic;
+}
+
+.bookmark {
+    padding: 0 10px;
+    border: 5px solid grey;
+    max-width: 500px;
     font-style: italic;
 }

@@ -1,0 +1,16 @@
+---
+title: "VERA-8 Fremdsprache"
+description: "Material für den Unterricht"
+lang: de
+---
+
+# Hörverstehen
+
+* [Lesezeichen-Tipps](bookmark-listening.qmd): Die Schülerinnen und Schüler tragen auf einem Blatt Tipps ein, wie man Aufgaben zum Hörverstehen bearbeiten könnte. Mit einem Partner oder einer Partnerin werden die Tipps verglichen und ergänzt. Ein anschließendes Unterrichtsgespräch ergänzt die Aufgabe.
+* [Text-Mapping](text-mapping.qmd): Beim Hören wird der Fokus auf die gezielte Nutzung von Signalwörtern gesetzt. Eine Mindmap unterstützt die Gruppenarbeit.
+* [Drei weitere Übungen](exercises-listening.qmd) entwickelt gezielt globales, detailliertes und selektives Hörverstehen.
+
+# Leseverstehen
+
+* [Lesezeichen-Tipps](bookmark-reading.qmd): Die Schülerinnen und Schüler tragen auf einem Blatt Tipps ein, wie man Aufgaben zum Leseverstehen bearbeiten könnte. Mit einem Partner oder einer Partnerin werden die Tipps verglichen und ergänzt. Ein anschließendes Unterrichtsgespräch ergänzt die Aufgabe.
+* [Vier weitere Übungen](exercises-reading.qmd) entwickelt gezielt globales, detailliertes und selektives Leseverstehen.
