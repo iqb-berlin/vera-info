@@ -1,5 +1,134 @@
 ---
 title: "VERA-8 Englisch"
 description: Aufgabenbeispiel Selektives Leseverstehen
+lightbox: true
 lang: de
 ---
+
+# Aufgabe
+
+:::{.task-header}
+Crocodylus Park.
+
+&copy; IQB
+:::
+
+::: {.grid}
+
+:::{.g-col-xl-5 .g-col-12}
+
+```{=html}
+<table class="task-properties">
+  <tbody>
+    <tr>
+      <td>Thema</td>
+      <td>Freizeit</td>
+    </tr>
+    <tr>
+      <td>Textsorte</td>
+      <td>Werbung</td>
+    </tr>
+    <tr>
+      <td>Lesestil</td>
+      <td>selektiv</td>
+    </tr>
+    <tr>
+      <td>Kompetenzstufen</td>
+      <td>
+        Teilaufgabe 1: A1<br/>
+        Teilaufgabe 2: B2<br/>
+        Teilaufgabe 3: B1<br/>
+        Teilaufgabe 4: A2<br/>
+        Teilaufgabe 5: A2
+      </td>
+    </tr>
+    <tr>
+      <td>Richtige Lösungen</td>
+      <td>Siehe Liste unten.</td>
+    </tr>
+  </tbody>
+</table>
+```
+:::
+
+:::{.g-col-xl-7 .g-col-12}
+
+![](crocodylus1.jpg)
+![](crocodylus2.jpg)
+
+:::
+
+:::
+
+# Richtige Lösungen
+
+Zahl und Maßeinheit (ausgeschrieben oder als Ziffer/Symbol) müssen genannt sein. Auch alle grammatikalisch oder orthografisch nicht korrekten Schreibweisen, die den Sinn erkennen lassen, werden akzeptiert.
+
+* **Teilaufgabe 1**: Eine der Alternativen wird genannt: 30 cm, 12 inches
+* **Teilaufgabe 2**: Eine der Alternativen wird genannt: half a ton, 500 kg
+* **Teilaufgabe 3**: Eine der Alternativen wird genannt: police station, police centre, (the entrance to the) Berrimah Police Centre
+* **Teilaufgabe 4**: Der Punkt wird nur vergeben, wenn die beiden Buslinien 5 und 9 genannt werden.
+* **Teilaufgabe 5**: $12.50
+
+# Diagnostisches Potenzial
+
+Schülerinnen und Schüler, die in der Lage sind, die Teilaufgaben 1, 4 und 5 richtig zu lösen, können überwiegend einfachen, kurzen Broschüren spezifische Informationen (z. B. Namen und Zahlwörter) entnehmen. Dies entspricht im Bereich des selektiven Lesens dem Niveau A2. Schülerinnen und Schüler, die die Teilaufgaben 2 und 3 richtig bearbeiten, haben bereits das Niveau B2 bzw. B1 erreicht. Sie lassen sich auch durch seltenere Begriffe oder komplexere Strukturen beim Auffinden der gesuchten Informationen nicht irritieren.
+
+# Beschreibung der Aufgabe
+
+Textgrundlage ist ein kurzes Werbematerial des australischen Crocodylus Park. Es gibt möglichen Besucherinnen und Besuchern Informationen über die Krokodile und andere Wildtiere, die im Park leben, sowie über die Lage des Parks, Anfahrtsmöglichkeiten und die Staffelung der Eintrittspreise für Erwachsene, Kinder und Familien.
+
+Das Thema „(Tier)Park“ ist den Schülerinnen und Schüler der Jahrgangsstufe 8 vertraut und gehört zu ihrem unmittelbaren Erfahrungsbereich; Australien als geografischer Bezugsraum könnte ihnen eventuell noch fremd sein. Der verwendete Wortschatz dürfte den Schülerinnen und Schülern im Allgemeinen geläufig sein, obschon auch einige weniger frequente Wörter vorkommen (wie z. B. *hatchling*). Die Strukturen sind teils einfach, teils auch komplexerer Natur (z. B. *measuring, weighing; if driving*).
+
+Bei der Aufgabe handelt es sich um ein Format mit Kurzantwort (*Short Answer*). Es wird verlangt, dass fünf Fragen mit ein bis fünf Wörtern vervollständigt werden. Diese Fragen beziehen sich auf spezifische Informationen, die im Text ausdrücklich genannt werden (Ortsname, Zahlen, Gewichts-, Längen-, Preisangabe). 
+
+# Mögliche Schwierigkeiten
+
+Die Aufgabe könnte Schülerinnen und Schüler der Jahrgangsstufe 8 in verschiedener Hinsicht Schwierigkeiten bereiten:
+
+* Auffällig ist die Häufung von Eigennamen: Neben *hawksbill turtle* werden geografische Begriffe wie *Darwin, Northern Territory, McMillans Rd., Knuckey Lagoon, Holmes Jungle Nature Reserve, Palmerston* verwendet, die die Schülerinnen und Schüler verwirren könnten. Darüber hinaus werden die britischen Längenmaße *inch* und *feet* genannt.
+* Alle Teilaufgaben weisen eine nur geringe bzw. fehlende lexikalische Überlappung zwischen den Formulierungen der Fragen und denen des Textes auf, vgl.:
+  - 1: *How long is a baby [crocodile]{.highlight}? &rarr; Text: The [crocodile]{.highlight}s range in age and size from 30-centimetre (12-inch) hatchlings to adults …*
+  - 2: How heavy is a full-size [crocodile]{.highlight}? &rarr; Text: The [crocodile]{.highlight}s range in age and size from … to adults … weighing half a ton.
+  - 3: What is [opposite]{.highlight} the park? &rarr; Text: Crocodylus Park is … ([opposite]{.highlight} the entrance to the Berrimah Police Centre)
+  - 4: Which [bus]{.highlight}es take you [from Casuarina]{.highlight} to the park? &rarr; Text: If taking public transport, catch … the No. 5 or No. 9 [bus from Casuarina]{.highlight}
+  - 5: How much does a [14]{.highlight}-year-old have to pay to get into the park? &rarr; Text: Entry to Crocodylus Park costs $25 each for adults, $12.50 for children aged [4 to 16]{.highlight}, $65 for a family group.
+* Die Teilaufgaben weisen sehr unterschiedliche Schwierigkeitsgrade auf. Bei Teilaufgabe 2, die auf dem Niveau B2.1 liegt und damit die schwerste ist, könnte *half a ton* aufgrund des noch unbekannten Vokabulars möglicherweise nicht als Gewichtsangabe wahrgenommen werden. Der Ausdruck *full-size* könnte von den Lernenden eventuell nicht als Synonym von *adult* wahrgenommen werden. Zur korrekten Beantwortung dieser Teilaufgabe muss zudem der gesamte Ausdruck *adults … weighing half a ton* verstanden werden. Erst dann ist es möglich, auch die alternativ zugelassene Antwort 500 kg zu geben. In Teilaufgabe 3 könnte *opposite* eventuell noch unbekannt sein. Bei Frage 4 kann das Wissen darum helfen, dass *public transport* als Sammelbegriff bus mit einschließt.
+* Frage 4 spricht ausdrücklich von *buses from Casuarina to the park*. Die Schülerinnen und Schüler sollten also beachten, dass es erforderlich ist, beide im Text genannte Buslinien aufzuschreiben, um den Punkt zu erhalten.
+
+# Hinweise zur Bearbeitung
+
+Zur Lösung der Aufgabe können folgende Strategien angewandt werden:
+
+## Vor dem Lesen
+
+* **Vorwissen aktivieren/Leseerwartung aufbauen**: Vor dem Lesen sollten die Schülerinnen und Schüler auf der Grundlage des Titels und der (Zwischen)Überschriften (*Crocodylus Park, Darwin, how to get to, entry prices*) eine Leseerwartung zu Thema und Textsorte aufbauen. Unterstützt von der Zeichnung des Krokodils sollten sie Weltwissen zum Thema „Krokodile“ (z. B. Größe, Gewicht) aktivieren.
+* **Anforderungen der Aufgabe ableiten**: Damit den Schülerinnen und Schüler klar ist, wie sie die Aufgabe bearbeiten müssen, sollten sie zuerst die Aufgabenstellung sehr genau lesen. Es empfiehlt sich, den Text zuerst kurz zu überfliegen und dann die Fragen 1 bis 5 in der Tabelle genau zu lesen, bevor die Fragen beantwortet werden.
+* **Angemessenes Vorgehen zur Lösung der Aufgabe wählen**: Die erforderlichen spezifischen Informationen können durch selektives Lesen des Textes aufgefunden werden. Um die richtige Antwort geben zu können, ist es ausreichend, die entsprechenden Passagen zu überfliegen. So werden die Informationen zu den Fragen 4 und 5 in den beiden letzten Abschnitten genannt. Bei den Fragen 1, 2 und 3 haben die Antworten mehrere obligatorische Bestandteile, z. B. Währungseinheit und Zahl. Diese müssen notiert werden, damit der Punkt vergeben wird.
+
+## Beim Lesen
+
+* **Vorhandene Hilfen als Verstehenshilfe nutzen**: Die Schülerinnen und Schüler sollten die Modelllösung zur Orientierung und als Verständnishilfe heranziehen. Sie illustriert, wie die sprachlich komplexe Frage nach der Angabe eines Zeitraums (*How long does it take?*) durch Nutzen der lexikalischen Überlappung from *Darwin city centre* und Suchen nach einer passenden Angabe im Text beantwortet werden kann.
+* **Auf Signale/ relevante Wortfelder und Zahlangaben fokussieren**: Beim Lesen sollten die Lernenden sich auf die Fragewörter und andere Signale in den Fragen konzentrieren, um die gesuchten Angaben im Text finden zu können (z. B. 1: Größenangabe/Längenmaß: *how long?*; 2: Angabe des Gewichts: *how heavy?*; 3: Ortsname: *what is opposite?*; 4: Zahlen: *which buses?*; 5: Preisangabe: *how much?*). Die Lösung zu 1 ist zum einen durch den einfachen Abgleich der Zahlen möglich (30 cm/ 12 inches sind kleiner als 4.8 metres/16 feet), was die Schlussfolgerung zulässt, dass *hatchlings* ein Synonym für babies sein könnte. Darüber hinaus steht *hatchling* im Gegensatz zu *adults*, könnte also auch lexikalisch erschlossen werden.
+* **Wichtiges von Unwichtigem trennen/Irrelevantes ignorieren**: Informationen, die zur Beantwortung der Fragen irrelevant sind, sollten ignoriert werden (wie z. B. die anderen Tiere im Park, die zusätzlich genannten Busverbindungen oder viele der genannten Eigennamen, z. B. *hawksbill turtle; Darwin, Northern Territory, McMillans Rd., Knuckey Lagoon, Holmes Jungle Nature Reserve, Palmerston*). 
+* **Wortbedeutung erschließen**: Auch wenn nicht alle auf dieser Stufe eventuell unbekannten Wörter wichtig zur korrekten Lösung der Aufgabe sind, könnten die Lernenden versuchen, einige Vokabeln aus dem Kontext zu erschließen (z. B. *hatchling, adult, weight*).
+
+## Nach dem ersten Lesen
+
+* **Antwort genau prüfen**: Nach dem ersten Lesen sollten die Schülerinnen und Schüler ihre Lösungen durch erneutes Nachlesen abgleichen und ggf. korrigieren. Sie sollten darauf achten, dass sie gemäß der Aufgabenstellung in den Antworten ggf. die Bezugsgrößen (s. o.) angeben und dass ihre Antworten auch ansonsten vollständig sind (z. B. zwei Buslinien bei der Teilaufgabe 4).
+ 
+# Weiterarbeit und Förderung
+
+## Bei richtiger Lösung
+
+Wenn diese Aufgabe Schülerinnen und Schülern keine Schwierigkeiten bereitet, ist es denkbar, umfangreichere und/oder schwierigere Texte selektiv zu lesen, die eine Vielzahl spezifischer Informationen enthalten. Diese sollten eine geringere lexikalische Überlappung zwischen den Formulierungen der Aufgabenstellung und der Textgrundlage aufweisen. Geeignete Lesetexte auf einem höheren Niveau sind etwa Sachtexte, z. B. über historische Ereignisse, Umfragen oder Geräte, die eine Schilderung technischer Daten enthalten.
+
+Bei solchen Texten ist die grafische Umwandlung möglich und sinnvoll (in eine Zeitleiste, eine beschriftete Skizze, ein Torten-/Balkendiagramm, usw.). Damit die Schülerinnen und Schüler nicht zu einer detaillierten Lektüre übergehen, sind möglichst enge Zeitvorgaben für die Lektüre und Bearbeitung zu empfehlen.
+
+## Bei falscher Lösung
+
+Falls die Aufgabe Schülerinnen und Schülern Probleme bereitet, sollte mit ihnen besprochen werden, wie sie bei der Bearbeitung vorgegangen sind. Nach der neuerlichen genauen Lektüre der Aufgabenstellung sollten – wie oben beschrieben – die Anforderungen abgeleitet werden, besonders an das zu wählende Leseverhalten. Durch das Bewusstmachen möglicher Bearbeitungsstrategien wird ein Beitrag zur Förderung der Sprachlernbewusstheit geleistet. Die Lernenden könnten selbstständig ein Lesezeichen, ein Lernposter oder eine Checkliste mit Tipps zu den erforderlichen Lesetechniken beim selektiven Lesen anfertigen.
+
+In Übungen können gezielt einzelne Strategien des selektiven Leseverstehens, schwerpunktmäßig Scanning-Techniken, trainiert werden. Dabei könnte etwa an einigen Aufgabenbeispielen exemplarisch geübt werden, wie man die Augen beim Lesen mit dem Finger oder Lineal lenken kann. Als Textgrundlagen bieten sich zum Herausfiltern selektiver Informationen zunächst kürzere, einfachere Lesetexte, wie z. B. Speise- oder Fahrpläne, an. Es ist lernförderlich, wenn die Themen geläufig sind. Eine Übung, die zugleich auch die dictionary skills fördert, wäre, die Lernenden innerhalb eines vorgegebenen Zeitrahmens bestimmte Begriffe aus Nachschlagewerken heraussuchen zu lassen. 
+
+Begriffe und Wendungen, die nicht verstanden werden, können leicht die weniger leistungsstarken Schülerinnen und Schüler irritieren. Diese Angst vor dem Nichtverstehen gilt es abzubauen. Wichtig ist es, dass sie verstehen, dass es beim selektiven Leseverstehen darum geht, einem Text spezifische Informationen zu entnehmen (Zahlen, Daten, (Orts)Namen) und dass dies selbst dann möglich ist, wenn der Text als solcher noch über dem Niveau der Lernenden liegen mag.

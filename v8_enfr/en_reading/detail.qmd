@@ -2,4 +2,122 @@
 title: "VERA-8 Englisch"
 description: Aufgabenbeispiel Detailliertes Leseverstehen
 lang: de
+lightbox: true
 ---
+
+# Aufgabe
+
+:::{.task-header}
+Gymnastics
+
+&copy; IQB
+:::
+
+::: {.grid}
+
+:::{.g-col-xl-5 .g-col-12}
+
+```{=html}
+<table class="task-properties">
+  <tbody>
+    <tr>
+      <td>Thema</td>
+      <td>Sport</td>
+    </tr>
+    <tr>
+      <td>Textsorte</td>
+      <td>Übungsanleitung</td>
+    </tr>
+    <tr>
+      <td>Lesestil</td>
+      <td>detailliert</td>
+    </tr>
+    <tr>
+      <td>Kompetenzstufen</td>
+      <td>
+        Teilaufgabe 1: B1<br/>
+        Teilaufgabe 2: B1<br/>
+        Teilaufgabe 3: B1<br/>
+        Teilaufgabe 4: A2<br/>
+        Teilaufgabe 5: A2<br/>
+        Teilaufgabe 6: A2
+      </td>
+    </tr>
+  </tbody>
+</table>
+```
+:::
+
+:::{.g-col-xl-7 .g-col-12}
+
+![](gymnastics1.jpg){group="task-img"}
+
+:::
+
+:::
+
+## Teilaufgaben 1-6 (Spalten)
+
+![Teilaufgaben mit richtiger Lösung](gymnastics2.jpg){group="task-img"}
+
+# Diagnostisches Potenzial
+
+Schülerinnen und Schüler, die in der Lage sind, diese Aufgabe richtig zu lösen, können die Hauptaussagen einfacher Anleitungen, mit denen sie im Alltag zu tun haben, und klar formulierter Anweisungen, unkomplizierter Anleitungen, Hinweise und Vorschriften verstehen. Das entspricht beim detaillierten Leseverstehen den Niveaus A2 bis B1.
+
+# Beschreibung der Aufgabe
+
+Bei der Aufgabe handelt es sich um eine Zuordnungsaufgabe. Verlangt wird, dass sechs verschiedene kurze Anweisungen zu gymnastischen Übungen entsprechenden Bildern zugeordnet werden. Dabei gibt es ein Bild mehr als zugeordnet werden kann.
+
+Textgrundlage bilden sechs voneinander unabhängige Beschreibungen bzw. Anweisungen, in denen die Aktionen beschrieben werden, die ein Turner beim Körperheben, der Zange, dem Spagat, der Hocke, der Planche und der Kerze ausführt. Der verwendete Themenwortschatz besteht aus geläufigen Verben (z. B. *lie, lift, sit, bend*) und den Körperteilen (z. B. *stomach, legs, back, hips, knees*).
+
+Der Text besteht aus Hauptsätzen, die in wenigen Fällen durch and verbunden sind. Imperative Verbformen dominieren alle sechs Abschnitte, Modalverben kommen nur selten vor. Elliptische Konstruktionen in (1) und (4) und die Verwendung einer Reihe von verschiedenen Präpositionen ermöglichen das Entwickeln einer räumlichen Vorstellung.
+
+Um die Anweisungen korrekt zuordnen zu können, reicht es häufig, sich zunächst mit Hilfe der Bilder zu vergegenwärtigen, welche Körperteile betroffen sind und diese dann im Text wiederzufinden. Im engen Abgleich kann dann in einem zweiten Schritt die genauere Ausführung (was wird mit welchem Körperteil getan?) nachvollzogen werden. Falls die Schülerinnen und Schüler auf Anhieb keine eindeutige Zuordnung vollziehen können, ist ein Ausschlussverfahren bedingt möglich.
+
+# Mögliche Schwierigkeiten
+
+Für Schülerinnen und Schüler der Jahrgangsstufe 8 können folgende Schwierigkeiten auftreten:
+
+* Vokabeln, die den Schülerinnen und Schüler nicht geläufig sind, können das Erfassen der Hauptaussage erschweren (z. B. *stomach, lower back, pike, square, tuck, chest*).
+* Die Aufgabe erhält keine weitere Situierung und muss allein mit dem Verständnis von Bildern und Text gelöst werden.
+* Dadurch, dass ein Bild mehr als Textabschnitte gegeben ist, sind dem Ausschlussverfahren Grenzen gesetzt. Selbstkontrolle funktioniert hier nur bedingt.
+
+# Hinweise zur Bearbeitung
+
+Zur Lösung der Aufgabe können folgende Strategien angewandt werden:
+
+## Vor dem Lesen
+
+* **Leseerwartung aufbauen und Vorwissen aktivieren**: Der Titel *Gymnastics* lässt gemeinsam mit den Bildern den Aufbau einer Leseerwartung und den ersten Aufschluss über die Textsorte (Anweisung, Instruktion) zu. Der themenbezogene Wortschatz sollte aktiviert werden. Die Kommunikationssituation – jemand gibt Anweisungen, die ein Zweiter ausführen soll, – muss erfasst werden.
+* **Anforderungen der Aufgabe ableiten**: Die Aufgabe muss sorgfältig gelesen werden. Es muss erkannt werden, dass es mehr Bilder als Textabschnitte gibt und dass nur bedingt mit dem Ausschlussverfahren gearbeitet werden kann. Schlüsselwörter müssen erkannt und mit den Bildern in Einklang gebracht werden.
+* **Angemessenes Vorgehen wählen**: Nachdem die Aufgabenstellung verstanden wurde, sollten zunächst die Texte den Bildern zugeordnet werden, die problemlos als zusammengehörend zu identifizieren sind. Bereits verwendete Textabschnitte werden zur eigenen Orientierung durchgestrichen. In einem weiteren Schritt werden dann die übrig bleibenden Teile verortet. Abschließend wird noch einmal genau gelesen und die Eintragung in der Tabelle überprüft.
+ 
+## Beim Lesen
+
+* **Scanning-Techniken anwenden**: Beim überfliegenden Lesen werden die Wörter gesucht und in Beziehung gesetzt, die im zu suchenden Bild wiedergefunden werden müssen.
+* **Gegebenenfalls Erfahrungen/Weltwissen nutzen**: Schülerinnen und Schüler können gegebenenfalls ihre Erfahrungen aus dem Sport nutzen, um die Bewegungen zu erkennen und dann sprachlich beim Lesen zu nutzen.
+* **Auf Schlüsselbegriffe konzentrieren**: Zentrale Begriffe, nämlich die Benennung der verschiedenen Körperteile, die dazugehörenden Verben und die verwendeten Präpositionen erfordern das Verständnis eines mäßig komplexen Sachverhalts.
+* **Funktion von Sätzen erkennen**: Die lineare Aneinanderreihung der Sätze steht im Gegensatz zu der statischen Abbildung, mit der ein Zustand beschrieben wird.
+* **Bei Verständnisschwierigkeiten weiterlesen/Wortbedeutungen erschließen**: Wenn Schülerinnen und Schüler Probleme beim Verstehen einzelner Vokabeln haben, sollten sie Verstehensinseln nutzen, um bei gleichzeitiger Zuhilfenahme der Bilder Wortbedeutungen zu erschließen.
+
+# Weiterarbeit und Förderung
+
+## Bei richtiger Lösung
+
+Weiterführend können umfangreichere und/oder schwierigere, auch literarische Texte detailliert gelesen werden. Dabei sollte dem Schlussfolgern ein höherer Stellenwert zukommen. Hier können z. B. Fragen gestellt werden, die auf implizit ausgedrückten Gehalt abzielen.
+
+Eine Technik, die sich bewährt hat, um das Erfassen von Hauptaussagen zu üben, ist das Formulieren von Zwischenüberschriften oder Fragen zu einzelnen Abschnitten eines längeren Textes. Sehr motivierend ist auch die Aufbereitung von Texten mit detaillierten Informationen zu einem komplexeren Thema als Internetseite mit Hyperlinks. Dabei fassen einzelne Begriffe oder Überschriften die zentralen Punkte zusammen. Diese können angeklickt werden, damit weitere Textpassagen mit umfangreicheren Informationen zu den jeweiligen Punkten erscheinen.
+
+Bei anspruchsvolleren Texten ist es auch wichtig, dass Schülerinnen und Schüler in der Lage sind, die gegebenen Informationen z. B. in Form einer Mindmap, Skizze oder eines Strukturdiagramms zu gliedern. Zu einem literarischen Text können sie ein Storyboard erstellen, in dem sie einzelne Szenen skizzieren und mit zentralen Aussagen beschriften. Eine höhere Anforderung an das Schlussfolgern stellt das Erstellen eines Steckbriefes zu den Hauptfiguren dar, insbesondere dann, wenn diese im Text nur indirekt charakterisiert werden. Zentrale Informationen können auch visualisiert werden, z. B. Aussagen zu bestimmten Personen, Problemen, Pro- oder Kontra-Argumente usw. Anknüpfend an das detaillierte Lesen sollten dann im Unterricht weitere Lernaufgaben folgen, die auch andere Kompetenzbereiche berücksichtigen.
+
+## Bei falscher Lösung
+
+Sind Schülerinnen und Schüler nicht in der Lage, die Aufgabe zu lösen, sollten sie zunächst erläutern, wie sie bei der Bearbeitung vorgegangen sind. Anschließend sollten, ausgehend von der gemeinsamen genauen Lektüre der Aufgabenstellung, die Anforderungen der Aufgabe geklärt werden. Ein möglicher Weg wurde bereits oben bei der Erläuterung der Strategien dargestellt. Die Schülerinnen und Schüler können auf dieser Grundlage auch ein Lesezeichen, eine Checkliste oder ein Lernposter mit Tipps zum detaillierten Lesen anfertigen.
+
+In Übungen können gezielt einzelne Strategien trainiert werden. Als weitere Textgrundlagen bieten sich auf diesem Niveau andere konkrete, eher kürzere, einfachere Texte zu bekannten Themen an. Damit die textsortenspezifischen Merkmale zum Aufbau einer Leseerwartung genutzt werden können, sollten diese an unterschiedlichen Texten herausgearbeitet werden. Dabei kann man sich z. B. an folgenden Leitfragen orientieren: Welche Funktion hat der Text? An wen richtet er sich? Wie ist er aufgebaut? Wie unterstützt das Layout (Illustrationen, Überschrift, Zwischen-Überschriften, Fettdruck, usw.) das Verstehen? Wo finde ich welche Informationen? Die Antworten können in tabellarischen Übersichten, die sukzessive ergänzt werden, festgehalten werden.
+
+Vor dem Lesen könnte außerdem ausgehend von der Überschrift über den möglichen Inhalt spekuliert werden. Die Lernenden könnten in kooperativen Arbeitsformen (z. B. reziprokes Lesen) weitere Anleitungen oder auch Warnhinweise in Form von Bildern und Sprache zueinander in Beziehung setzen.
+
+Die Arbeit mit Schlüsselbegriffen kann geübt werden, indem z. B. eine Schülergruppe sieben Schlüsselbegriffe eines Textes notiert, der einer anderen Gruppe noch unbekannt ist. Diese Gruppe formuliert dann Inhalte, die sie auf Grundlage der Begriffe erwartet. Diese Übung ist auch als arbeitsteilige Hausaufgabe denkbar, die zur Vorbereitung der Lektüre neuer Texte dient.
+
+Um das Verstehen der Hauptaussagen eines Textes zu üben, können Skizzen zu Texten erstellt werden, z. B. zu Beschreibungen von Personen, Räumen oder Landschaften in literarischen Texten oder zu Gebrauchs- oder Spielanleitungen.
