@@ -23,8 +23,11 @@ Die den VERA-8-Arbeiten zugrundeliegenden Bildungsstandards beziehen sich auf di
 
 Lesen Sie weiter:
 
-* [Hörverstehen](listening.qmd)
-* [Leseverstehen](reading.qmd)
+* [Kompetenzmodell](standards.qmd): Gemeinsamer Europäischer Referenzrahmen, Kompetenzmodell entspr. Bildungsstandards.
+* [Hörverstehen](listening.qmd): Ausführliche Erläuterungen zum Kompetenzbereich Hörverstehen. Je drei Beispielaufgaben für Englisch und Französisch.
+* [Leseverstehen](reading.qmd): Ausführliche Erläuterungen zum Kompetenzbereich Leseverstehen. Je drei Beispielaufgaben für Englisch und Französisch.
+* [Material für den Unterricht](material/index.qmd): Lernaufgaben und Übungen sprachübergreifend.
+* [Literatur](literature.qmd): Hinweise auf weiterführende Beiträge und Monographien.
 
 ::: {.callout-note}
 ## Weiterentwicklung der Bildungsstandards
@@ -34,7 +37,9 @@ Lesen Sie weiter:
 
 # Autor*innen
 
-An den Texten dieses Kapitels haben folgende Personen mitgewirkt:
+An den Texten dieses Kapitels haben im Auftrag des IQB folgende Personen mitgewirkt:
 
 * **Englisch**: Lisa Marie Dillmann, Viktoria Anna Krämer, Prof. Dr. Henning Rossa, Daniel Mischa Helsper und Dr. Karoline Wirbatz
 * **Französisch**: Prof. Dr. Hélène Martinez, Dr. Sophie Engelen und Maïa Roueire-Klitzke
+
+Die abschließende Redaktion lag in den Händen des IQB.
