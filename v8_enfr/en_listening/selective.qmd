@@ -1,5 +1,123 @@
 ---
 title: "VERA-8 Englisch"
 description: Aufgabenbeispiel Selektives Hörverstehen
+lightbox: true
 lang: de
 ---
+
+# Aufgabe
+
+:::{.task-header}
+Emergency.
+
+&copy; IQB
+:::
+
+::: {.grid}
+
+:::{.g-col-xl-5 .g-col-12}
+
+```{=html}
+<table class="task-properties">
+  <tbody>
+    <tr>
+      <td>Thema</td>
+      <td>Tägliches Leben</td>
+    </tr>
+    <tr>
+      <td>Textsorte</td>
+      <td>Telefongespräch</td>
+    </tr>
+    <tr>
+      <td>Hörstil</td>
+      <td>selektiv</td>
+    </tr>
+    <tr>
+      <td>Kompetenzstufen</td>
+      <td>
+        Teilaufgabe 1: A2<br/>
+        Teilaufgabe 2: A2
+      </td>
+    </tr>
+    <tr>
+      <td>Richtige Lösungen</td>
+      <td>Unterschiedliche Schreibweisen der gesuchten Zahlen (Ziffer oder ausgeschrieben) werden akzeptiert.<br/>
+&bull; Teilaufgabe 1: 2/two (cars)<br/>
+&bull; Teilaufgabe 2: 4/four (people) (are involved)
+      </td>
+    </tr>
+  </tbody>
+</table>
+```
+:::
+
+:::{.g-col-xl-7 .g-col-12}
+
+<audio controls src="emergency.mp3"></audio>
+![](emergency1.jpg)
+![](emergency2.jpg)
+:::
+
+:::
+
+# Diagnostisches Potenzial
+
+Die Aufgabe Emergency überprüft selektives Hörverstehen auf dem Niveau A2. Schülerinnen und Schüler, die diese Aufgabe richtig lösen, können konkrete, voraussagbare Informationen in kurzen, leicht verständlichen Aufnahmen von Mitteilungen über alltägliche Angelegenheiten verstehen. Hier können sie zeigen, dass sie einem einfachen Telefonat mit vorhersehbaren Inhalten bestimmte, explizit gegebene Informationen entnehmen können (z. B. Orts- oder Zahlangaben), sofern in klar artikulierter Standardsprache gesprochen wird.
+
+# Beschreibung der Aufgabe
+
+Textgrundlage ist ein Notruf: Der Anrufer informiert den Rettungsdienst über einen Autounfall auf dem Highway 1, in den vier Personen und zwei Wagen verwickelt sind. Das Thema „Unfall“ ist zwar konkret, gehört aber nicht unbedingt zum Erfahrungsbereich der Schülerinnen und Schüler bzw. könnte negativ besetzt sein. Der Wortschatz, den der Anrufer und die Mitarbeiterin der Notrufzentrale verwenden, dürfte den Achtklässlerinnen und -klässlern bereits geläufig sein, die Strukturen sind weitgehend einfach.
+
+Während des Hörens beantworten die Schülerinnen und Schüler zwei Fragen zum Inhalt des Telefongesprächs. Dazu müssen sie Angaben zur Zahl der beteiligten Fahrzeuge und Personen erfassen und notieren (1: two cars, 2: four people). Die hohe Überlappung von Hörtext und Frage (cars und people) lenkt die Aufmerksamkeit der Lernenden auf die relevante Passage.
+
+Der Hörtext wird nur einmal präsentiert. Dies könnte für diejenigen Schülerinnen und Schüler eine Schwierigkeit darstellen, die dieses Vorgehen nicht gewöhnt sind.
+
+# Mögliche Schwierigkeiten
+
+Die Aufgabe könnte in verschiedener Hinsicht Schwierigkeiten bereiten:
+
+* Der Text weist eine hohe Informationsdichte auf. Redundanzen fehlen, sodass sehr genau zugehört werden muss. Hinzu kommt, dass es sich um ein kurzes Gespräch zwischen einem Sprecher und einer Sprecherin handelt, die beide relativ schnell reden. Der Anrufer redet mit einem amerikanischen Akzent; er ist emotional aufgewühlt. Die Frau hat einen ungewohnten, stark lateinamerikanisch geprägten Akzent. 
+* Die besondere Herausforderung der Aufgabe liegt darin, dass die beiden gesuchten Informationen in einer einzigen Äußerung genannt werden. Auf die Frage der Frau *How many cars are involved in the accident?* antwortet der Anrufer … *it’s only two cars and four people*. Da das Telefongespräch „in Echtzeit“ verläuft und nicht wiederholt wird, müssen die Schülerinnen und Schüler alles auf einmal erfassen. Dies stellt einen recht hohen Anspruch an ihre Konzentrations- und Merkfähigkeit. Entschärft wird diese Schwierigkeit jedoch dadurch, dass sie sich wegen des vorhersagbaren Ablaufs des Notrufs allein auf die Fragen und deren Antworten konzentrieren können.
+
+# Hinweise zur Bearbeitung
+
+Zur Lösung der Aufgabe können unterschiedliche Strategien angewandt werden, die sinnvoll miteinander verknüpft werden müssen. 
+
+## Vor dem Hören
+
+* **Vorwissen aktivieren/ Hörerwartung aufbauen**: Die Schülerinnen und Schüler sollten zum Aufbau einer Hörerwartung die Überschrift und die Aufgabenstellung genau lesen und die Schlüsselwörter markieren (*emergency call*). Ihre vorläufige Hörerwartung sollte durch Lesen und Markieren der Schlüsselbegriffe der Fragen konkretisiert werden. Der themenbezogene Wortschatz zum Thema „Unfall“ bzw. „Notruf“ sollte aktiviert werden (z. B. *accident, help*).
+* **Anforderungen der Aufgabe ableiten**: Damit den Schülerinnen und Schüler der achten Klasse klar ist, wie sie die Aufgabe bearbeiten müssen, sollten sie vor dem Hören auf die Hinweise in der Aufgabenstellung und in den beiden Fragen achten. Die Frage *how many?* weist auf die Art der gesuchten spezifischen Informationen hin (Zahlangaben). Die Fortführung der Fragen (... *cars involved* bzw. *people involved*) gibt weitere Anhaltspunkte. Die gehörten Zahlen können so den Fragen in der richtigen Reihenfolge zugeordnet werden. Die Übereinstimmung der Frage *How many cars …?* im Hörtext und in der Aufgabe hat Signalwirkung und stützt so den Hörprozess.
+* **Gesprächssituation erfassen**: Die Überschrift (*emergency*) und die Aufgabenstellung (*emergency call*) schaffen eine situative Einbettung der Aufgabe und geben einen Hinweis auf das Thema.
+
+## Beim Hören
+
+* **Angemessenes Vorgehen für die Bearbeitung wählen**: Die Antworten sollten während des Hörens notiert und nach dem Hören vervollständigt bzw. ggf. korrigiert werden. 
+* **Überprüfen der Hörerwartung**: Die Hörerwartung kann durch die Eröffnung des Gesprächs durch die Frau (*911 emergency, how may I help you?*) konkretisiert werden.
+* **Auf Schlüsselbegriffe sowie dazugehörige Oberbegriffe, Synonyme und relevante Wortfelder konzentrieren**: Wenn die Schülerinnen und Schüler Schlüsselbegriffe in der Aufgabe markieren, können sie diese während des Hörens als Signalwörter zum Auffinden der passenden, explizit genannten spezifischen Informationen im Text nutzen. Die Musterlösung kann zur Orientierung und als Verständnishilfe dienen:
+
+  * 0: [Where … person … all]{.highlight}? &rarr; Text: Hi, I’m [on highway 1, exit 5, mile marker 26]{.highlight}. 
+  * 1: [How many cars]{.highlight} are involved in the [accident]{.highlight}? &rarr; Text: [How many cars]{.highlight} are involved in the [accident]{.highlight}? - … it’s only [two cars]{.highlight} and four people.
+  * 2: [How many people]{.highlight} are involved in the [accident]{.highlight}? &rarr; Text: [How many cars]{.highlight} are involved in the [accident]{.highlight}? - … it’s only two cars and [four people]{.highlight}.
+
+* **Aufmerksamkeit auf Zahlangaben fokussieren**: Zur Lösung der beiden Fragen muss die Aufmerksamkeit auf die Nennung der Zahlen (two, four) fokussiert werden. Hier ist genaues Zuhören und Konzentration auf den Kontext (s. o.) hilfreich, um die Zahlen notieren zu können. Zur korrekten Beantwortung reicht es aus, wenn die Schülerinnen und Schüler anstelle der Zahlwörter die Ziffern notieren.
+* **Wortbedeutungen ableiten/ schlussfolgern**: Im Hörtext werden auf dieser Stufe eventuell noch einige wenige unbekannte Begriffe verwendet. Beim Heraushören spezifischer Informationen kommt es aber nicht darauf an, dass jedes Detail verstanden wird. 
+
+## Nach dem Hören
+
+* **Antwort genau prüfen**: Nach dem Ende der Aufnahme haben die Schülerinnen und Schüler 15 Sekunden Zeit, um ihre Antworten zu vervollständigen oder zu verbessern. 
+
+# Weiterarbeit und Förderung
+
+## Bei richtiger Lösung
+
+Bereitet die Bearbeitung der Aufgabe keine Probleme, so können im Weiteren komplexere und/oder umfangreichere Hörtexte mit schnellerer Sprechgeschwindigkeit eingesetzt werden, um das selektive Hörverstehen zu schulen. Dazu bieten sich in besonderer Weise Fachtexte an, die viele spezifische Informationen (Ortsangaben, Namen, Daten, Mengen) enthalten. Dies können z. B. Beschreibungen von technischen Geräten sein, ebenso wie Berichte über geschichtliche Ereignisse oder über Umfragen. Die Aufgaben sollten eine geringere Überlappung zwischen den Formulierungen der Aufgabenstellungen und dem Hörtext aufweisen.
+
+## Bei falscher Lösung
+
+Sind Schülerinnen und Schüler nicht in der Lage, die Aufgabe zu lösen, sollten sie zunächst Gelegenheit haben zu erläutern, wie sie bei der Bearbeitung vorgegangen sind. Dann sollte gemeinsam die Aufgabenstellung genau gelesen werden, um davon ausgehend – wie oben beschrieben – die Anforderungen abzuleiten. Dabei sollten unterschiedliche Lösungswege und die Möglichkeit der Kombination verschiedener Strategien berücksichtigt werden. Durch das Bewusstmachen möglicher Bearbeitungsstrategien wird ein Beitrag zur Förderung der Sprachlernbewusstheit geleistet. Die Schülerinnen und Schüler können auf dieser Grundlage etwa selbst eine Checkliste oder ein Lernposter mit Tipps zum selektiven Hören anfertigen.
+
+Es ist auch möglich, einzelne Strategien gezielt zu trainieren. Auf vergleichbarem Niveau eignen sich dazu kürzere, einfachere Hörtexte als Textgrundlage zu bekannten Themen, z. B. klar strukturierte Ansagen. Es ist lernförderlich, wenn diese Themen so geläufig sind, dass bereits wichtige Schlüsselwörter als bekannt vorausgesetzt werden können.
+
+Darüber hinaus sollte der Aufbau einer Hörerwartung über den Inhalt des Hörtextes gezielt geschult werden. Es sollte exemplarisch an einigen Aufgabenbeispielen geklärt werden, wie der Zugang zum Textverständnis, auch unter Rückgriff auf Vorwissen, erleichtert werden kann (Nutzen von Signalwörtern, Fokussieren auf Namen und Zahlen, Ausblenden irrelevanter Informationen; Wissen über die Struktur informativer Texte).
+
+Bezogen auf die Textsorte *emergency call* könnten sich die Lernenden zu wesentlichen Elementen und zur typischen Struktur solcher Anrufe austauschen und z. B. mögliche Fragen formulieren. Die Besprechung der Lösungen sollte in eine erneute Reflexionsphase münden, in der der Nutzen bestimmter Strategien besprochen wird.

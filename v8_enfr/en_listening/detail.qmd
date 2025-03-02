@@ -1,5 +1,134 @@
 ---
 title: "VERA-8 Englisch"
 description: Aufgabenbeispiel Detailliertes Hörverstehen
+lightbox: true
 lang: de
 ---
+
+# Aufgabe
+
+:::{.task-header}
+Emergency.
+
+&copy; IQB
+:::
+
+::: {.grid}
+
+:::{.g-col-xl-5 .g-col-12}
+
+```{=html}
+<table class="task-properties">
+  <tbody>
+    <tr>
+      <td>Thema</td>
+      <td>Schule/Sport</td>
+    </tr>
+    <tr>
+      <td>Textsorte</td>
+      <td>Aufruf</td>
+    </tr>
+    <tr>
+      <td>Hörstil</td>
+      <td>detailliert</td>
+    </tr>
+    <tr>
+      <td>Kompetenzstufen</td>
+      <td>
+        Teilaufgabe 1: B1<br/>
+        Teilaufgabe 2: B1<br/>
+        Teilaufgabe 3: B2
+      </td>
+    </tr>
+    <tr>
+      <td>Richtige Lösungen</td>
+      <td>Siehe Liste unten.</td>
+    </tr>
+  </tbody>
+</table>
+```
+:::
+
+:::{.g-col-xl-7 .g-col-12}
+
+<audio controls src="new-gym.mp3"></audio>
+![](new-gym1.jpg)
+![](new-gym2.jpg)
+
+:::
+
+:::
+
+# Richtige Lösungen
+
+Auch alle Antworten, die grammatikalisch oder orthografisch nicht korrekt sind, aber den Sinn erkennen lassen, werden akzeptiert.
+
+* **Teilaufgabe 1**: Eine zu (0) unterschiedliche Antwort wird genannt: disgusting, (too) small, tiny, falling apart, not enough space to change
+* **Teilaufgabe 2**: Eine der folgenden Alternativen wird genannt: big(ger), outside place
+* **Teilaufgabe 3**: Zwei der folgenden Alternativen werden genannt (müssen unterschiedlich sein): take pictures, document the situation, hang up pictures, gather/collect signatures (for principal), involve/contact/ tell parents, involve/contact TV station, involve/contact local newspaper, inform people
+
+# Diagnostisches Potenzial
+
+In der Aufgabe New Gym wird detailliertes Hörverstehen auf den Niveaus B1/B2 überprüft. Schülerinnen und Schüler, die diese Aufgabe richtig lösen, können im Allgemeinen den Hauptpunkten von längeren Gesprächen folgen, die in ihrer Gegenwart geführt werden (B1). Sie sind in der Lage, einfache, sachliche Informationen über die geläufigen Themen des Alltags- und Berufslebens zu verstehen und sowohl allgemeine Aussagen als auch spezifische Details zu erkennen, sofern deutlich und mit geläufigem Akzent gesprochen wird. Darüber hinaus können sie meist den Informationsgehalt aufgezeichneten oder übertragenen Tonmaterials verstehen, vorausgesetzt, es handelt sich um geläufige Themen und es wird relativ langsam und deutlich gesprochen.
+
+# Beschreibung der Aufgabe
+
+Gegenstand dieses Hörtextes ist der Aufruf einer Schülerin, die sich als Klassensprecherin vor Schülerinnen und Schüler darüber beschwert, dass die Sporthalle der Schule in einem schlechten Zustand sei. Sie beklagt den ekelerregenden Zustand der Halle, die auch noch viel zu klein sei. Sie macht Vorschläge, wie die Schülerschaft aktiv werden könnte: durch das Sammeln von Unterschriften, den Besuch eines Fernsehsenders oder die Beteiligung der Eltern. Abschließend fordert sie die Schülerinnen und Schüler zur Mithilfe auf und erbittet weitere Vorschläge, wie man dabei vorgehen könnte.
+
+Die Sprecherin spricht mit einem leichten britischen Akzent und in gemäßigtem Tempo. Sie wirkt dabei aufgeregt und zeigt in ihrer Rede typische Merkmale mündlicher Sprache. Ihre Sätze sind meist kurz und von einfacher Struktur, das Verständnis wird durch einige Redundanzen erleichtert.
+
+Die Schülerinnen und Schüler bearbeiten während des Hörens den Notizzettel der Aufgabenstellung und füllen, gelenkt durch die Einträge, die Lücken mit bis zu fünf einzelnen Wörtern aus. Formulierungen des Hörtextes dürfen übernommen werden. Fehler in der Orthografie oder Grammatik, die das Verständnis nicht verhindern, werden nicht berücksichtigt.
+
+* Wiederholungen/Redundanzen nutzen: Die Sprecherin benutzt verschiedene Ausdrücke, um den Zustand der Sporthalle zu beschreiben:
+  - *tiny – too small – no space to change*
+  - *disgusting – despicable – falling apart*
+
+Diese sollten von Schülerinnen und Schüler zum Verständnis bzw. zur Verständnissicherung genutzt werden.
+
+# Mögliche Schwierigkeiten
+
+Die Aufgabe könnte in verschiedenen Bereichen Schwierigkeiten bereiten:
+
+* Die Bearbeitung erfordert das gezielte Erfassen der verschiedenen Details, welche die Sprecherin zu den derzeitigen Problemen mit der alten Sporthalle nennt, zu den Ideen, die zur Verbesserung der Situation genannt werden und zu den Möglichkeiten, welche die Schülerinnen und Schüler zur Lösung des Problems haben. Dabei müssen für die abschließende Frage zwei Dinge genannt werden, damit die Teilaufgabe als richtig bewertet wird. Damit ist die letzte Teilaufgabe schwieriger als die beiden ersten. 
+* Es werden einige Wörter gebraucht, die den Schülerinnen und Schüler evtl. nicht geläufig sind bzw. missverstanden werden: z. B. *disgusting, despicable, principal*.
+* Die Sprechgeschwindigkeit ist authentisch und könnte somit zu Problemen führen.
+
+# Hinweise zur Bearbeitung
+
+Zur Lösung der Aufgabe können unterschiedliche Strategien angewandt werden, die sinnvoll miteinander verknüpft werden müssen.
+
+## Vor dem Hören
+
+* **Vorwissen aktivieren/Hörerwartung aufbauen**: Durch genaues Lesen der Überschrift, der Instruktion und des vorgegebenen Notizzettels können die Schülerinnen und Schüler bereits einige Hinweise auf das Thema und die Textsorte bekommen.
+* **Anforderungen der Aufgabe ableiten**: Zunächst muss der Hörauftrag mit allen Informationen sorgfältig gelesen werden. Dazu gehören auch die Vorgaben auf dem Notizzettel, die Hinweise darauf geben, auf welche Informationen im Text zu achten sein wird. Die Wörter *problems, ideas* und *pupils can do* sollten als Signalwörter genutzt werden, um die gewünschten Informationen im Hörtext wiederzuerkennen. Dazu muss auch der themenbezogene Wortschatz im Zusammenhang mit der veralteten und kleinen Sporthalle aktiviert werden.
+
+## Beim Hören
+
+* **Gesprächssituation erfassen**: Die Überschrift und die Aufgabenstellung ermöglichen eine situative Einbettung der Aufgabe. In der Einleitung werden weitere Informationen gegeben, welche die Gesprächssituation und das Thema umreißen (*Ok – hi guys, I've just come from a student council meeting, and we really need to talk. We need to talk about the gym hall.* Mit diesen Angaben können Schülerinnen und Schüler ihre Hörerwartung konkretisieren. 
+* **Auf Schlüsselbegriffe achten sowie auf dazugehörige Oberbegriffe, Synonyme und relevante Wortfelder konzentrieren**: In den vorgegebenen Einträgen des Notizzettels sollten die Schlüsselbegriffe markiert werden. Sie können dann beim Hören als Signalwörter genutzt werden, da sie auf die gesuchten Informationen hinweisen:
+
+  * **Problems** &rarr; Text: *disgusting, small, tiny, falling apart, not enough space to change*
+  * **Idea** &rarr; Text: *big(ger), outside place*
+  * **can do** &rarr; Text: *take pictures, document the situation, hang up pictures, gather/collect signatures (for principal), involve/contact/tell parents, involve/contact TV station, involve/contact local newspaper, inform people*
+
+Beim zweiten Hören haben die Schülerinnen und Schüler Gelegenheit, ihre Antworten zu überprüfen und ggf. zu korrigieren und ergänzen.
+
+# Weiterarbeit und Förderung
+
+## Bei richtiger Lösung
+
+Umfangreichere und/ oder schwierigere Texte können als Grundlage für die Weiterentwicklung des detaillierten Hörverstehens genutzt werden. Dabei sollte auch der Anforderung ans Schlussfolgern/Inferieren ein höherer Stellenwert zukommen. Hier sind z. B. Fragen sinnvoll, die auf implizit ausgedrückte Meinungen, Haltungen oder Emotionen abzielen. 
+Um das Erfassen der Hauptaussagen zu üben, können Zwischenüberschriften oder Fragen zu einzelnen Abschnitten eines längeren Textes formuliert werden. Bei anspruchsvolleren Texten ist es auch wichtig, dass die Schülerinnen und Schüler in der Lage sind, die gegebenen Informationen z. B. in Form einer Mindmap, Skizze oder eines Strukturdiagramms zu visualisieren und damit zu strukturieren.
+
+## Bei falscher Lösung
+
+Sind Schülerinnen und Schüler nicht in der Lage, die Aufgabe New Gym zu lösen, sollten sie zunächst erläutern, wie sie bei der Bearbeitung vorgegangen sind. Anschließend sollten dann, ausgehend von der gemeinsamen genauen Lektüre der Aufgabenstellung, die Anforderungen der Aufgabe geklärt werden. Dabei sollten unterschiedliche Lösungswege und die Möglichkeit der Kombination verschiedener Strategien berücksichtigt werden. Die Schülerinnen und Schüler können auf dieser Grundlage etwa eine Checkliste oder ein Lernposter mit Tipps zum detaillierten Hören anfertigen.
+
+In Übungen können gezielt einzelne Strategien trainiert werden. Als weitere Textgrundlage bieten sich auf diesem Niveau andere konkrete, eher kürzere, einfachere Texte zu bekannten Themen  wie zu Reden des täglichen Lebens oder auch zu interkulturellen Aspekten an, in denen appellative Texte genutzt werden.
+
+Vor dem Hören könnte außerdem über den möglichen Inhalt von Beiträgen einer Vorstellungsrunde gemeinsam spekuliert werden, indem die Lernenden sich selbst einer fiktiven Partnerinnen- und Partnergruppe vorstellen. Danach können dann die Äußerungen der Schülerinnen und Schüler mit der Textvorlage der Aufgabe verglichen werden. 
+
+Die Arbeit mit Schlüsselbegriffen kann geübt werden, indem z. B. eine Gruppe von Schülerinnen und Schülern sieben Schlüsselbegriffe eines Hörtextes notiert, der einer anderen Gruppe noch unbekannt ist. Diese Gruppe formuliert dann Inhalte, die sie auf Grundlage der Begriffe erwartet.
+
+Der Umgang mit unbekanntem Vokabular sollte thematisiert werden, indem ausgehend von Verstehensinseln die Bedeutung größerer Sinneinheiten ermöglicht wird.
+Um das Verstehen der Hauptaussagen eines Textes zu üben, können Skizzen zu Texten erstellt werden, z. B. zu kurzen Statements zu Themen aus der Lebenswelt der Schülerinnen und Schüler.

@@ -1,5 +1,122 @@
 ---
 title: "VERA-8 Englisch"
 description: Aufgabenbeispiel Globales Hörverstehen
+lightbox: true
 lang: de
 ---
+
+# Aufgabe
+
+:::{.task-header}
+India.
+
+&copy; IQB
+:::
+
+::: {.grid}
+
+:::{.g-col-xl-5 .g-col-12}
+
+```{=html}
+<table class="task-properties">
+  <tbody>
+    <tr>
+      <td>Thema</td>
+      <td>Freizeit</td>
+    </tr>
+    <tr>
+      <td>Textsorte</td>
+      <td>Radioprogramm</td>
+    </tr>
+    <tr>
+      <td>Hörstil</td>
+      <td>global</td>
+    </tr>
+    <tr>
+      <td>Kompetenzstufe</td>
+      <td>B2</td>
+    </tr>
+    <tr>
+      <td>Richtige Lösung</td>
+      <td>nur das 3. Kästchen wurde angekreuzt c).</td>
+    </tr>
+  </tbody>
+</table>
+```
+:::
+
+:::{.g-col-xl-7 .g-col-12}
+
+<audio controls src="india.mp3"></audio>
+![](india1.jpg)
+![](india2.jpg)
+:::
+
+:::
+
+# Diagnostisches Potenzial
+
+Schülerinnen und Schüler, die diese Aufgabe richtig lösen, können Dokumentarsendungen in Standardsprache verstehen. Das entspricht im Bereich des globalen Hörverstehens dem Niveau B2.
+
+# Beschreibung der Aufgabe
+
+Die Aufgabe ist eine Multiple Choice-Aufgabe bzw. Aufgabe mit Mehrfachauswahl. Es geht darum, aus vier Antwortmöglichkeiten die geeignetste Überschrift für diesen Radiobeitrag auszuwählen. Die richtige Antwort c) gibt die zentrale Aussage des Hörtextes wieder.
+
+Textgrundlage ist ein authentischer Radiobeitrag von *Discovery Now*, einem täglich ausgestrahlten 90-Sekunden-Programm des *National Institute of Aerospace*, das besondere Themen aus dem Bereich der Luft- und Raumfahrt aufgreift. In dem vorlie¬genden Bericht geht es um den Bau des Space World India, einem weltraumbezogenen Vergnügungspark in der indischen Stadt Pune. 
+
+Das Thema „Freizeitpark“ ist den Schülerinnen und Schülern vertraut. Die Strukturen sind überwiegend einfach, es gibt wenige komplexere Satzgefüge. Der verwendete Wortschatz ist relativ komplex; einige der verwendeten Begriffe dürften auf dieser Stufe noch unbekannt sein. Voraussetzung für die erfolgreiche Bearbeitung der Aufgabe ist, dass die in den Antwort-möglichkeiten verwendete Lexik verstanden bzw. erschlossen wird. Dazu zählen besonders die Wörter und Ausdrücke *space exploration, development, entertainment industry, hi-tech centre, education, entertainment, applying to*.
+
+Der Text ist mit einer Länge von einer Minute und zwölf Sekunden recht kurz und hat eine hohe Informationsdichte mit sehr wenigen Redundanzen. Die Journalistin spricht mit amerikanischem Akzent; sie redet gut verständlich und in einem normalen Sprechtempo. Am Anfang und am Ende ist die Aufnahme mit Hintergrundmusik unterlegt. 
+
+# Mögliche Schwierigkeiten
+
+Die Aufgabe könnte in verschiedener Hinsicht Schwierigkeiten bereiten: 
+* Zu Beginn und Ende des Hörtextes gibt es kurze Wechsel von Sprecher zu Sprecherin (durch die beiden von einem Mann gesprochenen Sätze *This is Discovery Now with Jennifer Pauley*. / *Discovery Now is written and produced* …). Diese Wechsel von Sprecher zu Sprecherin müssen die Schülerinnen und Schüler erfassen, um besonders zu Beginn die Sprecherinnenrolle von Jennifer Pauley richtig einordnen zu können.
+* Mit Blick auf den Wortschatz könnte der Ortsname *Pune* in der Antwortmöglichkeit d) problematisch sein. Er ist den Lernenden dieser Altersstufe mit hoher Wahrscheinlichkeit wenig geläufig und könnte sie verunsichern.
+* Die Formulierungen der Antwortmöglichkeiten liegen nah beieinander und überschneiden sich teilweise. Die Aufmerksamkeit wird beim Hören zunächst auf die falschen Vorschläge gelenkt: anfangs scheint a) (*space exploration*) in Frage zu kommen. Beim weiteren Hören könnte dann b) (*amusement centre, entertaining way*) bzw. gegen Ende des Beitrags schließlich auch d) (*educational institutes*) als Lösung zutreffen. Das Konzentrationsvermögen der Schülerinnen und Schüler sowie ihre Fähigkeit, Wichtiges von Unwichtigem zu unterscheiden, sind auch durch die Aufzählung im mittleren Teil des Berichts stark gefordert.
+
+# Hinweise zur Bearbeitung 
+
+Zur Lösung der Aufgabe können unterschiedliche Strategien angewandt werden, die sinnvoll miteinander verknüpft werden müssen. 
+
+## Vor dem Hören
+
+* **Hörerwartung aufbauen/ Wortschatz und Vorkenntnisse aktivieren**: Zunächst sollten die Überschrift (*India*) und Aufgabenstellung (*Listen to a radio programme about India*) genau gelesen werden. An beiden Stellen erhalten die Schülerinnen und Schülererste Informationen über das Thema des Hörtextes. Ausgehend von ihrem Bild Indiens können sie überlegen, was sie vom Inhalt erwarten. Auch die Formulierungen der Antwortmöglichkeiten könnten zur Antizipation des Inhalts herangezogen werden: a) *plans for space exploration and travelling to the moon*, b) *development of entertainment industry*, c) *building a hi-tech centre for education and entertainment*, d) *educational institutes*. Wenn sie diese Schlüsselbegriffe vor dem Hören markieren und entsprechendes Vorwissen aktivieren, sind sie auf diese Informationen eingestellt und das Verständnis wird ihnen leichter fallen. Die Schlüsselwörter können mit den Informationen des Hörtextes in Beziehung gesetzt und auf ihre Richtigkeit hin überprüft werden.
+* **Anforderungen der Aufgabe ableiten**: Wichtig ist, dass vor dem Hören eindeutig ist, was die Aufgabe verlangt. Hier wird gefordert, dass die richtige Antwort angekreuzt werden soll. Das bedeutet, dass es vollkommen ausreicht, wenn die Hauptaussage identifiziert wird. Nicht jedes Detail der Beschreibung im Hörtext muss also verstanden werden. 
+ 
+## Beim Hören
+
+Hörsituation erfassen: Um den Inhalt des Radiobeitrags zu erfassen, ist es wichtig, die Informationen über die Sprecherin und ihre Rolle zu erschließen. 
+
+* **Auf Wesentliches konzentrieren**: Beim Hören gilt es zu verstehen, was die für die Aufgabenstellung wichtigen Informationen sind. Der vorliegende Text enthält eher wenige für die Beantwortung der Frage irrelevante Informationen, wie z. B. die Wertungen *is taking giant steps* oder … *location, Pune*. Da der Text zweimal vorgespielt wird, haben die Schülerinnen und Schüler aber die Gelegenheit, anfangs Gehörtes auf seine Richtigkeit und Relevanz für die Aufgabenstellung hin zu überprüfen. 
+* **Signalwörter erkennen**: Damit die richtige Antwort erschlossen werden kann, sollte besondere Aufmerksamkeit auf Schlüsselwörter gelegt werden, z. B. auf das Wortfeld „Weltraumforschung“ i. w. S. (*space exploration programme, moon, space-themed, Space World, aerospace science, space camp, aviation camp, weightlessness*, u. a.), aber auch auf die scheinbaren Gegensätze *entertainment* und *education*. 
+* **Einzelinformationen kombinieren/schlussfolgern**: Die richtige Lösung erfordert inferierendes Zuhören. Die Informationen, die auf den Vergnügungspark verweisen, müssen zusammengetragen und abgeglichen werden, denn die Gesamtaussage c) *hi-tech centre for education and entertainment* ergibt sich erst durch das Zusammenfügen einzelner Informationen (*help create understanding – entertaining way; experience – fascinate … alike; learning – fun*). Für die Schlussfolgerung ist auch Weltwissen zu Themenparks hilfreich.
+* **Bedeutungen erschließen/ableiten**: Da die Aufgabe das Verstehen der Hauptaussage erfordert, muss nicht jedes einzelne Wort verstanden werden, um die Frage richtig beantworten zu können. Einige seltenere Begriffe des Textes könnten jedoch aus dem Kontext erschlossen werden (*gear up*) oder von einem verwandten englischen Begriff abgeleitet werden (*developer, researcher*).
+* **Bei Verständnisschwierigkeiten weiterhin folgen bzw. neu anknüpfen**: Der Hörtext ist relativ anspruchsvoll. Das zweimalige Hören sollte daher als Chance genutzt werden, Verstehensinseln zu finden.
+
+## Nach dem Hören
+
+* **Antwort prüfen**: Im Anschluss an die zweite Präsentation des Hörtextes werden 20 Sekunden zur Vervollständigung der Antwort gegeben. Diese Zeit sollte, wie auch der zweite Hördurchgang, genutzt werden, um die Richtigkeit der angekreuzten Alternative zu prüfen.
+
+# Weiterarbeit und Förderung
+
+## Bei richtiger Lösung
+
+Bereitet die Lösung der Aufgabe keine Schwierigkeiten, so kann das globale Hörverstehen von Texten mit noch differenzierterem Wortschatz oder/und komplexeren Strukturen geübt werden. Es bieten sich Hörtexte an, die stärker argumentativ sind und sich mit abstrakteren Themen befassen. Außerdem sollten Texte eingesetzt werden mit mehr als nur einem Sprecher oder einer Sprecherin und höherem Sprechtempo, die nicht ganz so klar und deutlich gesprochen sind, evtl. auch in einer anderen Varietät.
+
+Auf etwas höherem Niveau kann das globale Hörverstehen geübt werden, indem Aufgaben eingesetzt werden, bei denen die Absicht der Sprecherinnen und Sprecher formuliert wird. Bei solchen Aufgaben wird zusätzlich ein höherer Anspruch an das Schlussfolgern gestellt.
+
+Geeignete mögliche Aufgabentypen, die das globale Hörverstehen auf höherem Niveau überprüfen, sollen hier kurz skizziert werden: 
+
+* **Die Hauptaussage von Debatten erkennen**: Der Schwierigkeitsgrad einer solchen Aufgabe könnte über die Zahl der Sprecherinnen und Sprecher sowie deren Wechsel und die Komplexität der gesuchten Antwort gesteuert werden.
+* **Die Absicht und Wirkung eines Werbespots analysieren**: Für die Lösung einer solchen Aufgabe ist Schlussfolgern erforderlich. Hat eine Sprecherin oder ein Sprecher einen ausgeprägten Akzent, wird das Verständnis des Textes zusätzlich erschwert.
+
+## Bei falscher Lösung
+
+Sind Schülerinnen und Schüler nicht in der Lage, die Aufgabe zu lösen, sollte zunächst besprochen werden, wie sie bei der Bearbeitung vorgegangen sind. Dann sollte gemeinsam die Aufgabenstellung genau gelesen werden, um davon ausgehend – wie oben beschrieben – die Anforderungen abzuleiten. Durch das Bewusstmachen möglicher Bearbeitungsstrategien wird ein Beitrag zur Förderung der Sprachlernbewusstheit geleistet.
+
+Darüber hinaus sollte der Aufbau einer Hörerwartung gezielt geschult werden. Aufgrund der Aufgabenstellung können eigene Fragen und Erwartungen an den Text formuliert werden: Welche Informationen könnte ein Hörtext über Indien geben? Welche Einzelinformationen müssten im Hörtext gegeben werden, damit die verschiedenen Antwortmöglichkeiten a) bis d) überhaupt als richtige Lösung in Frage kommen könnten?
+
+Zudem bietet es sich an, das erforderliche Wortfeld und Weltwissen zu wiederholen und zu erweitern, indem zum Thema „Freizeit- und Themenpark“ gezielte Wortschatzarbeit durchgeführt wird. 
+
+Zur Schulung des globalen Hörverstehens sind auf Grundlage anderer Texte z. B. folgende Übungen zur Förderung denkbar: Texte von Durchsagen entsprechender Orte bzw. Themen unterschiedlichen Äußerungen zuzuordnen oder anderen in einem Satz mitzuteilen, worum es in einem Text geht.
