@@ -8,7 +8,7 @@ lang: de
 # Aufgabe
 
 :::{.task-header}
-Emergency.
+New Gym.
 
 &copy; IQB
 :::
@@ -131,4 +131,5 @@ Vor dem Hören könnte außerdem über den möglichen Inhalt von Beiträgen eine
 Die Arbeit mit Schlüsselbegriffen kann geübt werden, indem z. B. eine Gruppe von Schülerinnen und Schülern sieben Schlüsselbegriffe eines Hörtextes notiert, der einer anderen Gruppe noch unbekannt ist. Diese Gruppe formuliert dann Inhalte, die sie auf Grundlage der Begriffe erwartet.
 
 Der Umgang mit unbekanntem Vokabular sollte thematisiert werden, indem ausgehend von Verstehensinseln die Bedeutung größerer Sinneinheiten ermöglicht wird.
+
 Um das Verstehen der Hauptaussagen eines Textes zu üben, können Skizzen zu Texten erstellt werden, z. B. zu kurzen Statements zu Themen aus der Lebenswelt der Schülerinnen und Schüler.
