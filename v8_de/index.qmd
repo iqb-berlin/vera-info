@@ -1,4 +1,32 @@
 ---
-title: "VERA8 Deutsch - Überblick"
+title: "VERA-8 Deutsch"
+lang: de
+format:
+  html:
+    toc: false
+    other-links:
+      - href: https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2004/2004_10_15-Bildungsstandards-Deutsch-Haupt.pdf
+        text: Bildungsstandards Deutsch HSA
+      - href: https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2003/2003_12_04-BS-Deutsch-MS.pdf
+        text: Bildungsstandards Deutsch MSA 2003
 ---
 
+Die Bildungsstandards sollen den Erwerb von zentralen Kompetenzen in den verschiedenen Schulfächern sichern, indem sie herausfordernde und zugleich angemessene Leistungserwartungen für die jeweiligen Kernbereiche formulieren. Für das Fach Deutsch sind dies die Bereiche
+
+* Sprechen und Zuhören
+* Schreiben
+* Lesen – mit Texten und Medien umgehen sowie
+* Sprache und Sprachgebrauch untersuchen.
+
+Für die einzelnen Bereiche werden in den Bildungsstandards Kompetenzen aufgeführt, die die Schülerinnen und Schüler bis zum Ende der Sekundarstufe I erworben haben sollten. Da diese als Fähigkeiten beschrieben werden, gewährleisten die Bildungsstandards trotz der Verbindlichkeit der Kompetenzanforderungen ein hohes Maß an inhaltlicher und methodischer Freiheit und ermöglichen somit eine Individualisierung des Kompetenzerwerbs.
+
+
+::: {.callout-note}
+## Weiterentwicklung der Bildungsstandards
+
+Die Bildungsstandards für die Sekundarstufe I Deutsch wurden für den Ersten und Mittleren Schulabschluss weiterentwickelt und 2022 von der KMK verabschiedet (KMK, 2022). Die vorliegenden VERA-Testaufgaben beziehen sich auf die Bildungsstandards, die 2004 und 2003 von der KMK beschlossen worden sind, da sich die Normierungsaufgaben für die neuen Bildungsstandards noch in der Entwicklung befinden. Die neuen Bildungsstandards [finden Sie hier](https://www.kmk.org/fileadmin/veroeffentlichungen_beschluesse/2022/2022_06_23-Bista-ESA-MSA-Deutsch.pdf).
+:::
+
+# Autor*innen
+
+Autorinnen der fachdidaktischen Erläuterungen sind Miriam Possmayer und Nana Ivaniashvili. Die verwendeten Testaufgaben entstanden in Kooperation mit Lehrkräften aus sieben Bundesländern und Fachdidaktikerinnen und Fachdidaktikern unter Federführung der Arbeitsgruppe von Prof. Dr. Jörg Jost von der Universität zu Köln (fachdidaktische Leitung) und des Instituts zur Qualitätsentwicklung im Bildungswesen.
