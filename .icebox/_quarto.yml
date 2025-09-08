@@ -1,0 +1,145 @@
+project:
+  type: website
+  resources:
+    - v8_enfr/fr_listening/*.mp3
+    - v8_enfr/en_listening/*.mp3
+    - v8_enfr/material/lesezeichen-HV-Aufgabe.docx
+    - v8_enfr/material/lesezeichen-LV-Aufgabe.docx
+
+website:
+  site-url: https://iqb-berlin.github.io/vera-info/
+  title: "VERA"
+  favicon: assets/favicon.ico
+  page-navigation: true
+  repo-url: https://github.com/iqb-berlin/vera-info/
+  repo-actions: []
+  navbar:
+    search: true
+    logo: assets/iqb-logo-grey.png
+  page-footer:
+    background: light
+    right:
+      - text: "IQB 2025"
+        href: https://www.iqb.hu-berlin.de
+    left:
+      - icon: assets/IQB-klein.png
+        href: index.qmd
+  sidebar: 
+    style: "docked"
+    search: true
+    lang: de
+    collapse-level: 1
+    contents:
+      - section: "Einführung"
+        href: intro/index.qmd
+        contents:
+          - href: intro/booklets.qmd
+            text: Bildungsstandards
+          - href: intro/unit_structure.qmd
+            text: Aufbau der Testaufgaben
+          - href: intro/feedback.qmd
+            text: Rückmeldung
+          - intro/how-to-use.qmd
+      - section: "VERA-3 Deutsch"
+        href: v3_de/index.qmd
+        contents:
+          - section: "Lesen"
+            href: v3_de/lesen/index.qmd
+            contents:
+              - href: v3_de/lesen/material.qmd
+                text: Material
+          - section: "Sprache"
+            href: v3_de/sprache/index.qmd
+            contents:
+              - href: v3_de/sprache/bista-bezug.qmd
+                text: Bezug zu Bildungsstandards
+          - href: v3_de/literature.qmd
+            text: Literatur
+
+      - section: "VERA-3 Mathematik"
+        href: v3_ma/index.qmd
+      - section: "VERA-8 Deutsch"
+        href: v8_de/index.qmd
+      - section: "VERA-8 Mathematik"
+        href: v8_ma/index.qmd
+        contents:
+          - href: v8_ma/kompetenzmodell.qmd
+            text: Kompetenzmodell
+          - section: "Leitidee 1 - Zahl"
+            href: v8_ma/leitidee_1_zahl/index.qmd
+            contents:
+              - v8_ma/leitidee_1_zahl/hilfsmittelfrei.qmd
+              - v8_ma/leitidee_1_zahl/literatur.qmd
+          - section: "Leitidee 5 - Daten und Zufall"
+            href: v8_ma/leitidee_5_daten_und_zufall/index.qmd
+            contents:
+              - v8_ma/leitidee_5_daten_und_zufall/daten.qmd
+              - v8_ma/leitidee_5_daten_und_zufall/literatur.qmd
+      - section: "VERA-8 Fremdsprache" 
+        href: v8_enfr/index.qmd
+        contents:
+          - href: v8_enfr/standards.qmd
+            text: Kompetenzmodell
+          - section: "Hörverstehen"
+            href: v8_enfr/listening.qmd
+            contents:
+            - section: Aufgaben Englisch
+              contents:
+                - text: Globales HV
+                  href: v8_enfr/en_listening/global.qmd
+                - text: Selektives HV
+                  href: v8_enfr/en_listening/selective.qmd
+                - text: Detailliertes HV
+                  href: v8_enfr/en_listening/detail.qmd
+            - section: Aufgaben Französisch
+              contents:
+                - text: Globales HV
+                  href: v8_enfr/fr_listening/global.qmd
+                - text: Selektives HV
+                  href: v8_enfr/fr_listening/selective.qmd
+                - text: Detailliertes HV
+                  href: v8_enfr/fr_listening/detail.qmd
+          - section: Leseverstehen
+            href: v8_enfr/reading.qmd
+            contents:
+            - section: Aufgaben Englisch
+              contents:
+                - text: Globales LV
+                  href: v8_enfr/en_reading/global.qmd
+                - text: Selektives LV
+                  href: v8_enfr/en_reading/selective.qmd
+                - text: Detailliertes LV
+                  href: v8_enfr/en_reading/detail.qmd
+            - section: Aufgaben Französisch
+              contents:
+                - text: Globales LV
+                  href: v8_enfr/fr_reading/global.qmd
+                - text: Selektives LV
+                  href: v8_enfr/fr_reading/selective.qmd
+                - text: Detailliertes LV
+                  href: v8_enfr/fr_reading/detail.qmd
+          - section: Material für den Unterricht
+            href: v8_enfr/material/index.qmd
+            contents:
+              - href: v8_enfr/material/bookmark-listening.qmd
+                text: Lesezeichen HV
+              - href: v8_enfr/material/text-mapping.qmd
+                text: Textmapping HV
+              - href: v8_enfr/material/exercises-listening.qmd
+                text: Übungen HV
+              - href: v8_enfr/material/bookmark-reading.qmd
+                text: Lesezeichen LV
+              - href: v8_enfr/material/exercises-reading.qmd
+                text: Übungen LV
+          - href: v8_enfr/literature.qmd
+            text: Literatur
+format:
+  html:
+    theme:
+      - cosmo
+      - assets/custom.scss
+    css: assets/styles.css
+    toc: true
+    anchor-sections: true
+    link-external-icon: true
+    link-external-newwindow: true

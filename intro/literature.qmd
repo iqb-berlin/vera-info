@@ -1,0 +1,8 @@
+---
+title: "VERA - Literatur"
+lang: de
+bibliography: bibliography.bib
+csl: ../assets/apa.csl
+nocite: |
+  @*
+---

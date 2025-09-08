@@ -1,0 +1,87 @@
+---
+title: "Informationen und Materialien der Länder"
+lang: de
+---
+
+Die Länder der Bundesrepublik Deutschland beauftragen das IQB mit der Aufgabenentwicklung und Testerstellung für die Vergleichsarbeiten. Die Durchführung, Auswertung und Berichtlegung im Rahmen von VERA obliegt den Ländern. (Für mehr Informationen klicken Sie bitte [hier](https://www.iqb.hu-berlin.de/vera).)
+
+Viele Länder stellen eigene Materialien zur Unterrichtsentwicklung zur Verfügung. Die Links zu den Länderseiten und zu einigen dieser Materialien finden Sie untenstehend.
+
+Im Falle von landesspezifischen Fragen wenden Sie sich bitte direkt an die zuständigen Kolleg\*innen in Ihrem Land:
+
+# Baden-Württemberg
+
+* [IBBW – Institut für Bildungsanalysen Baden-Württemberg](https://ibbw.kultus-bw.de/,Lde/Startseite/Kompetenzmessung)
+
+# Bayern
+
+* [LAS – Bayerisches Landesamt für Schule](https://www.las.bayern.de/qualitaetsagentur/vergleichsarbeiten/vergleichsarbeiten.html)
+* Es steht eine Handreichung zur Nutzung der VERA-Ergebnisse als Schul- und Unterrichtsentwicklungsinstrument zur Verfügung: [Broschüre „Vergleichsarbeiten in Bayern“](https://www.las.bayern.de/qualitaetsagentur/vergleichsarbeiten/vera/downloads/vera_in_bayern.pdf).
+
+# Berlin
+
+* [ISQ - Institut für Schulqualität der Länder Berlin und Brandenburg e.V.](https://www.isq.berlin/wordpress/vergleichsarbeiten/)<br/>
+Hier werden zwei Online-Tools zur Verfügung gestellt: Der ISQ-Aufgabenbrowser enthält fachdidaktisch kommentierte VERA-Aufgaben aus vergangenen Jahren, barrierefreie Aufgabenversionen sowie Ideen zur Weiterarbeit mit VERA-Aufgaben im Unterricht aus den Didaktischen Handreichungen des IQB (aktuell vollständig zugänglich für die Länder Berlin, Brandenburg, Nordrhein-Westfalen und Schleswig-Holstein). Der ISQ-Kompetenzbrowser bietet einen Zugang zu den Bildungsstandards der KMK mit fachdidaktischen Beschreibungen, Hinweisen zum Kompetenzaufbau und illustrierenden Aufgaben.
+
+# Brandenburg
+
+* [LISUM - Landesinstitut für Schule und Medien Berlin-Brandenburg](https://lisum.berlin-brandenburg.de/aufgabenschwerpunkte/schulentwicklung/unterrichtsentwicklung/zentrale-pruefungen/vergleichsarbeiten-vera)
+
+# Bremen
+
+* [IQHB - Institut für Qualitätsentwicklung im Land Bremen](https://www.bildung.bremen.de/fachbereich-2-lernstandserhebungen-und-kompetenzmessung-399594): Das IQHB stellt Handreichungen zur Durchführung und Weiterarbeit für VERA-3 und VERA-8 zur Verfügung.
+
+# Hamburg
+
+* [IfBQ - Institut für Bildungsmonitoring und Qualitätsentwicklung](https://www.kermit-hamburg.de/index.php?id_page=7)<br/>
+Das IfBQ stellt Materialien mit Hinweisen und Anregungen zur Nutzung für die Unterrichts- und Schulentwicklung zur Verfügung.
+
+# Hessen
+
+* [Hessische Lehrkräfteakademie](https://lehrkraefteakademie.hessen.de/zentrale-lernstandserhebungen)<br/>
+Die Hessische Lehrkräfteakademie stellt eine Vielzahl an [Arbeitsmaterialien](https://lehrkraefteakademie.hessen.de/zentrale-lernstandserhebungen/faqs-und-arbeitshilfen-fuer-lehrkraefte) zur Umsetzung der Lernstandserhebungen zur Verfügung. Das [Wiesbadener Forum](https://lehrkraefteakademie.hessen.de/Zentrale-Lernstandserhebungen/Schulischer-Austausch) fördert den praxisorientierten Erfahrungsaustausch zum Umgang mit den Ergebnissen der Lernstandserhebungen. Die Universität Kassel bietet zudem Materialien zu Mathematik in Klasse 8 an.
+
+# Mecklenburg-Vorpommern
+
+* [IQ M-V - Institut für Qualitätsentwicklung Mecklenburg-Vorpommern](http://www.bildung-mv.de/lehrer/qualitaet_von_schule/vergleichsarbeiten/)
+
+# Niedersachsen
+
+* [NLQ - Niedersächsisches Landesinstitut für schulische Qualitätsentwicklung](https://www.mk.niedersachsen.de/startseite/schule/schulqualitaet/evaluation_iv/vergleichsarbeiten_vera/vergleichsarbeiten-vera-135419.html)
+
+# Nordrhein-Westfalen
+
+* [QUA-LiS - Qualitäts- und UnterstützungsAgentur - Landesinstitut für Schule](https://www.schulentwicklung.nrw.de/)<br/>
+Die QUA-LiS stellt zur Nutzung der Ergebnisse im Bereich VERA-3 Orthografie eine [Broschüre](http://www.schulentwicklung.nrw.de/e/upload/mat_2014/Vera-3_Unterrichtsentwicklung-Rechtschreiben_Modul_5.pdf) zur Verfügung. Des Weiteren werden Broschüren zum Umgang mit den Ergebnissen von [VERA-8](https://www.schulentwicklung.nrw.de/e/lernstand8/allgemeine-informationen/ziele/index.html) angeboten. Zudem finden Sie, herausgegeben vom Ministerium, [Impulse für die Unterrichtsentwicklung](http://www.schulentwicklung.nrw.de/e/upload/download/mat_11-12/NRW-Broschuere-Lernstand_VERA-2012.pdf).
+
+# Rheinland-Pfalz
+
+* [Pädagogisches Landesinstitut Rheinland-Pfalz](https://bildung.rlp.de/vera)<br/>
+Das Pädagogische Landesinstitut stellt für VERA-3 sowie für VERA-8 in den Fächern Deutsch, Englisch und Französisch Unterlagen zur Ergebnissichtung und Vorbereitung der Fachkonferenzen zur Verfügung. Des Weiteren werden zu VERA-8 Deutsch, Englisch, Französisch und Mathematik Moodle-Kurse "Fit mit VERA" angeboten. Diese liefern Informationen zur Vorbereitung, Durchführung und Nachbereitung von VERA-8 und fachdidaktische Querverweise zu aktuellen Themen der Unterrichtsentwicklung.
+
+# Saarland
+
+* [Ministerium für Bildung und Kultur Saarland](https://www.saarland.de/mbk/DE/portale/bildungsserver/schulentwicklung-und-qualtitaetssicherung/qualitaetssicherungschulen/allgemeinbildendeschulen/allgemeinbildendeschulen#doc20982740-98d2-44ad-a811-6d58d60ec28abodyText3)
+
+# Sachsen
+
+* [Landesamt für Schule und Bildung](https://www.schule.sachsen.de/kompetenztest-6633.html)
+
+# Sachsen-Anhalt
+
+* [LISA - Landesinstitut für Schulqualität und Lehrerbildung Sachsen-Anhalt](https://lisa.sachsen-anhalt.de/schulqualitaet/bildungsmonitoring#c380402)<br/>
+Hier werden allgemeine Informationen und, zur Unterstützung von Analyseprozessen, landesspezifische Auswertungen zu Vergleichsarbeiten in VERA-3 und VERA-8 veröffentlicht.
+
+# Schleswig-Holstein
+
+* [IQSH - Institut für Qualitätsentwicklung an Schulen Schleswig-Holstein](https://www.schleswig-holstein.de/DE/landesregierung/themen/bildung-hochschulen/schulqualitaet/VERA/vergleichsarbeiten_node.html)<br/>
+Die VERA-Seiten im Lernnetz bieten eine umfangreiche Sammlung von Informationen und Materialien. Es werden die Grundlagen von VERA dargestellt und Materialien zur Unterstützung des gesamten Prozesses zur Verfügung gestellt.
+
+# Thüringen
+
+* [ThILLM - Thüringer Institut für Lehrerfortbildung, Lehrplanentwicklung und Medien](http://www.schulportal-thueringen.de/thueringer-kompetenztests)
+
+# Weitere beteiligte Länder
+
+* [Deutschsprachige Gemeinschaft Belgien](http://www.ostbelgienbildung.be/desktopdefault.aspx/tabid-4727/8366_read-46056/)
+* [Autonome Provinz Bozen/Südtirol](https://www.provinz.bz.it/evaluationsstelle-deutschsprachiges-bildungssystem/default.asp)
