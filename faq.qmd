@@ -1,0 +1,179 @@
+---
+lang: de
+title: FAQ - Häufig gestellte Fragen
+format:
+  html:
+    number-sections: true
+    grid:
+      body-width: 600px
+      margin-width: 550px
+---
+
+
+Hier finden Sie die 25 meistgestellten Fragen und Antworten zu VERA. Sollten Sie eine Frage haben, die auf dieser Seite nicht beantwortet wird, so wenden Sie sich bitte an die VERA-Koordination oder an die entsprechende Stelle in Ihrem Land (den Link zu der Informationsseite Ihres Landes finden Sie hier).
+
+# Welche Ziele werden mit VERA verfolgt?
+
+Die Durchführung landesweiter VERgleichsArbeiten (bzw. Kompetenztests oder Lernstandserhebungen) in allen Ländern der Bundesrepublik Deutschland ist neben nationalen und internationalen Schulleistungsstudien ein Teil der 2006 verabschiedeten und 2015 überarbeiteten [Gesamtstrategie der Kultusministerkonferenz (KMK) zum Bildungsmonitoring](http://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2015/2015_06_11-Gesamtstrategie-Bildungsmonitoring.pdf). Die KMK hat im März 2012 in einer [Vereinbarung zur Weiterentwicklung von VERA](http://www.kmk.org/fileadmin/veroeffentlichungen_beschluesse/2012/2012_03_08_Weiterentwicklung-VERA.pdf) bekräftigt, dass die zentrale Funktion der Vergleichsarbeiten die Unterrichts- und Schulentwicklung ist.
+
+In einer Neufassung dieser Vereinbarung haben die Länder beschlossen, dass die Funktion von VERA zur Unterrichtsentwicklung ab 2020 an den Schulen weiter gestärkt und die Tests deshalb passgenauer bezogen auf das Kompetenzniveau der Schüler:innen umgesetzt werden sollen. Deshalb bietet das IQB den Ländern seit dem Durchgang 2020 Testmodule (Modularisierung) für einzelne Kompetenzbereiche und Leistungsniveaus an (z. B. leichte, mittlere und schwierige Kombinationen von Testmodulen im Kompetenzbereich Leseverstehen für unterschiedlich leistungsstarke Lerngruppen). Die Länder haben damit die Möglichkeit, den Schulformen, Schulen, Klassen und Leistungsgruppen passgenauere Testhefte zusammenzustellen und eine Auswahl der zu testenden Kompetenzbereiche zu treffen (Flexibilisierung).
+
+VERA unterstützt die Einführung (Implementation) fachlicher und fachdidaktischer Konzepte der Bildungsstandards und gibt Hinweise zur kompetenzorientierten Weiterentwicklung des Unterrichts. VERA ist eine Art Frühwarnsystem. Die Ergebnisse geben den Schulen und Lehrkräften ein bzw. zwei Jahre bevor die Bildungsstandards im Primarbereich (i.d.R. Jahrgangsstufe 4) und im Sekundarbereich für die neunte (Erster Schulabschluss) bzw. die zehnte (Mittlerer Schulabschluss) Jahrgangsstufe erreicht werden sollen, eine Rückmeldung darüber, inwieweit die Schüler:innen die normativen Kompetenzziele erreichen und welche Bereiche im Unterricht verstärkt in den Blick genommen werden müssen. Die zentrale Funktion von VERA liegt also in der Unterrichts- und Schulentwicklung jeder einzelnen Schule.
+
+In der Ende 2010 erschienenen [Konzeption der KMK zur Nutzung der Bildungsstandards für die Unterrichtsentwicklung](http://www.kmk.org/fileadmin/veroeffentlichungen_beschluesse/2010/2010_00_00-Konzeption-Bildungsstandards.pdf) wird zudem bekräftigt, dass Leistungsrückmeldungen aus Vergleichsarbeiten als zentraler Bestandteil eines datengestützten Entwicklungskreislaufs an einer Schule fungieren sollen. Rückmeldungen aus Vergleichsarbeiten können nur dann sinnvoll genutzt werden, wenn sie von den Lehrkräften als nützliches Feedback verstanden werden, aus dem sich Impulse zur Weiterentwicklung des Fachunterrichts herauslesen lassen.
+
+Die pädagogischen Potenziale von VERA für Lehrkräfte und Schulen können gesehen werden in
+
+* der durchgängigen Kompetenzorientierung der Testaufgaben,
+* der Feststellung des Lern- und Unterstützungsbedarfs in den überprüften fachlichen Bereichen,
+* dem „Blick von außen“, d. h. den multiplen Vergleichsmöglichkeiten zum Lernstand der eigenen Klasse bzw. Lerngruppe für eine schulübergreifende Qualitätssicherung,
+* der Stärkung der diagnostischen Kompetenz von Lehrkräften,
+* der Unterstützung bei der Umsetzung von Kernlehrplänen und nationalen Bildungsstandards,
+* der Nutzung der Ergebnisrückmeldungen für kooperative Unterrichtsentwicklung im Kollegium.
+
+Wichtiges Hilfsmittel zur Umsetzung stellt hierbei das Arbeiten mit Aufgabenbeispielen und den didaktischen Materialien dar, die vom IQB entwickelt und bereitgestellt werden. Zudem bieten die Länder i. d. R. über ihre Landesinstitute Informations- und prozessbegleitende Materialien, Fortbildungen und Beratung an, die Schulen bei der Planung, Durchführung und dem Umgang mit den Rückmeldungen unterstützen.
+
+
+# Wie werden die Aufgaben zusammengestellt?
+
+Unter Federführung des IQB und der Betreuung durch Fachdidaktiker:innen an Universitäten und Hochschulen werden die Aufgaben länderübergreifend von Lehrkräften erarbeitet, überprüft und bewertet. Die Aufgaben werden grundsätzlich – bevor sie im VERA-Test eingesetzt werden – umfassend erprobt („pilotiert“). Nur Aufgaben, die sich in diesen Erprobungen bewähren und geeignet sind, um die in den Bildungsstandards beschriebenen Kompetenzen zu überprüfen, werden bei VERA eingesetzt. Das IQB stellt den Ländern Aufgaben in Form von Testmodulen zur Verfügung. Die Entscheidung über die Zusammenstellung der Module zu Testheften und über den Einsatz der Testheftversionen (leichtere und schwierigere) in den einzelnen Bildungsgängen wird in den Ländern getroffen.
+
+
+# Warum gibt es unterschiedliche Aufgabenformate und wie werden diese Aufgaben bewertet?
+
+Unterschiedliche Aufgabenformate ergeben sich aus dem Zusammenspiel der zu testenden Kompetenzen und der Güteanforderungen an Testaufgaben. VERA-Aufgaben werden so konzipiert, dass Lösungen einer Aufgabe durch verschiedene Personen gleichermaßen bewertet werden. Dies gelingt am einfachsten mit Ankreuzaufgaben und kurzen Antworten, bei denen Schüler:innen beispielsweise einen Begriff oder eine Zahl angeben müssen. Solche Ergebnisse lassen allerdings nur bedingt Rückschlüsse auf Lösungswege zu. Die Vergleichsarbeiten beinhalten deshalb auch offene Aufgabenformate, die auf kommunikative und argumentative Kompetenzen abzielen. Bei der Bearbeitung dieser Aufgaben müssen die Schüler:innen teilweise auch längere Antworten verfassen.
+
+
+# Warum werden keine Teilleistungen bewertet?
+
+Anders als bei Klassenarbeiten, bei denen die individuelle Leistungsfeststellung im Vordergrund steht, handelt es sich bei den Vergleichsarbeiten um diagnostische Tests, mit denen der Lernstand von Lerngruppen festgestellt werden soll. Ein Test erfüllt andere Kriterien der Leistungsmessung als eine Klassenarbeit. Zentral ist eine möglichst genaue Zuordnung des erzielten Lernstandes zu den in den Bildungsstandards beschriebenen fachlichen Anforderungen. Die Bewertung bzw. Anerkennung erbrachter Teilleistungen ist hierzu nicht erforderlich, das Testergebnis kann nur anhand vollständig gelöster Aufgaben eindeutig interpretiert werden. Hinweise dazu, wie Lehrkräfte teilweise richtig bearbeitete Aufgaben im Rahmen der Weiterarbeit mit den VERA-Ergebnissen im Unterricht und in individuellen Gesprächen mit den Schüler:innen würdigen können, geben die Didaktischen Handreichungen.
+
+
+# Worin besteht der Unterschied zwischen einer Klassenarbeit und einem VERA-Test?
+
+Vergleichsarbeiten bewerten nicht die Kompetenzentwicklung bei Schüler:innen im Sinne einer Klassenarbeit. Mit einer Klassenarbeit wird der Lernerfolg von Schüler:innen vor allem in Bezug auf die unmittelbar erarbeiteten Inhalte des Unterrichts überprüft. Diese sollen die in den Bildungsstandards benannten Kompetenzbereiche einschließen und dabei auch diejenigen Teilkompetenzen berücksichtigen, die nicht durch die Vergleichsarbeiten erfasst werden können. Ferner sind Klassenarbeiten von den Leistungsanforderungen her immer speziell auf den aktuellen Leistungsstand einer Klasse zugeschnitten. Da die Anforderungen in einer Klassenarbeit transparent sein müssen, haben die Schüler:innen die Möglichkeit, hierfür zu üben und diese somit vorzubereiten.
+
+Da mit den Vergleichsarbeiten ein anderes Ziel verfolgt wird, sind keine speziellen Vorbereitungsmaßnahmen erforderlich. Jede Lehrkraft kann aufgrund des vorangegangenen Unterrichts das Leistungsvermögen der eigenen Klasse bei verschiedenen Aufgaben einschätzen. Eine Klasse ist auf VERA gut vorbereitet, wenn die Schüler:innen zahlreiche Lerngelegenheiten zu den Inhalten der Bildungsstandards erhalten, mit unterschiedlichen Aufgabenformaten gearbeitet und ein regelmäßiges Feedback zu ihrer Lernentwicklung erhalten haben. Durch die Analyse der Ergebnisse von Vergleichsarbeiten kann diagnostiziert werden, welche Kompetenzen bei den Schüler:innen in der Klasse zum Zeitpunkt der Durchführung gut entwickelt sind und in welchen Bereichen im nachfolgenden Unterricht noch verstärkt weitergearbeitet werden soll. Den Lehrkräften werden damit wichtige Hinweise für die weitere Unterrichtsarbeit gegeben.
+
+Das mit den Bildungsstandards verfolgte Ziel des Unterrichts ist, die Kompetenzen bei den Schüler:innen so zu entwickeln, dass sie über diese Kompetenzen auch unabhängig von der konkreten unterrichtlichen Situation in der Klasse verfügen und diese also in anderen Kontexten für sie abrufbar sind.
+
+Während eine Klassenarbeit daher eher am Ende einer Unterrichtseinheit steht und den Lernerfolg abschließend überprüft, dient das Ergebnis der Vergleichsarbeiten dazu, mit Bezug auf die länderübergreifenden Leistungsanforderungen eine Orientierung für die Schulentwicklung, für die Arbeit der Fachschaften und für die weitere Unterrichtsgestaltung zu geben. Die Frage, was das Abschneiden der Jahrgangsstufe 8 für den Fachunterricht in den Klassenstufen 6 und 7 bedeutet, verdeutlicht diese Perspektive auf VERA als Instrument der Unterrichtsentwicklung einer Schule.
+
+Für die unter Beteiligung von Lehrkräften aus ganz Deutschland entwickelten Testverfahren gelten also andere Kriterien als für Klassenarbeiten oder zentrale Prüfungen. Hieraus ergeben sich einige Abweichungen in der Durchführung und Auswertung. Ein Test zur Kompetenzermittlung ist im Gegensatz zu einer Klassenarbeit so angelegt, dass nur ein Teil der Schüler:innen alle Aufgaben richtig lösen kann. Somit lässt sich feststellen, was zum Erreichen der Bildungsstandards in der jeweiligen Lerngruppe noch behandelt und gelernt werden muss.
+
+
+# Worin besteht der Unterschied zwischen den VERA-Aufgaben und Aufgaben in einem Schulbuch?
+
+Aufgaben in Schulbüchern unterstützen Lehrkräfte bei der Gestaltung von Lehr-Lernprozessen und dem Aufbau fachlicher Kompetenzen unter Berücksichtigung der Lern- und Bildungsvoraussetzungen der Schüler:innen.
+
+Die spezielle Zusammenstellung von VERA-Aufgaben ist ausschließlich an den Bildungsstandards orientiert und muss Kriterien eines guten Tests erfüllen. Mit dem VERA-Test wird überprüft, inwieweit Schüler:innen bereits ein Jahr vor dem Erreichen der Bildungsstandards die dort beschriebenen Anforderungen bewältigen.
+
+
+7. Wie verteilen sich die Aufgaben auf die Kompetenzstufen?
+
+Die Anforderungen der Bildungsstandards werden mit Hilfe von Kompetenzstufenmodellen veranschaulicht. Erläuterungen und Aufgabenbeispiele zu verschiedenen Kompetenzstufen finden sich hier.
+
+Die vom IQB entwickelten VERA-Testmaterialien enthalten eine Zusammenstellung von unterschiedlich schwierigen Aufgaben. Dabei werden schwierigere Aufgaben mit einer geringeren Lösungshäufigkeit den oberen Kompetenzstufen und leichtere Aufgaben mit einer hohen Lösungshäufigkeit den unteren Kompetenzstufen zugeordnet. Die Aufgaben verteilen sich in der Regel nicht immer gleichmäßig über alle Kompetenzstufen. Die kontinuierliche Kompetenzskala wird durch das Kompetenzstufenmodell in fünf bzw. sechs inhaltlich beschriebene Stufen unterteilt. Anhand der zugeordneten Aufgaben kann hinreichend sicher gezeigt werden, welche Schüler:innen welche Aufgaben auf einer bestimmten Kompetenzstufe lösen können.
+
+
+# Darf VERA benotet werden?
+
+Nein. Vergleichsarbeiten werden nicht benotet, da sie als Diagnoseinstrument auch einige Aufgaben beinhalten, deren Anforderungen nicht Gegenstand des vorangegangenen Unterrichts gewesen sind. Der Schwerpunkt liegt nicht auf dem Abschneiden einer Klasse, sondern auf der Analyse und Interpretation der Ergebnisrückmeldung. Laut [KMK-Beschluss der Kultusministerkonferenz](https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2012/2012_03_08_Weiterentwicklung-VERA.pdf) vom 08.03.2012 i. d. F. v. 15.03.2018 ist eine Benotung der Vergleichsarbeiten definitiv nicht vorgesehen.
+
+
+# Wer korrigiert die Vergleichsarbeiten und wer erhält die Rückmeldungen?
+
+In den meisten Ländern korrigieren die Lehrkräfte der jeweiligen Schulen die Testhefte. Die Länder stellen Computer-Eingabemasken zur Verfügung, in die die Testergebnisse eingetragen werden. Dazu müssen sich die Lehrkräfte mit einem durch das Land zur Verfügung gestellten Benutzernamen und Passwort auf der entsprechenden Internetseite einloggen. Diese Eingabemasken sind nicht auf der Internetseite des IQB zu finden. In einigen Ländern können Schüler:innen den Test auch bereits online durchführen. Dies entlastet die Lehrkräfte deutlich bei der Korrektur der Vergleichsarbeiten, da sie die Korrektur der Aufgaben nur noch für die offenen Aufgabenformate vornehmen müssen.
+
+Die Rückmeldung zu den Ergebnissen der Vergleichsarbeiten erhält die Schule von einer vom Land beauftragten Einrichtung (z. B. Landesinstitut). Eine Veröffentlichung von VERA-Ergebnissen einzelner Schulen ist nicht vorgesehen, da dies mit der Kernfunktion des Instruments – der Datengrundlage für die Unterrichts- und Schulentwicklung – nicht zu vereinbaren wäre. VERA funktioniert als Verfahren der externen Evaluation nur dann, wenn den Schulen ermöglicht wird, sich ohne öffentlichen Druck mit dem Abschneiden ihrer Schüler:innen bzw. ihrer Lerngruppe auseinanderzusetzen. In die Auswertung der VERA-Ergebnisse sind die zuständigen Schulgremien, die sich mit der Entwicklung von Unterrichtsqualität befassen, entsprechend den landesspezifischen Vorgaben einzubeziehen.
+
+Bei der Betrachtung der Ergebnisse stellt die Klasse die wichtigste Analyseebene dar, denn hier liegt der Ausgangspunkt für die Weiterarbeit im Unterricht. Vergleiche mit Parallelklassen bieten gute Anlässe für den kollegialen Austausch und die Zusammenarbeit.
+
+Die Rückmeldung zu den VERA-Ergebnissen und die Beratung hierzu erfolgt adressatenbezogen und unterscheidet sich in den einzelnen Ländern. Es sind unterschiedliche Berichtsformen möglich, je nachdem, ob der/die teilnehmende Schüler:in, betroffene Eltern, ggf. die Elternvertretung, die beteiligte Lehrkraft, die Schulleitung und ggf. die Bildungsadministration die Adressaten der jeweiligen Ergebnisrückmeldung sind. Die Schulaufsicht kann die Schulen bei ihren Unterrichts- und Schulentwicklungsprozessen im Umgang mit den VERA-Ergebnissen unterstützen und beraten. Zu diesem Zweck können die VERA-Ergebnisse auch Gegenstand von Schulentwicklungsgesprächen zwischen Schulaufsicht und Schulen sein.
+
+
+# Warum ist das IQB nicht für die Auswertung und die Ergebnisrückmeldung der Vergleichsarbeiten zuständig?
+
+Bei der Einführung von VERA im Jahre 2007/2008 wurde entschieden, dass VERA auf Länderebene ausgewertet wird. So können die Länder VERA gezielter mit anderen Schulentwicklungsmaßnahmen verbinden.
+
+Zur Ergebnisrückmeldung sind in den Ländern meistens Landesinstitute beauftragt. Je nach Land wird diese Aufgabe teilweise von einer zentralen Einrichtung übernommen, die ihren Sitz in einem anderen Land hat (beispielsweise von der Projektgruppe [Kompetenztest an der Universität Jena](https://www.kompetenztest.de/) oder der des VERA-Projekts am [zepf der RPTU](https://zepf.rptu.de/)).
+
+
+# Welche Informationen liefert der Test, wenn viele Themen nicht Gegenstand des Lehrplans sind?
+
+Die Bildungsstandards gelten seit dem Jahr 2005 einheitlich für alle Länder. Die Lehrpläne der einzelnen Länder sind an die in den Bildungsstandards formulierten Kompetenzbereiche weitgehend angepasst, sodass die Vergleichsarbeiten lehrplankonform sind. Kompetenzen sind grundsätzlich nicht an spezielle Themen gebunden. Wenn (in einzelnen Ländern) nicht exakt lehrplankonforme Aufgaben eingesetzt werden oder bestimmte Themenbereiche bis zum Testzeitpunkt noch nicht Gegenstand des Unterrichts waren, heißt dies nicht, dass Schüler:innen die Kompetenz, derartige Aufgaben zu lösen, noch nicht entwickelt haben können.Vielmehr können in diesen Situationen Kompetenzen sichtbar werden, wenn diese auf neue Inhalte übertragen werden können.
+
+
+# Ist eine Schullaufbahnentscheidung durch VERA möglich?
+
+VERA liefert den Lehrkräften eine objektive klassen- und schulübergreifende Information über den Leistungsstand der Klasse. Als Entscheidungskriterium für die Schulartempfehlung ist das Ergebnis einer Vergleichsarbeit aus methodischen und inhaltlichen Gründen und wegen des Testzeitpunktes jedoch ungeeignet.
+
+
+# Was bedeutet die Schwierigkeit einer Aufgabe?
+
+Die Schwierigkeit einer VERA-Aufgabe wird durch eine vorhergehende Erprobung („Pilotierung“) an einer umfangreichen Stichprobe von Schüler:innen ermittelt. Eine Aufgabe ist umso schwieriger, je weniger Schüler*innen sie in der Pilotierung gelöst haben. Bei der Auswahl der Testaufgaben nach der Pilotierung ist die Schwierigkeit ein wichtiges Kriterium. Es werden Aufgaben mit einem weiten Schwierigkeitsspektrum ausgewählt, um das gesamte Leistungsspektrum von Schüler:innen in der 3. bzw. 8. Klassenstufe in Deutschland abzudecken und somit ein Aufgabenset zu haben, welches alle Kompetenzstufen berücksichtigt. In den Testheften finden sich somit sehr schwierige Aufgaben mit einer Lösungshäufigkeit von 5 bis 10 Prozent, aber auch sehr leichte Aufgaben mit einer Lösungshäufigkeit von 90 Prozent oder darüber.
+
+
+# Was ist eine Pilotierung?
+
+Um die Eignung der Testaufgaben (z. B. Schwierigkeit) zu bestimmen, werden diese im Vorfeld der eigentlichen VERA-Durchführung an einer großen Anzahl von Schüler:innen in einer sogenannten Pilotierungsstudie erprobt.
+
+
+# Wie läuft eine Pilotierung ab?
+
+Sollte eine Schule für die Pilotierung ausgewählt worden sein, so gibt es – abhängig vom jeweiligen Land – zwei Vorgehensweisen:
+
+1 Überwiegend werden Lehrkräfte gebeten, die Erprobung selbstständig durchzuführen. Dafür erhalten sie etwa eine Woche vor Beginn des Testfensters ein Paket mit allen notwendigen Testunterlagen. Diesem Paket können die Informationen zum genauen Testablauf entnommen werden.
+2 Es kommt ein:e Testleiter:in an die Schule und führt den Test durch. Lehrkräfte werden lediglich gebeten, die Klasse während der Sitzung zu beaufsichtigen.
+
+
+# Warum enthalten die Aufgaben in den Fremdsprachen teilweise unbekanntes Vokabular?
+
+Ziel des fremdsprachlichen Unterrichts ist laut Bildungsstandards, dass Schüler:innen „in Alltagssituationen sprachmittelnd agieren können“ (KMK 2003, S. 14). Die Kommunikationsfähigkeit erfordert in der Regel nicht das Verständnis jedes einzelnen Details, sondern das Erfassen der wesentlichen Aussagen. Bei der Erstellung der VERA-Aufgaben wird allerdings darauf geachtet, dass möglicherweise unbekanntes Vokabular nicht für die Lösung der Aufgabe relevant ist.
+
+
+# Warum werden manche Hörsequenzen einmal, andere zweimal abgespielt?
+
+Es gibt Situationen im Leben, in denen Informationen grundsätzlich nur einmal gehört werden können, beispielsweise beim Hören von Radiobeträgen oder im Theater und Kino. In anderen Situationen, z. B. in einem Gespräch kann man nachfragen, eine Filmsequenz kann man wiederholen, Bahnhofsansagen werden grundsätzlich wiederholt etc. Besonders auf den höheren Kompetenzstufen kann das einmalige Hören jedoch als schwierigkeitsgenerierendes Merkmal eingesetzt werden. Bisherige Erfahrungen zeigen, dass die Mehrzahl der Schüler:innen mit dem einmaligen Hören der Hörtexte in der Testsituation nicht überfordert sind.
+
+
+# Warum werden die Höraufgaben in Dialekten gesprochen, die die Schüler*innen nicht kennen?
+
+In einer globalisierten Welt kann man davon ausgehen, dass Schüler:innen im Alltag z. B. mit amerikanischem Englisch, kanadischem Französisch oder einer anderen landestypisch geprägten Form von einer Fremdsprache in Kontakt kommen. Auch in den Bildungsstandards wird der Kontakt zu fremden Dialekten gefordert. Da durch die weitverbreiteten Medien die Chance besteht, eine Fremdsprache in verschiedenen Variationen zu hören, haben Schüler:innen vielfältige Möglichkeiten, sich damit vertraut zu machen.
+
+
+# Warum dürfen in den Fremdsprachen keine Wörterbücher verwendet werden?
+
+Die VERA-Aufgaben in Englisch und Französisch sind so konzipiert, dass sie ohne Wörterbücher gelöst werden können, sofern das entsprechende Kompetenzniveau aufseiten der Schüler:innen vorhanden ist. Unbekannte Wörter, die außerhalb des anvisierten Kompetenzniveaus liegen, aber relevant sind für das Lösen eines Items, können aus dem Kontext erschlossen werden. In seltenen Fällen finden sich in den Testaufgaben unbekannte Wörter, die nicht für die Lösung benötigt werden. Hier wird darauf verwiesen, dass auch in natürlichen Sprachverwendungssituationen nicht immer alle Elemente verstanden werden müssen. Die Nutzung eines Wörterbuchs stellt eine eigene Kompetenz dar, die nicht mithilfe der VERA-Aufgaben überprüft werden soll. Würden dennoch Wörterbücher zugelassen werden, würde dies das Bearbeitungsverhalten der Schüler:innen verändern und so zu einer Verzerrung der Testergebnisse führen.
+
+
+# Werden fehlende Oberzeichen, i-Punkte und t-Striche in VERA als Fehler gewertet?
+
+Bei Mathematik-, Französisch- und Englisch-Aufgaben sowie bei Deutsch-Aufgaben in den Kompetenzbereichen *Lesen* und *Zuhören* werden Fehler in Rechtschreibung und Grammatik nicht bewertet. Für Deutsch-Aufgaben aus dem Bereich *Sprachgebrauch* sind Grammatikfehler insofern zu berücksichtigen, als dass Testaufgaben auf entsprechende grammatische Aspekte abzielen. Bei Deutsch-Aufgaben aus den Bereichen Orthografie und Sprachgebrauch werden Oberzeichenfehler bewertet. Fehlende i-Punkte und t-Strichte werden generell nicht als Fehler gewertet.
+
+
+# Wird in Mathematik Lesekompetenz gemessen?
+
+In den Bildungsstandards werden für das Fach Mathematik neben den inhaltsbezogenen mathematischen Kompetenzen (für VERA 3 sind das z. B. Größen und Messen; Zahlen und Operationen; Raum und Form; Muster und Strukturen; Daten, Häufigkeit und Wahrscheinlichkeit) auch die allgemeinen mathematischen Kompetenzen Problemlösen, Kommunizieren, Argumentieren, Modellieren und Darstellen beschrieben. Ziel ist es, die Schüler:innen nicht nur in der Bewältigung formaler Operationen im Mathematikunterricht auszubilden, sondern sie zu befähigen, das Lösen von lebensnahen mathematischen Problemsituationen zu üben, um die so erworbenen mathematischen Kenntnisse später zur Bewältigung derartiger Lebenssituationen nutzen zu können. Häufig sind solche Problemstellungen in Textform dargestellt.
+
+Schüler:innen mit einer hohen Lesekompetenz finden einen leichteren Zugang zu einem authentischen Aufgabentext. Ungeachtet dessen wird bei der Formulierung sonstiger Texte auf einfache Begriffe und Satzstrukturen geachtet, damit die sprachlichen Hürden möglichst gering gehalten werden können.
+
+
+# Wozu dient das Informationsmaterial auf der IQB-VERA-Webseite?
+
+Die zum kostenlosen Download verfügbaren Beispielaufgaben aus vergangenen VERA-Durchgängen sollen dazu dienen, die Schüler:innen im unmittelbaren Vorfeld der Vergleichsarbeiten mit typischen Aufgabenformaten vertraut zu machen. Es geht darum, den Schüler:innen zu vermitteln, bei welchen Aufgaben sie ein Wort eintragen, wo sie Begründungen schreiben, wo sie nummerieren, wo sie ankreuzen usw. sollen. Ein gezieltes Vorbereiten auf VERA durch ein ausschließliches Üben der Testaufgaben würde hingegen dem Zweck einer Vergleichsarbeit zuwiderlaufen. Sinnvoll ist es, im Unterricht jenseits der Testaufgaben mit unterschiedlichen Formaten und verschiedenen Lernarrangements den Schüler:innen möglichst vielfältige Möglichkeiten der Erschließung von bildungsstandardbezogenen Unterrichtsinhalten anzubieten.
+
+
+# An wen kann man sich wenden, wenn man inhaltliche Fragen zu VERA hat?
+
+Inhaltliche Fragen können den zuständigen VERA-Fachkoordinator:innen oder der VERA-Koordination des IQB gestellt werden. Hier finden Sie die zuständigen Ansprechpartner*innen.
+
+
+# An wen kann man sich wenden, wenn man technische Fragen zu VERA hat?
+
+Fragen, die die statistische Auswertung betreffen, müssen den [Ansprechpartner:innen in den Ländern](info_laender.qmd) gestellt werden. Fragen zum Login oder zu Passwörtern für die Eingabe der Ergebnisse werden ebenfalls von den zuständigen Stellen der Länder beantwortet.
+
+
+# Ab wann wird VERA computerbasiert durchgeführt?
+
+Einige Länder bieten VERA bereits für einzelne sprachliche Fächer als Onlinetest an. Außerdem stellt das IQB VERA in den kommenden Jahren vollständig auf Onlinetests um. Das Testsystem des IQB ist frei verfügbar und wird so entwickelt, dass es über eine gemeinsam definierte Schnittstelle anschlussfähig ist für ländereigene Systeme.
