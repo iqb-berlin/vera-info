@@ -31,5 +31,3 @@ Auf diesen Webseiten finden Sie ergänzende Texte zu den Lernstandserhebungen de
 # Kontakt
 
 Für die Inhalte dieser Webseite ist Frau [Susanne Hunger](https://www.iqb.hu-berlin.de/institut/staff/?pg=sh) verantwortlich. Technische Fragen für die Bearbeitung der Inhalte können Sie an die [IT des IQB](mailto:iqb-it@hu-berlin.de) richten.
-
-:::
