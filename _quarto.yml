@@ -25,16 +25,7 @@ website:
     lang: de
     collapse-level: 1
     contents:
-      - section: "Einführung"
-        href: intro/index.qmd
-        contents:
-          - href: intro/booklets.qmd
-            text: Bildungsstandards
-          - href: intro/unit_structure.qmd
-            text: Aufbau der Testaufgaben
-          - href: intro/feedback.qmd
-            text: Rückmeldung
-          - intro/literature.qmd
+      - intro/literature.qmd
       - href: faq.qmd
         text: FAQ
       - href: info_laender.qmd
