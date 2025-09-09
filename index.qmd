@@ -21,12 +21,9 @@ Auf diesen Webseiten finden Sie ergänzende Texte zu den Lernstandserhebungen de
 
 # Weiterlesen
 
-* [Einführung zu VERA](intro/index.qmd)
 * [Literaturhinweise](intro/literature.qmd)
 * [FAQ](faq.qmd) - Häufig gestellte Fragen
 * [Informationen und Materialien der Länder](info_laender.qmd)
-
-
 
 # Kontakt
 
