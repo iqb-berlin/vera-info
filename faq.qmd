@@ -69,7 +69,7 @@ Aufgaben in Schulbüchern unterstützen Lehrkräfte bei der Gestaltung von Lehr-
 Die spezielle Zusammenstellung von VERA-Aufgaben ist ausschließlich an den Bildungsstandards orientiert und muss Kriterien eines guten Tests erfüllen. Mit dem VERA-Test wird überprüft, inwieweit Schüler:innen bereits ein Jahr vor dem Erreichen der Bildungsstandards die dort beschriebenen Anforderungen bewältigen.
 
 
-7. Wie verteilen sich die Aufgaben auf die Kompetenzstufen?
+# Wie verteilen sich die Aufgaben auf die Kompetenzstufen?
 
 Die Anforderungen der Bildungsstandards werden mit Hilfe von Kompetenzstufenmodellen veranschaulicht. Erläuterungen und Aufgabenbeispiele zu verschiedenen Kompetenzstufen finden sich hier.
 
