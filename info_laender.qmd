@@ -20,8 +20,8 @@ Im Falle von landesspezifischen Fragen wenden Sie sich bitte direkt an die zust�
 
 # Berlin
 
-* [ISQ - Institut für Schulqualität der Länder Berlin und Brandenburg e.V.](https://www.isq.berlin/wordpress/vergleichsarbeiten/)<br/>
-Hier werden zwei Online-Tools zur Verfügung gestellt: Der ISQ-Aufgabenbrowser enthält fachdidaktisch kommentierte VERA-Aufgaben aus vergangenen Jahren, barrierefreie Aufgabenversionen sowie Ideen zur Weiterarbeit mit VERA-Aufgaben im Unterricht aus den Didaktischen Handreichungen des IQB (aktuell vollständig zugänglich für die Länder Berlin, Brandenburg, Nordrhein-Westfalen und Schleswig-Holstein). Der ISQ-Kompetenzbrowser bietet einen Zugang zu den Bildungsstandards der KMK mit fachdidaktischen Beschreibungen, Hinweisen zum Kompetenzaufbau und illustrierenden Aufgaben.
+* [ISQ - Institut für Schulqualität des Landes Berlin e.V.](https://www.isq.berlin/wordpress/vergleichsarbeiten/)<br/>
+Hier werden zwei Online-Tools zur Verfügung gestellt: Der [ISQ-Aufgabenbrowser](https://www.aufgabenbrowser.de/) enthält fachdidaktisch kommentierte VERA-Aufgaben aus vergangenen Jahren, barrierefreie Aufgabenversionen sowie Ideen zur Weiterarbeit mit VERA-Aufgaben im Unterricht aus den Didaktischen Handreichungen des IQB (aktuell vollständig zugänglich für die Länder Berlin, Brandenburg, Nordrhein-Westfalen und Schleswig-Holstein). Der [ISQ-Kompetenzbrowser](https://www.kompetenzbrowser.de/) bietet einen Zugang zu den Bildungsstandards der KMK mit fachdidaktischen Beschreibungen, Hinweisen zum Kompetenzaufbau und illustrierenden Aufgaben.
 
 # Brandenburg
 
