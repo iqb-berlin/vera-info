@@ -1,0 +1,8 @@
+---
+title: "VERA - Literatur"
+lang: de
+bibliography: didHR/intro/bibliography.bib
+csl: assets/apa.csl
+nocite: |
+  @*
+---

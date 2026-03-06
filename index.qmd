@@ -21,7 +21,7 @@ Auf diesen Webseiten finden Sie ergänzende Texte zu den Lernstandserhebungen de
 
 # Weiterlesen
 
-* [Literaturhinweise](intro/literature.qmd)
+* [Literaturhinweise](literature.qmd)
 * [FAQ](faq.qmd) - Häufig gestellte Fragen
 * [Informationen und Materialien der Länder](info_laender.qmd)
 

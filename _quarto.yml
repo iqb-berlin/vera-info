@@ -14,7 +14,7 @@ website:
   page-footer:
     background: light
     right:
-      - text: "IQB 2025"
+      - text: "IQB 2026"
         href: https://www.iqb.hu-berlin.de
     left:
       - icon: assets/IQB-klein.png
@@ -25,11 +25,41 @@ website:
     lang: de
     collapse-level: 1
     contents:
-      - intro/literature.qmd
+      - literature.qmd
       - href: faq.qmd
         text: FAQ
       - href: info_laender.qmd
         text: Infos der Länder
+      - section: "Didaktische Handreichungen"
+        href: didHR/index.qmd
+        contents:
+          - section: "Einführung"
+            href: didHR/intro/index.qmd
+            contents:
+              - href: didHR/intro/booklets.qmd
+                text: Bildungsstandards
+              - href: didHR/intro/unit_structure.qmd
+                text: Aufbau der Testaufgaben
+              - href: didHR/intro/feedback.qmd
+                text: Rückmeldung
+              - didHR/intro/how-to-use.qmd
+          - section: "VERA-3 Deutsch"
+            href: didHR/v3_de/index.qmd
+            contents:
+              - section: "Lesen"
+                href: didHR/v3_de/lesen/index.qmd
+                contents:
+                  - href: didHR/v3_de/lesen/material.qmd
+                    text: Material
+              - section: "Sprache"
+                href: didHR/v3_de/sprache/index.qmd
+                contents:
+                  - href: didHR/v3_de/sprache/bista-bezug.qmd
+                    text: Bezug zu Bildungsstandards
+              - href: didHR/v3_de/literature.qmd
+                text: Literatur
+          - section: "VERA-3 Mathematik"
+            href: didHR/v3_ma/index.qmd
 
 format:
   html:
