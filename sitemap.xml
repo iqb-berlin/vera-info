@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://iqb-berlin.github.io/vera-info/faq.html</loc>
-    <lastmod>2026-03-06T07:53:11.667Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/vera-info/intro/literature.html</loc>
-    <lastmod>2026-03-06T07:53:11.668Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/vera-info/intro/how-to-use.html</loc>
-    <lastmod>2026-03-06T07:53:11.668Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/vera-info/intro/index.html</loc>
-    <lastmod>2026-03-06T07:53:11.668Z</lastmod>
-  </url>
-  <url>
     <loc>https://iqb-berlin.github.io/vera-info/info_laender.html</loc>
-    <lastmod>2026-03-06T07:53:11.667Z</lastmod>
+    <lastmod>2026-03-25T16:53:03.779Z</lastmod>
   </url>
   <url>
     <loc>https://iqb-berlin.github.io/vera-info/index.html</loc>
-    <lastmod>2026-03-06T07:53:11.667Z</lastmod>
+    <lastmod>2026-03-25T16:53:03.779Z</lastmod>
   </url>
   <url>
-    <loc>https://iqb-berlin.github.io/vera-info/intro/booklets.html</loc>
-    <lastmod>2026-03-06T07:53:11.668Z</lastmod>
+    <loc>https://iqb-berlin.github.io/vera-info/intro/how-to-use.html</loc>
+    <lastmod>2026-03-25T16:53:03.780Z</lastmod>
   </url>
   <url>
-    <loc>https://iqb-berlin.github.io/vera-info/intro/feedback.html</loc>
-    <lastmod>2026-03-06T07:53:11.668Z</lastmod>
+    <loc>https://iqb-berlin.github.io/vera-info/intro/index.html</loc>
+    <lastmod>2026-03-25T16:53:03.780Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/vera-info/intro/literature.html</loc>
+    <lastmod>2026-03-25T16:53:03.780Z</lastmod>
   </url>
   <url>
     <loc>https://iqb-berlin.github.io/vera-info/intro/unit_structure.html</loc>
-    <lastmod>2026-03-06T07:53:11.668Z</lastmod>
+    <lastmod>2026-03-25T16:53:03.780Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/vera-info/intro/booklets.html</loc>
+    <lastmod>2026-03-25T16:53:03.780Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/vera-info/intro/feedback.html</loc>
+    <lastmod>2026-03-25T16:53:03.780Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/vera-info/faq.html</loc>
+    <lastmod>2026-03-25T16:53:03.779Z</lastmod>
   </url>
 </urlset>
