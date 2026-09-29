@@ -96,6 +96,35 @@ div.csl-indent {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../assets/styles.css">
 </head>
@@ -198,11 +227,941 @@ div.csl-indent {
 
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">Literatur</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
-<div id="ref-DruekeNoe2012" class="csl-entry" role="listitem">
-Drüke-Noe, C. (2012). Können Lernstandserhebungen einen Beitrag zur Unterrichtsentwicklung leisten? In W. Blum, R. B. Ferri, &amp; K. Maaß (Hrsg.), <em>Mathematikunterricht im Kontext von Realität, Kultur und Lehrerprofessionalität</em> (S. 284–293). Wiesbaden: Springer. <a href="https://link.springer.com/book/10.1007%2F978-3-8348-2389-2">https://link.springer.com/book/10.1007%2F978-3-8348-2389-2</a>
+<div id="ref-Abraham.2021" class="csl-entry" role="listitem">
+Abraham, U., &amp; Knopf, J. (Hrsg.). (2021). <em>Deutsch. Didaktik f<span>ü</span>r die Grundschule</em>. Cornelsen.
 </div>
-<div id="ref-Fuchs2019" class="csl-entry" role="listitem">
-Fuchs, G. (2010). <em>Prognosegüte bildungsstandardbasierter Tests</em>. Freie Universität, Berlin. <a href="https://refubium.fu-berlin.de/bitstream/handle/fub188/23912/Dissertation_Gesine_Fuchs.pdf?sequence=3&amp;isAllowed=y">https://refubium.fu-berlin.de/bitstream/handle/fub188/23912/Dissertation_Gesine_Fuchs.pdf?sequence=3&amp;isAllowed=y</a>
+<div id="ref-Albers.2025" class="csl-entry" role="listitem">
+Albers, A., &amp; Jude, N. (Hrsg.). (2025). <em>Blickpunkt Bildungsmonitoring - Bilanzen und Perspektiven</em>. <span>Beltz Juventa Verlag</span>. <a href="https://doi.org/10.25656/01:32263">https://doi.org/10.25656/01:32263</a>
+</div>
+<div id="ref-Albert.2004" class="csl-entry" role="listitem">
+Albert, M., Fenle, M., &amp; Hagen, M. (2004). Von Stolpersteinen und Wunschsternen: Zuh<span>ö</span>rtipps f<span>ü</span>r Kinder. <em>Grundschule</em>, <em>2</em>, 36–37.
+</div>
+<div id="ref-Alderson.2006" class="csl-entry" role="listitem">
+Alderson, C. J., Figueras, N., Kuijper, H., Nold, G., Takala, S., &amp; Tardieu, C. (2006). Analysing Tests of Reading and Listening in Relation to the Common European Framework of Reference: The Experience of the Dutch CEFR Construct Project. <em>Language Assessment Quarterly - An International Journal</em>, <em>3</em>(1), 3–30.
+</div>
+<div id="ref-Altrichter.2018" class="csl-entry" role="listitem">
+Altrichter, H., Heinrich, M., &amp; Zuber, J. (Hrsg.). (2018). <em>Bildungsstandards zwischen Politik und schulischem Alltag</em>. Springer.
+</div>
+<div id="ref-Amos.2015" class="csl-entry" role="listitem">
+Amos, K., Schmid, J., Schrader, J., &amp; Thiel, A. (Hrsg.). (2015). <em>Governance von Bildung im Wandel: Interdisziplin<span>ä</span>re Zug<span>ä</span>nge</em>. Springer. <a href="https://link.springer.com/book/10.1007%2F978-3-658-07270-4">https://link.springer.com/book/10.1007%2F978-3-658-07270-4</a>
+</div>
+<div id="ref-Arendt.2011" class="csl-entry" role="listitem">
+Arendt, B., &amp; Kiesendahl, J. (Hrsg.). (2011). <em>Sprachkritik in der Schule: Theoretische Grundlagen und ihre praktische Relevanz</em>. <span>V<span>&amp;</span>R Unipress</span>.
+</div>
+<div id="ref-Artelt.2004" class="csl-entry" role="listitem">
+Artelt, C., Schiefele, U., Schneider, W., &amp; Stanat, P. (Hrsg.). (2004). <em>Struktur, Entwicklung und F<span>ö</span>rderung von Lesekompetenz: Vertiefende Analysen im Rahmen von PISA 2000</em>. <span>VS Verlag f<span>ü</span>r Sozialwissenschaften</span>. <a href="https://doi.org/10.1007/978-3-322-81031-1">https://doi.org/10.1007/978-3-322-81031-1</a>
+</div>
+<div id="ref-Augst.2011" class="csl-entry" role="listitem">
+Augst, G., &amp; Dehn, M. (2011). <em>Rechtschreibung und Rechtschreibunterricht: Eine Einf<span>ü</span>hrung f<span>ü</span>r Studierende und Lehrende aller Schulformen</em>. <span>Klett Verlag</span>.
+</div>
+<div id="ref-Avenarius.2007" class="csl-entry" role="listitem">
+Avenarius, H., Blum, W., Döbrich, P., Gruber, H., Klieme, E., Prenzel, M., Reiss, K., Riquarts, K., Rost, J., Tenorth, H.-E., &amp; Vollmer, H. J. (2007). <em>Zur Entwicklung nationaler Bildungsstandards: Eine Expertise</em> (Bundesministerium für Bildung und Forschung, Hrsg.). <a href="https://portal.kobv.de/uid.do?query=gbv_539435597&amp;index=internal&amp;plv=2">https://portal.kobv.de/uid.do?query=gbv_539435597&amp;index=internal&amp;plv=2</a>
+</div>
+<div id="ref-Bahlo.2011" class="csl-entry" role="listitem">
+Bahlo, N., &amp; Steckbauer, D. (2011). Jungendsprache im Unterricht: Sprachkritik in der Schule und deren mediale Gestaltung. In B. Arendt &amp; J. Kiesendahl (Hrsg.), <em>Sprachkritik in der Schule</em> (S. 191–215). <span>V<span>&amp;</span>R Unipress</span>.
+</div>
+<div id="ref-Bangel.2012" class="csl-entry" role="listitem">
+Bangel, M. (2012). Vom Mega-Event zum Concerto Grosso: Fremdw<span>ö</span>rter in der Musik- und Jugendsprache. <em>Praxis Deutsch</em>, <em>235</em>, 35–43.
+</div>
+<div id="ref-Bangel.2014" class="csl-entry" role="listitem">
+Bangel, M. (2014). Warum Pilz und nicht Piltz? Spielerisch <span>ü</span>ber Schreibungen reflektieren. <em>Praxis Deutsch</em>, <em>248</em>, 31–35.
+</div>
+<div id="ref-Bangel.2014b" class="csl-entry" role="listitem">
+Bangel, M., &amp; Müller, A. (2014). Zur Entwicklung morphologischer Bewusstheit und basaler Lesef<span>ä</span>higkeiten durch die Arbeit an Wort-(bildungs)strukturen: Erste Ergebnisse einer Interventionsstudie. <em>Didaktik Deutsch</em>, <em>36</em>, 42–63. <a href="https://didaktik-deutsch.de/index.php/dideu/article/view/448/591">https://didaktik-deutsch.de/index.php/dideu/article/view/448/591</a>
+</div>
+<div id="ref-Barian.2008" class="csl-entry" role="listitem">
+Barian, D. (2008). Lernaufgaben zum H<span>ö</span>rverstehen: Der Jugendroman <span>"</span>L<span>ö</span>cher<span>"</span> von Louis Sachar. <em>Deutschunterricht</em>, <em>61</em>, 25–29.
+</div>
+<div id="ref-Bartnitzky.2004" class="csl-entry" role="listitem">
+Bartnitzky, H., &amp; Speck-Hamdan, A. (Hrsg.). (2004). <em>Leistungen der Kinder wahrnehmen - w<span>ü</span>rdigen - f<span>ö</span>rdern</em>.
+</div>
+<div id="ref-Bartnitzky.2004b" class="csl-entry" role="listitem">
+Bartnitzky, J. (2004). Wie Kinder lernen k<span>ö</span>nnen, ihre Anstrengungen und Erfolge zu würdigen: Ein Lerntagebuch. In H. Bartnitzky &amp; A. Speck-Hamdan (Hrsg.), <em>Leistungen der Kinder wahrnehmen - w<span>ü</span>rdigen - f<span>ö</span>rdern</em> (S. 100–110).
+</div>
+<div id="ref-Bartnitzky.2007" class="csl-entry" role="listitem">
+Bartnitzky, J., Bosse, U., &amp; Gravelaar, G. (2007). <em>P<span>ä</span>dagogische Leistungskultur. <span>Ä</span>sthetik, Sport, Englisch, Arbeits-/Sozialverhalten: 1. Selbst-, Sach- und Sozialkompetenz</em>.
+</div>
+<div id="ref-Baumann.2017" class="csl-entry" role="listitem">
+Baumann, J., Kammler, C., &amp; Müller, A. (Hrsg.). (2017). <em>Handbuch Deutschunterricht: Theorie und Praxis des Lehrens und Lernens</em>. Klett/Kallmeyer.
+</div>
+<div id="ref-Baumann.2003" class="csl-entry" role="listitem">
+Baumann, M. (2003). Lesetests. In U. Bredel, H. Günther, J. Ossner, &amp; G. Siebert-Ott (Hrsg.), <em>Didaktik der Deutschen Sprache</em> (S. 869–882). <span>Sch<span>ö</span>ningh Verlag</span>.
+</div>
+<div id="ref-Baurmann.2009" class="csl-entry" role="listitem">
+Baurmann, J. (2009). <em>Sachtexte lesen und verstehen: Grundlagen - Ergebnisse - Vorschl<span>ä</span>ge f<span>ü</span>r einen kompetenzf<span>ö</span>rdernden Unterricht</em>. Klett/Kallmeyer.
+</div>
+<div id="ref-Baurmann.2015" class="csl-entry" role="listitem">
+Baurmann, J., Brand, T. von, Menzel, W., &amp; Spinner, K. H. (Hrsg.). (2015). <em>Methoden im Deutschunterricht: Exemplarische Lernwege f<span>ü</span>r die Sekundarstufe</em>. Klett/Kallmeyer.
+</div>
+<div id="ref-Baurmann.2019" class="csl-entry" role="listitem">
+Baurmann, J., Kammler, C., &amp; Müller, A. (2019). <em>Handbuch Deutschunterricht: Theorie und Praxis des Lehrens und Lernens</em>. Klett/Kallmeyer.
+</div>
+<div id="ref-Baurmann.2002" class="csl-entry" role="listitem">
+Baurmann, J., &amp; Müller, A. (2002). Experten und Anf<span>ä</span>nger lernen gemeinsam. <em>Praxis Deutsch</em>, <em>176</em>, 44–48.
+</div>
+<div id="ref-Baurmann.2005" class="csl-entry" role="listitem">
+Baurmann, J., &amp; Müller, A. (2005). Lesen beobachten und f<span>ö</span>rdern. <em>Praxis Deutsch</em>, <em>194</em>, 6–13.
+</div>
+<div id="ref-Bausch.2005" class="csl-entry" role="listitem">
+Bausch, K.-R., Burwitz-Melzer, E., Königs, F. G., &amp; Krumm, H.-J. (2005). <em>Bildungsstandards f<span>ü</span>r den Fremdsprachenunterricht auf dem Pr<span>ü</span>fstand: Arbeitspapiere der 25. Fr<span>ü</span>hjahrskonferenz zur Erforschung des Fremdsprachenunterrichts</em>. <span>Gunter Narr</span>.
+</div>
+<div id="ref-Bausch.2003" class="csl-entry" role="listitem">
+Bausch, K.-R., Christ, H., &amp; Krumm, H.-J. (Hrsg.). (2003). <em>Handbuch Fremdsprachenunterricht: Bd. 8042/8043</em> (4., vollst<span>ä</span>ndig neu bearb. Aufl.). Francke.
+</div>
+<div id="ref-Beck.2007" class="csl-entry" role="listitem">
+Beck, B., &amp; Klieme, E. (Hrsg.). (2007). <em>Sprachliche Kompetenzen: Konzepte und Messung: DESI-Studie (Deutsch Englisch Sch<span>ü</span>lerleistungen International)</em>. Beltz.
+</div>
+<div id="ref-Becker.2005c" class="csl-entry" role="listitem">
+Becker, G., Bremerich-Vos, A., Demmer, M., Maag Merki, K., Priebe, B., Schwippert, K., Stäudel, L., Tillmann, &amp; Klaus-Jürgen. (2005). <em>Standards. Unterricht zwischen Kompetenzen, zentralen Pr<span>ü</span>fungen und Vergleichsarbeiten</em>.
+</div>
+<div id="ref-Becker.2014" class="csl-entry" role="listitem">
+Becker, M., Böhme, K., Pant, H. A., Richter, D., &amp; Stanat, P. (2014). <span>Ü</span>berzeugungen von Lehrkr<span>ä</span>ften zu den Funktionen von Vergleichsarbeiten: Zusammenh<span>ä</span>nge zu Ver<span>ä</span>nderungen im Unterricht und den Kompetenzen von Sch<span>ü</span>lerinnen und Sch<span>ü</span>lern. <em>Zeitschrift f<span class="nocase">ü</span>r P<span class="nocase">ä</span>dagogik</em>, <em>60 (2)</em>, 225–244.
+</div>
+<div id="ref-Becker.2004" class="csl-entry" role="listitem">
+Becker, S. (2004a). Wie war das nochmal? Das Mitschreiben im Unterricht <span>ü</span>ben. <em>Deutsch</em>, <em>1</em>, 18–21.
+</div>
+<div id="ref-Becker.2004b" class="csl-entry" role="listitem">
+Becker, S. (2004b). Wie war das nochmal? Das Mitschreiben im Unterricht <span>ü</span>ben. <em>Deutsch</em>, <em>1</em>, 18–21.
+</div>
+<div id="ref-Becker.2005b" class="csl-entry" role="listitem">
+Becker, S. (2005a). Am Wortschatz arbeiten - systematisch. <em>Deutsch. Unterrichtspraxis f<span class="nocase">ü</span>r die Klassen 5 bis 10</em>, <em>4</em>, 40–43.
+</div>
+<div id="ref-Becker.2005" class="csl-entry" role="listitem">
+Becker, S. (2005b). W<span>ö</span>rterb<span>ü</span>cher erstellen. <em>Deutsch. Unterrichtspraxis f<span class="nocase">ü</span>r die Klassen 5 bis 10</em>, <em>4</em>, 44–46.
+</div>
+<div id="ref-Becker.2009c" class="csl-entry" role="listitem">
+Becker, S. (2009a). Besser zuh<span>ö</span>ren – besser sprechen. <em>Deutsch</em>, <em>19</em>, 24–37.
+</div>
+<div id="ref-Becker.2009" class="csl-entry" role="listitem">
+Becker, S. (2009b). F<span>ü</span>nf Stunden und 42 Minuten: Ein ganzes Buch h<span>ö</span>ren. <em>Deutsch</em>, <em>19</em>, 30–33.
+</div>
+<div id="ref-Becker.2009b" class="csl-entry" role="listitem">
+Becker, S. (2009c). F<span>ü</span>nf Stunden und 42 Minuten: Ein ganzes Buch h<span>ö</span>ren. <em>Deutsch. Unterrichtspraxis f<span class="nocase">ü</span>r die Klassen 5 bis 10. B<span class="nocase">ü</span>cher</em>, <em>19</em>.
+</div>
+<div id="ref-BeckerMrotzek.2006c" class="csl-entry" role="listitem">
+Becker-Mrotzek, M. (2006). Sachtexte lesen (lernen). In C. Efing &amp; N. Janich (Hrsg.), <em>F<span>ö</span>rderung der berufsbezogenen Sprachkompetenz</em> (S. 107–132). Eusl-Verlagsgesellschaft.
+</div>
+<div id="ref-BeckerMrotzek.2009b" class="csl-entry" role="listitem">
+Becker-Mrotzek, M. (Hrsg.). (2009a). <em>M<span>ü</span>ndliche Kommunikation und Gespr<span>ä</span>chsdidaktik: Bde. Bd. 3</em>. <span>Schneider-Verl. Hohengehren</span>. <a href="https://elibrary.utb.de/action/showBook?doi=10.3278%2F9783763963669">https://elibrary.utb.de/action/showBook?doi=10.3278%2F9783763963669</a>
+</div>
+<div id="ref-BeckerMrotzek.2009" class="csl-entry" role="listitem">
+Becker-Mrotzek, M. (2009b). Unterrichtskommunikation als Mittel der Kompetenzentwicklung. In M. Becker-Mrotzek (Hrsg.), <em>M<span>ü</span>ndliche Kommunikation und Gespr<span>ä</span>chsdidaktik</em> (S. 103–115). <span>Schneider-Verl. Hohengehren</span>. <a href="https://elibrary.utb.de/action/showBook?doi=10.3278%2F9783763963669">https://elibrary.utb.de/action/showBook?doi=10.3278%2F9783763963669</a>
+</div>
+<div id="ref-BeckerMrotzek.2006b" class="csl-entry" role="listitem">
+Becker-Mrotzek, M., &amp; Drommler, R. (2006). Texte lesen. In M. Becker-Mrotzek, E. Kusch, &amp; B. Wehnert (Hrsg.), <em>Lesef<span>ö</span>rderung in der Berufsbildung</em> (S. 17–44). <span>Gilles <span>&amp;</span> Francke Verlag</span>. <a href="https://www.uni-koeln.de/phil-fak/deutsch/sprachdidaktik/koebes/KoeBeS2.pdf">https://www.uni-koeln.de/phil-fak/deutsch/sprachdidaktik/koebes/KoeBeS2.pdf</a>
+</div>
+<div id="ref-BeckerMrotzek.2006" class="csl-entry" role="listitem">
+Becker-Mrotzek, M., Kusch, E., &amp; Wehnert, B. (Hrsg.). (2006). <em>Lesef<span>ö</span>rderung in der Berufsbildung</em>. <span>Gilles <span>&amp;</span> Francke Verlag</span>. <a href="https://www.uni-koeln.de/phil-fak/deutsch/sprachdidaktik/koebes/KoeBeS2.pdf">https://www.uni-koeln.de/phil-fak/deutsch/sprachdidaktik/koebes/KoeBeS2.pdf</a>
+</div>
+<div id="ref-Behrens.2010" class="csl-entry" role="listitem">
+Behrens, U. (2010). Verstehen, was gesagt wird: <span>Ü</span>bungen zum Zuh<span>ö</span>ren. <em>Deutschunterricht</em>, <em>63</em>, 29–33.
+</div>
+<div id="ref-Behrens.2022b" class="csl-entry" role="listitem">
+Behrens, U. (2022). <em>Mündliche Kompetenzen im Deutschunterricht: Sprechen und Zuh<span>ö</span>ren als Bildungsaufgabe</em>. <a href="https://elibrary.utb.de/doi/epdf/10.5555/9783772716379">https://elibrary.utb.de/doi/epdf/10.5555/9783772716379</a>
+</div>
+<div id="ref-Behrens.2014" class="csl-entry" role="listitem">
+Behrens, U., Böhme, K., Bremerich-Vos, A., Hunger, S., &amp; Krelle, M. (Hrsg.). (2014). <em>Bildungsstandards Deutsch: konkret: Sekundarstufe I: Aufgabenbeispiele, Unterrichtsanregungen, Fortbildungsideen</em>. Cornelsen.
+</div>
+<div id="ref-Behrens.2022" class="csl-entry" role="listitem">
+Behrens, U., &amp; Düsing, E. (2022). H<span>ö</span>ren, H<span>ö</span>rverstehen, Zuh<span>ö</span>rkompetenz und ihre F<span>ö</span>rderung in Primar- und Sekundarstufe. In S. Gailberger &amp; F. Wietzke (Hrsg.), <em>Handbuch Kompetenzorientierter Deutschunterricht</em> (S. 466–488). <span>Julius Beltz GmbH <span>&amp;</span> Co. KG</span>. <a href="https://content-select.com/media/moz_viewer/6230dcac-d3a0-4b23-896d-1d0db0dd2d03/language:de-4b23-896d-1d0db0dd2d03">https://content-select.com/media/moz_viewer/6230dcac-d3a0-4b23-896d-1d0db0dd2d03/language:de-4b23-896d-1d0db0dd2d03</a>
+</div>
+<div id="ref-Behrens.2024" class="csl-entry" role="listitem">
+Behrens, U., &amp; Krelle, M. (2024). Zuh<span>ö</span>ren f<span>ö</span>rdern. <em>Praxis Deutsch</em>, <em>303</em>, 4–11.
+</div>
+<div id="ref-Beinbrech.2007" class="csl-entry" role="listitem">
+Beinbrech, C., Hanke, P., Hein, A. K., Kleickmann, T., Möller, K., &amp; Schages, R. (Hrsg.). (2007). <em>Qualit<span>ä</span>t von Grundschulunterricht: Entwickeln, erfassen und bewerten</em>. Springer. <a href="https://link.springer.com/book/10.1007/978-3-531-90755-0">https://link.springer.com/book/10.1007/978-3-531-90755-0</a>
+</div>
+<div id="ref-Bohnisch.2008" class="csl-entry" role="listitem">
+Beitr<span>ä</span>ge zum 16. Symposion Deutschdidaktik <span>„</span>Kompetenz im Deutschunterricht<span>“</span>. (2008). In M. Böhnisch (Hrsg.), <em>Didaktik Deutsch</em>. <span>Schneider Verlag Hohengehren</span>.
+</div>
+<div id="ref-BeltzJuventaVerlag.2011" class="csl-entry" role="listitem">
+Beltz Juventa Verlag (Hrsg.). (2011). <em>Enzyklop<span>ä</span>die Erziehungswissenschaft Online: Fachgebiet P<span>ä</span>dagogische Psychologie</em>. <span>Beltz Juventa Verlag</span>. <a href="https://www.beltz.de/fachmedien/erziehungswissenschaft/enzyklopaedie_erziehungswissenschaft_online_eeo/fachgebiet/13-paedagogische-psychologie.html">https://www.beltz.de/fachmedien/erziehungswissenschaft/enzyklopaedie_erziehungswissenschaft_online_eeo/fachgebiet/13-paedagogische-psychologie.html</a>
+</div>
+<div id="ref-Bergk.1988" class="csl-entry" role="listitem">
+Bergk, M. (1988). Aktives Zuh<span>ö</span>ren beim Vorlesen. <em>Praxis Deutsch</em>, <em>88</em>, 33–37.
+</div>
+<div id="ref-Bergmann.2008" class="csl-entry" role="listitem">
+Bergmann, K. (2008). Anleitungen zum Zuh<span>ö</span>ren: Ganz Ohr werden und sein im Unterricht. <em>Grundschulunterricht. Deutsch</em>, <em>1</em>, 17–22.
+</div>
+<div id="ref-Berkemeyer.2019" class="csl-entry" role="listitem">
+Berkemeyer, N., Bos, W., &amp; Hermstein, B. (Hrsg.). (2019a). <em>Schulreform: Zug<span>ä</span>nge, Gegenst<span>ä</span>nde, Trends</em>. Beltz. <a href="https://content-select.com/media/moz_viewer/5c84e9c9-1e6c-490b-8027-646eb0dd2d03/language:de">https://content-select.com/media/moz_viewer/5c84e9c9-1e6c-490b-8027-646eb0dd2d03/language:de</a>
+</div>
+<div id="ref-Berkemeyer.2019b" class="csl-entry" role="listitem">
+Berkemeyer, N., Bos, W., &amp; Hermstein, B. (Hrsg.). (2019b). <em>Schulreform: Zug<span>ä</span>nge, Gegenst<span>ä</span>nde, Trends</em>. Beltz. <a href="https://content-select.com/media/moz_viewer/5c84e9c9-1e6c-490b-8027-646eb0dd2d03/language:de">https://content-select.com/media/moz_viewer/5c84e9c9-1e6c-490b-8027-646eb0dd2d03/language:de</a>
+</div>
+<div id="ref-Bernius.2007" class="csl-entry" role="listitem">
+Bernius, V. (2007). Wann etwas <span>"</span>Sinn macht<span>"</span>: Vom H<span>ö</span>ren und Zuh<span>ö</span>ren. In V. Bernius, P. Kemper, R. Oehler, &amp; K.-H. Wellmann (Hrsg.), <em>Erlebnis Zuh<span>ö</span>ren</em> (S. 189–201). <span>Vandenhoeck <span>&amp;</span> Ruprecht</span>.
+</div>
+<div id="ref-Bernius.2010" class="csl-entry" role="listitem">
+Bernius, V., &amp; Imhof, M. (Hrsg.). (2010). <em>Zuh<span>ö</span>rkompetenz in Unterricht und Schule: Beitr<span>ä</span>ge aus Wissenschaft und Praxis</em> (Bd. 8). <span>Vandenhoeck <span>&amp;</span> Ruprecht</span>. <a href="https://elibrary.utb.de/doi/epdf/10.5555/9783647480084">https://elibrary.utb.de/doi/epdf/10.5555/9783647480084</a>
+</div>
+<div id="ref-Bernius.2007b" class="csl-entry" role="listitem">
+Bernius, V., Kemper, P., Oehler, R., &amp; Wellmann, K.-H. (Hrsg.). (2007). <em>Erlebnis Zuh<span>ö</span>ren: Eine Schl<span>ü</span>sselkompetenz wiederentdecken</em> (Bd. 7). <span>Vandenhoeck <span>&amp;</span> Ruprecht</span>.
+</div>
+<div id="ref-BertschiKaufmann.2007" class="csl-entry" role="listitem">
+Bertschi-Kaufmann, A. (Hrsg.). (2007). <em>Lesekompetenz, Leseleistung, Lesef<span>ö</span>rderung: Grundlagen, Modelle und Materialien</em>. Klett/Kallmeyer.
+</div>
+<div id="ref-BertschiKaufmann.2021" class="csl-entry" role="listitem">
+Bertschi-Kaufmann, A. (Hrsg.). (2021). <em>Lesekompetenz - Leseleistung - Lesef<span>ö</span>rderung. Grundlagen, Modelle und Materialien</em>. Kallmeyer.
+</div>
+<div id="ref-Blum.2012" class="csl-entry" role="listitem">
+Blum, W., Borromeo Ferri, R., &amp; Maaß, K. (Hrsg.). (2012). <em>Mathematikunterricht im Kontext von Realit<span>ä</span>t, Kultur und Lehrerprofessionalit<span>ä</span>t</em>. <span>Springer Spektrum</span>. <a href="https://link.springer.com/book/10.1007%2F978-3-8348-2389-2">https://link.springer.com/book/10.1007%2F978-3-8348-2389-2</a>
+</div>
+<div id="ref-BMBFBundesministeriumfurBildungundForschung.2007" class="csl-entry" role="listitem">
+BMBF Bundesministerium für Bildung und Forschung. (2007). <em>F<span>ö</span>rderung von Lesekompetenz: Expertise</em>. BMBF.
+</div>
+<div id="ref-Bollnow.1966" class="csl-entry" role="listitem">
+Bollnow, O. F. (1966). <em>Sprache und Erziehung</em>. Kohlhammer.
+</div>
+<div id="ref-Bos.2003" class="csl-entry" role="listitem">
+Bos, W., Lankes, E.-M., Prenzel, M., Schwippert, K., Walther, G., &amp; Valtin, R. (2003). <em>Erste Ergebnisse aus IGLU: Sch<span>ü</span>lerleistungen am Ende der vierten Jahrgangsstufe im internationalen Vergleich</em>. Waxmann.
+</div>
+<div id="ref-Bredel.2006b" class="csl-entry" role="listitem">
+Bredel, U. (2006). Orthographische Zweifelsf<span>ä</span>lle. <em>Praxis Deutsch</em>, <em>198</em>, 6–15.
+</div>
+<div id="ref-Bredel.2007" class="csl-entry" role="listitem">
+Bredel, U. (2007a). <em>Sprachbetrachtung und Grammatikunterricht</em>. <span>Sch<span>ö</span>ningh Verlag</span>.
+</div>
+<div id="ref-Bredel.2007b" class="csl-entry" role="listitem">
+Bredel, U. (2007b). <em>Sprachbetrachtung und Grammatikunterricht</em>. Sch<span>ö</span>ningh. <a href="https://elibrary.utb.de/doi/book/10.36198/9783838528908">https://elibrary.utb.de/doi/book/10.36198/9783838528908</a>
+</div>
+<div id="ref-Bredel.2011c" class="csl-entry" role="listitem">
+Bredel, U. (2011a). <em>Interpunktion</em>. Winter.
+</div>
+<div id="ref-Bredel.2011b" class="csl-entry" role="listitem">
+Bredel, U. (2011b). Merks<span>ä</span>tze - Die Relation zwischen orthographischem K<span>ö</span>nnen und orthographischem Wissen. In U. Bredel, T. Reißig, &amp; W. Ulrich (Hrsg.), <em>Weiterf<span>ü</span>hrender Orthographieerwerb</em> (S. 409–421). <span>Schneider Verlag Hohengehren</span>.
+</div>
+<div id="ref-Bredel.2011" class="csl-entry" role="listitem">
+Bredel, U. (2011c). <em>Wo steht das Verb? Haupts<span>ä</span>tze und Nebens<span>ä</span>tze erkennen lernen</em>. <em>226</em>, 30–39.
+</div>
+<div id="ref-Bredel.2006" class="csl-entry" role="listitem">
+Bredel, U., Günther, H., Klotz, P., Ossner, J., &amp; Siebert-Ott, G. (Hrsg.). (2006). <em>Didaktik der deutschen Sprache: Ein Handbuch</em>. Brill/Sch<span>ö</span>ningh. <a href="https://doi.org/10.36198/9783838582368">https://doi.org/10.36198/9783838582368</a>
+</div>
+<div id="ref-Bredel.2003" class="csl-entry" role="listitem">
+Bredel, U., Günther, H., Ossner, J., &amp; Siebert-Ott, G. (Hrsg.). (2003). <em>Didaktik der Deutschen Sprache</em> (Bd. 2). <span>Sch<span>ö</span>ningh Verlag</span>.
+</div>
+<div id="ref-Bredel.2010" class="csl-entry" role="listitem">
+Bredel, U., Müller, A., &amp; Hinney, G. (Hrsg.). (2010). <em>Schriftsystem und Schrifterwerb: linguistisch – didaktisch – empirisch</em>. <span>de Gruyter</span>. <a href="https://doi.org/10.1515/9783110232257">https://doi.org/10.1515/9783110232257</a>
+</div>
+<div id="ref-Bredel." class="csl-entry" role="listitem">
+Bredel, U., &amp; Reißig, T. (Hrsg.). (o.&nbsp;J.). <em>Weiterf<span>ü</span>hrender Orthographieerwerb</em> (Bd. 5). <span>Schneider Verlag Hohengehren</span>.
+</div>
+<div id="ref-Bredel.2011e" class="csl-entry" role="listitem">
+Bredel, U., &amp; Reißig, T. (Hrsg.). (2011). <em>Weiterf<span>ü</span>hrender Orthographieerwerb</em>. <span>Schneider Verlag Hohengehren</span>.
+</div>
+<div id="ref-Bredel.2011d" class="csl-entry" role="listitem">
+Bredel, U., Reißig, T., &amp; Ulrich, W. (Hrsg.). (2011). <em>Weiterf<span>ü</span>hrender Orthographieerwerb</em>. <span>Schneider Verlag Hohengehren</span>.
+</div>
+<div id="ref-BremerichVos.2009" class="csl-entry" role="listitem">
+Bremerich-Vos, A., &amp; Böhme, K. (2009). Kompetenzdiagnostik im Bereich <span>„</span>Sprache und Sprachgebrauch untersuchen<span>“</span>. In D. Granzer, O. Köller, &amp; A. Bremerich-Vos (Hrsg.), <em>Bildungsstandards Deutsch und Mathematik. Leistungsmessung in der Grundschule</em> (S. 376–392). Beltz.
+</div>
+<div id="ref-BremerichVos.2008" class="csl-entry" role="listitem">
+Bremerich-Vos, A., Granzer, D., &amp; Köller, O. (Hrsg.). (2008). <em>Lernstandsbestimmung im Fach Deutsch: Gute Aufgaben f<span>ü</span>r den Unterricht</em>. Beltz.
+</div>
+<div id="ref-Bruggemann.2019" class="csl-entry" role="listitem">
+Brüggemann, J. (2019). Bitte sch<span>ö</span>n sachlich! Literaturwissenschaftliche und fachdidaktische Perspektiven auf Sachtexte und Sachtextlekt<span>ü</span>re. In J. Brüggemann (Hrsg.), <em>Mitteilungen des Deutschen Germanistenverbandes</em> (No. 2).
+</div>
+<div id="ref-Bruning.2006" class="csl-entry" role="listitem">
+Brüning, L. (2006). Aufmerksamkeit f<span>ö</span>rdern: effiziente Formen der Partnerarbeit. <em>Deutschunterricht</em>, <em>59</em>, 14–17.
+</div>
+<div id="ref-Budde.2012" class="csl-entry" role="listitem">
+Budde, M., Riegler, S., &amp; Wiprächtiger-Geppert, M. (2012). <em>Sprachdidaktik</em>. <span>Akademie Verlag</span>. <a href="https://doi.org/10.1524/9783050062907">https://doi.org/10.1524/9783050062907</a>
+</div>
+<div id="ref-Bulut.2022" class="csl-entry" role="listitem">
+Bulut, N., Hippmann, K., Jambor-Fahlen, S., Knopp, M., Linnemann, M., &amp; Stephany, S. (Hrsg.). (2022). <em>Sprachliche Bildung in der digitalisierten Gesellschaft. Was wir in Zukunft wissen und k<span>ö</span>nnen m<span>ü</span>ssen</em>. Waxmann. <a href="https://www.pedocs.de/volltexte/2023/26083/pdf/Knopp_et_al_2022_Sprachliche_Bildung_in.pdf">https://www.pedocs.de/volltexte/2023/26083/pdf/Knopp_et_al_2022_Sprachliche_Bildung_in.pdf</a>
+</div>
+<div id="ref-BundesministeriumfurBildungundForschung.2003" class="csl-entry" role="listitem">
+Bundesministerium für Bildung und Forschung. (2003). <em>Zur Entwicklung nationaler Bildungsstandards eine Expertise</em>. BMBF. <a href="http://www.ak-mathe.muc.kobis.de/Download/Arbeitskreis/expertise_bildungsstandards.pdf">http://www.ak-mathe.muc.kobis.de/Download/Arbeitskreis/expertise_bildungsstandards.pdf</a>
+</div>
+<div id="ref-Caspari.2010" class="csl-entry" role="listitem">
+Caspari, D., Kleppin, K., &amp; Grotjahn, R. (2010). Testaufgaben und Lernaufgaben. In R. Porsch, B. Tesch, &amp; O. Köller (Hrsg.), <em>Standardbasierte Testentwicklung und Leistungsmessung Franz<span>ö</span>sisch in der Sekundarstufe I.</em> (S. 46–68). Waxmann.
+</div>
+<div id="ref-Christmann.2002" class="csl-entry" role="listitem">
+Christmann, U., &amp; Groeben, N. (2002). Anforderungen und Einflussfaktoren bei Sach- und Informationstexten. In N. Groeben &amp; B. Hurrelmann (Hrsg.), <em>Lesekompetenz</em> (S. 150–173). <span>Juventa Verlag</span>.
+</div>
+<div id="ref-Cybinski.2004" class="csl-entry" role="listitem">
+Cybinski, H., Neugebauer, C., &amp; Schiller, F. (2004). <em>H<span>ö</span>rspiele selber machen: inkl. CD mit 80 Ger<span>ä</span>uschen</em>. <span>Verlag an der Ruhr</span>.
+</div>
+<div id="ref-Dehn.1987" class="csl-entry" role="listitem">
+Dehn, M. (1987). Die Faszination des Leeren Blattes. <em>Die Grundschulzeitschrift. Lesen und Schreiben lernen</em>, <em>7</em>.
+</div>
+<div id="ref-Demmrich.2004" class="csl-entry" role="listitem">
+Demmrich, A., &amp; Brunstein, J. C. (2004). F<span>ö</span>rderung sinnverstehenden Lesens durch <span>„</span>Reziprokes Lehren<span>“</span>. In G. W. Lauth, M. Grünke, &amp; J. C. Brunstein (Hrsg.), <em>Interventionen bei Lernst<span>ö</span>rungen</em> (S. 279–290). <span>Hogrefe Verlag f<span>ü</span>r Psychologie</span>.
+</div>
+<div id="ref-Denzel.2024" class="csl-entry" role="listitem">
+Denzel, J. (2024). <em>Vergleichsarbeiten (VERA): Eine empirische Untersuchung zur Akzeptanz bei Lehrkr<span>ä</span>ften</em> [Dissertation, <span>Rheinland-Pf<span>ä</span>lzische Technische Universit<span>ä</span>t Kaiserslautern-Landau</span>]. <a href="https://kluedo.ub.rptu.de/frontdoor/deliver/index/docId/8429/file/Dissertation_Johanna+Detzel_Publikationsfassung.pdf">https://kluedo.ub.rptu.de/frontdoor/deliver/index/docId/8429/file/Dissertation_Johanna+Detzel_Publikationsfassung.pdf</a>
+</div>
+<div id="ref-DESIKonsortium.2006" class="csl-entry" role="listitem">
+DESI-Konsortium. (2006). <em>Unterricht und Kompetenzerwerb in Deutsch und Englisch. Zentrale Befunde der Studie Deutsch-Englisch-Sch<span>ü</span>lerleistungen-International (DESI)</em>. Dipf. <a href="https://www.dipf.de/de/forschung/pdf-forschung/llib/desi-zentrale-befunde">https://www.dipf.de/de/forschung/pdf-forschung/llib/desi-zentrale-befunde</a>
+</div>
+<div id="ref-Diemer.2012" class="csl-entry" role="listitem">
+Diemer, T., &amp; Kuper, H. (2012). Vergleichsarbeiten: Theoretische und empirische Betrachtungen zum Nutzen des Vergleichens. In U. Maier, A. Wacker, &amp; J. Wissinger (Hrsg.), <em>Schul- und Unterrichtsreform durch ergebnisorientierte Steuerung: Empirische Befunde und forschungsmethodische Implikationen</em> (S. 225–245). Springer. <a href="https://link.springer.com/chapter/10.1007/978-3-531-94183-7_10">https://link.springer.com/chapter/10.1007/978-3-531-94183-7_10</a>
+</div>
+<div id="ref-Dreizehnter.2011" class="csl-entry" role="listitem">
+Dreizehnter, A., &amp; Schönenberg, S. (2011). Wenn das Geld auf der bank liegt <span class="math inline">\(\ldots\)</span>: Mehrdeutige W<span>ö</span>rter im Unterricht. <em>Deutsch. Unterrichtspraxis f<span class="nocase">ü</span>r die Klassen 5 bis 10</em>, <em>27</em>, 8–11.
+</div>
+<div id="ref-Drommler.2006" class="csl-entry" role="listitem">
+Drommler, R., Linnemann, M., Becker-Mrotzek, M., Haider, H., Stevens, T., &amp; Wahlers, J. (2006). <em>Lesetest für Berufsschüler/innen LTB-3: Handbuch</em>. <span>Gilles <span>&amp;</span> Francke Verlag</span>. <a href="https://www.uni-koeln.de/phil-fak/deutsch/sprachdidaktik/koebes/ManualLTB-3.pdf">https://www.uni-koeln.de/phil-fak/deutsch/sprachdidaktik/koebes/ManualLTB-3.pdf</a>
+</div>
+<div id="ref-DrukeNoe.2012" class="csl-entry" role="listitem">
+Drüke-Noe, C. (2012). K<span>ö</span>nnen Lernstandserhebungen einen Beitrag zur Unterrichtsentwicklung leisten? In W. Blum, R. Borromeo Ferri, &amp; K. Maaß (Hrsg.), <em>Mathematikunterricht im Kontext von Realit<span>ä</span>t, Kultur und Lehrerprofessionalit<span>ä</span>t</em> (S. 284–293). <span>Springer Spektrum</span>. <a href="https://link.springer.com/book/10.1007%2F978-3-8348-2389-2">https://link.springer.com/book/10.1007%2F978-3-8348-2389-2</a>
+</div>
+<div id="ref-Dudenredaktion.2013" class="csl-entry" role="listitem">
+Dudenredaktion (Hrsg.). (2013). <em>Sch<span>ü</span>lerduden Grammatik</em>.
+</div>
+<div id="ref-Efing.2006" class="csl-entry" role="listitem">
+Efing, C., &amp; Janich, N. (Hrsg.). (2006). <em>F<span>ö</span>rderung der berufsbezogenen Sprachkompetenz: Befunde und Perspektiven</em>. Eusl-Verlagsgesellschaft.
+</div>
+<div id="ref-Ehlers.2006" class="csl-entry" role="listitem">
+Ehlers, S. (2006). Entwicklung von Lesekompetenz in der Fremdsprache. <em>Babylonia</em>, <em>2006</em>(3-4), 31–38. <a href="http://babylonia.ch/fileadmin/user_upload/documents/2006-3-4/Baby3-4_06Ehlers.pdf">http://babylonia.ch/fileadmin/user_upload/documents/2006-3-4/Baby3-4_06Ehlers.pdf</a>
+</div>
+<div id="ref-Einecke.1998" class="csl-entry" role="listitem">
+Einecke, G. (1998). <em>Unterrichtsideen integrierter Grammatikunterricht: Textproduktion und Grammatik: 5.-10. Schuljahr</em>. <span>Klett Verlag</span>.
+</div>
+<div id="ref-Eisenberg.2004" class="csl-entry" role="listitem">
+Eisenberg, G. (2004). H<span>ö</span>r mal richtig hin! Ger<span>ä</span>usche und Kl<span>ä</span>nge identifizieren. <em>Deutsch</em>, <em>1</em>, 10–13.
+</div>
+<div id="ref-Eisenberg.2013" class="csl-entry" role="listitem">
+Eisenberg, P. (2013a). <em>Grundriss der deutschen Grammatik: Band 1: Das Wort</em>. <span>J.B. Metzler</span>. <a href="https://link.springer.com/book/10.1007/978-3-476-00757-5">https://link.springer.com/book/10.1007/978-3-476-00757-5</a>
+</div>
+<div id="ref-Eisenberg.2013b" class="csl-entry" role="listitem">
+Eisenberg, P. (2013b). <em>Grundriss der deutschen Grammatik: Band 2: Der Satz</em>. <span>J.B. Metzler</span>. <a href="https://link.springer.com/book/10.1007/978-3-476-00743-8">https://link.springer.com/book/10.1007/978-3-476-00743-8</a>
+</div>
+<div id="ref-Eisenberg.2001" class="csl-entry" role="listitem">
+Eisenberg, P., &amp; Feilke, H. (2001). Rechtschreiben erforschen. <em>Praxis Deutsch</em>, <em>170</em>, 6–15.
+</div>
+<div id="ref-Eisenberg.1993" class="csl-entry" role="listitem">
+Eisenberg, P., &amp; Klotz, P. (Hrsg.). (1993). <em>Sprache gebrauchen – Sprachwissen erwerben</em>. <span>Klett Verlag</span>.
+</div>
+<div id="ref-Eisenberg.1994" class="csl-entry" role="listitem">
+Eisenberg, P., Spitta, G., &amp; Voigt, G. (1994). Schreiben: Rechtschreiben. <em>Praxis Deutsch</em>, <em>124</em>, 14–25.
+</div>
+<div id="ref-Eriksson.2009" class="csl-entry" role="listitem">
+Eriksson, B. (2009). Bildungsstandards f<span>ü</span>r die Grundschule. In M. Becker-Mrotzek (Hrsg.), <em>M<span>ü</span>ndliche Kommunikation und Gespr<span>ä</span>chsdidaktik</em> (S. 144–159). <span>Schneider-Verl. Hohengehren</span>. <a href="https://elibrary.utb.de/action/showBook?doi=10.3278%2F9783763963669">https://elibrary.utb.de/action/showBook?doi=10.3278%2F9783763963669</a>
+</div>
+<div id="ref-Eriksson.2013" class="csl-entry" role="listitem">
+Eriksson, B., Luginbühl, M., &amp; Tuor, N. (Hrsg.). (2013). <em>Sprechen und Zuh<span>ö</span>ren - gefragte Kompetenzen? <span>Ü</span>berzeugungen zur M<span>ü</span>ndlichkeit in Schule und Beruf</em> (Bd. 2).
+</div>
+<div id="ref-Esslinger.2018" class="csl-entry" role="listitem">
+Esslinger, G. (2018). Wie steuern Kommas das Lesen? <em>Deutschunterricht</em>, <em>1</em>, 20–25.
+</div>
+<div id="ref-Esslinger.2020" class="csl-entry" role="listitem">
+Esslinger, G., &amp; Noack, C. (2020). <em>Das Komma und seine Didaktik</em>. <span>Schneider Verlag Hohengehren</span>. <a href="https://doi.org/10.46586/SLLD.146">https://doi.org/10.46586/SLLD.146</a>
+</div>
+<div id="ref-Europarat.2001" class="csl-entry" role="listitem">
+Europarat. (2001). <em>Gemeinsamer europ<span>ä</span>ischer Referenzrahmen f<span>ü</span>r Sprachen: Lernen, Lehren, Beurteilen</em>. Langenscheidt.
+</div>
+<div id="ref-Feilke.2002" class="csl-entry" role="listitem">
+Feilke, H. (2002). Lesen durch Schreiben. <em>Praxis Deutsch</em>, <em>176</em>, 58–66.
+</div>
+<div id="ref-Feilke.2020" class="csl-entry" role="listitem">
+Feilke, H., &amp; Rezat, S. (2020). Textprozeduren: Werkzeuge f<span>ü</span>r Schreiben und Lesen. <em>Praxis Deutsch</em>, <em>281</em>, 4–13.
+</div>
+<div id="ref-FerencikLehmkuhl.2024" class="csl-entry" role="listitem">
+Ferencik-Lehmkuhl, D., Henschel, S., Jost, J., Schnitzler, C., Stehr, C., &amp; Stanat, P. (2024). Lesekompetenz in der Sekundarstufe I datengest<span>ü</span>tzt f<span>ö</span>rdern. Untersuchung der Wirksamkeit einer Lehrkr<span>ä</span>ftefortbildung zur datengest<span>ü</span>tzten Unterrichtsentwicklung mit den VERA-Ergebnissen. In Trägerkonsortium BiSS-Transfer (Hrsg.), <em>BiSS-Transfer: Potenziale sichern. Arbeitsergebnisse, L<span>ä</span>nderperspektiven und Impulse</em> (S. 45–50).
+</div>
+<div id="ref-Fiehler.2009" class="csl-entry" role="listitem">
+Fiehler, R. (2009). M<span>ü</span>ndliche Kommunikation. In M. Becker-Mrotzek (Hrsg.), <em>M<span>ü</span>ndliche Kommunikation und Gespr<span>ä</span>chsdidaktik</em> (S. 25–51). <span>Schneider-Verl. Hohengehren</span>. <a href="https://elibrary.utb.de/action/showBook?doi=10.3278%2F9783763963669">https://elibrary.utb.de/action/showBook?doi=10.3278%2F9783763963669</a>
+</div>
+<div id="ref-Fix.2008" class="csl-entry" role="listitem">
+Fix, M. (2008). <em>Texte schreiben: Schreibprozesse im Deutschunterricht</em>. Sch<span>ö</span>ningh. <a href="https://elibrary.utb.de/doi/book/10.36198/9783838528090">https://elibrary.utb.de/doi/book/10.36198/9783838528090</a>
+</div>
+<div id="ref-Frederking.2010" class="csl-entry" role="listitem">
+Frederking, V., Huneke, H.-W., Krommer, A., &amp; Meier, C. (Hrsg.). (2010). <em>Taschenbuch des Deutschunterrichts: Literatur- und Mediendidaktik</em> (Bd. 2). Schneider-Verlag.
+</div>
+<div id="ref-Fritz.2005" class="csl-entry" role="listitem">
+Fritz, R. (2005). <span>"</span>Was ist eigentlich franz<span>ö</span>sischer Hiphop?<span>"</span>: Das Gespr<span>ä</span>ch zwischen <span>"</span>Experte<span>"</span> und <span>"</span>Laie<span>"</span> als Grundlage einer Pr<span>ä</span>sentationsgestaltung. <em>Praxis Deutsch</em>, <em>190</em>, 27–35.
+</div>
+<div id="ref-Fuchs." class="csl-entry" role="listitem">
+Fuchs, G. (o.&nbsp;J.). <em>Prognoseg<span>ü</span>te bildungsstandardbasierter Tests</em> [Dissertation, <span>Freie Universit<span>ä</span>t Berlin</span>]. <a href="https://refubium.fu-berlin.de/bitstream/handle/fub188/23912/Dissertation_Gesine_Fuchs.pdf?sequence=3&amp;isAllowed=y">https://refubium.fu-berlin.de/bitstream/handle/fub188/23912/Dissertation_Gesine_Fuchs.pdf?sequence=3&amp;isAllowed=y</a>
+</div>
+<div id="ref-Fuhrhop.2006" class="csl-entry" role="listitem">
+Fuhrhop, N. (2006). Erfolg versprechend oder erfolgversprechend? <em>Praxis Deutsch</em>, <em>198</em>, 48–53.
+</div>
+<div id="ref-Fuhrhop.2009" class="csl-entry" role="listitem">
+Fuhrhop, N. (2009). <em>Orthografie</em>. <span>Universit<span>ä</span>tsverlag Winter</span>.
+</div>
+<div id="ref-Fuhrhop.2017" class="csl-entry" role="listitem">
+Fuhrhop, N. (2017). Getrennt- und Zusammenschreibung. In J. Baumann, C. Kammler, &amp; A. Müller (Hrsg.), <em>Handbuch Deutschunterricht</em> (S. 276–279). Klett/Kallmeyer.
+</div>
+<div id="ref-Fuhrhop.2010" class="csl-entry" role="listitem">
+Fuhrhop, N., &amp; Müller, A. (2010). Schriftstrukturen entdecken. <em>Praxis Deutsch</em>, <em>221</em>, 4–13.
+</div>
+<div id="ref-Fuhrhop.2015" class="csl-entry" role="listitem">
+Fuhrhop, N., &amp; Schreiber, N. (2015). Hauptgleis – Nebengleis – Weiche: Wie wir Einsch<span>ü</span>be sichtbar machen k<span>ö</span>nnen. <em>Praxis Deutsch</em>, <em>254</em>, 48–53.
+</div>
+<div id="ref-Funke.2005" class="csl-entry" role="listitem">
+Funke, R. (2005). Sprachliches im Blickfeld des Wissens: Grammatische Kenntnisse von Sch<span>ü</span>lerinnen und Sch<span>ü</span>lern. <em>Germanistische Linguistik</em>, <em>254</em>.
+</div>
+<div id="ref-Gailberger.2011" class="csl-entry" role="listitem">
+Gailberger, S. (2011a). <em>Lesen durch H<span>ö</span>ren: Lesef<span>ö</span>rderung in der Sek. I mit H<span>ö</span>rbüchern und neuen Lesestrategien</em>. Beltz.
+</div>
+<div id="ref-Gailberger.2011b" class="csl-entry" role="listitem">
+Gailberger, S. (2011b). <em>Lesen durch H<span>ö</span>ren: Lesef<span>ö</span>rderung in der Sek. I mit H<span>ö</span>rb<span>ü</span>chern und neuen Lesestrategien</em>. Beltz.
+</div>
+<div id="ref-Gailberger.2022" class="csl-entry" role="listitem">
+Gailberger, S., &amp; Wietzke, F. (Hrsg.). (2022). <em>Handbuch Kompetenzorientierter Deutschunterricht</em> (2. Auflage). <span>Julius Beltz GmbH <span>&amp;</span> Co. KG</span>. <a href="https://content-select.com/de/portal/media/view/6230dcac-d3a0-4b23-896d-1d0db0dd2d03">https://content-select.com/de/portal/media/view/6230dcac-d3a0-4b23-896d-1d0db0dd2d03</a>
+</div>
+<div id="ref-Gaiser.2006" class="csl-entry" role="listitem">
+Gaiser, G., &amp; Münchenbach, S. (Hrsg.). (2006a). <em>Leselust dank Lesekompetenz: Leseerziehung als f<span>ä</span>cherübergreifende Aufgabe</em>. <span>Auer Verlag</span>.
+</div>
+<div id="ref-Gaiser.2006b" class="csl-entry" role="listitem">
+Gaiser, G., &amp; Münchenbach, S. (Hrsg.). (2006b). <em>Leselust dank Lesekompetenz: Leseerziehung als f<span>ä</span>cherübergreifende Aufgabe</em>. <span>Auer Verlag</span>.
+</div>
+<div id="ref-Gallmann.2013" class="csl-entry" role="listitem">
+Gallmann, P., Geipel, M., Sitta, H., &amp; Wagner, A. (2013). <em>Sch<span>ü</span>lerduden Grammatik: Die Schulgrammatik zum Lernen, Nachschlagen und <span>Ü</span>ben: Mit <span>Ü</span>bungen und L<span>ö</span>sungen!</em> Dudenverlag.
+</div>
+<div id="ref-Gasteiger.2019" class="csl-entry" role="listitem">
+Gasteiger, H., &amp; Götz, D. (2019). Anforderungen bei der Achsenspiegelung – Ein empirisch gest<span>ü</span>tztes Kategorienschema. <em>Journal f<span class="nocase">ü</span>r Mathematik-Didaktik</em>, <em>40 (2)</em>, 289–322. <a href="https://xn--Journal fr Mathematik-Didaktik-dfd">xn--Journal fr Mathematik-Didaktik-dfd</a>
+</div>
+<div id="ref-Gasteiger.2018" class="csl-entry" role="listitem">
+Gasteiger, H., &amp; Krelle, M. (2018). 10 Jahre Vergleichsarbeiten: VERA – und was dann? <em>Grundschulmagazin</em>, <em>86 (4)</em>, 7–11.
+</div>
+<div id="ref-GasteigerKlicpera.2004" class="csl-entry" role="listitem">
+Gasteiger-Klicpera, B., &amp; Klicpera, C. (2004). Aufbau von Lesefertigkeiten. In G. W. Lauth, M. Grünke, &amp; J. C. Brunstein (Hrsg.), <em>Interventionen bei Lernst<span>ö</span>rungen</em> (S. 268–279). <span>Hogrefe Verlag f<span>ü</span>r Psychologie</span>.
+</div>
+<div id="ref-GemeinnutzigeStiftungZuhoren.06.06.2025" class="csl-entry" role="listitem">
+Gemeinnützige Stiftung Zuhören. (06.06.2025). <em>Zuh<span>ö</span>r-Wissen | Stiftung Zuh<span>ö</span>ren</em>. <a href="https://www.stiftung-zuhoeren.de/zuhoer-wissen/">https://www.stiftung-zuhoeren.de/zuhoer-wissen/</a>
+</div>
+<div id="ref-Gnutzmann.2003" class="csl-entry" role="listitem">
+Gnutzmann, C. (2003). Language Awareness, Sprachbewusstheit, Sprachbewusstsein. In K.-R. Bausch, H. Christ, &amp; H.-J. Krumm (Hrsg.), <em>Handbuch Fremdsprachenunterricht</em> (S. 335–339). Francke.
+</div>
+<div id="ref-Gold.2006" class="csl-entry" role="listitem">
+Gold, A., Mokhlesgerami, J., Rühl, K., Schreblowski, S., &amp; Souvignier, E. (2006). <em>Wir werden Textdetektive: Lehrermanual</em>. <span>Vandenhoeck <span>&amp;</span> Ruprecht</span>.
+</div>
+<div id="ref-Gorschluter.2005" class="csl-entry" role="listitem">
+Gorschlüter, S. (2005). Wohin? Wohin? Sch<span>ö</span>ne M<span>ü</span>llerin! <em>Praxis Deutsch</em>, <em>191</em>, 36–40.
+</div>
+<div id="ref-Granzer.2009" class="csl-entry" role="listitem">
+Granzer, D., Köller, O., &amp; Bremerich-Vos, A. (Hrsg.). (2009). <em>Bildungsstandards Deutsch und Mathematik. Leistungsmessung in der Grundschule</em>. Beltz.
+</div>
+<div id="ref-GranzowEmden.2013" class="csl-entry" role="listitem">
+Granzow-Emden, M. (2013). <em>Deutsche Grammatik verstehen und unterrichten</em>. <span>Narr Verlag</span>. <a href="https://elibrary.utb.de/doi/book/10.5555/9783823376569">https://elibrary.utb.de/doi/book/10.5555/9783823376569</a>
+</div>
+<div id="ref-GravertGotter.2005" class="csl-entry" role="listitem">
+Gravert-Götter, H. (2005). Wer liest was? <em>Praxis Deutsch</em>, <em>194</em>, 28–30.
+</div>
+<div id="ref-Groeben.2002" class="csl-entry" role="listitem">
+Groeben, N., &amp; Hurrelmann, B. (Hrsg.). (2002a). <em>Lesekompetenz: Bedingungen, Dimensionen, Funktionen</em>. <span>Juventa Verlag</span>.
+</div>
+<div id="ref-Groeben.2002b" class="csl-entry" role="listitem">
+Groeben, N., &amp; Hurrelmann, B. (Hrsg.). (2002b). <em>Lesekompetenz: Bedingungen, Dimensionen, Funktionen</em>. <span>Juventa Verlag</span>.
+</div>
+<div id="ref-GroOphoff.2018" class="csl-entry" role="listitem">
+Groß Ophoff, J., Helmke, A., Hosenfeld, I., &amp; Koch, U. (2018). <em>Ergebnisr<span>ü</span>ckmeldungen und ihre Rezeption im Projekt VERA</em>. <a href="https://www.researchgate.net/profile/Jana-Gross-Ophoff/publication/241109304_Ergebnisruckmeldungen_und_ihre_Rezeption_im_Projekt_VERA/links/576cfd2908aedab13b85fc96/Ergebnisrueckmeldungen-und-ihre-Rezeption-im-Projekt-VERA.pdf">https://www.researchgate.net/profile/Jana-Gross-Ophoff/publication/241109304_Ergebnisruckmeldungen_und_ihre_Rezeption_im_Projekt_VERA/links/576cfd2908aedab13b85fc96/Ergebnisrueckmeldungen-und-ihre-Rezeption-im-Projekt-VERA.pdf</a>
+</div>
+<div id="ref-GroOphoff.2007" class="csl-entry" role="listitem">
+Groß Ophoff, J., Hosenfeld, I., Koch, U., &amp; Mett, B. (2007). Unterst<span>ü</span>tzungsangebote im Zusammenhang mit den Vergleichsarbeiten in Mecklenburg-Vorpommern. In C. Beinbrech, P. Hanke, A. K. Hein, T. Kleickmann, K. Möller, &amp; R. Schages (Hrsg.), <em>Qualit<span>ä</span>t von Grundschulunterricht: Entwickeln, erfassen und bewerten</em> (S. 83–86). Springer. <a href="https://link.springer.com/chapter/10.1007/978-3-531-90755-0_6">https://link.springer.com/chapter/10.1007/978-3-531-90755-0_6</a>
+</div>
+<div id="ref-GroOphoff." class="csl-entry" role="listitem">
+Groß Ophoff, J., &amp; Speck-Hamdan, A. (o.&nbsp;J.). Mit VERA Lesekompetenz ermitteln und f<span>ö</span>rdern. <em>Grundschulunterricht: Deutsch</em>, <em>56 (2)</em>, 19–23. <a href="https://www.researchgate.net/publication/241109378_Mit_VERA_Lesekompetenz_ermitteln_und_fordern">https://www.researchgate.net/publication/241109378_Mit_VERA_Lesekompetenz_ermitteln_und_fordern</a>
+</div>
+<div id="ref-Grotjahn.2000" class="csl-entry" role="listitem">
+Grotjahn, R. (2000). Kognitive Determinanten der Schwierigkeit von fremdsprachlichen Lese- und H<span>ö</span>rverstehensaufgaben. Zur Prognose der Aufgabenschwierigkeit in Sprachtests. In C. Riemer (Hrsg.), <em>Kognitive Aspekte des Lehrens und Lernens von Fremdsprachen. Festschrift f<span>ü</span>r Willis J. Edmondson zum 60. Geburtstag</em> (S. 338–353). <span>Gunter Narr</span>.
+</div>
+<div id="ref-Grotjahn.2009" class="csl-entry" role="listitem">
+Grotjahn, R. (2009). Testen im Fremdsprachenunterricht: Aspekte der Qualit<span>ä</span>tsentwicklung. <em>Praxis Fremdsprachenunterricht</em>, <em>6</em>(1), 4–8.
+</div>
+<div id="ref-Grotjahn.2010" class="csl-entry" role="listitem">
+Grotjahn, R., &amp; Tesch, B. (2010). Messung der H<span>ö</span>rverstehenskompetenz im Fach Franz<span>ö</span>sisch. In R. Porsch, B. Tesch, &amp; O. Köller (Hrsg.), <em>Standardbasierte Testentwicklung und Leistungsmessung Franz<span>ö</span>sisch in der Sekundarstufe I.</em> (S. 125–150). Waxmann.
+</div>
+<div id="ref-Grundler.2011" class="csl-entry" role="listitem">
+Grundler, E., &amp; Schönenberg, S. (2011). Sprachenentdecker werden: Sprachaufmerksamkeit als Haltung anbahnen. <em>Deutsch. Unterrichtspraxis f<span class="nocase">ü</span>r die Klassen 5 bis 10</em>, <em>27</em>, 30–31.
+</div>
+<div id="ref-Grundler.2014" class="csl-entry" role="listitem">
+Grundler, E., &amp; Spiegel, C. (Hrsg.). (2014). <em>Konzeptionen des M<span>ü</span>ndlichen: Wissenschaftliche Perspektiven und didaktische Konsequenzen: Bde. Bd. 3</em> (1. Aufl.). <span>Hep der Bildungsverl.</span>
+</div>
+<div id="ref-Grunkorn.2019" class="csl-entry" role="listitem">
+Grünkorn, J., Klieme, E., &amp; Stanat, P. (2019). Bildungsstandards als Kern des Bildungsmonitorings. In N. Berkemeyer, W. Bos, &amp; B. Hermstein (Hrsg.), <em>Schulreform: Zug<span>ä</span>nge, Gegenst<span>ä</span>nde, Trends</em> (S. 260–271). Beltz. <a href="https://content-select.com/media/moz_viewer/5c84e9c9-1e6c-490b-8027-646eb0dd2d03/language:de">https://content-select.com/media/moz_viewer/5c84e9c9-1e6c-490b-8027-646eb0dd2d03/language:de</a>
+</div>
+<div id="ref-Grutz.2006" class="csl-entry" role="listitem">
+Grütz, D., &amp; Pfaff, H. (2006). Sachtexte in der Hauptschule verstehen – vom Vorrang des Mündlichen. <em>ide - Informationen zur Deutschdidaktik. Zeitschrift f<span class="nocase">ü</span>r den Deutschunterricht in Wissenschaft und Schule</em>, <em>1</em>, 53–63. <a href="https://ide.aau.at/wp-content/uploads/2021/03/2006-1.pdf">https://ide.aau.at/wp-content/uploads/2021/03/2006-1.pdf</a>
+</div>
+<div id="ref-Gschwend.2014" class="csl-entry" role="listitem">
+Gschwend, R. (2014). Zuh<span>ö</span>ren und H<span>ö</span>rverstehen: Aspekte, Ziele und Kompetenzen. In E. Grundler &amp; C. Spiegel (Hrsg.), <em>Konzeptionen des M<span>ü</span>ndlichen</em> (S. 143–160). <span>Hep der Bildungsverl.</span>
+</div>
+<div id="ref-Gunther.1993" class="csl-entry" role="listitem">
+Günther, H. (1993). Erziehung zur Schriftlichkeit. In P. Eisenberg &amp; P. Klotz (Hrsg.), <em>Sprache gebrauchen – Sprachwissen erwerben</em> (S. 85–96). <span>Klett Verlag</span>.
+</div>
+<div id="ref-Guthrie.2004b" class="csl-entry" role="listitem">
+Guthrie, J. T. (2004). Classroom Contexts for Engaged Reading: An Overview. In J. T. Guthrie, A. Wigfield, &amp; K. C. Perencevich (Hrsg.), <em>Motivating Reading Comprehension</em> (S. 1–24). <a href="https://ebookcentral.proquest.com/lib/huberlin-ebooks/reader.action?docID=234262&amp;ppg=18">https://ebookcentral.proquest.com/lib/huberlin-ebooks/reader.action?docID=234262&amp;ppg=18</a>
+</div>
+<div id="ref-Guthrie.2004" class="csl-entry" role="listitem">
+Guthrie, J. T., Wigfield, A., &amp; Perencevich, K. C. (Hrsg.). (2004). <em>Motivating Reading Comprehension: Concept-Oriented Reading Instruction</em>. <a href="https://ebookcentral.proquest.com/lib/huberlin-ebooks/detail.action?docID=234262">https://ebookcentral.proquest.com/lib/huberlin-ebooks/detail.action?docID=234262</a>
+</div>
+<div id="ref-HackiBuhofer.2002" class="csl-entry" role="listitem">
+Häcki Buhöfer, A. (2002). Steuert Sprachbewusstheit den eigenen Sprachgebrauch? <em>Der Deutschunterricht</em>, <em>3</em>, 18–30.
+</div>
+<div id="ref-Hagen.2008" class="csl-entry" role="listitem">
+Hagen, M. (2008). F<span>ö</span>rderung des Zuh<span>ö</span>rens in der Schule: Ansatz und Ergebnisse des Projekts <span>»</span>GanzOhrSein<span>«</span>. <em>Informationen zur Deutschdidaktik. Zeitschrift f<span class="nocase">ü</span>r den Deutschunterricht in Wissenschaft und Schule</em>, <em>1</em>, 26–37. <a href="https://ide.aau.at/wp-content/uploads/2024/01/2008-1.pdf">https://ide.aau.at/wp-content/uploads/2024/01/2008-1.pdf</a>
+</div>
+<div id="ref-Hagen.2001" class="csl-entry" role="listitem">
+Hagen, M., &amp; Huber, L. (2001). GanzOhrSein: Ein Projekt zum H<span>ö</span>renf<span>ö</span>rdern und H<span>ö</span>renmachen in der Schule. <em>Aktuell – Zeitschrift des Grundschulverbandes</em>, <em>76</em>, 9–14.
+</div>
+<div id="ref-Harsch.2007" class="csl-entry" role="listitem">
+Harsch, C., &amp; Nöth, D. (2007). Was k<span>ö</span>nnen die fremdsprachlichen Bildungsstandards der KMK leisten? <em>Praxis Fremdsprachenunterricht</em>, <em>6</em>, 2–6.
+</div>
+<div id="ref-Hattendorf.2008b" class="csl-entry" role="listitem">
+Hattendorf, E., &amp; Hoppe, I. (2008a). Ein Kinderbuch, <span>„</span>Lesende Ohren<span>“</span> und ein Zuh<span>ö</span>rheft: Zur F<span>ö</span>rderung des H<span>ö</span>rverstehens. <em>Grundschulunterricht. Deutsch</em>, <em>1</em>, 23–26. <a href="https://bildungsserver.berlin-brandenburg.de/fileadmin/bbb/themen/sprachbildung/Lesecurriculum/Leseprozesse/zuhoerhefte/Zuhoerheft_Artikel_01.pdf">https://bildungsserver.berlin-brandenburg.de/fileadmin/bbb/themen/sprachbildung/Lesecurriculum/Leseprozesse/zuhoerhefte/Zuhoerheft_Artikel_01.pdf</a>
+</div>
+<div id="ref-Hattendorf.2008" class="csl-entry" role="listitem">
+Hattendorf, E., &amp; Hoppe, I. (2008b). Etwas zu h<span>ö</span>ren bekommen: H<span>ö</span>rb<span>ü</span>cher im H<span>ö</span>rtest. <em>Grundschulunterricht. Deutsch</em>, <em>1</em>, 9–11.
+</div>
+<div id="ref-Hawlitschek.2024b" class="csl-entry" role="listitem">
+Hawlitschek, P., Henschel, S., Richter, D., &amp; Stanat, P. (2024). The relationship between teachers’ and principals’ use of results from nationwide achievement tests: The mediating role of teacher attitudes and data use culture. <em>Studies in Educational Evaluation</em>, <em>80</em>.
+</div>
+<div id="ref-Hawlitschek.2025" class="csl-entry" role="listitem">
+Hawlitschek, P., Henschel, S., Schnitzler, C., &amp; Stanat, P. (2025). Datengest<span>ü</span>tzte Unterrichtsentwicklung mit Vergleichsarbeiten. Akzeptanz und wahrgenommene N<span>ü</span>tzlichkeit von VERA aus Sicht von Lehrkr<span>ä</span>ften im IQB-Bildungstrend. In A. Albers &amp; N. Jude (Hrsg.), <em>Blickpunkt Bildungsmonitoring - Bilanzen und Perspektiven</em> (S. 111–128). <span>Beltz Juventa Verlag</span>. <a href="https://doi.org/10.25656/01:32263">https://doi.org/10.25656/01:32263</a>
+</div>
+<div id="ref-Hawlitschek.2024" class="csl-entry" role="listitem">
+Hawlitschek, P., &amp; Stanat, P. (2024). Vergleichsarbeiten als Instrument zur datengest<span>ü</span>tzten Qualit<span>ä</span>tsentwicklung durch Schulleitungen? <em>P<span class="nocase">ä</span>dagogische F<span class="nocase">ü</span>hrung</em>, <em>35 (6)</em>, 230–232.
+</div>
+<div id="ref-Heinz.2011" class="csl-entry" role="listitem">
+Heinz, T., &amp; Horn, A. (2011). W<span>ö</span>rterbuchwerkstatt zur kritischen Semantik. In B. Arendt &amp; J. Kiesendahl (Hrsg.), <em>Sprachkritik in der Schule</em> (S. 217–238). <span>V<span>&amp;</span>R Unipress</span>.
+</div>
+<div id="ref-Henschel.2022" class="csl-entry" role="listitem">
+Henschel, S., Jost, J., Krelle, M., &amp; Stanat, P. (2022). VERA digital: Anforderungen und Umsetzung im Fach Deutsch. In N. Bulut, K. Hippmann, S. Jambor-Fahlen, M. Knopp, M. Linnemann, &amp; S. Stephany (Hrsg.), <em>Sprachliche Bildung in der digitalisierten Gesellschaft. Was wir in Zukunft wissen und k<span>ö</span>nnen m<span>ü</span>ssen</em> (S. 215–229). Waxmann. <a href="https://www.pedocs.de/volltexte/2023/26083/pdf/Knopp_et_al_2022_Sprachliche_Bildung_in.pdf">https://www.pedocs.de/volltexte/2023/26083/pdf/Knopp_et_al_2022_Sprachliche_Bildung_in.pdf</a>
+</div>
+<div id="ref-Henschel.2019" class="csl-entry" role="listitem">
+Henschel, S., &amp; Stanat, P. (2019). Bildungsstandards als Element der Qualit<span>ä</span>tssicherung und -entwicklung im deutschen Schulsystem. In B. Herzig, E. Kiel, U. Maier, &amp; Sandfuchs, Uwe (Hrsg.), <em>Handbuch Unterrichten an allgemeinbildenden Schulen</em> (S. 374–384). <span>Julius Klinkhardt</span>. <a href="https://www.klinkhardt.de/verlagsprogramm/5308.html">https://www.klinkhardt.de/verlagsprogramm/5308.html</a>
+</div>
+<div id="ref-Herzig.2019" class="csl-entry" role="listitem">
+Herzig, B., Kiel, E., Maier, U., &amp; Sandfuchs, Uwe (Hrsg.). (2019). <em>Handbuch Unterrichten an allgemeinbildenden Schulen</em>. <span>Julius Klinkhardt</span>. <a href="https://www.klinkhardt.de/verlagsprogramm/5308.html">https://www.klinkhardt.de/verlagsprogramm/5308.html</a>
+</div>
+<div id="ref-Hinney.1997" class="csl-entry" role="listitem">
+Hinney, G. (1997). <em>Neubestimmung von Lerninhalten f<span>ü</span>r den Rechtschreibunterricht: Ein fachdidaktischer Beitrag zur Schriftaneignung als Probleml<span>ö</span>seprozess</em>. <span>Peter Lang</span>.
+</div>
+<div id="ref-Hoffmann.2011" class="csl-entry" role="listitem">
+Hoffmann, L. (2011). Zwischen wissenschaftlicher Grammatik und Schulgrammatik: die Terminologie. In C. Noack &amp; J. Ossner (Hrsg.), <em>Grammatikunterricht und Grammatikterminologie</em> (S. 33–56). <span>Universit<span>ä</span>tsverlag Rhein-Ruhr</span>. <a href="https://research.ebsco.com/c/7antv4/search/details/pathwpda7f">https://research.ebsco.com/c/7antv4/search/details/pathwpda7f</a>
+</div>
+<div id="ref-Hoffmann.2013" class="csl-entry" role="listitem">
+Hoffmann, L. (2013). <em>Deutsche Grammatik: Grundlagen f<span>ü</span>r Lehrerausbildung, Schule, Deutsch als Zweitsprache und Deutsch als Fremdsprache</em>. <span>E. Schmidt</span>.
+</div>
+<div id="ref-HonnefBecker.2019" class="csl-entry" role="listitem">
+Honnef-Becker, I., &amp; Kühn, P. (2019). <em>Sprechen und Zuh<span>ö</span>ren im Deutschunterricht: Bildungsstandards - Didaktik - Unterrichtsbeispiele</em> (1st ed.). <span>Narr Francke Attempto Verlag</span>. <a href="https://elibrary.utb.de/doi/book/10.5555/9783823391951">https://elibrary.utb.de/doi/book/10.5555/9783823391951</a>
+</div>
+<div id="ref-Hosenfeld.2018" class="csl-entry" role="listitem">
+Hosenfeld, I., Koch, U., &amp; Groß Ophoff, J. (2018). Vergleichsarbeiten in der Grundschule von 2004 bis 2015. In H. Altrichter, M. Heinrich, &amp; J. Zuber (Hrsg.), <em>Bildungsstandards zwischen Politik und schulischem Alltag</em> (S. 205–228). Springer. <a href="https://link.springer.com/chapter/10.1007/978-3-658-22241-3_9">https://link.springer.com/chapter/10.1007/978-3-658-22241-3_9</a>
+</div>
+<div id="ref-Hubert.2000" class="csl-entry" role="listitem">
+Hubert, L., &amp; Odersky, E. (Hrsg.). (2000). <em>Zuh<span>ö</span>ren – Lernen – Verstehen</em>. <span>Westermann Verlag</span>.
+</div>
+<div id="ref-Hurrelmann.2002" class="csl-entry" role="listitem">
+Hurrelmann, B. (2002). Leseleistung – Lesekompetenz: Folgerungen aus Pisa mit einem Pl<span>ä</span>doyer f<span>ü</span>r ein didaktisches Konzept des Lesens als kultureller Praxis. <em>Praxis Deutsch</em>, <em>176</em>, 6–18.
+</div>
+<div id="ref-Hurrelmann.2007" class="csl-entry" role="listitem">
+Hurrelmann, B. (2007). Modelle und Merkmale der Lesekompetenz. In A. Bertschi-Kaufmann (Hrsg.), <em>Lesekompetenz, Leseleistung, Lesef<span>ö</span>rderung</em> (S. 18–29). Klett/Kallmeyer.
+</div>
+<div id="ref-Hurrelmann.2021" class="csl-entry" role="listitem">
+Hurrelmann, B. (2021). Modelle und Merkmale der Lesekompetenz. In A. Bertschi-Kaufmann (Hrsg.), <em>Lesekompetenz - Leseleistung - Lesef<span>ö</span>rderung. Grundlagen, Modelle und Materialien</em> (S. 22–33). Kallmeyer.
+</div>
+<div id="ref-Imhof.2003" class="csl-entry" role="listitem">
+Imhof, M. (2003). <em>Zuh<span>ö</span>ren: Psychologische Aspekte auditiver Informationsverarbeitung: Bde. Bd. 4</em>. <span>Vandenhoeck <span>&amp;</span> Ruprecht</span>.
+</div>
+<div id="ref-Imhof.2004" class="csl-entry" role="listitem">
+Imhof, M. (2004). H<span>ö</span>r doch einfach zu! Von der Schwierigkeit, Zuh<span>ö</span>ren zu lernen und zu lehren. <em>Grundschule</em>, <em>2</em>, 34–35.
+</div>
+<div id="ref-Imhof.2010" class="csl-entry" role="listitem">
+Imhof, M. (2010). Zuh<span>ö</span>ren lernen und lehren: Psychologische Grundlagen zur Beschreibung und F<span>ö</span>rderung von Zuh<span>ö</span>rkompetenzen. In V. Bernius &amp; M. Imhof (Hrsg.), <em>Zuh<span>ö</span>rkompetenz in Unterricht und Schule</em> (S. 15–30). <span>Vandenhoeck <span>&amp;</span> Ruprecht</span>. <a href="https://elibrary.utb.de/doi/epdf/10.5555/9783647480084">https://elibrary.utb.de/doi/epdf/10.5555/9783647480084</a>
+</div>
+<div id="ref-Imhof.2013" class="csl-entry" role="listitem">
+Imhof, M. (2013). Zuh<span>ö</span>ren als Voraussetzung und Ergebnis von Unterricht: Einstellungen von Lehrerinnen und Lehrern zum Zuh<span>ö</span>ren im Unterricht. In B. Eriksson, M. Luginbühl, &amp; N. Tuor (Hrsg.), <em>Sprechen und Zuh<span>ö</span>ren - gefragte Kompetenzen?</em> (S. 63–84).
+</div>
+<div id="ref-Imhof.2011" class="csl-entry" role="listitem">
+Imhof, M., &amp; Klatte, M. (2011). <em>H<span>ö</span>ren und Zuh<span>ö</span>ren als Voraussetzung und Ergebnis von Unterricht und Erziehung</em>. <a href="https://doi.org/10.3262/EEO21110157">https://doi.org/10.3262/EEO21110157</a>
+</div>
+<div id="ref-Ingwer.2002" class="csl-entry" role="listitem">
+Ingwer, P. (2002). Gesprochene Sprache als Reflexionsanlass im Grammatikunterricht. <em>Der Deutschunterricht</em>, <em>3</em>, 53–58.
+</div>
+<div id="ref-IQB.04.10.2023" class="csl-entry" role="listitem">
+IQB. (04.10.2023). <em>H<span>ä</span>ufig gestellte Fragen.</em> (IQB, Hrsg.). <a href="https://www.iqb.hu-berlin.de/vera/faq/#faq06">https://www.iqb.hu-berlin.de/vera/faq/#faq06</a>
+</div>
+<div id="ref-IQB.2014b" class="csl-entry" role="listitem">
+IQB. (2014a). <em>Integriertes Kompetenzstufenmodell zu den Bildungsstandards f<span>ü</span>r den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Deutsch f<span>ü</span>r den Kompetenzbereich Sprechen und Zuh<span>ö</span>ren, Teilbereich Zuh<span>ö</span>ren: Beschluss der Kultusministerkonferenz (KMK) vom 11.12.2014</em>. <a href="https://www.iqb.hu-berlin.de/bista/ksm/">https://www.iqb.hu-berlin.de/bista/ksm/</a>
+</div>
+<div id="ref-IQB.2014" class="csl-entry" role="listitem">
+IQB. (2014b). <em>Kompetenzstufenmodell zu den Bildungsstandards im Kompetenzbereich Sprache und Sprachgebrauch untersuchen f<span>ü</span>r den Mittleren Schulabschluss: Beschluss der Kultusministerkonferenz (KMK) vom 13./14.03.2014</em>. <a href="https://www.iqb.hu-berlin.de/bista/ksm/">https://www.iqb.hu-berlin.de/bista/ksm/</a>
+</div>
+<div id="ref-Isaac.2024" class="csl-entry" role="listitem">
+Isaac, K., &amp; Rogge, T. (2024). Computerbasierte Tests bei zentralen Vergleichsarbeiten. <em>P<span class="nocase">ä</span>dagogik</em>, <em>8</em>, 72–75.
+</div>
+<div id="ref-Jager.2011" class="csl-entry" role="listitem">
+Jäger, S. (2011). <em>Rezeption und Nutzung von Diagnose- und Vergleichsarbeiten an Schulen: Eine Interviewstudie mit baden-w<span>ü</span>rttembergischen Lehrkr<span>ä</span>ften an Haupt-, Realschulen und Gymnasien</em> [Dissertation, <span>P<span>ä</span>dagogische Hochschule Schw<span>ä</span>bisch Gm<span>ü</span>nd</span>]. <a href="https://phsg.bsz-bw.de/frontdoor/deliver/index/docId/8/file/Dissertation_Sibylle_Jaeger_Opus.pdf">https://phsg.bsz-bw.de/frontdoor/deliver/index/docId/8/file/Dissertation_Sibylle_Jaeger_Opus.pdf</a>
+</div>
+<div id="ref-Kahlert.2000" class="csl-entry" role="listitem">
+Kahlert, J. (2000). Der gute Ton in der Schule: <span>Ü</span>berlegungen zum p<span>ä</span>dagogischen Stellenwert des Zuh<span>ö</span>rens in der akustisch gestalteten Schule. In L. Hubert &amp; E. Odersky (Hrsg.), <em>Zuh<span>ö</span>ren – Lernen – Verstehen</em> (S. 7–25). <span>Westermann Verlag</span>.
+</div>
+<div id="ref-Kammer.2001" class="csl-entry" role="listitem">
+Kammer, M. von der. (2001). Man ist, was man isst: Den Doppelkonsonanten anhand authentischer Texte untersuchen. <em>Praxis Deutsch</em>, <em>170</em>, 40–43.
+</div>
+<div id="ref-KampervandenBoogaart.2008" class="csl-entry" role="listitem">
+Kämper-van den Boogaart, M., &amp; Pieper, I. (2008). Literarisches Lesen. <em>Didaktik Deutsch</em>, <em>Sonderheft</em>, 46–65. <a href="https://didaktik-deutsch.de/index.php/dideu/article/view/361/346">https://didaktik-deutsch.de/index.php/dideu/article/view/361/346</a>
+</div>
+<div id="ref-Kilian.2011" class="csl-entry" role="listitem">
+Kilian, J. (2011). Durch Sprachkritik lernen: Sprachdidaktische Beitr<span>ä</span>ge einer Kritik der Sprache. In B. Arendt &amp; J. Kiesendahl (Hrsg.), <em>Sprachkritik in der Schule</em> (S. 31–50). <span>V<span>&amp;</span>R Unipress</span>.
+</div>
+<div id="ref-Kintsch.1998" class="csl-entry" role="listitem">
+Kintsch, W. (1998). <em>Comprehension: A Paradigm for Cognition</em>. <span>Cambridge University Press Verlag.</span>
+</div>
+<div id="ref-Kliewer.1988" class="csl-entry" role="listitem">
+Kliewer, H.-J. (1988). Texte fuer Hoerer – im Deutschunterricht vernachlaessigt. <em>Praxis Deutsch</em>, 20–23.
+</div>
+<div id="ref-KMKKultusministerkonferenz.2003" class="csl-entry" role="listitem">
+KMK Kultusministerkonferenz. (2003). <em>Bildungsstandards f<span>ü</span>r die erste Fremdsprache (Englisch/Franz<span>ö</span>sisch) f<span>ü</span>r den Mittleren Schulabschluss</em>. <a href="http://www.kmk.org/fileadmin/veroeffentlichungen_beschluesse/2003/2003_12_04-BS-erste-Fremdsprache.pdf">http://www.kmk.org/fileadmin/veroeffentlichungen_beschluesse/2003/2003_12_04-BS-erste-Fremdsprache.pdf</a>
+</div>
+<div id="ref-KMKKultusministerkonferenz.2005" class="csl-entry" role="listitem">
+KMK Kultusministerkonferenz. (2005). <em>Bildungsstandards im Fach Deutsch f<span>ü</span>r den Primarbereich (Jahrgangsstufe 4): Beschluss vom 15.10.2004</em>. <span>Wolters Kluwer</span>.
+</div>
+<div id="ref-KMKKultusministerkonferenz.2006" class="csl-entry" role="listitem">
+KMK Kultusministerkonferenz. (2006). <em>Bildungsstandards f<span>ü</span>r die erste Fremdsprache (Englisch/Franz<span>ö</span>sisch) f<span>ü</span>r den Hauptschulabschluss</em>. <a href="https://www.kmk.org/fileadmin/veroeffentlichungen_beschluesse/2004/2004_10_15-Bildungsstandards-ersteFS-Haupt.pdf">https://www.kmk.org/fileadmin/veroeffentlichungen_beschluesse/2004/2004_10_15-Bildungsstandards-ersteFS-Haupt.pdf</a>
+</div>
+<div id="ref-KMKKultusministerkonferenz.2015" class="csl-entry" role="listitem">
+KMK Kultusministerkonferenz. (2015). <em>Kompetenzstufenmodell zu den Bildungsstandards im Fach Deutsch im Kompetenzbereich Sprache und Sprachgebrauch untersuchen f<span>ü</span>r den Primarbereich: Beschluss der Kultusministerkonferenz vom 04.03.2010. <span>Ü</span>berarbeiteter Entwurf in der Version vom 24. M<span>ä</span>rz 2015</em>. KMK. <a href="https://www.iqb.hu-berlin.de/bista/ksm/KSM_GS_Deutsch_S_1.pdf">https://www.iqb.hu-berlin.de/bista/ksm/KSM_GS_Deutsch_S_1.pdf</a>
+</div>
+<div id="ref-KMKKultusministerkonferenz.2022" class="csl-entry" role="listitem">
+KMK Kultusministerkonferenz. (2022). <em>Bildungsstandards im Fach Deutsch f<span>ü</span>r den Primarbereich: Beschluss vom 15.10.2004, i.d.F. vom 23.06.2022</em>.
+</div>
+<div id="ref-KMKKultusministerkonferenz.2009" class="csl-entry" role="listitem">
+KMK Kultusministerkonferenz, &amp; IQB. (2009). <em>Kompetenzstufenmodelle zu den Bildungsstandards im Fach Franz<span>ö</span>sisch f<span>ü</span>r den Mittleren Schulabschluss: H<span>ö</span>rverstehen und Leseverstehen</em>. <a href="https://www.iqb.hu-berlin.de/bista/ksm/">https://www.iqb.hu-berlin.de/bista/ksm/</a>
+</div>
+<div id="ref-KMKKultusministerkonferenz.2014" class="csl-entry" role="listitem">
+KMK Kultusministerkonferenz, &amp; IQB. (2014). <em>Integriertes Kompetenzstufenmodell zu den Bildungsstandards f<span>ü</span>r den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Englisch. H<span>ö</span>rverstehen und Leseverstehen</em>. <a href="https://www.iqb.hu-berlin.de/bista/ksm/iKSM_Englisch_Le.pdf">https://www.iqb.hu-berlin.de/bista/ksm/iKSM_Englisch_Le.pdf</a>
+</div>
+<div id="ref-Knopf.2020b" class="csl-entry" role="listitem">
+Knopf, J., &amp; Abraham, U. (Hrsg.). (2020). <em>Deutsch digital. Band 2 Praxis</em>. Schneider.
+</div>
+<div id="ref-Knopf.2020" class="csl-entry" role="listitem">
+Knopf, J., &amp; Brodt, J. (2020). Grammatik lernen mit Anton. Welche Kriterien sollte eine App f<span>ü</span>r den Sprachunterricht erf<span>ü</span>llen? In J. Knopf &amp; U. Abraham (Hrsg.), <em>Deutsch digital. Band 2 Praxis</em> (S. 147–153). Schneider.
+</div>
+<div id="ref-Knopf.2021" class="csl-entry" role="listitem">
+Knopf, J., &amp; Luptowicz, C. (2021). Sprache funktional und pragmatisch betrachten. In U. Abraham &amp; J. Knopf (Hrsg.), <em>Deutsch. Didaktik f<span>ü</span>r die Grundschule</em> (S. 146–157). Cornelsen.
+</div>
+<div id="ref-Koch.2011" class="csl-entry" role="listitem">
+Koch, U. (2011). <em>Verstehen Lehrkr<span>ä</span>fte R<span>ü</span>ckmeldungen aus Vergleichsarbeiten?: Datenkompetenz von Lehrkr<span>ä</span>ften und die Nutzung von Ergebnisr<span>ü</span>ckmeldungen aus Vergleichsarbeiten</em>. Waxmann.
+</div>
+<div id="ref-Koller.1983" class="csl-entry" role="listitem">
+Köller, W. (1983). <em>Funktionaler Grammatikunterricht: (Sekundarbereich I); Tempus, Genus, Modus: Wozu wurde das erfunden?</em> (3. Aufl.). <span>Schroedel Schulbuchverl.</span>
+</div>
+<div id="ref-Koster.2005" class="csl-entry" role="listitem">
+Köster, J. (2005). Wodurch wird ein Text schwierig? Ein Text f<span>ü</span>r die Fachkonferenz. <em>Deutschunterricht</em>, <em>58</em>, 34–39.
+</div>
+<div id="ref-Koster.2006" class="csl-entry" role="listitem">
+Köster, J. (2006). Bildungsstandards und Lesekompetenz. In G. Gaiser &amp; S. Münchenbach (Hrsg.), <em>Leselust dank Lesekompetenz</em> (S. 219–231). <span>Auer Verlag</span>.
+</div>
+<div id="ref-Krelle.2016" class="csl-entry" role="listitem">
+Krelle, M. (2016). <span>„</span>Sprache und Sprachgebrauch untersuchen<span>“</span> im Licht von Vergleichsarbeiten und Unterrichtsentwicklung in der Grundschule. In M. Krelle &amp; W. Senn (Hrsg.), <em>Qualit<span>ä</span>ten von Deutschunterricht - Empirische Unterrichtsforschung im Fach Deutsch</em> (S. 207–228). <span>Klett Fillibach</span>.
+</div>
+<div id="ref-Krelle.2014" class="csl-entry" role="listitem">
+Krelle, M., &amp; Neumann Daniela. (2014). : Sprechen und Zuh<span>ö</span>ren. In U. Behrens, K. Böhme, A. Bremerich-Vos, S. Hunger, &amp; M. Krelle (Hrsg.), <em>Bildungsstandards Deutsch: konkret</em> (S. 14–45). Cornelsen.
+</div>
+<div id="ref-Krelle.2016b" class="csl-entry" role="listitem">
+Krelle, M., &amp; Senn, W. (Hrsg.). (2016). <em>Qualit<span>ä</span>ten von Deutschunterricht - Empirische Unterrichtsforschung im Fach Deutsch</em>. <span>Klett Fillibach</span>.
+</div>
+<div id="ref-Kuhn.2010" class="csl-entry" role="listitem">
+Kühn, P. (2010). <em>Sprache untersuchen und erforschen</em>. Cornelsen.
+</div>
+<div id="ref-Kultusministerkonferenz.2004" class="csl-entry" role="listitem">
+Kultusministerkonferenz. (2004a). <em>Bildungsstandards im Fach Deutsch f<span>ü</span>r den Mittleren Schulabschluss: Beschluss vom 4.12.2003</em>. <span>Luchterhand Literaturverlag</span>. <a href="https://www.kmk.org/fileadmin/veroeffentlichungen_beschluesse/2003/2003_12_04-BS-Deutsch-MS.pdf">https://www.kmk.org/fileadmin/veroeffentlichungen_beschluesse/2003/2003_12_04-BS-Deutsch-MS.pdf</a>
+</div>
+<div id="ref-Kultusministerkonferenz.2004b" class="csl-entry" role="listitem">
+Kultusministerkonferenz. (2004b). <em>Bildungsstandards im Fach Deutsch f<span>ü</span>r den Mittleren Schulabschluss: Beschluss vom 4.12.2003</em>. <span>Luchterhand Literaturverlag</span>. <a href="https://www.kmk.org/fileadmin/veroeffentlichungen_beschluesse/2003/2003_12_04-BS-Deutsch-MS.pdf">https://www.kmk.org/fileadmin/veroeffentlichungen_beschluesse/2003/2003_12_04-BS-Deutsch-MS.pdf</a>
+</div>
+<div id="ref-Kultusministerkonferenz.2022c" class="csl-entry" role="listitem">
+Kultusministerkonferenz. (2022a). <em>Bildungsstandards f<span>ü</span>r das Fach Deutsch Erster Schulabschluss (ESA) und Mittlerer Schulabschluss (MSA): Beschluss der Kultusministerkonferenz vom 15.10.2004 und vom 04.12.2003, i.d.F. vom 23.06.2022</em>. <a href="https://www.kmk.org/fileadmin/veroeffentlichungen_beschluesse/2022/2022_06_23-Bista-ESA-MSA-Deutsch.pdf">https://www.kmk.org/fileadmin/veroeffentlichungen_beschluesse/2022/2022_06_23-Bista-ESA-MSA-Deutsch.pdf</a>
+</div>
+<div id="ref-Kultusministerkonferenz.2022d" class="csl-entry" role="listitem">
+Kultusministerkonferenz. (2022b). <em>Bildungsstandards f<span>ü</span>r das Fach Deutsch: Erster Schulabschluss (ESA) und Mittlerer Schulabschluss (MSA): Beschluss der Kultusministerkonferenz vom 15.10.2004 und vom 04.12.2003, i.d.F. vom 23.06.2022</em> (Kultusministerkonferenz, Hrsg.). <a href="https://www.kmk.org/fileadmin/veroeffentlichungen_beschluesse/2022/2022_06_23-Bista-ESA-MSA-Deutsch.pdf">https://www.kmk.org/fileadmin/veroeffentlichungen_beschluesse/2022/2022_06_23-Bista-ESA-MSA-Deutsch.pdf</a>
+</div>
+<div id="ref-Kultusministerkonferenz.2022" class="csl-entry" role="listitem">
+Kultusministerkonferenz. (2022c). <em>Sekretariat der St<span>ä</span>ndigen Konferenz der Kultusminister der L<span>ä</span>nder in der Bundesrepublik Deutschland Taubenstra<span>ß</span>e 10 · 10117 Berlin Postfach 11 03 42 · 10833 Berlin Tel.: 030 25418-499 Graurheindorfer Stra<span>ß</span>e 157 · 53117 Bonn Postfach 22 40 · 53012 Bonn Tel.: 0228 501-0 Bildungsstandards f<span>ü</span>r das Fach Deutsch Erster Schulabschluss (ESA) und Mittlerer Schulabschluss (MSA): Beschluss der Kultusministerkonferenz vom 15.10.2004 und vom 04.12.2003, i.d.F. vom 23.06.2022</em> (Kultusministerkonferenz, Hrsg.). <a href="https://www.kmk.org/fileadmin/veroeffentlichungen_beschluesse/2022/2022_06_23-Bista-ESA-MSA-Deutsch.pdf">https://www.kmk.org/fileadmin/veroeffentlichungen_beschluesse/2022/2022_06_23-Bista-ESA-MSA-Deutsch.pdf</a>
+</div>
+<div id="ref-Kultusministerkonferenz.2022b" class="csl-entry" role="listitem">
+Kultusministerkonferenz. (2022d). <em>Sekretariat der St<span>ä</span>ndigen Konferenz der Kultusminister der L<span>ä</span>nder in der Bundesrepublik Deutschland Taubenstra<span>ß</span>e 10 · 10117 Berlin Postfach 11 03 42 · 10833 Berlin Tel.: 030 25418-499 Graurheindorfer Stra<span>ß</span>e 157 · 53117 Bonn Postfach 22 40 · 53012 Bonn Tel.: 0228 501-0 Bildungsstandards f<span>ü</span>r das Fach Deutsch Erster Schulabschluss (ESA) und Mittlerer Schulabschluss (MSA): Beschluss der Kultusministerkonferenz vom 15.10.2004 und vom 04.12.2003, i.d.F. vom 23.06.2022</em>. <a href="https://www.kmk.org/fileadmin/veroeffentlichungen_beschluesse/2022/2022_06_23-Bista-ESA-MSA-Deutsch.pdf">https://www.kmk.org/fileadmin/veroeffentlichungen_beschluesse/2022/2022_06_23-Bista-ESA-MSA-Deutsch.pdf</a>
+</div>
+<div id="ref-Kutzelmann.2018" class="csl-entry" role="listitem">
+Kutzelmann, S., &amp; Rosebrock, C. (Hrsg.). (2018). <em>Praxis der Lautleseverfahren</em>. <span>Schneider Verlag Hohengehren</span>. <a href="https://www-1wiso-2net-1de-1006918hq031f.erf.sbb.spk-berlin.de/document/WBVE__1c8045caec8e84a3b131129b955ab0f30c5a153e">https://www-1wiso-2net-1de-1006918hq031f.erf.sbb.spk-berlin.de/document/WBVE__1c8045caec8e84a3b131129b955ab0f30c5a153e</a>
+</div>
+<div id="ref-Lauth.2004" class="csl-entry" role="listitem">
+Lauth, G. W., Grünke, M., &amp; Brunstein, J. C. (Hrsg.). (2004). <em>Interventionen bei Lernst<span>ö</span>rungen: F<span>ö</span>rderung, Training und Therapie in der Praxis</em>. <span>Hogrefe Verlag f<span>ü</span>r Psychologie</span>.
+</div>
+<div id="ref-Lehnen.2011" class="csl-entry" role="listitem">
+Lehnen, K. (2011). Wie sich das Schreiben f<span>ü</span>r die Sprachreflexion in der Schule nutzen l<span>ä</span>sst - und umgekehrt: Ans<span>ä</span>tze einer reflexiven Schreibdidaktik. In B. Arendt &amp; J. Kiesendahl (Hrsg.), <em>Sprachkritik in der Schule</em> (S. 141–164). <span>V<span>&amp;</span>R Unipress</span>.
+</div>
+<div id="ref-Lindauer.2011" class="csl-entry" role="listitem">
+Lindauer, T. (2011). Das Komma zwischen Verbgruppen setzen. In U. Bredel &amp; T. Reißig (Hrsg.), <em>Weiterf<span>ü</span>hrender Orthographieerwerb</em> (S. 601–612). <span>Schneider Verlag Hohengehren</span>.
+</div>
+<div id="ref-Lindauer.2008" class="csl-entry" role="listitem">
+Lindauer, T., &amp; Schmellentin, C. (2008). <em>Studienbuch Rechtschreibdidaktik: Die wichtigen Regeln im Unterricht</em>. <span>Orell F<span>ü</span>ssli</span>.
+</div>
+<div id="ref-Lindauer.2010b" class="csl-entry" role="listitem">
+Lindauer, T., &amp; Senn, W. (2010). <em>Die Sprachstarken: Deutsch f<span>ü</span>r die Primarschule: Kommentarband</em>. <span>Klett und Balmer Verlag</span>.
+</div>
+<div id="ref-Lindauer.2010" class="csl-entry" role="listitem">
+Lindauer, T., &amp; Sturm Afra. (2010). Erweiterter Grammatikunterricht. <em>ide - Informationen zur Deutschdidaktik. Zeitschrift f<span class="nocase">ü</span>r den Deutschunterricht in Wissenschaft und Schule</em>, <em>2</em>, 33–42. <a href="https://ide.aau.at/wp-content/uploads/2024/05/2010-2.pdf">https://ide.aau.at/wp-content/uploads/2024/05/2010-2.pdf</a>
+</div>
+<div id="ref-Lindauer.2005" class="csl-entry" role="listitem">
+Lindauer, T., &amp; Sutter, E. (2005). K<span>ö</span>nige, K<span>ö</span>nigreiche und Kommaregeln. <em>Praxis Deutsch</em>, <em>191</em>, 28–35.
+</div>
+<div id="ref-Lindauer.2006" class="csl-entry" role="listitem">
+Lindauer, T., &amp; Sutter, E. (2006). <em>Kommas und K<span>ö</span>nige: Praxisbeilage 2</em>. <a href="https://web0.fhnw.ch/plattformen/zl/wp-content/uploads/2012/04/">https://web0.fhnw.ch/plattformen/zl/wp-content/uploads/2012/04/</a>
+</div>
+<div id="ref-Maier.2019" class="csl-entry" role="listitem">
+Maier, U. (2019). Vergleicharbeiten. In N. Berkemeyer, W. Bos, &amp; B. Hermstein (Hrsg.), <em>Schulreform: Zug<span>ä</span>nge, Gegenst<span>ä</span>nde, Trends</em> (S. 272–282). Beltz. <a href="https://content-select.com/media/moz_viewer/5c84e9c9-1e6c-490b-8027-646eb0dd2d03/language:de">https://content-select.com/media/moz_viewer/5c84e9c9-1e6c-490b-8027-646eb0dd2d03/language:de</a>
+</div>
+<div id="ref-Maier.2015" class="csl-entry" role="listitem">
+Maier, U., &amp; Ramsteck, C. (2015). Testbasierte Schul- und Unterrichtsentwicklung: Analyse von Handlungsmustern bei der Rezeption und Nutzung von Vergleichsarbeitsdaten. In K. Amos, J. Schmid, J. Schrader, &amp; A. Thiel (Hrsg.), <em>Governance von Bildung im Wandel: Interdisziplin<span>ä</span>re Zug<span>ä</span>nge</em> (S. 119–144). Springer. <a href="https://link.springer.com/book/10.1007%2F978-3-658-07270-4">https://link.springer.com/book/10.1007%2F978-3-658-07270-4</a>
+</div>
+<div id="ref-Maier.2012" class="csl-entry" role="listitem">
+Maier, U., Wacker, A., &amp; Wissinger, J. (Hrsg.). (2012). <em>Schul- und Unterrichtsreform durch ergebnisorientierte Steuerung: Empirische Befunde und forschungsmethodische Implikationen</em>. Springer. <a href="https://link.springer.com/book/10.1007/978-3-531-94183-7">https://link.springer.com/book/10.1007/978-3-531-94183-7</a>
+</div>
+<div id="ref-Mangal.2015" class="csl-entry" role="listitem">
+Mangal, H., Neumann, D., &amp; Skejic, M. (2015). Vergleichsarbeiten im Fach Englisch – Einsch<span>ä</span>tzungen von hessischen Lehrkr<span>ä</span>ften. <em>Zeitschrift f<span class="nocase">ü</span>r Fremdsprachenforschung</em>, <em>26 (2)</em>, 183–208. <a href="https://www.dgff.de/assets/Uploads/ausgaben-zff/ZFF-2-2015-Skejic-et-al.pdf">https://www.dgff.de/assets/Uploads/ausgaben-zff/ZFF-2-2015-Skejic-et-al.pdf</a>
+</div>
+<div id="ref-May.2020" class="csl-entry" role="listitem">
+May, Y. (2020). <em>Einf<span>ü</span>hrungsstunden Grammatik Deutsch 7/8: Durch sch<span>ü</span>lernahe Kontexte motivierend unterrichten</em> (1. Auflage). Auer.
+</div>
+<div id="ref-Menzel.2002" class="csl-entry" role="listitem">
+Menzel, W. (2002). Lesen lernen dauert ein Leben lang. <em>Praxis Deutsch</em>, <em>176</em>, 20–24.
+</div>
+<div id="ref-Metzger.2017" class="csl-entry" role="listitem">
+Metzger, S. (2017). <em>Grammatik unterrichten mit dem Feldermodell: Didaktische Grundlagen und Aufgaben f<span>ü</span>r die Orientierungsstufe</em>. Klett/Kallmeyer.
+</div>
+<div id="ref-Muller.2010" class="csl-entry" role="listitem">
+Müller, A. (2010). <em>Rechtschreiben lernen: Die Schriftstruktur entdecken - Grundlagen und <span>Ü</span>bungsvorschl<span>ä</span>ge</em>. Klett/Kallmeyer.
+</div>
+<div id="ref-Muller.2021" class="csl-entry" role="listitem">
+Müller, A. (2021). Rechtschreiben <span>ü</span>ben. <em>Praxis Deutsch</em>, <em>288</em>, 4–13.
+</div>
+<div id="ref-Muller.2020" class="csl-entry" role="listitem">
+Müller, A., &amp; Tophinke, D. (2020). Grammatik entdecken. <em>Praxis Deutsch</em>, <em>282</em>, 4–13.
+</div>
+<div id="ref-Muller.2011" class="csl-entry" role="listitem">
+Müller, C. M., &amp; Siever, T. (2011a). Neue Medien und Wortschatzarbeit. <em>Informationen zur Deutschdidaktik. Zeitschrift f<span class="nocase">ü</span>r den Deutschunterricht in Wissenschaft und Schule</em>, <em>1</em>, 42–53. <a href="https://ide.aau.at/wp-content/uploads/2024/05/2011-1.pdf">https://ide.aau.at/wp-content/uploads/2024/05/2011-1.pdf</a>
+</div>
+<div id="ref-Muller.2011b" class="csl-entry" role="listitem">
+Müller, C. M., &amp; Siever, T. (2011b). Neue Medien und Wortschatzarbeit. <em>ide - Informationen zur Deutschdidaktik. Zeitschrift f<span class="nocase">ü</span>r den Deutschunterricht in Wissenschaft und Schule</em>, <em>1</em>, 42–53. <a href="https://ide.aau.at/wp-content/uploads/2024/05/2011-1.pdf">https://ide.aau.at/wp-content/uploads/2024/05/2011-1.pdf</a>
+</div>
+<div id="ref-Muller.2004b" class="csl-entry" role="listitem">
+Müller, K. (2004a). Literarische Stoffe kennen lernen – durch H<span>ö</span>ren. <em>Praxis Deutsch</em>, <em>185</em>, 40–43.
+</div>
+<div id="ref-Muller.2004" class="csl-entry" role="listitem">
+Müller, K. (2004b). Literatur h<span>ö</span>ren und h<span>ö</span>rbar machen. <em>Praxis Deutsch</em>, <em>185</em>, 6–13.
+</div>
+<div id="ref-Naumann." class="csl-entry" role="listitem">
+Naumann, C. L. (o.&nbsp;J.). <em>Zur Rechtschreibkompetenz und ihrer Entwicklung</em> (S. 134–159).
+</div>
+<div id="ref-Neuland." class="csl-entry" role="listitem">
+Neuland, E. (o.&nbsp;J.). Vielf<span>ä</span>ltiges Deutsch und eine eigene Sprache: Anmerkungen zum Lernziel <span>"</span>Reflexiver Sprachgebrauch<span>"</span>. <em>Informationen zur Deutschdidaktik. Zeitschrift f<span class="nocase">ü</span>r den Deutschunterricht in Wissenschaft und Schule</em>, 28–41. <a href="https://ide.aau.at/wp-content/uploads/2019/04/1994-4.pdf">https://ide.aau.at/wp-content/uploads/2019/04/1994-4.pdf</a>
+</div>
+<div id="ref-Nix.2007" class="csl-entry" role="listitem">
+Nix, D. (2007). Vorleseübung als Wortschatztraining. In H. Willenberg (Hrsg.), <em>Kompetenzhandbuch für den Deutschunterricht</em> (S. 157–159). <span>Schneider Verlag Hohengehren</span>.
+</div>
+<div id="ref-Nix.2017" class="csl-entry" role="listitem">
+Nix, D., Gold, A., Rieckmann, C., &amp; Rosebrock, C. (2017). <em>Lesefl<span>ü</span>ssigkeit F<span>ö</span>rdern: Lautleseverfahren f<span>ü</span>r die Primar- und Sekundarstufe</em>. Klett/Kallmeyer.
+</div>
+<div id="ref-Noack.2006" class="csl-entry" role="listitem">
+Noack, C. (2006). Aber Wie-W<span>ö</span>rter schreibt man doch klein! <em>Praxis Deutsch</em>, <em>198</em>, 36–43.
+</div>
+<div id="ref-Noack.2011b" class="csl-entry" role="listitem">
+Noack, C. (2011). Entdeckung der Gro<span>ß</span>schreibung. In U. Bredel, T. Reißig, &amp; W. Ulrich (Hrsg.), <em>Weiterf<span>ü</span>hrender Orthographieerwerb</em> (S. 585–600). <span>Schneider Verlag Hohengehren</span>.
+</div>
+<div id="ref-Noack.2018" class="csl-entry" role="listitem">
+Noack, C. (2018). Kommasetzung ist schwer! Oder? <em>Deutschunterricht</em>, <em>1</em>, 4–9.
+</div>
+<div id="ref-Noack.2011" class="csl-entry" role="listitem">
+Noack, C., &amp; Ossner, J. (Hrsg.). (2011). <em>Grammatikunterricht und Grammatikterminologie</em> (Bd. 79). <span>Universit<span>ä</span>tsverlag Rhein-Ruhr</span>. <a href="https://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;db=nlabk&amp;AN=1665235">https://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;db=nlabk&amp;AN=1665235</a>
+</div>
+<div id="ref-Ockel.1988" class="csl-entry" role="listitem">
+Ockel, E. (1988). H<span>ö</span>r-Erziehung im Deutschunterricht. <em>Praxis Deutsch</em>, <em>88</em>, 18–19.
+</div>
+<div id="ref-Oleschko.2012" class="csl-entry" role="listitem">
+Oleschko, S., &amp; Weitkamp, R. (2012). Sprachsysteme erkunden: Genus und Plural von Fremdw<span>ö</span>rtern. <em>Praxis Deutsch</em>, <em>235</em>, 28–34.
+</div>
+<div id="ref-Ossner.2006" class="csl-entry" role="listitem">
+Ossner, J. (2006). <em>Sprachdidaktik Deutsch: Eine Einf<span>ü</span>hrung</em>. Sch<span>ö</span>ningh.
+</div>
+<div id="ref-Ossner.2021" class="csl-entry" role="listitem">
+Ossner, J. (2021). <em>Grammatik: verstehen - erkl<span>ä</span>ren - unterrichten: Theorie und Praxis der Schulgrammatik des Deutschen</em>. <span>Brill Sch<span>ö</span>ningh</span>.
+</div>
+<div id="ref-Osterwinter.2001" class="csl-entry" role="listitem">
+Osterwinter, R. (2001). Globusse, Globen oder Globi? Das Rechtschreibw<span>ö</span>rterbuch als Auskunftsquelle bei Grammatikfragen. <em>Praxis Deutsch</em>, <em>165</em>, 44–49.
+</div>
+<div id="ref-Pant.2013" class="csl-entry" role="listitem">
+Pant, H. A. (2013). Wer hat einen Nutzen von Kompetenzmodellen? <em>Zeitschrift f<span class="nocase">ü</span>r Erziehungswissenschaften</em>, <em>16 (1)</em>, 71–79. <a href="https://paperity.org/p/51484580/wer-hat-einen-nutzen-von-kompetenzmodellen">https://paperity.org/p/51484580/wer-hat-einen-nutzen-von-kompetenzmodellen</a>
+</div>
+<div id="ref-Patzelt.2009" class="csl-entry" role="listitem">
+Patzelt, B. (2009). <em>Vorbereitungsmaterialien f<span>ü</span>r VERA - Vergleichsarbeiten/ Lernstandserhebungen - Deutsch: 8. Schuljahr: Grundanforderungen</em>. <span>Cornelsen Schulverlage GmbH</span>.
+</div>
+<div id="ref-Paxa.2013" class="csl-entry" role="listitem">
+Paxa, A.-M. (2013). <em>Erwerb der Fremdwortschreibung</em> [Phdthesis]. <a href="https://hilpub.uni-hildesheim.de/server/api/core/bitstreams/2edeba54-87b3-4bd9-8e93-2b90d65aa18b/content">https://hilpub.uni-hildesheim.de/server/api/core/bitstreams/2edeba54-87b3-4bd9-8e93-2b90d65aa18b/content</a>
+</div>
+<div id="ref-Peteren.2008" class="csl-entry" role="listitem">
+Peterßen, W. H. (Hrsg.). (2008). <em>Kleines Methoden-Lexikon</em>. <span>Oldenbourg Verlag</span>.
+</div>
+<div id="ref-Peyer.2011" class="csl-entry" role="listitem">
+Peyer, A. (2011a). <em>S<span>ä</span>tze untersuchen: Lernorientierte Sprachreflexion und grammatisches Wissen</em> (1. Aufl.). Kallmeyer; <span>Kallmeyer in Verbindung mit Klett</span>.
+</div>
+<div id="ref-Peyer.2011b" class="csl-entry" role="listitem">
+Peyer, A. (2011b). <em>S<span>ä</span>tze untersuchen: Lernorientierte Sprachreflexion und grammatisches Wissen</em>. <span>Kallmeyer Verlag</span>.
+</div>
+<div id="ref-Pfafflin.2019" class="csl-entry" role="listitem">
+Pfäfflin, S. (2019). Mit H<span>ö</span>rspielen produktive und rezeptive Medienkompetenz erwerben und vermitteln. <em>Ludwigsburger Beitr<span class="nocase">ä</span>ge zur Medienp<span class="nocase">ä</span>dagogik</em>, <em>20</em>(20), 1–6. <a href="https://doi.org/10.21240/lbzm/20/09">https://doi.org/10.21240/lbzm/20/09</a>
+</div>
+<div id="ref-Philipp.2014" class="csl-entry" role="listitem">
+Philipp, M., Brändli, M., &amp; Kirchhofer, K. C. (Hrsg.). (2014). <em>Kooperatives Lesen: Lesefluss, Textverstehen und Lesestrategien verbessern</em>. Klett/Kallmeyer.
+</div>
+<div id="ref-Philipp.2012" class="csl-entry" role="listitem">
+Philipp, M., &amp; Schilcher, A. (Hrsg.). (2012). <em>Selbstreguliertes Lesen: Ein <span>Ü</span>berblick <span>ü</span>ber wirksame Lesef<span>ö</span>rderans<span>ä</span>tze</em>. Klett/Kallmeyer.
+</div>
+<div id="ref-Porsch.2010" class="csl-entry" role="listitem">
+Porsch, R., Tesch, B., &amp; Köller, O. (Hrsg.). (2010). <em>Standardbasierte Testentwicklung und Leistungsmessung Franz<span>ö</span>sisch in der Sekundarstufe I.</em> Waxmann.
+</div>
+<div id="ref-.2006" class="csl-entry" role="listitem">
+<em>Praxis Deutsch: Wortbildung</em> (No. 201). (2006). <a href="https://www.friedrich-verlag.de/shop/wortbildung-52201">https://www.friedrich-verlag.de/shop/wortbildung-52201</a>
+</div>
+<div id="ref-.2024" class="csl-entry" role="listitem">
+<em>Praxis Deutsch: Zuh<span>ö</span>ren</em> (No. 303). (2024). <span>Friedrich Verlag</span>. <a href="https://www.friedrich-verlag.de/friedrich-plus/sekundarstufe/deutsch/praxis-deutsch/zuhoren-6191">https://www.friedrich-verlag.de/friedrich-plus/sekundarstufe/deutsch/praxis-deutsch/zuhoren-6191</a>
+</div>
+<div id="ref-.2018" class="csl-entry" role="listitem">
+Praxis Deutsch. W<span>ö</span>rter bilden und verstehen. (2018). In <em>Praxis Deutsch</em> (No. 271). <span>Friedrich Verlag</span>.
+</div>
+<div id="ref-Richter.2016" class="csl-entry" role="listitem">
+Richter, D., &amp; Wurster, S. (2016). Nutzung von Sch<span>ü</span>lerleistungsdaten aus Vergleichsarbeiten und zentralen Abschlusspr<span>ü</span>fungen f<span>ü</span>r Unterrichtsentwicklung in Brandenburger Fachkonferenzen. <em>Journal for educational research online</em>, <em>8 (3)</em>, 159–183. <a href="https://www.pedocs.de/volltexte/2017/12820/pdf/JERO_2016_3_Wurster_Richter_Nutzung_von_Schulleistungsdaten.pdf">https://www.pedocs.de/volltexte/2017/12820/pdf/JERO_2016_3_Wurster_Richter_Nutzung_von_Schulleistungsdaten.pdf</a>
+</div>
+<div id="ref-Richter.2002" class="csl-entry" role="listitem">
+Richter, Tobias, &amp; Christmann, U. (2002). Lesekompetenz: Prozessebenen und interindividuelle Unterschiede. In N. Groeben &amp; B. Hurrelmann (Hrsg.), <em>Lesekompetenz</em> (S. 25–58). <span>Juventa Verlag</span>.
+</div>
+<div id="ref-Riemer.2000" class="csl-entry" role="listitem">
+Riemer, C. (Hrsg.). (2000). <em>Kognitive Aspekte des Lehrens und Lernens von Fremdsprachen. Festschrift f<span>ü</span>r Willis J. Edmondson zum 60. Geburtstag</em>. <span>Gunter Narr</span>.
+</div>
+<div id="ref-RoberSiekmeyer.1999" class="csl-entry" role="listitem">
+Röber-Siekmeyer, C. (1999). <em>Ein anderer Weg zur Gro<span>ß</span>- und Kleinschreibung</em>. <span>Klett Verlag</span>.
+</div>
+<div id="ref-Rosebrock.2008" class="csl-entry" role="listitem">
+Rosebrock, C., &amp; Nix, D. (2008). <em>Grundlagen der Lesedidaktik und der systematischen schulischen Lesef<span>ö</span>rderung</em>. <span>Schneider Verlag Hohengehren</span>.
+</div>
+<div id="ref-Rudolph.2004" class="csl-entry" role="listitem">
+Rudolph, G. (2004). Vom Wert der Arbeit an Fremdw<span>ö</span>rtern im Muttersprachunterricht. <em>Der Deutschunterricht</em>, <em>3</em>, 23–28.
+</div>
+<div id="ref-Rupp.2008" class="csl-entry" role="listitem">
+Rupp, A., Vock, M., Harsch, C., &amp; Köller, O. (2008). <em>Developing Standards-based assessment Tasks for English as a First Foreign Language. Context, processes, and outcomes in Germany</em>. Waxmann.
+</div>
+<div id="ref-Sassen.2006" class="csl-entry" role="listitem">
+Sassen, U. (2006). F<span>ü</span>rs Kino im Kopf. <em>Praxis Deutsch</em>, <em>199</em>, 36–40.
+</div>
+<div id="ref-Schiewe.2011" class="csl-entry" role="listitem">
+Schiewe, J. (2011). Was ist Sprachkritik? Einige programmatische <span>Ü</span>berlegungen. In B. Arendt &amp; J. Kiesendahl (Hrsg.), <em>Sprachkritik in der Schule</em> (S. 19–30). <span>V<span>&amp;</span>R Unipress</span>.
+</div>
+<div id="ref-Schliesing.2017" class="csl-entry" role="listitem">
+Schliesing, A. C. (2017). <em>R<span>ü</span>ckmeldungen aus Vergleichsarbeiten (VERA): Eine methodenintegrative Studie zur Gestaltung und Rezeption von VERA-R<span>ü</span>ckmeldungen</em> [Dissertation].
+</div>
+<div id="ref-Schlingloff.2004" class="csl-entry" role="listitem">
+Schlingloff, G. (2004a). Kino f<span>ü</span>r die Ohren: Gefahr – ein H<span>ö</span>rspiel von Richard Hughes. <em>Deutsch</em>, <em>1</em>, 30–36.
+</div>
+<div id="ref-Schlingloff.2004b" class="csl-entry" role="listitem">
+Schlingloff, G. (2004b). Kino f<span>ü</span>r die Ohren: Gefahr – ein H<span>ö</span>rspiel von Richard Hughes. <em>Deutsch</em>, <em>1</em>, 30–36.
+</div>
+<div id="ref-Selimi.2011" class="csl-entry" role="listitem">
+Selimi, N. (2011). Wortschatz und Wissen <span>ü</span>ber Wortbedeutungen schrittweise aufbauen. <em>ide - Informationen zur Deutschdidaktik. Zeitschrift f<span class="nocase">ü</span>r den Deutschunterricht in Wissenschaft und Schule</em>, <em>1</em>, 22–30. <a href="https://ide.aau.at/wp-content/uploads/2024/05/2011-1.pdf">https://ide.aau.at/wp-content/uploads/2024/05/2011-1.pdf</a>
+</div>
+<div id="ref-SenatsverwaltungfurBildungJugendundFamilie.2017" class="csl-entry" role="listitem">
+Senatsverwaltung für Bildung, Jugend und Familie. (2017). <em>Fachbrief Grundschule Nr. 9</em>. <a href="https://bildungsserver.berlin-brandenburg.de/fileadmin/bbb/unterricht/fachbriefe_berlin/grundschule/Fachbrief_Grundschule_09_VERA_3.pdf">https://bildungsserver.berlin-brandenburg.de/fileadmin/bbb/unterricht/fachbriefe_berlin/grundschule/Fachbrief_Grundschule_09_VERA_3.pdf</a>
+</div>
+<div id="ref-Siebold.2007" class="csl-entry" role="listitem">
+Siebold, J. (2007). <span>„</span>Aufgabe/Task<span>“</span> und <span>„</span><span>Ü</span>bung/Exercise<span>“</span>. <em>Praxis Fremdsprachenunterricht</em>, <em>4</em>(1), 63–64.
+</div>
+<div id="ref-Spinner.1988" class="csl-entry" role="listitem">
+Spinner, K. H. (1988). Zuh<span>ö</span>ren lernen: Hinweise f<span>ü</span>r den Unterricht in der Grundschule. <em>Praxis Deutsch</em>, <em>88</em>, 26.
+</div>
+<div id="ref-Spinner.2006" class="csl-entry" role="listitem">
+Spinner, K. H. (2006a). Literarisches Lernen. <em>Praxis Deutsch</em>, <em>200</em>, 6–16.
+</div>
+<div id="ref-Spinner.2006b" class="csl-entry" role="listitem">
+Spinner, K. H. (2006b). Literarisches Lernen. <em>Praxis Deutsch</em>, <em>200</em>, 6–16.
+</div>
+<div id="ref-Spinner.2015" class="csl-entry" role="listitem">
+Spinner, K. H. (2015). Lesen – mit Texten umgehen. In J. Baurmann, T. von Brand, W. Menzel, &amp; K. H. Spinner (Hrsg.), <em>Methoden im Deutschunterricht</em> (S. 55–106). Klett/Kallmeyer.
+</div>
+<div id="ref-Spitta.1988" class="csl-entry" role="listitem">
+Spitta, G. (1988). <em>Von der Druckschrift zur Schreibschrift: Entdeckendes Schreibenlernen, Schreibenlernen mit Druckschrift, <span>Ü</span>berg<span>ä</span>nge zur Schreibschrift</em>. Scriptor.
+</div>
+<div id="ref-Stadter.2001" class="csl-entry" role="listitem">
+Stadter, A. (2001). Wordscouts wanted! Von der textorientierten Rezeption zur Produktion von W<span>ö</span>rterbucheintr<span>ä</span>gen. <em>Praxis Deutsch</em>, <em>165</em>, 36–43.
+</div>
+<div id="ref-StiftungZuhoren." class="csl-entry" role="listitem">
+Stiftung Zuhören (Hrsg.). (o.&nbsp;J.). <em>https://zuhoerbox.de</em>. <a href="https://zuhoerbox.de">https://zuhoerbox.de</a>
+</div>
+<div id="ref-Streblow.2004" class="csl-entry" role="listitem">
+Streblow, L. (2004). Zur F<span>ö</span>rderung der Lesekompetenz. In C. Artelt, U. Schiefele, W. Schneider, &amp; P. Stanat (Hrsg.), <em>Struktur, Entwicklung und F<span>ö</span>rderung von Lesekompetenz</em> (S. 275–306). <span>VS Verlag f<span>ü</span>r Sozialwissenschaften</span>. <a href="https://doi.org/10.1007/978-3-322-81031-1{\textunderscore }11">https://doi.org/10.1007/978-3-322-81031-1{\textunderscore }11</a>
+</div>
+<div id="ref-Tesch.2008" class="csl-entry" role="listitem">
+Tesch, B., Leupold, E., &amp; Köller, O. (2008). <em>Bildungsstandards Franz<span>ö</span>sisch: konkret: Sekundarstufe I: Grundlagen, Aufgabenbeispiele und Unterrichtsanregungen</em>. <span>Cornelsen Scriptor</span>. <a href="https://doi.org/10.18452/3122">https://doi.org/10.18452/3122</a>
+</div>
+<div id="ref-Thiel.2019" class="csl-entry" role="listitem">
+Thiel, F., Tarkian, J., Lankes, E.-M., Maritzen, N., Riecke-Baulecke, T., &amp; Kroupa, A. (Hrsg.). (2019). <em>Datenbasierte Qualit<span>ä</span>tssicherung und -entwicklung in Schulen: Eine Bestandsaufnahme in den L<span>ä</span>ndern der Bundesrepublik Deutschland</em>. Springer. <a href="https://link.springer.com/book/10.1007/978-3-658-23240-5#about">https://link.springer.com/book/10.1007/978-3-658-23240-5#about</a>
+</div>
+<div id="ref-Tophinke.2012" class="csl-entry" role="listitem">
+Tophinke, D. (2012). <span>„</span>Borussia<span>“</span>, <span>„</span>Pfeffer<span>“</span>, <span>„</span>Explosion<span>“</span> – Latinismen auf der Spur. <em>Praxis Deutsch</em>, <em>235</em>, 44–48.
+</div>
+<div id="ref-TragerkonsortiumBiSSTransfer.2024" class="csl-entry" role="listitem">
+Trägerkonsortium BiSS-Transfer (Hrsg.). (2024). <em>BiSS-Transfer: Potenziale sichern. Arbeitsergebnisse, L<span>ä</span>nderperspektiven und Impulse</em>.
+</div>
+<div id="ref-Tuor.2013" class="csl-entry" role="listitem">
+Tuor, N. (2013). <span>„</span>... damit das M<span>ü</span>ndliche nicht zu kurz kommt.<span>“</span>: <span>Ü</span>berzeugungen von Lehrpersonen zur F<span>ö</span>rderung der m<span>ü</span>ndlichen Sprachf<span>ä</span>higkeiten. In B. Eriksson, M. Luginbühl, &amp; N. Tuor (Hrsg.), <em>Sprechen und Zuh<span>ö</span>ren - gefragte Kompetenzen?</em> (S. 35–60).
+</div>
+<div id="ref-Ulrich.2004" class="csl-entry" role="listitem">
+Ulrich, W. (2004). CD-ROM, DVD, SMS: Vernetzung von Entlehnungen im mentalen Lexikon. <em>Deutschunterricht</em>, <em>3</em>, 34–39.
+</div>
+<div id="ref-Ulrich.2007" class="csl-entry" role="listitem">
+Ulrich, W. (2007). <em>W<span>ö</span>rter, W<span>ö</span>rter, W<span>ö</span>rter: Wortschatzarbeit im muttersprachlichen Deutschunterricht: Anleitung und praktische <span>Ü</span>bungen mit 204 Arbeitsbl<span>ä</span>ttern in Form von Kopiervorlagen</em>. <span>Schneider Verlag Hohengehren</span>.
+</div>
+<div id="ref-Ulrich.2011" class="csl-entry" role="listitem">
+Ulrich, W. (2011a). Wortschatzarbeit im Deutschunterricht. <em>ide - Informationen zur Deutschdidaktik. Zeitschrift f<span class="nocase">ü</span>r den Deutschunterricht in Wissenschaft und Schule</em>, <em>1</em>, 9–21. <a href="https://ide.aau.at/wp-content/uploads/2024/05/2011-1.pdf">https://ide.aau.at/wp-content/uploads/2024/05/2011-1.pdf</a>
+</div>
+<div id="ref-Ulrich.2011b" class="csl-entry" role="listitem">
+Ulrich, W. (2011b). Wortschatzarbeit im Deutschunterricht. <em>ide - Informationen zur Deutschdidaktik. Zeitschrift f<span class="nocase">ü</span>r den Deutschunterricht in Wissenschaft und Schule</em>, <em>1</em>, 9–21. <a href="https://ide.aau.at/wp-content/uploads/2024/05/2011-1.pdf">https://ide.aau.at/wp-content/uploads/2024/05/2011-1.pdf</a>
+</div>
+<div id="ref-Wagner.2006" class="csl-entry" role="listitem">
+Wagner, R. W. (2006). Methoden des Unterrichts in m<span>ü</span>ndlicher Kommunikation. In U. Bredel, H. Günther, P. Klotz, J. Ossner, &amp; G. Siebert-Ott (Hrsg.), <em>Didaktik der deutschen Sprache</em> (S. 747–759). Brill/Sch<span>ö</span>ningh.
+</div>
+<div id="ref-Waldeck.2009b" class="csl-entry" role="listitem">
+Waldeck, S. (2009a). In ein Buch gefallen: Ein H<span>ö</span>rspiel <span>ü</span>ber einen Krimi. <em>Deutsch. Unterrichtspraxis f<span class="nocase">ü</span>r die Klassen 5 bis 10. B<span class="nocase">ü</span>cher</em>, <em>19</em>.
+</div>
+<div id="ref-Waldeck.2009" class="csl-entry" role="listitem">
+Waldeck, S. (2009b). Verfolgungsjagd! H<span>ö</span>rspieleffekte selbst erzeugen. <em>Deutsch. Unterrichtspraxis f<span class="nocase">ü</span>r die Klassen 5 bis 10. B<span class="nocase">ü</span>cher</em>, <em>19</em>, 18–25.
+</div>
+<div id="ref-Weinert.2001" class="csl-entry" role="listitem">
+Weinert, F. E. (Hrsg.). (2001). <em>Leistungsmessung in Schulen.</em> Beltz. <a href="https://content-select.com/de/portal/media/view/56cc0a36-700c-4575-bb57-5eeeb0dd2d03?forceauth=1">https://content-select.com/de/portal/media/view/56cc0a36-700c-4575-bb57-5eeeb0dd2d03?forceauth=1</a>
+</div>
+<div id="ref-Wermke.2010" class="csl-entry" role="listitem">
+Wermke, J. (2010). H<span>ö</span>rdidaktik und H<span>ö</span>r<span>ä</span>sthetik: Lesen und Verstehen auditiver Texte. In V. Frederking, H.-W. Huneke, A. Krommer, &amp; C. Meier (Hrsg.), <em>Taschenbuch des Deutschunterrichts</em> (Bd. 2, S. 180–199). Schneider-Verlag.
+</div>
+<div id="ref-Wetekam.2006" class="csl-entry" role="listitem">
+Wetekam, B. (2006a). Eine akustische Landpartie. <em>Deutschunterricht</em>, <em>44-45</em>.
+</div>
+<div id="ref-Wetekam.2006b" class="csl-entry" role="listitem">
+Wetekam, B. (2006b). Eine akustische Landpartie. <em>Deutschunterricht</em>, <em>5</em>, 44–45.
+</div>
+<div id="ref-Willenberg.2007b" class="csl-entry" role="listitem">
+Willenberg, H. (2007a). Der Lehrer als Meisterleser. In H. Willenberg (Hrsg.), <em>Kompetenzhandbuch für den Deutschunterricht</em> (S. 181–187). <span>Schneider Verlag Hohengehren</span>.
+</div>
+<div id="ref-Willenberg.2007" class="csl-entry" role="listitem">
+Willenberg, H. (Hrsg.). (2007b). <em>Kompetenzhandbuch für den Deutschunterricht: Auf der empirischen Basis des DESI-Projekts</em>. <span>Schneider Verlag Hohengehren</span>.
+</div>
+<div id="ref-Wollstein.2015" class="csl-entry" role="listitem">
+Wöllstein, A. (Hrsg.). (2015). <em>Das topologische Modell f<span>ü</span>r die Schule</em>. <span>Schneider Verlag Hohengehren</span>. <a href="https://elibrary.utb.de/doi/epdf/10.3278/9783763964444">https://elibrary.utb.de/doi/epdf/10.3278/9783763964444</a>
+</div>
+<div id="ref-Wrobel.2011" class="csl-entry" role="listitem">
+Wrobel, A. (2011). Metaphern auf der Spur: Vom Abstrakten zum Konkreten und wieder zur<span>ü</span>ck. <em>Deutsch. Unterrichtspraxis f<span class="nocase">ü</span>r die Klassen 5 bis 10</em>, <em>27</em>, 4–7.
+</div>
+<div id="ref-Zepter.2015" class="csl-entry" role="listitem">
+Zepter, A. (2015a). Systemorientierter Grammatikunterricht: Sprachen erfinden und Grammatik entdecken. <em>Linguistische Berichte</em>, <em>244</em>, 383–406.
+</div>
+<div id="ref-Zepter.2015b" class="csl-entry" role="listitem">
+Zepter, A. (2015b). Systemorientierter Grammatikunterricht: Sprachen erfinden und Grammatik entdecken. <em>Linguistische Berichte</em>, <em>244</em>, 383–406.
+</div>
+<div id="ref-Ziener.2006" class="csl-entry" role="listitem">
+Ziener, G. (2006). <em>Bildungsstandards in der Praxis: Kompentenzorientiert unterrichten</em>. Kallmeyer; <span>Klett Fillibach</span>.
 </div>
 </div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
